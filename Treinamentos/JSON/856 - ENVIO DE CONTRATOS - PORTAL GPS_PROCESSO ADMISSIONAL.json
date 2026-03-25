@@ -1,0 +1,52 @@
+{
+  "treinamento": "ENVIO DE CONTRATOS - PORTAL GPS_PROCESSO ADMISSIONAL",
+  "id": 856,
+  "idChecklist": 627,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL DOCUMENTO É OBRIGATÓRIO PARA CONSEGUIR ASSINAR O CONTRATO?",
+      "opcoes": [
+        "ASO.",
+        "RG E CPF.",
+        "QUALIFICAÇÃO CADASTRAL.",
+        "CARTÃO DE ASSINATURA."
+      ]
+    },
+    {
+      "pergunta": "4) EM QUE SISTEMA O CONTRATO FICA DISPONÍVEL PARA O COLABORADOR ASSINAR O CONTRATO?",
+      "opcoes": [
+        "PORTAL GPS.",
+        "POR E-MAIL.",
+        "APLICATIVO GPSVC.",
+        "WHATSAPP."
+      ]
+    },
+    {
+      "pergunta": "3) QUANTOS CONTRATOS PODEM SER ENVIADOS A CADA COLABORADOR?",
+      "opcoes": [
+        "APENAS 1.",
+        "NÃO EXISTE LIMITE.",
+        "APENAS 5.",
+        "NENHUM CONTRATO."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS SÃO AS PRINCIPAIS MECÂNICAS DE PESQUISA PARA ENCONTRAR UM COLABORADOR NA MRH?",
+      "opcoes": [
+        "APENAS O CPF.",
+        "RG E NOME.",
+        "MATRÍCULA, NOME E CPF.",
+        "MATRÍCULA, NOME E PIS."
+      ]
+    },
+    {
+      "pergunta": "1) QUANTOS CAMINHOS EXISTEM PARA O ENVIO DOS CONTRATOS?",
+      "opcoes": [
+        "2",
+        "12.",
+        "3.",
+        "5."
+      ]
+    }
+  ]
+}
