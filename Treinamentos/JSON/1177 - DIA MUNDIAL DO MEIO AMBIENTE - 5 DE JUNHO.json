@@ -1,0 +1,52 @@
+{
+  "treinamento": "DIA MUNDIAL DO MEIO AMBIENTE - 5 DE JUNHO",
+  "id": 1177,
+  "idChecklist": 945,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL DAS ALTERNATIVAS A SEGUIR É MENCIONADA NO TEXTO COMO UMA DAS PLATAFORMAS DO GRUPO GPS QUE AJUDA NA REDUÇÃO DO IMPACTO AMBIENTAL?",
+      "opcoes": [
+        "GPSVISTA, GPSVC E GPSA.",
+        "GPSCLEAN E GPSVC.",
+        "GPSRECICLE E GPSVISTA.",
+        "GPSNATURE E GPSA."
+      ]
+    },
+    {
+      "pergunta": "4) COMO PODEMOS ECONOMIZAR ENERGIA DE FORMA SIMPLES?",
+      "opcoes": [
+        "RECICLANDO MAIS.",
+        "USANDO MENOS ÁGUA.",
+        "DESLIGANDO EQUIPAMENTOS ELETRÔNICOS QUANDO NÃO ESTIVEREM EM USO.",
+        "PLANTANDO ÁRVORES."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL DAS SEGUINTES AÇÕES NÃO É MENCIONADA COMO UMA INICIATIVA PARA A PRESERVAÇÃO AMBIENTAL?",
+      "opcoes": [
+        "REDUÇÃO DE EMISSÕES.",
+        "GESTÃO DE RESÍDUOS.",
+        "SENSIBILIZAÇÃO E EDUCAÇÃO.",
+        "AUMENTO DE EMISSÕES."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL FOI O ANO EM QUE A ONU INSTITUIU O DIA MUNDIAL DO MEIO AMBIENTE?",
+      "opcoes": [
+        "1982.",
+        "1992.",
+        "1972.",
+        "2002."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É A DATA COMEMORADA COMO O DIA MUNDIAL DO MEIO AMBIENTE?",
+      "opcoes": [
+        "03 DE JUNHO.",
+        "5 DE JUNHO.",
+        "10 DE JUNHO.",
+        "15 DE JUNHO."
+      ]
+    }
+  ]
+}
