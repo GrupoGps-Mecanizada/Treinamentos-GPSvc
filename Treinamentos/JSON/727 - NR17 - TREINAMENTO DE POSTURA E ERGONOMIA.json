@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR17 - TREINAMENTO DE POSTURA E ERGONOMIA",
+  "id": 727,
+  "idChecklist": 511,
+  "perguntas": [
+    {
+      "pergunta": "5) Assinale a alternativa correta referente a dicas de boas práticas:",
+      "opcoes": [
+        "Não realize alongamentos e não se preocupe aos sinais de dor.",
+        "Não tenha uma alimentação saudável e não pratique atividades físicas.",
+        "Realize ginástica laboral e alongamentos, fique atento ao sinal de dor, tenha uma alimentação saudável e pratique atividades físicas.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "4) Quais dicas devemos seguir para evitar lesões causadas por levantamento de cargas?",
+      "opcoes": [
+        "Pegue a carga o mais próximo do corpo, não eleve cargas acima do nível da cabeça e sempre que for levantar uma carga cujo peso seja maior que 15 kg peça ajuda a um colega.",
+        "Flexione o tronco (dobrar a coluna), quando abaixar para pegar uma carga e sempre que for movimentar uma carga a distâncias maiores que 2 metros, não utilize um carrinho ou empilhadeira.",
+        "Pegue a carga o mais longe do corpo, eleve cargas acima do nível da cabeça e sempre que for levantar uma carga, cujo peso seja maior que 15 kg, não peça ajuda a um colega.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "3) Quais dicas devemos seguir para evitar lesões causadas por esforços repetitivos?",
+      "opcoes": [
+        "Nas bancadas de trabalho é necessário ter espaço suficiente para as pernas, ao utilizar o teclado, mantenha as mãos sob a mesa, com as palmas voltadas para baixo e dedos apontando para frente.",
+        "Nas bancadas de trabalho não é necessário ter espaço suficiente para as pernas, ao utilizar o teclado não mantenha as mãos sob a mesa, com as palmas voltadas para baixo e dedos apontando para frente.",
+        "Temperatura ideal é de 15°C a 33°C para o conforto térmico e deve eliminar os reflexos, se houver janelas, devem estar dispostas na frente do seu monitor.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "2) Assinale a alternativa abaixo que contém riscos considerados ergonômicos:",
+      "opcoes": [
+        "Esforços repetitivos (LER), trabalhos realizados em pé durante toda a jornada e Levantamento de cargas.",
+        "Mapa de risco, risco químico e risco físico.",
+        "Risco físico, risco químico, risco biológico e risco de acidentes.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "1) Qual é o objetivo da NR 17?",
+      "opcoes": [
+        "A NR 17 é a norma que diz respeito às medidas administrativas no ambiente de trabalho.",
+        "A NR 17 é a norma que diz respeito à ergonomia no ambiente de trabalho.",
+        "A NR 17 é a norma que diz respeito às regras de trânsito no ambiente de trabalho.",
+        "Nenhuma das alternativas acima."
+      ]
+    }
+  ]
+}
