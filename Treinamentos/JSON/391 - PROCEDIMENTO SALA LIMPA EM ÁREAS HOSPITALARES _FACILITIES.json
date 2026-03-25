@@ -1,0 +1,52 @@
+{
+  "treinamento": "PROCEDIMENTO SALA LIMPA EM ÁREAS HOSPITALARES _FACILITIES",
+  "id": 391,
+  "idChecklist": 284,
+  "perguntas": [
+    {
+      "pergunta": "5) Que tipo de empresa se encontra sala limpa?",
+      "opcoes": [
+        "Indústria alimentícia.",
+        "Área odontológica.",
+        "Indústria hospitalar.",
+        "Todas as alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "4) Qual o movimento para realizar a limpeza na sala limpa?",
+      "opcoes": [
+        "Movimento vai e vem.",
+        "Movimento unidirecional.",
+        "Movimento em 8.",
+        "Movimento de fora para dentro."
+      ]
+    },
+    {
+      "pergunta": "3) Quais desses EPI’s  são necessários para a realizar a limpeza?",
+      "opcoes": [
+        "Capacete.",
+        "Botas.",
+        "Luvas látex.",
+        "Máscara, macacão e propés."
+      ]
+    },
+    {
+      "pergunta": "2) Para que tipo de atividade usa-se Sala limpa?",
+      "opcoes": [
+        "Realização de reuniões.",
+        "Confeccionar roupas da moda.",
+        "Realização de testes ou na produção de produtos onde qualquer risco de contaminação por partículas existentes no ar, interfere de forma negativa no resultado.",
+        "Armazenar os produtos químicos."
+      ]
+    },
+    {
+      "pergunta": "1) O que é Sala Limpa?",
+      "opcoes": [
+        "Sala aberta com janelas e vista ao jardim.",
+        "Sala Administrativa com pessoas trabalhando com roupas comuns.",
+        "É um ambiente estruturado, isotérmico, controlado e isolado das demais instalações.",
+        "Sala de estoque de material."
+      ]
+    }
+  ]
+}
