@@ -1,0 +1,52 @@
+{
+  "treinamento": "ETIQUETAGEM DE PNEUS_TITAN PNEUS",
+  "id": 1511,
+  "idChecklist": 1251,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAIS TIPOS DE PNEUS SÃO RECEBIDOS NO “CABIDE”?",
+      "opcoes": [
+        "TODOS OS PNEUS.",
+        "PNEUS DA LINHA PESADA.",
+        "SOMENTE OS PNEUS DA LINHA PNB.",
+        "PNEUS DA LINHA LEVE."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL A FINALIDADE DA ETIQUETAGEM DE PNEUS?",
+      "opcoes": [
+        "IDENTIFICAR PNEUS DEFEITUOSOS.",
+        "IDENTIFICAR O LOCAL DE DESTINO DO PNEU.",
+        "IDENTIFICAR E CATEGORIZAR OS PNEUS PARA A CORRETA SEPARAÇÃO E ARMAZENAGEM",
+        "IDENTIFICAR A QUANTIDADE DE PNEUS EM ESTOQUE."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE DEVO ME ATENTAR AO ARMAZENAR OS PNEUS?",
+      "opcoes": [
+        "DEVO ATENTAR-ME SE O PNEU ESTÁ SUJO.",
+        "DEVO ATENTAR-ME EM SEPARAR OS PNEUS CONFORME O CÓDIGO DESCRITO NA ETIQUETA.",
+        "DEVO ATENTAR-ME SE O PNEU ESTÁ DENTRO DOS PADRÕES DE QUALIDADE.",
+        "DEVO ATENTAR-ME SE O CABIDE ESTÁ PARADO."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL É O NOME DADO AO TRANSPORTADOR AÉREO POR ONDE CHEGAM OS PNEUS DE LINHA LEVE NA LOGÍSTICA?",
+      "opcoes": [
+        "GAVETA.",
+        "CABIDE.",
+        "LUMINÁRIA.",
+        "CORREDIÇA."
+      ]
+    },
+    {
+      "pergunta": "1) QUAIS SÃO OS EPI'S OBRIGATÓRIOS NO SETOR DE LOGÍSTICA?",
+      "opcoes": [
+        "NENHUM EPI É NECESSÁRIO.",
+        "SOMENTE CALÇADO DE SEGURANÇA.",
+        "SOMENTE LUVA.",
+        "LUVA, PROTETOR AURICULAR E CALÇADO DE SEGURANÇA."
+      ]
+    }
+  ]
+}
