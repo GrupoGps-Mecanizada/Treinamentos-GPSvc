@@ -1,0 +1,52 @@
+{
+  "treinamento": "CÓDIGO DE ÉTICA E CONDUTA",
+  "id": 314,
+  "idChecklist": 215,
+  "perguntas": [
+    {
+      "pergunta": "5) Em caso de constatação de violação de normas e procedimentos, qual o canal pode ser acionado?",
+      "opcoes": [
+        "O canal de ética é apenas via e-mail etica.gps@gpssa.com.br.",
+        "O canal de ética é exclusivamente pelo telefone 0800 049 4200.",
+        "O Canal de ética pode ser acessado pelo telefone 0800 049 4200 ou por meio do site www.canaldeetica.com.br/grupogps/.",
+        "O canal de ética é apenas via e-mail rh.voce@gpssa.com.br."
+      ]
+    },
+    {
+      "pergunta": "4) Na relação com os Colaboradores e Ambiente de Trabalho, qual alternativa está correta?",
+      "opcoes": [
+        "Valorizamos a dignidade humana e respeitar as diversidades de gênero, faixa etária, etnia, cultura, orientação sexual, política, religiosa, bem como qualquer tipo de deficiência.",
+        "Primamos pelo cumprimento da Consolidação das Leis do Trabalho, bem como convenções e acordos coletivos pertinentes.",
+        "Repudiamos e vedamos toda e qualquer forma de assédio moral/sexual, bem como qualquer tipo de violência, ameaça, constrangimento e/ou desrespeito no ambiente de trabalho.",
+        "Todas as alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) Para que serve o código de conduta?",
+      "opcoes": [
+        "O Código de Ética e Conduta é um procedimento do Cliente e não do Grupo GPS, no qual reforça exclusivamente o uso de EPI.",
+        "O Código de Ética e Conduta informa o passo a passo para execução da minha atividade em campo.",
+        "O Código de Ética e Conduta estabelece os princípios éticos e as normas de conduta, de forma a orientar as nossas relações internas e externas, com base em nossa Missão, Visão e Valores.",
+        "O Código de Ética e Conduta é um procedimento operacional padrão, que informa a maneira como devo me comportar no local onde eu moro."
+      ]
+    },
+    {
+      "pergunta": "2) Para quem se aplica o Código de Ética e Conduta?",
+      "opcoes": [
+        "Aplicável somente para os Colaboradores do Grupo GPS, exceto fornecedores.",
+        "Aplicável apenas para a Alta Administração, como Diretores e Gerentes.",
+        "Aplicável a todos, sem distinção de área, nível hierárquico ou tipo de relação com o Grupo GPS.",
+        "Aplicável a todos, exceto acionistas e prestadores de serviços."
+      ]
+    },
+    {
+      "pergunta": "1) Quais locais você pode acessar o código de Ética e Conduta?",
+      "opcoes": [
+        "No Site do Grupo GPS e aplicativo GPSvc.",
+        "Apenas via aplicativo GPSvc.",
+        "Site do Grupo GPS e LinkedIn.",
+        "Crachá e LinkedIn."
+      ]
+    }
+  ]
+}
