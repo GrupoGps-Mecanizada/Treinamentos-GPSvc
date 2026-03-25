@@ -1,0 +1,52 @@
+{
+  "treinamento": "PDL4_ENGAJAMENTO",
+  "id": 85,
+  "idChecklist": 58,
+  "perguntas": [
+    {
+      "pergunta": "5) Envolver-se com os projetos dos seus colaboradores é:",
+      "opcoes": [
+        "Delegar e não \"delargar\".",
+        "Policiar e \"delargar\".",
+        "Não se preocupar.",
+        "Não demonstrar interesse."
+      ]
+    },
+    {
+      "pergunta": "4) Pesquisas apontam que a maior queixa dos colaboradores é:",
+      "opcoes": [
+        "Falta de reconhecimento.",
+        "Falta de estrutura.",
+        "Falta de organização.",
+        "Falta de liberdade."
+      ]
+    },
+    {
+      "pergunta": "3) Baseado no treinamento, feedback contribui para:",
+      "opcoes": [
+        "Aumentar a performance e a manter o engajamento.",
+        "Diminuir o desempenho e a manter o engajamento.",
+        "Desmotivar o colaborador.",
+        "Criticar o desempenho do colaborador."
+      ]
+    },
+    {
+      "pergunta": "2) Baseado no treinamento, quais as ideias para criar uma cultura de engajamento:",
+      "opcoes": [
+        "Impor tarefas, conversar face a face e praticar a cultura de engajamento e pedir opiniões.",
+        "Envolver os colaboradores nos projetos, conversar Tête a Tête, praticar feedback, desenvolver autonomia e pedir opiniões.",
+        "Delegar, não praticar o reconhecimento, conversar olho no olho e praticar o feedback.",
+        "Delegar, reconhecer, conversar tête a tête, porém não praticar o feedback."
+      ]
+    },
+    {
+      "pergunta": "1) Baseado no treinamento, escolha a alternativa correta:",
+      "opcoes": [
+        "Para se ter uma equipe engajada você deve ser imparcial sempre.",
+        "Para se ter uma equipe engajada você não deve envolver o time.",
+        "Para se ter uma equipe engajada é necessário ser um bom ouvinte e envolver o time.",
+        "Para se ter uma equipe engajada não é necessário ouvir a equipe."
+      ]
+    }
+  ]
+}
