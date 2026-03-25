@@ -1,0 +1,52 @@
+{
+  "treinamento": "STANDARD WORK_ELECTROLUX",
+  "id": 229,
+  "idChecklist": 141,
+  "perguntas": [
+    {
+      "pergunta": "5) O que significa Passos Principais, Pontos Chave, Detalhes e Razões para os pontos chave?",
+      "opcoes": [
+        "O que fazer, Como Fazer e Por que devo fazer desta maneira.",
+        "Como Fazer e Por que devo fazer desta maneira.",
+        "O que fazer, Como Fazer.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "4) O que consta na folha layout?",
+      "opcoes": [
+        "Nome da atividade padronizada no cabeçalho, passos principais, sentido do movimento do operador e material representado por setas e layout.",
+        "Somente o layout da atividade.",
+        "Consta somente as setas com o sentindo de movimento do operador e material.",
+        "Todas as alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) O que consta na folha de sequência de trabalho?",
+      "opcoes": [
+        "No cabeçalho consta o nome da atividade padronizada e EPIs, passos principais, pontos chave e detalhes e razões para os pontos chave e quadro de fotos.",
+        "Nome da atividade padronizada, o cabeçalho com os EPIs, passos principais e quadro de fotos.",
+        "Nome da atividade padronizada, passos principais, detalhes e razões para os pontos chave e layout.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "2) O Standard Work é composto por?",
+      "opcoes": [
+        "Folha de sequência de trabalho.",
+        "Folha de sequência de trabalho e folha layout.",
+        "Folha layout.",
+        "Todas as alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o objetivo do Standard Work?",
+      "opcoes": [
+        "Serve somente para levar não conformidade em dia de auditoria.",
+        "Seve para orientar os colaboradores na maneira atual e correta de realizar a atividade.",
+        "Serve somente para meu Líder me cobrar.",
+        "Serve somente para levar advertência em dia de blitz de segurança do trabalho."
+      ]
+    }
+  ]
+}
