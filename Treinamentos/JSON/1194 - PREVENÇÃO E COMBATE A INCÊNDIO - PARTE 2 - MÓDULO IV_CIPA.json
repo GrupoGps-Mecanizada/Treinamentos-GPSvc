@@ -1,0 +1,52 @@
+{
+  "treinamento": "PREVENÇÃO E COMBATE A INCÊNDIO - PARTE 2 - MÓDULO IV_CIPA",
+  "id": 1194,
+  "idChecklist": 960,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL É A RECOMENDAÇÃO PARA EVITAR INCÊNDIOS RELACIONADOS ÀS INSTALAÇÕES ELÉTRICAS?",
+      "opcoes": [
+        "MANTER ORDEM E LIMPEZA.",
+        "ARMAZENAGEM ADEQUADA DE MATERIAIS COMBUSTÍVEIS.",
+        "CUIDADOS COM FUMANTES.",
+        "INSTALAÇÃO DE PARA-RAIOS."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE É NECESSÁRIO PARA QUE HAJA FOGO?",
+      "opcoes": [
+        "COMBUSTÍVEL, COMBURENTE E TEMPERATURA.",
+        "COMBUSTÍVEL, CALOR E PRESSÃO.",
+        "COMBUSTÍVEL, OXIGÊNIO E CALOR.",
+        "COMBUSTÍVEL, ENERGIA ELÉTRICA E TEMPERATURA."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É A RECOMENDAÇÃO PARA A LOCALIZAÇÃO DE EXTINTORES?",
+      "opcoes": [
+        "DEVE ESTAR A MAIS DE 2 METROS ACIMA DO PISO.",
+        "NÃO PODE SER OBSTRUÍDO DE FORMA ALGUMA.",
+        "NÃO PODE SER SINALIZADO POR UMA SETA VERMELHA.",
+        "DEVE ESTAR INSTALADO EM PAREDES DE ESCADAS."
+      ]
+    },
+    {
+      "pergunta": "2) QUE TIPO DE EXTINTOR É INDICADO PARA INCÊNDIOS OCASIONADOS POR EQUIPAMENTOS ELETRÔNICOS ENERGIZADOS?",
+      "opcoes": [
+        "EXTINTOR DE ÁGUA PRESSURIZADA.",
+        "EXTINTOR DE PÓ QUÍMICO SECO.",
+        "EXTINTOR DE GÁS CARBÔNICO.",
+        "EXTINTOR DE AGENTE SAPONIFICANTE."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL CLASSE DE INCÊNDIO É CARACTERIZADA POR MATERIAIS SÓLIDOS COMO TECIDOS, MADEIRA E PAPEL?",
+      "opcoes": [
+        "CLASSE B.",
+        "CLASSE A.",
+        "CLASSE C.",
+        "CLASSE D."
+      ]
+    }
+  ]
+}
