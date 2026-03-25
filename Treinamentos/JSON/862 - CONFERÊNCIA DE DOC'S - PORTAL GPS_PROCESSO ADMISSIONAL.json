@@ -1,0 +1,52 @@
+{
+  "treinamento": "CONFERÊNCIA DE DOC'S - PORTAL GPS_PROCESSO ADMISSIONAL",
+  "id": 862,
+  "idChecklist": 633,
+  "perguntas": [
+    {
+      "pergunta": "5)  NO PORTAL EM 4. DOCUMENTOS E CONTRATOS, QUAL É A OPÇÃO PARA VISUALIZAR OS DOCUMENTOS?",
+      "opcoes": [
+        "4.1 BUSCAR USUÁRIO POR NOME OU CPF.",
+        "4.1 CARD – GESTÃO DO COLABORADOR.",
+        "4.2 CONTRATOS.",
+        "ADMISSÃO - INTEGRAÇÕES."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL DOCUMENTO É OBRIGATÓRIO PARA ASSINATURA DO CONTRATO?",
+      "opcoes": [
+        "ASO.",
+        "RG.",
+        "QUALIFICAÇÃO DO E-SOCIAL.",
+        "CARTÃO DE ASSINATURA."
+      ]
+    },
+    {
+      "pergunta": "3) NO GPSVC EM QUAL OPÇÃO CONSEGUIMOS VISUALIZAR OS DOCUMENTOS?",
+      "opcoes": [
+        "VISÃO RH.",
+        "VISÃO GESTOR.",
+        "CONTRATOS ASSINADOS.",
+        "NÃO É POSSÍVEL VER PELO GPSVC."
+      ]
+    },
+    {
+      "pergunta": "2) POR ONDE PODEMOS VISUALIZAR OS DOCUMENTOS?",
+      "opcoes": [
+        "PROTHEUS.",
+        "FAST RH.",
+        "PORTAL GPS E GPSVC.",
+        "SOC."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE DEVEMOS FAZER COM OS DOCUMENTOS INSERIDOS NO APLICATIVO?",
+      "opcoes": [
+        "APROVAR OU REPROVAR.",
+        "APENAS VISUALIZAR.",
+        "SALVAR EM PDF.",
+        "NENHUMA DAS OPÇÕES."
+      ]
+    }
+  ]
+}
