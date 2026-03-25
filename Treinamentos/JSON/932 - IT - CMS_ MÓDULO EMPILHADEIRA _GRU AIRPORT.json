@@ -1,0 +1,52 @@
+{
+  "treinamento": "IT - CMS: MÓDULO EMPILHADEIRA _GRU AIRPORT",
+  "id": 932,
+  "idChecklist": 708,
+  "perguntas": [
+    {
+      "pergunta": "5) PARA VOLTAR À TELA INICIAL, BASTA CLICAR EM QUAL BOTÃO?",
+      "opcoes": [
+        "PEGAR DOLLY.",
+        "TAREFA.",
+        "PEGAR PCG.",
+        "ATUALIZAR POSIÇÃO."
+      ]
+    },
+    {
+      "pergunta": "4) QUANDO O USUÁRIO CLICAR NO BOTÃO PEGAR PCG, O QUE O USUÁRIO IRÁ INFORMAR?",
+      "opcoes": [
+        "PER.",
+        "IMC.",
+        "DOLLY.",
+        "PCG."
+      ]
+    },
+    {
+      "pergunta": "3) ASSINALE A ALTERNATIVA CORRETA. QUANDO O USUÁRIO ACEITAR A TAREFA, O SISTEMA MOSTRARÁ NA TELA AS PCG’S QUE DEVERÃO SER CARREGADAS E O NÚMERO DO:",
+      "opcoes": [
+        "CCO.",
+        "PCG.",
+        "DOLLY.",
+        "BUFFER."
+      ]
+    },
+    {
+      "pergunta": "2) PARA ALTERAR A ÁREA OPERACIONAL ONDE O USUÁRIO ESTÁ TRABALHANDO, BASTA CLICAR EM QUAL BOTÃO?",
+      "opcoes": [
+        "MUDAR ÁREA OPERACIONAL.",
+        "PEGAR PCG.",
+        "TAREFAS.",
+        "ATUALIZAR POSIÇÃO."
+      ]
+    },
+    {
+      "pergunta": "1) APÓS INSERIR O NÚMERO DA PCG QUE DEVERÁ IR DE UMA POSIÇÃO PARA OUTRA POSIÇÃO, BASTA CLICAR EM QUAL BOTÃO?",
+      "opcoes": [
+        "ATUALIZAR POSIÇÃO.",
+        "PALETIZAR.",
+        "ORIGEM.",
+        "RECEBER."
+      ]
+    }
+  ]
+}
