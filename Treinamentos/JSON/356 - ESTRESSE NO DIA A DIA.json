@@ -1,0 +1,52 @@
+{
+  "treinamento": "ESTRESSE NO DIA A DIA",
+  "id": 356,
+  "idChecklist": 254,
+  "perguntas": [
+    {
+      "pergunta": "5) Como podemos auxiliar a reduzir o estresse?",
+      "opcoes": [
+        "Apenas buscando equilíbrio",
+        "Não é possível reduzir",
+        "Apenas esperando um momento de estresse absoluto",
+        "Identificando comportamentos ou situações que causem sensações de estresse e buscando ajuda"
+      ]
+    },
+    {
+      "pergunta": "4) O que é estresse crônico?",
+      "opcoes": [
+        "É o estresse vivido de forma regular e de pouca reincidência",
+        "É o estresse relacionado a frequência de problemas no trabalho",
+        "É o estresse vivido de forma constante e persistente",
+        "Nenhuma das alternativas acima"
+      ]
+    },
+    {
+      "pergunta": "3) O que é estresse agudo?",
+      "opcoes": [
+        "Se trata do estresse comum, causados por pressões recorrentes de eventos recentes",
+        "Se trata do estresse que faz com que as dores de cabeça sejam intensas",
+        "Se trata do estresse que desencadeia depressão",
+        "Se trata do estresse que te impede de realizar atividades rotineiras"
+      ]
+    },
+    {
+      "pergunta": "2) Caso o estresse seja recorrente, quais são os problemas que podem ser desencadeados?",
+      "opcoes": [
+        "Irritabilidade, cansaço, estresse, etc",
+        "Ansiedade, depressão, síndrome de burnout, etc",
+        "Irritabilidade, dores de cabeça apenas",
+        "Nenhuma das alternativas acima"
+      ]
+    },
+    {
+      "pergunta": "1) O que é um estresse?",
+      "opcoes": [
+        "São estímulos que são gerados pela nossa mente, para nos auxiliar em casos extremos",
+        "São estímulos que a nossa mente gera, nos deixando em estado de alerta",
+        "São estímulos que o organismo deixa de gerar, para nos deixar em estado de alerta",
+        "São estímulos que o organismo gera, para nos deixar em estado de alerta"
+      ]
+    }
+  ]
+}
