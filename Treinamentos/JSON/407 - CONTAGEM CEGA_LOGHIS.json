@@ -1,0 +1,52 @@
+{
+  "treinamento": "CONTAGEM CEGA_LOGHIS",
+  "id": 407,
+  "idChecklist": 300,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual o intuito da conferência cega?",
+      "opcoes": [
+        "Agilizar o processo de conferência.",
+        "Impedir que o conferente seja induzido a “copiar” a quantidade que está na nota fiscal, assim evitando qualquer futura possível divergência.",
+        "Fazer uma sinergia nos departamentos.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) Quantas conferências devem ser feitas para que os processos, quanto de entrada quanto de saída, sejam finalizados?",
+      "opcoes": [
+        "Duas conferências.",
+        "Quatro conferências.",
+        "Seis conferências.",
+        "Uma conferência."
+      ]
+    },
+    {
+      "pergunta": "3) Quais documentos são necessários para a abertura de container?",
+      "opcoes": [
+        "Espelho cego da nota fiscal.",
+        "Checklist e romaneio.",
+        "BL (bill off landing).",
+        "Todas as alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) Em caso de divergência na contagem, qual o procedimento deve ser tomado?",
+      "opcoes": [
+        "Orientar o conferente a fazer uma nova contagem.",
+        "Dar continuidade no processo, mesmo com divergência.",
+        "O próprio fiscal ir contar o item divergente.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "1) Caso seja constatado comunicação entre os conferentes, qual atitude deve ser tomada pelo responsável operacional?",
+      "opcoes": [
+        "Suspensão imediata de três dias.",
+        "Advertência verbal.",
+        "Interdição das funções do conferente temporariamente.",
+        "Reciclagem imediata das normas de trabalho."
+      ]
+    }
+  ]
+}
