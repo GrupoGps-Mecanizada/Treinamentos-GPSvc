@@ -1,0 +1,52 @@
+{
+  "treinamento": "MPDV_TRADE&TALENTO",
+  "id": 1357,
+  "idChecklist": 1115,
+  "perguntas": [
+    {
+      "pergunta": "5) UMA DAS BOAS PRÁTICAS NO USO DO MPDV, É:",
+      "opcoes": [
+        "SUBSTITUIR O MPDV A CADA SEMANA, INDEPENDENTEMENTE DE SEU ESTADO.",
+        "POSICIONAR O MPDV EM QUALQUER LOCAL DISPONÍVEL.",
+        "GARANTIR QUE O MPDV ESTEJA ALINHADO COM O LAYOUT DA LOJA E AS REGRAS DO ESPAÇO.",
+        "USAR APENAS MPDV COM A MESMA COR PARA UNIFORMIZAR O AMBIENTE."
+      ]
+    },
+    {
+      "pergunta": "4) PARA QUE O MPDV SEJA EFICIENTE, ELE DEVE SER POSICIONADO EM:",
+      "opcoes": [
+        "LOCAIS DE DESTAQUE E ALTA CIRCULAÇÃO, COMO CAIXAS E CORREDORES PRINCIPAIS.",
+        "ÁREAS DE BAIXA CIRCULAÇÃO NA LOJA.",
+        "DEPÓSITOS E ÁREAS DE ESTOQUE.",
+        "APENAS EM VITRINES EXTERNAS."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É O PRINCIPAL OBJETIVO DO MPDV?",
+      "opcoes": [
+        "REDUZIR O PREÇO DOS PRODUTOS.",
+        "GERENCIAR O INVENTÁRIO DA LOJA.",
+        "AUMENTAR A VISIBILIDADE DOS PRODUTOS E INFLUENCIAR NA DECISÃO DE COMPRA.",
+        "CONTROLAR O ACESSO DOS CLIENTES AOS PRODUTOS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL DOS SEGUINTES ITENS NÃO É UM EXEMPLO DE MPDV?",
+      "opcoes": [
+        "CARTAZES.",
+        "DISPLAYS.",
+        "EXPOSITORES.",
+        "ETIQUETAS DE PREÇOS."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE É MPDV?",
+      "opcoes": [
+        "UM TIPO DE PRODUTO VENDIDO NO VAREJO.",
+        "MATERIAIS PROMOCIONAIS USADOS PARA DESTACAR PRODUTOS NO PONTO DE VENDA.",
+        "SISTEMA DE GESTÃO DE ESTOQUE NO VAREJO.",
+        "SOFTWARE DE MONITORAMENTO DE VENDAS."
+      ]
+    }
+  ]
+}
