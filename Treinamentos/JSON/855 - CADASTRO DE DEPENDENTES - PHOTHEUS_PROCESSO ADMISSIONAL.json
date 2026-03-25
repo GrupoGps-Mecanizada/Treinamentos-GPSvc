@@ -1,0 +1,52 @@
+{
+  "treinamento": "CADASTRO DE DEPENDENTES - PHOTHEUS_PROCESSO ADMISSIONAL",
+  "id": 855,
+  "idChecklist": 626,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL O CAMINHO PARA ENCONTRAR OS DEPENDENTES?",
+      "opcoes": [
+        "ATUALIZAÇÕES > FUNCIONÁRIO > DEPENDENTES.",
+        "ATUALIZAÇÕES > FUNCIONÁRIO > FUNCIONARIOS.",
+        "ATUALIZAÇÕES > FUNCIONÁRIO > BENEFÍCIOS.",
+        "APENAS NO PORTAL GPS."
+      ]
+    },
+    {
+      "pergunta": "4) EM QUE SITUAÇÃO DEVEMOS INCLUIR OS DEPENDENTES?",
+      "opcoes": [
+        "ANTES DO EXAME.",
+        "DEPOIS DE 1 MÊS TRABALHADO.",
+        "NÃO DEVEMOS INCLUIR DEPENDENTES.",
+        "LOGO APÓS A VALIDAÇÃO DOS DADOS NO PROTHEUS."
+      ]
+    },
+    {
+      "pergunta": "3) PODEMOS INCLUIR MAIS DE UM DEPENDENTE?",
+      "opcoes": [
+        "QUANTOS O COLABORADOR TIVER.",
+        "APENAS 1.",
+        "APENAS 5.",
+        "NENHUM."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS SÃO AS PRINCIPAIS MECÂNICAS DE PESQUISA PARA ENCONTRAR UM COLABORADOR?",
+      "opcoes": [
+        "APENAS CPF.",
+        "MATRÍCULA, NOME E CPF.",
+        "RG E NOME.",
+        "MATRÍCULA, NOME E PIS."
+      ]
+    },
+    {
+      "pergunta": "1) QUANTOS CAMPOS OBRIGATÓRIOS EXISTEM?",
+      "opcoes": [
+        "12.",
+        "3.",
+        "8.",
+        "5."
+      ]
+    }
+  ]
+}
