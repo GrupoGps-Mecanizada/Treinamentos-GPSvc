@@ -1,0 +1,52 @@
+{
+  "treinamento": "COMO MANUSEAR FACAS DE FORMA SEGURA - ALIMENTAÇÃO_TREINAMENTO PRESENCIAL",
+  "id": 1398,
+  "idChecklist": 1154,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE DEVEMOS FAZER COM A FACA DEPOIS DE USÁ-LA?",
+      "opcoes": [
+        "DEIXAR NA PIA.",
+        "GUARDAR EM UM LOCAL SEGURO, COMO UM SUPORTE OU GAVETA.",
+        "JOGAR FORA.",
+        "COLOCAR EM CIMA DA BANCADA."
+      ]
+    },
+    {
+      "pergunta": "4) COMO DEVEMOS SEGURAR O ALIMENTO AO CORTAR?",
+      "opcoes": [
+        "COM OS DEDOS ESTICADOS.",
+        "COM A MÃO FORA DA TÁBUA.",
+        "COM OS DEDOS DOBRADOS PARA DENTRO, COMO UMA GARRA.",
+        "COM UMA COLHER."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É O EPI OBRIGATÓRIO AO CORTAR CARNES OU ALIMENTOS DUROS?",
+      "opcoes": [
+        "AVENTAL DE PANO.",
+        "ÓCULOS DE PROTEÇÃO.",
+        "LUVA DE MALHA DE AÇO.",
+        "LUVA DESCARTÁVEL."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE ACONTECE SE A FACA ESTIVER CEGA?",
+      "opcoes": [
+        "ELA NÃO CORTA, MAS NÃO HÁ RISCO.",
+        "VOCÊ PRECISA FAZER MAIS FORÇA, O QUE PODE CAUSAR ACIDENTES.",
+        "ELA DURA MAIS TEMPO.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1) POR QUE É IMPORTANTE USAR A FACA CERTA PARA CADA TIPO DE ALIMENTO?",
+      "opcoes": [
+        "PORQUE FACILITA O TRABALHO E EVITA ACIDENTES.",
+        "USAR A FACA ERRADA NÃO AFETA EM NADA O RESULTADO.",
+        "TODAS AS FACAS SÃO IGUAIS, ENTÃO NÃO FAZ DIFERENÇA QUAL VOCÊ USA.",
+        "PORQUE A FACA CERTA EVITA SUJAR O ALIMENTO."
+      ]
+    }
+  ]
+}
