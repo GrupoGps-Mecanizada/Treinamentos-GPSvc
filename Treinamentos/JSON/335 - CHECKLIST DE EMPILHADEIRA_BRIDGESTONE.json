@@ -1,0 +1,52 @@
+{
+  "treinamento": "CHECKLIST DE EMPILHADEIRA_BRIDGESTONE",
+  "id": 335,
+  "idChecklist": 234,
+  "perguntas": [
+    {
+      "pergunta": "5) É correto afirmar que o Operador deverá preencher todos os campos do diário de bordo - inspeção empilhadeira, que sejam pertinentes a sua função?",
+      "opcoes": [
+        "Não, basta preencher a data e o número da empilhadeira.",
+        "Sim, inclusive observações se houver.",
+        "Não, basta preencher os campos destacados na cor “cinza”.",
+        "Não, basta o operador assinar o diário de bordo."
+      ]
+    },
+    {
+      "pergunta": "4) Caso o Operador venha observar algum item que esteja com anormalidade, o que deverá fazer?",
+      "opcoes": [
+        "Deverá deixar o equipamento no local e solicitar uma outra empilhadeira.",
+        "Deverá acionar o líder imediato que solicitará o envio o equipamento à oficina para o devido reparo.",
+        "Não deverá dar seguimento ao preenchimento do diário de bordo.",
+        "Acionar o cliente e avisar da anormalidade."
+      ]
+    },
+    {
+      "pergunta": "3) Freio de mão e freios, devem ser verificados se:",
+      "opcoes": [
+        "Estão funcionando corretamente.",
+        "Basta verificar o freio de mão.",
+        "Verificamos apenas os pedais de freio, pois o freio de mão não é um item de checagem importante.",
+        "Equipamentos de frenagem são importantes, mas não precisam ser checados todos os dias."
+      ]
+    },
+    {
+      "pergunta": "2) Ao efetuar a checagem do extintor o Operador deve observar se:",
+      "opcoes": [
+        "Se está com carga o suficiente, mas não está dentro do prazo de validade.",
+        "Se o sinalizador do extintor está vermelho.",
+        "Se o extintor está preso corretamente ao equipamento.",
+        "Se está com carga no sinalizador verde e se está dentro do prazo de validade."
+      ]
+    },
+    {
+      "pergunta": "1) Antes de iniciar as atividades o Operador efetua a checagem dos itens utilizando qual formulário?",
+      "opcoes": [
+        "De checagem de retrovisores e assentos.",
+        "Checagem de chave na ignição.",
+        "Diário de bordo - Inspeção de empilhadeira.",
+        "Verificar o manual da empilhadeira."
+      ]
+    }
+  ]
+}
