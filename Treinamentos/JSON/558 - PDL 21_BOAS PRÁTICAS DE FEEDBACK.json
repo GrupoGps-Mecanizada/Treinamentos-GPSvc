@@ -1,0 +1,52 @@
+{
+  "treinamento": "PDL 21_BOAS PRÁTICAS DE FEEDBACK",
+  "id": 558,
+  "idChecklist": 360,
+  "perguntas": [
+    {
+      "pergunta": "5) Com base no treinamento, além de saber estruturar o feedback, também é importante:",
+      "opcoes": [
+        "Ser um bom ouvinte.",
+        "Ser um bom chefe, para desenvolver-se até ser um bom líder.",
+        "Fazer um feedback momentâneo, antes do feedback estruturado.",
+        "Ser um exemplo."
+      ]
+    },
+    {
+      "pergunta": "4) Conforme o treinamento, o feedback exige:",
+      "opcoes": [
+        "Estrutura e apoio do RH.",
+        "Regularidade e testemunhas.",
+        "Habilidade e prática.",
+        "Acompanhamento e ênfase nos pontos positivos."
+      ]
+    },
+    {
+      "pergunta": "3) De acordo com o treinamento, quando você planeja e pratica o feedback:",
+      "opcoes": [
+        "Você se sentirá mais fortalecido na hierarquia e perante o seu time.",
+        "Você se sentirá cada vez mais preparado para oferecer feedbacks saudáveis e construtivos.",
+        "Você poderá deixar de fazer acompanhamentos periódicos.",
+        "Você se sentirá mais líder e menos chefe."
+      ]
+    },
+    {
+      "pergunta": "2) O que um feedback formal e estruturado significa?",
+      "opcoes": [
+        "Que você irá estruturar sua fala, através de um documento com fatos registrados, com datas e descrição da atividade.",
+        "Que você irá estruturá-lo com datas e prazo, antes de encaminhar via e-mail para o Colaborador.",
+        "Que você irá se organizar para aplicá-lo a cada 30 dias.",
+        "Que o feedback tem início, meio e fim, ou chama-se feedback sanduíche."
+      ]
+    },
+    {
+      "pergunta": "1) Vimos no treinamento, que feedback é:",
+      "opcoes": [
+        "Uma ferramenta orientativa para criar um clima hierárquico.",
+        "Uma ferramenta de diálogo entre duas ou mais pessoas.",
+        "Uma oportunidade para avaliar as competências dos seus liderados.",
+        "Uma ferramenta orientativa para melhorias, e que pode funcionar como uma oportunidade de reconhecimento."
+      ]
+    }
+  ]
+}
