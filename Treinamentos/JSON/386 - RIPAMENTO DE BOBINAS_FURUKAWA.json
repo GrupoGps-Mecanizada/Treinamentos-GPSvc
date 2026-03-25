@@ -1,0 +1,52 @@
+{
+  "treinamento": "RIPAMENTO DE BOBINAS_FURUKAWA",
+  "id": 386,
+  "idChecklist": 279,
+  "perguntas": [
+    {
+      "pergunta": "5) Nenhuma das alternativas acima.",
+      "opcoes": [
+        "5.",
+        "1.",
+        "3.",
+        "2."
+      ]
+    },
+    {
+      "pergunta": "4) O que fazer antes de iniciar a operação?",
+      "opcoes": [
+        "Tomar café para estar mais disposto.",
+        "Não precisa utilizar EPI, nem realizar inspeção de equipamento e ripas.",
+        "Além de utilizar os EPI’s adequados, inspecionar visualmente o equipamento, evitando operar o mesmo em condições inadequadas, também inspecionar as ripas que serão utilizadas.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "3) Qual Ferramenta é utilizada nesta operação?",
+      "opcoes": [
+        "Martelo.",
+        "Pregador Pneumático.",
+        "Pé de Cabra.",
+        "Maçarico."
+      ]
+    },
+    {
+      "pergunta": "2) Quais EPI’s são utilizados neste procedimento?",
+      "opcoes": [
+        "Luva PU, Protetor Facial e Calçado de S.",
+        "Luva de Vaqueta, Protetor Facial, Calçado de segurança e Protetor Auricular.",
+        "Protetor Auricular, Luva PU, Protetor Facial e Calçado de segurança.",
+        "Protetor Auricular, Luva PU, Capacete e Calçado de Segurança."
+      ]
+    },
+    {
+      "pergunta": "1) O que é Ripamento de Bobinas?",
+      "opcoes": [
+        "Armazenar a bobina em porta pallets.",
+        "Envolver a bobina em Stretch.",
+        "Realizar o carregamento de bobinas no caminhão para transporte.",
+        "Realizar a cobertura da Bobina com ripas de madeira."
+      ]
+    }
+  ]
+}
