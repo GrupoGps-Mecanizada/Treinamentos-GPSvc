@@ -1,0 +1,52 @@
+{
+  "treinamento": "USO DA ENCERADEIRA_INFRA",
+  "id": 71,
+  "idChecklist": 44,
+  "perguntas": [
+    {
+      "pergunta": "5 – O que acontece quando movimento o cabo da enceradeira para baixo?",
+      "opcoes": [
+        "A enceradeira vai para frente.",
+        "A enceradeira vai para esquerda.",
+        "A enceradeira vai para trás.",
+        "A enceradeira vai para cima."
+      ]
+    },
+    {
+      "pergunta": "4 – O que acontece quando movimento o cabo da enceradeira para cima?",
+      "opcoes": [
+        "A enceradeira vai para frente.",
+        "A enceradeira vai para trás.",
+        "A enceradeira vai para direita.",
+        "A enceradeira vai para cima."
+      ]
+    },
+    {
+      "pergunta": "3 – Quais são os cuidados necessários antes da utilização da enceradeira?",
+      "opcoes": [
+        "Utilizar os EPI, sinalizar a área com a placa de sinalização e verificar a voltagem correta do equipamento.",
+        "Lavar o disco de limpeza.",
+        "Lavar o starlock.",
+        "Guarda a enceradeira limpa."
+      ]
+    },
+    {
+      "pergunta": "2 – Quais são os acessórios da enceradeira?",
+      "opcoes": [
+        "Escova de Nylon.",
+        "Discos.",
+        "Suporte para discos (starlock).",
+        "Cabo de alumínio."
+      ]
+    },
+    {
+      "pergunta": "1 – Quais são os locais que NÃO podemos utilizar a enceradeira?",
+      "opcoes": [
+        "Limpar pisos cerâmicos, lajota, vinílicos, madeira, etc.",
+        "Limpeza de parede.",
+        "Lavar calçadas.",
+        "Polir piso."
+      ]
+    }
+  ]
+}
