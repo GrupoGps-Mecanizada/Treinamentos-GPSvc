@@ -1,0 +1,52 @@
+{
+  "treinamento": "10 REGRAS DE SEGURANÇA_ALIMENTAÇÃO",
+  "id": 1818,
+  "idChecklist": 1484,
+  "perguntas": [
+    {
+      "pergunta": "5) EM QUAL SITUAÇÃO É OBRIGATÓRIO UTILIZAR O CINTO DE SEGURANÇA?",
+      "opcoes": [
+        "APENAS EM VIAGENS LONGAS.",
+        "SOMENTE QUANDO A FISCALIZAÇÃO ESTIVER PRESENTE.",
+        "APENAS AO DIRIGIR ACIMA DE 60 KM/H.",
+        "SEMPRE, EM QUALQUER PERCURSO E EM QUALQUER VELOCIDADE."
+      ]
+    },
+    {
+      "pergunta": "4) POR QUE É PROIBIDO USAR CELULAR DURANTE ATIVIDADES OPERACIONAIS?",
+      "opcoes": [
+        "PORQUE DESVIA A ATENÇÃO E AUMENTA O RISCO DE ACIDENTES.",
+        "PORQUE GASTA BATERIA.",
+        "PORQUE PODE MOLHAR.",
+        "PORQUE OCUPA ESPAÇO NO UNIFORME."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE DEVE SER FEITO AO ENCONTRAR UM EQUIPAMENTO COM DEFEITO?",
+      "opcoes": [
+        "CONTINUAR USANDO ATÉ QUEBRAR.",
+        "PEDIR PARA MAIS ALGUÉM TESTAR.",
+        "IGNORAR E SEGUIR COM A TAREFA.",
+        "INTERROMPER O USO, SINALIZAR E COMUNICAR A LIDERANÇA."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE VOCÊ DEVE FAZER AO IDENTIFICAR UM EPI DANIFICADO?",
+      "opcoes": [
+        "GUARDÁ-LO PARA USAR DEPOIS.",
+        "USAR MESMO ASSIM.",
+        "TENTAR CONSERTÁ-LO POR CONTA PRÓPRIA.",
+        "SOLICITAR SUBSTITUIÇÃO IMEDIATA."
+      ]
+    },
+    {
+      "pergunta": "1) POR QUE VOCÊ NÃO DEVE EXECUTAR UMA ATIVIDADE SEM TREINAMENTO E AUTORIZAÇÃO?",
+      "opcoes": [
+        "PORQUE ATRASA O TRABALHO.",
+        "PORQUE PODE DESPERDIÇAR MATERIAL.",
+        "PORQUE COLOCA SUA SEGURANÇA E A DE OUTRAS PESSOAS EM RISCO.",
+        "PORQUE DIFICULTA A ORGANIZAÇÃO DA EQUIPE."
+      ]
+    }
+  ]
+}
