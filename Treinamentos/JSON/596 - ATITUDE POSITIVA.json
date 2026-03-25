@@ -1,0 +1,52 @@
+{
+  "treinamento": "ATITUDE POSITIVA",
+  "id": 596,
+  "idChecklist": 383,
+  "perguntas": [
+    {
+      "pergunta": "5) Não podemos mudar a atitude das pessoas, mas podemos mudar:",
+      "opcoes": [
+        "A nossa vida.",
+        "O pensamento das pessoas.",
+        "A nossa percepção sobre as situações.",
+        "A nossa relação com as pessoas."
+      ]
+    },
+    {
+      "pergunta": "4) Complete a frase de acordo com o treinamento: “Encontrar ou criar significado no seu trabalho te impede de ______”.",
+      "opcoes": [
+        "Se questionar se está no lugar certo e naturalmente trazendo atitudes positivas no trabalho.",
+        "Se questionar se gosta das suas atividades, ou se deveria ir para outra empresa.",
+        "Fazer seu trabalho da maneira correta, pois é o correto a ser feito.",
+        "Viverciar situações chatas no trabalho."
+      ]
+    },
+    {
+      "pergunta": "3) O que significa ter um momento de autocuidado?",
+      "opcoes": [
+        "Cuidar da saudade física e mental dos seus colegas.",
+        "Cuidar da sua saúde física e mental, praticar exercícios e ter um hobby para se divertir e descansar.",
+        "Não cuidar da sua saúde física e mental e não praticar exercícios.",
+        "Cuidar do seu próprio trabalho."
+      ]
+    },
+    {
+      "pergunta": "2) O que uma perspectiva positiva pode te ensinar?",
+      "opcoes": [
+        "A ser mais prático no trabalho.",
+        "A ser ingrato pelas suas conquistas.",
+        "A ser grato, pelas coisas boas em seu trabalho e na sua vida.",
+        "A ser mais ágil no trabalho."
+      ]
+    },
+    {
+      "pergunta": "1) O que significa ter uma atitude positiva?",
+      "opcoes": [
+        "Ser otimista em relação às situações e as interações no trabalho.",
+        "Ser pessimista em relação às situações e as interações no trabalho.",
+        "Ser pessimista em relação ao seu trabalho.",
+        "Ser otimista em relação ao dia a dia."
+      ]
+    }
+  ]
+}
