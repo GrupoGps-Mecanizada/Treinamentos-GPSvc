@@ -1,0 +1,52 @@
+{
+  "treinamento": "TREINAMENTO DE LIDERANÇA_BRIDGESTONE",
+  "id": 333,
+  "idChecklist": 232,
+  "perguntas": [
+    {
+      "pergunta": "5) Autoconhecimento é importante pois o Líder:",
+      "opcoes": [
+        "Conhece somente seus pontos fortes.",
+        "Conhece seus pontos fortes e fracos.",
+        "Conhece somente seus pontos fracos.",
+        "Domina sua operação."
+      ]
+    },
+    {
+      "pergunta": "4) Gestão de conflitos é:",
+      "opcoes": [
+        "Gerenciar prioridades.",
+        "Gerenciar pessoas.",
+        "Gerenciar e minimizar conflitos.",
+        "Não permitir conflitos na equipe e punir caso haja."
+      ]
+    },
+    {
+      "pergunta": "3) Inteligência emocional é a capacidade de:",
+      "opcoes": [
+        "Motivar as pessoas.",
+        "Controlar impulsos.",
+        "Canalizar emoções.",
+        "Todas as alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "2) Por que a comunicação assertiva é importante?",
+      "opcoes": [
+        "Pois transmite com clareza o que deve ser feito.",
+        "Pois deixa dúvidas.",
+        "Pois não é importante para o Líder.",
+        "Pois somente o líder precisa compreender as informações."
+      ]
+    },
+    {
+      "pergunta": "1) Quais são as características que o Líder deve possuir:",
+      "opcoes": [
+        "Comunicação assertiva.",
+        "Inteligência emocional.",
+        "Autoconhecimento.",
+        "Todas as alternativas anteriores."
+      ]
+    }
+  ]
+}
