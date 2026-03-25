@@ -1,0 +1,52 @@
+{
+  "treinamento": "SEGURANÇA NAS PASSAGENS ENTRE DN'S E CN'S E ENCLAUSURAMENTO_VALE",
+  "id": 882,
+  "idChecklist": 655,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE FAZER SE VOCÊ ESTIVER ENTRE AS MÁQUINAS E NÃO TIVER OUTRA OPÇÃO DE PASSAGEM?",
+      "opcoes": [
+        "SOLICITE O REPOSICIONAMENTO AO RESPONSÁVEL E AGUARDE A LIBERAÇÃO DO CAMINHO.",
+        "SÓ AGUARDAR A LIBERAÇÃO DO CAMINHO.",
+        "PASSAR DE QUALQUER FORMA.",
+        "NÃO AGUARDAR A LIBERAÇÃO E ACESSAR ENTRE AS MÁQUINAS."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE É O CAMINHO SEGURO?",
+      "opcoes": [
+        "SÃO OS ISOLAMENTOS NO LOCAL.",
+        "RAC 3 –  EQUIPAMENTOS MÓVEIS.",
+        "SÃO OS CAMINHOS INDICADOS E/OU SINALIZADOS NO LOCAL.",
+        "SÃO OS LOCAIS DE ARMAZENAMENTO DAS MÁQUINAS."
+      ]
+    },
+    {
+      "pergunta": "3) QUANDO SE APLICA A RESTRIÇÃO DE TRÂNSITO DE PESSOAS?",
+      "opcoes": [
+        "QUANDO AS MÁQUINAS ESTÃO BLOQUEADAS.",
+        "QUANDO AS MÁQUINAS ESTÃO EM FUNCIONAMENTO E NÃO ESTÃO BLOQUEADAS.",
+        "QUANDO AS MÁQUINAS NÃO ESTÃO EM FUNCIONAMENTO.",
+        "SOMENTE QUANDO AS MÁQUINAS ESTÃO EM FUNCIONAMENTO."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE SIGNIFICA CN’S?",
+      "opcoes": [
+        "DESCARREGAMENTO DE NAVIOS.",
+        "CONTENÇÃO DE NAVIOS.",
+        "RAC 5 - IÇAMENTO DE CARGA.",
+        "CARREGAMENTO DE NAVIOS."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE SIGNIFICA DN’S?",
+      "opcoes": [
+        "DESCARREGAMENTO DE NAVIOS.",
+        "CARREGAMENTO DE NAVIOS.",
+        "RAC 1 - TRABALHO EM ALTURA.",
+        "DOCUMENTOS E NORMAS."
+      ]
+    }
+  ]
+}
