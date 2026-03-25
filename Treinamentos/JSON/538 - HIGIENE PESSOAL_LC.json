@@ -1,0 +1,52 @@
+{
+  "treinamento": "HIGIENE PESSOAL_LC",
+  "id": 538,
+  "idChecklist": 340,
+  "perguntas": [
+    {
+      "pergunta": "5) Quando se deve higienizar as mãos?",
+      "opcoes": [
+        "Ao entrar na área de produção.",
+        "Após utilizar os sanitários.",
+        "A cada troca de atividade.",
+        "Todas as anteriores."
+      ]
+    },
+    {
+      "pergunta": "4) Qual o procedimento correto ao higienizar as mãos?",
+      "opcoes": [
+        "Lavar apenas com água.",
+        "Lavar com água e sabão de coco.",
+        "Umedecer as mãos, passar sabonete bactericida, esfregar as mãos, antebraços, palmas e entre dos dedos, deixar agir por 30 segundos, enxaguar e secar em papel toalha.",
+        "Passar álcool em gel 70% e esfregar as mãos."
+      ]
+    },
+    {
+      "pergunta": "3) O que é proibido em cozinha industrial (Uan)?",
+      "opcoes": [
+        "Fazer a barba diariamente.",
+        "Utilização de adornos (brincos, pulseiras, anéis, aliança, piercing, cílios postiços).",
+        "Não usar maquiagem, esmaltes, bases e perfumes fortes.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "2) Quem deve praticar higiene pessoal?",
+      "opcoes": [
+        "Somente Colaboradores da cozinha.",
+        "Somente Colaboradores da limpeza.",
+        "Todos os Colaboradores devem praticar medidas de higiene, a fim de, proteger os alimentos de contaminações químicas, físicas e microbiológicas.",
+        "O cozinheiro líder."
+      ]
+    },
+    {
+      "pergunta": "1) O que é higiene pessoal?",
+      "opcoes": [
+        "É quando não tomamos banho.",
+        "A higiene pessoal consiste nos cuidados diários que o indivíduo deve ter com o seu próprio corpo.",
+        "É fazer uso de perfumes suaves.",
+        "Nenhuma das anteriores."
+      ]
+    }
+  ]
+}
