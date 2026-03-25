@@ -1,0 +1,52 @@
+{
+  "treinamento": "VERIFICAÇÃO DE PRESSÕES_STIHL",
+  "id": 653,
+  "idChecklist": 439,
+  "perguntas": [
+    {
+      "pergunta": "5) No Manifold a mangueira vermelha é utilizada para leitura de:",
+      "opcoes": [
+        "Leitura de alta pressão.",
+        "Leitura dos vapores tóxicos do ar ambiente.",
+        "Temperatura do equipamento.",
+        "Leitura de baixa pressão."
+      ]
+    },
+    {
+      "pergunta": "4) No Manifold a mangueira azul é utilizada para leitura de:",
+      "opcoes": [
+        "Leitura de alta pressão.",
+        "Leitura dos vapores tóxicos do ar ambiente.",
+        "Temperatura do equipamento.",
+        "Leitura de baixa pressão."
+      ]
+    },
+    {
+      "pergunta": "3) O Manifold é uma ferramenta constituída de manômetros, mangueiras e conectores, ao conectar os manômetros na linha de circuito de refrigeração, como podemos fazer a leitura das pressões?",
+      "opcoes": [
+        "Através do livro ATA de passagem de turno.",
+        "Através da válvula de serviço (schrader).",
+        "Através do GPSp.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "2) Existem algumas maneiras de fazer uma especificação. Em nosso treinamento estaremos utilizando a verificação através de:",
+      "opcoes": [
+        "Termostato.",
+        "Manifold.",
+        "Termômetro.",
+        "Multímetro."
+      ]
+    },
+    {
+      "pergunta": "1) O que é necessário para garantir que as pressões estão de acordo com o especificado?",
+      "opcoes": [
+        "Se deslocar ao ambulatório para aferir a pressão arterial.",
+        "Verificar o horímetro do equipamento.",
+        "A verificação das pressões do equipamento.",
+        "A verificação da temperatura do equipamento através de termômetro."
+      ]
+    }
+  ]
+}
