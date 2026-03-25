@@ -1,0 +1,52 @@
+{
+  "treinamento": "LGPD APLICADA AO TI - MÓDULO II",
+  "id": 350,
+  "idChecklist": 249,
+  "perguntas": [
+    {
+      "pergunta": "5) Assinale um dos princípios mais aplicáveis a TI?",
+      "opcoes": [
+        "Finalidade.",
+        "Qualidade.",
+        "Insegurança.",
+        "Prevenção."
+      ]
+    },
+    {
+      "pergunta": "4) Para se prevenir quanto aos incidentes com dados a TI deve:",
+      "opcoes": [
+        "Possuir um plano de recuperação de desastres.",
+        "Contratar segurança armada.",
+        "Contatar a ANPD.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "3) Para apoiar as demais áreas a TI deve:",
+      "opcoes": [
+        "Decidir sobre dados.",
+        "Analisar contratos.",
+        "Comprar suprimentos.",
+        "Mapear o fluxo de dados."
+      ]
+    },
+    {
+      "pergunta": "2) Um dos desafios da TI no tratamento de dados é:",
+      "opcoes": [
+        "Gestão de acessos.",
+        "Garantir a boa-fé.",
+        "Informar a ANPD.",
+        "Todas as anteriores."
+      ]
+    },
+    {
+      "pergunta": "1) Uma das principais missões da TI no tratamento de dados é:",
+      "opcoes": [
+        "Ser Controlador.",
+        "Garantir a proteção das informações.",
+        "Decidir sobre o tratamento.",
+        "Nenhuma das alternativas."
+      ]
+    }
+  ]
+}
