@@ -1,0 +1,52 @@
+{
+  "treinamento": "JULHO AMARELO - CONSCIENTIZAÇÃO SOBRE HEPATITES VIRAIS",
+  "id": 1507,
+  "idChecklist": 1247,
+  "perguntas": [
+    {
+      "pergunta": "5) COMO É FEITO O DIAGNÓSTICO DAS HEPATITES VIRAIS?",
+      "opcoes": [
+        "POR EXAME DE SANGUE.",
+        "POR ANÁLISE DE URINA.",
+        "POR ULTRASSOM.",
+        "POR RESSONÂNCIA MAGNÉTICA."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL É A PRINCIPAL VIA DE TRANSMISSÃO DA HEPATITE B?",
+      "opcoes": [
+        "CONSUMO DE ÁGUA CONTAMINADA.",
+        "APENAS POR GOTÍCULAS DE SALIVA E TOSSE.",
+        "APENAS PELO CONSUMO DE ALIMENTOS CONTAMINADOS.",
+        "RELAÇÕES SEXUAIS SEM CAMISINHA E USO DE OBJETOS CORTANTES COMPARTILHADOS."
+      ]
+    },
+    {
+      "pergunta": "3) QUANTOS TIPOS PRINCIPAIS DE HEPATITES VIRAIS SÃO MENCIONADOS NO TREINAMENTO?",
+      "opcoes": [
+        "2.",
+        "4.",
+        "6.",
+        "5."
+      ]
+    },
+    {
+      "pergunta": "2) POR QUE A COR AMARELA FOI ESCOLHIDA PARA REPRESENTAR A CAMPANHA?",
+      "opcoes": [
+        "POR SER A COR FAVORITA DOS ORGANIZADORES.",
+        "POR SER UMA COR VIBRANTE E CHAMATIVA.",
+        "POR SIMBOLIZAR A ICTERÍCIA, UM SINTOMA DAS HEPATITES.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O OBJETIVO DA CAMPANHA JULHO AMARELO?",
+      "opcoes": [
+        "PROMOVER FESTAS TEMÁTICAS.",
+        "CONSCIENTIZAR SOBRE AS HEPATITES VIRAIS.",
+        "INCENTIVAR O USO DE ROUPAS AMARELAS.",
+        "APENAS CELEBRAR O DIA MUNDIAL DA LUTA CONTRA HEPATITES VIRAIS."
+      ]
+    }
+  ]
+}
