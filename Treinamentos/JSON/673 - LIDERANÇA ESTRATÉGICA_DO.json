@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIDERANÇA ESTRATÉGICA_DO",
+  "id": 673,
+  "idChecklist": 459,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual é uma das principais habilidades que um líder com foco em prazo, metas e custos deve ter?",
+      "opcoes": [
+        "Comunicação eficaz.",
+        "Criatividade.",
+        "Habilidade em tecnologia.",
+        "Pensamento crítico."
+      ]
+    },
+    {
+      "pergunta": "4) Qual a consequência de não cumprir prazos, metas e custos estabelecidos?",
+      "opcoes": [
+        "Não há consequência, já que podem mudar ao longo do projeto.",
+        "Perda de credibilidade da equipe e do líder.",
+        "Aumento da motivação da equipe.",
+        "Redução da pressão sobre a equipe."
+      ]
+    },
+    {
+      "pergunta": "3) Como um líder pode motivar a equipe a cumprir prazos, metas e custos?",
+      "opcoes": [
+        "Ameaçando punições, caso não sejam cumpridos.",
+        "Oferecendo bônus financeiros, caso sejam cumpridos.",
+        "Mantendo uma comunicação clara e transparente, reconhecendo e recompensando o bom desempenho.",
+        "Ignorando o desempenho da equipe."
+      ]
+    },
+    {
+      "pergunta": "2) Qual a importância de estabelecer prazos, metas e custos claros?",
+      "opcoes": [
+        "Não há importância, já que podem mudar ao longo do projeto.",
+        "Para manter a equipe motivada.",
+        "Para definir a direção do projeto e garantir a conclusão dentro dos limites de tempo e orçamento.",
+        "Para permitir que a equipe trabalhe sem pressão."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o papel do líder na gestão de prazos, metas e custos?",
+      "opcoes": [
+        "Delegar a responsabilidade para a equipe.",
+        "Monitorar o andamento do projeto e fazer ajustes necessários.",
+        "Ignorar prazos e focar apenas em metas e custos.",
+        "Não se envolver na gestão de prazos, metas e custos."
+      ]
+    }
+  ]
+}
