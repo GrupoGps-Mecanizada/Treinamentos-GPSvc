@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR10.14.PRIMEIROS SOCORROS",
+  "id": 289,
+  "idChecklist": 201,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual procedimento de primeiros socorros possui os tipos boca a boca, boca máscara e por aparelhos?",
+      "opcoes": [
+        "Respiração artificial.",
+        "Reanimação cardíaca.",
+        "Retomar consciência.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "4) Quais os sinais vitais que devem ser analisados na avaliação primária em casos de primeiros socorros?",
+      "opcoes": [
+        "Respiração e visão.",
+        "Consciência e visão.",
+        "Pulsação, respiração e temperatura.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Qual estado resulta da incapacidade em prover sangue suficiente para os órgãos?",
+      "opcoes": [
+        "Estado de parada.",
+        "Estado de choque.",
+        "Estado de infarto.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "2) Qual é o tipo de sangramento contínuo, geralmente de coloração escura, raramente fatal?",
+      "opcoes": [
+        "Capilar.",
+        "Venoso.",
+        "Arterial.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "1) Quais os mecanismos normais o corpo possui para limitar hemorragias?",
+      "opcoes": [
+        "Vasoconstricção e coagulação.",
+        "Paralisação e dilatação.",
+        "Dilatação e contração.",
+        "Nenhuma das anteriores."
+      ]
+    }
+  ]
+}
