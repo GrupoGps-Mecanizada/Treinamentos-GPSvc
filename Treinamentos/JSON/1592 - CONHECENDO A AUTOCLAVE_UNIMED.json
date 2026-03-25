@@ -1,0 +1,52 @@
+{
+  "treinamento": "CONHECENDO A AUTOCLAVE_UNIMED",
+  "id": 1592,
+  "idChecklist": 1297,
+  "perguntas": [
+    {
+      "pergunta": "5) PARA QUE SERVEM OS DISPOSITIVOS DE SEGURANÇA DA AUTOCLAVE?",
+      "opcoes": [
+        "REDUZIR O CONSUMO DE ENERGIA.",
+        "PROTEGER O OPERADOR E O EQUIPAMENTO.",
+        "AUMENTAR A TEMPERATURA RAPIDAMENTE.",
+        "IDENTIFICAR RESÍDUOS NÃO TRATADOS."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL TIPO DE ÁGUA DEVE SER UTILIZADA NA GERAÇÃO DE VAPOR DA AUTOCLAVE?",
+      "opcoes": [
+        "ÁGUA DESTILADA.",
+        "ÁGUA DA TORNEIRA FILTRADA.",
+        "ÁGUA FERVIDA.",
+        "ÁGUA COM CLORO."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE DEVE SER REGISTRADO A CADA CICLO DE AUTOCLAVAGEM?",
+      "opcoes": [
+        "TEMPO DE ABERTURA DA TAMPA.",
+        "NÍVEL DA ÁGUA DESTILADA.",
+        "QUANTIDADE DE RESÍDUOS INSERIDOS.",
+        "TEMPERATURA E PRESSÃO ATINGIDAS."
+      ]
+    },
+    {
+      "pergunta": "2) SEGUNDO O PGRSS, QUE TIPO DE RESÍDUO DEVE SER TRATADO NA AUTOCLAVE?",
+      "opcoes": [
+        "LIXO COMUM DE BANHEIROS.",
+        "RESÍDUOS DE REFEITÓRIO.",
+        "MEIOS DE CULTURA CONTAMINADOS DA MICROBIOLOGIA.",
+        "TODO TIPO DE RESÍDUO INFECTANTE."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É A FUNÇÃO DA AUTOCLAVE NO AMBIENTE HOSPITALAR?",
+      "opcoes": [
+        "RESFRIAR EQUIPAMENTOS.",
+        "ESTERILIZAR MATERIAIS CONTAMINADOS.",
+        "ARMAZENAR RESÍDUOS.",
+        "SEPARAR MATERIAIS RECICLÁVEIS."
+      ]
+    }
+  ]
+}
