@@ -1,0 +1,52 @@
+{
+  "treinamento": "5S NA COMPACTADORA_NOVELIS",
+  "id": 907,
+  "idChecklist": 683,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL A COR DA LIXEIRA PARA DESCARTAR PAPEL?",
+      "opcoes": [
+        "LIXEIRA VERDE.",
+        "LIXEIRA ROXA.",
+        "LIXEIRA AZUL.",
+        "LIXEIRA VERMELHA."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL A COR DA LIXEIRA PARA DESCARTAR PLÁSTICOS?",
+      "opcoes": [
+        "LIXEIRA VERDE.",
+        "LIXEIRA ROXA.",
+        "LIXEIRA AZUL.",
+        "LIXEIRA VERMELHA."
+      ]
+    },
+    {
+      "pergunta": "3) QUAIS FERRAMENTAS E MATERIAIS SÃO NECESSÁRIOS NO 5S DO SETOR?",
+      "opcoes": [
+        "SOMENTE A VASSOURA.",
+        "RODO, VASSOURA, PÁ, BALDE DE LIXO E PANOS DE LIMPEZA",
+        "SOMENTE O RODO.",
+        "PÁ E VASSOURA."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS EPI'S SÃO NECESSÁRIOS PARA REALIZAR O 5S NO SETOR?",
+      "opcoes": [
+        "BONÉ CASQUETE, ÓCULOS DE SEGURANÇA, LUVA ANTICORTE, DUPLA PROTEÇÃO AUDITIVA (CONCHA + PLUG), LUVA DE RASPA, MANGOTE ANTICORTE E BOTA DE SEGURANÇA.",
+        "LUVA E PLUG.",
+        "BONÉ CASQUETE, BOTA DE SEGURANÇA, ÓCULOS DE SEGURANÇA E LUVA DE RASPA.",
+        "ÓCULOS DE SEGURANÇA."
+      ]
+    },
+    {
+      "pergunta": "1)  QUAL O CONCEITO DO 5S QUE SIGNIFICA O SENSO DE UTILIZAÇÃO?",
+      "opcoes": [
+        "SEISO.",
+        "SEITON.",
+        "SEIKETSU.",
+        "SEIRI."
+      ]
+    }
+  ]
+}
