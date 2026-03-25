@@ -1,0 +1,52 @@
+{
+  "treinamento": "MAIO AMARELO",
+  "id": 733,
+  "idChecklist": 515,
+  "perguntas": [
+    {
+      "pergunta": "5) Como contribuir para um trânsito seguro?",
+      "opcoes": [
+        "Planejar bem as suas rotas e viagens.",
+        "Respeitas as sinalizações de trânsito.",
+        "Utilizar sempre os cintos de segurança e não utilizar o celular enquanto dirige.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "4) A campanha é voltada para qual público?",
+      "opcoes": [
+        "Somente condutores de veículos.",
+        "Somente para condutores de caminhões.",
+        "Somente para pedestres.",
+        "Para condutores de carros, ciclistas, caminhoneiros, motocicletas e até pedestres"
+      ]
+    },
+    {
+      "pergunta": "3) Qual o propósito da campanha Maio Amarelo?",
+      "opcoes": [
+        "Conscientização e mobilização política.",
+        "Chamar a atenção da sociedade para o alto índice de mortes e de feridos no trânsito em todo o mundo.",
+        "Conscientizar somente os motociclistas para o alto índice de mortes e de feridos no trânsito.",
+        "Conscientizar os motociclistas e ciclistas para o alto índice de mortes e de feridos no trânsito."
+      ]
+    },
+    {
+      "pergunta": "2) O que simboliza a cor amarela da campanha?",
+      "opcoes": [
+        "Atenção em sinalizações, semáforos, placas e faixas das vias em todo o mundo.",
+        "Conscientização sobre os acidentes.",
+        "Cor da segurança no trânsito.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o objetivo da Campanha Maio Amarelo?",
+      "opcoes": [
+        "Trazer o tema sobre o câncer de mama.",
+        "Conscientização sobre saúde.",
+        "Conscientização sobre acidente e doenças do trabalho.",
+        "É alertar a sociedade quanto ao número preocupante de acidentes no trânsito e, assim, recomendar uma direção mais segura."
+      ]
+    }
+  ]
+}
