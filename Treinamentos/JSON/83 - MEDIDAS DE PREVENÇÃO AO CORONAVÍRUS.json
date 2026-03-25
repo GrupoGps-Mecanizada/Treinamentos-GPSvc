@@ -1,0 +1,52 @@
+{
+  "treinamento": "MEDIDAS DE PREVENÇÃO AO CORONAVÍRUS",
+  "id": 83,
+  "idChecklist": 56,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais são as medidas de prevenção?",
+      "opcoes": [
+        "Higienização das mãos, uso da máscara, higienização de superfícies e materiais, respeito ao distanciamento e evitar levar a mão ao rosto.",
+        "Dar preferências por lugares aglomerados e sem máscara.",
+        "Apenas higienização das mãos uma vez por semana.",
+        "Fechar janelas e manter o ambiente sem ventilação."
+      ]
+    },
+    {
+      "pergunta": "4) A utilização das máscaras é recomendada para evitar o Coronavírus?",
+      "opcoes": [
+        "Sim. A recomendação de uso de máscaras possui como base a proteção coletiva, já que o vírus é transmitido principalmente através de gotículas quando a pessoa infectada tosse, espirra ou fala.",
+        "Sim. A recomendação é usar a máscara mas sem cobrir o nariz.",
+        "Não. A recomendação é apenas ingerir bastante vitamina C e não usar a máscara.",
+        "Não. A recomendação é evitar máscara principalmente ao falar com outras pessoas, tosse ou espirro."
+      ]
+    },
+    {
+      "pergunta": "3) Quais são os sintomas do Coronavírus?",
+      "opcoes": [
+        "Tontura, perda de peso e alergia.",
+        "Alergia, tosse, glicemia alta.",
+        "Dor de cabeça, dor de garganta, coriza, tosse, febre e perda de olfato e paladar.",
+        "Náusea, febre e perda de peso."
+      ]
+    },
+    {
+      "pergunta": "2) Quais são as formas mais comuns de transmissão?",
+      "opcoes": [
+        "Gotículas de saliva, espirro ou tosse, toque ou aperto de mão, secreção nasal e contato com superfície contaminada.",
+        "Através de tosse ou ingestão de alimentos contaminados.",
+        "Transmissão apenas por aperto de mão.",
+        "Transmissão por animais."
+      ]
+    },
+    {
+      "pergunta": "1) O que é Coronavírus?",
+      "opcoes": [
+        "É um vírus comum semelhante a gripe.",
+        "É uma bactéria semelhante a Tuberculose.",
+        "É uma família de vírus que causam infecções respiratórias.",
+        "É uma família de vírus que beneficiam o corpo humano."
+      ]
+    }
+  ]
+}
