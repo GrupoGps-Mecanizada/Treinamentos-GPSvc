@@ -1,0 +1,52 @@
+{
+  "treinamento": "SEPARAÇÃO DE CARGA_ELECTROLUX",
+  "id": 268,
+  "idChecklist": 180,
+  "perguntas": [
+    {
+      "pergunta": "5) O que o operador pode fazer no dia a dia para evitar avarias no clamp?",
+      "opcoes": [
+        "Estar portando os EPI's da atividade e fazer checklist.",
+        "Utilizar a pressão indicada para movimentação, aferir a pressão do clamp, movimentar os produtos na base do EPS.",
+        "Aferir a pressão do clamp, movimentar os produtos de qualquer maneira.",
+        "Utilizar a pressão indicada para movimentação e certificar que está portando os EPI's."
+      ]
+    },
+    {
+      "pergunta": "4) Ao realizar a separação no endereço solicitado é correto afirmar:",
+      "opcoes": [
+        "Separar os produtos em um lugar escolhido pelo conferente.",
+        "Movimentar todos os produtos e fazer o \"picking\" no final.",
+        "Realizar o \"picking\" no endereço de origem da quantidade movimentada.",
+        "Apenas movimentar os produtos para o enclausuramento, sem fazer \"picking\"."
+      ]
+    },
+    {
+      "pergunta": "3) É correto afirmar que a lista de separação:",
+      "opcoes": [
+        "Identifica somente o nome do produto.",
+        "Fica guardada na sala operacional.",
+        "Fica alocada no guichê da sala operacional.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "2) Conforme o treinamento, podemos dizer que:",
+      "opcoes": [
+        "As avarias causadas no processo não devem ser movimentadas de qualquer maneira, pois, são produtos recuperáveis.",
+        "As avarias acontecem raramente, e podemos movimenta-las de qualquer maneira.",
+        "As avarias ocorrem apenas no transporte da fábrica para o CD.",
+        "As avarias acontecem somente no carregamento manual."
+      ]
+    },
+    {
+      "pergunta": "1) Baseado no treinamento, escolha a alternativa VERDADEIRA.",
+      "opcoes": [
+        "Avaria é qualquer dano ou estrago, deterioração ou desgaste que ocorra aos carrinhos e empilhadeiras.",
+        "Avaria é qualquer dano ou estrago, na pintura das lavadoras e fogões no momento da fabricação.",
+        "Avaria é qualquer dano ou estrago, que aconteça na casa do consumidor final.",
+        "Avaria é qualquer dano, estrago ou desgaste que ocorra a algo. Neste caso a cada fogão e lavadora."
+      ]
+    }
+  ]
+}
