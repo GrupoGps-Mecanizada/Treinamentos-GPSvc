@@ -1,0 +1,52 @@
+{
+  "treinamento": "VALORES GPS_TRABALHO EM EQUIPE",
+  "id": 297,
+  "idChecklist": 214,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual é o principal comportamento que vai contribuir com o desenvolvimento do trabalho em equipe?",
+      "opcoes": [
+        "Ser respeitoso.",
+        "Comunicação.",
+        "Ter a liderança do grupo.",
+        "Fazer feedback."
+      ]
+    },
+    {
+      "pergunta": "4) O que é trabalho em equipe?",
+      "opcoes": [
+        "É sempre ter retrabalho.",
+        "É entender que é necessário sempre guiar uma atividade.",
+        "É quando um grupo ou sociedade resolve criar um esforço coletivo para causar um problema.",
+        "É quando um grupo ou sociedade resolve criar um esforço coletivo para resolver um problema."
+      ]
+    },
+    {
+      "pergunta": "3) O que pode melhorar quando trabalhamos em equipe?",
+      "opcoes": [
+        "Melhora unicamente o planejamento.",
+        "A satisfação no trabalho dos outros melhora, e a moral entre o grupo não evolui.",
+        "A própria satisfação no trabalho melhora, e a moral entre o grupo também evolui.",
+        "Melhora o senso de inclusão que antes não existia."
+      ]
+    },
+    {
+      "pergunta": "2) O que o termo volátil representa?",
+      "opcoes": [
+        "Agilidade e a rapidez em que tudo vem acontecendo.",
+        "Ambiguidade representada no momento.",
+        "A evolução da complexidade.",
+        "É a agilidade e a certeza do que vai acontecer amanhã."
+      ]
+    },
+    {
+      "pergunta": "1) O que representa o termo VUCA?",
+      "opcoes": [
+        "Volatidade, Flexibilidade, Individualidade e Ambiguidade.",
+        "Volatidade, Flexibilidade, Complexidade e Ambiguidade.",
+        "Volatidade, Incerteza, Complexidade e Ambiguidade.",
+        "Nenhuma das alternativas acima."
+      ]
+    }
+  ]
+}
