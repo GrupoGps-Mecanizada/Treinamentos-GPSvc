@@ -1,0 +1,52 @@
+{
+  "treinamento": "PROCEDIMENTO PARA ÁREA DE CARREGAMENTO_FURUKAWA",
+  "id": 550,
+  "idChecklist": 352,
+  "perguntas": [
+    {
+      "pergunta": "5) Sobre o uso do calço do caminhão, é correto afirmar que:",
+      "opcoes": [
+        "Não é obrigatório.",
+        "É obrigatório durante todo o processo, e somente posso remover com autorização.",
+        "É opcional.",
+        "Posso usar somente quando necessário."
+      ]
+    },
+    {
+      "pergunta": "4) Posso ficar com a chave do caminhão na ignição?",
+      "opcoes": [
+        "Não, devo entregar ao Operador logístico LOGHIS até o final do processo.",
+        "Posso, desde que o cone esteja posicionado na frente do caminhão.",
+        "Posso, pois, o Operador logístico que indica a saída da doca.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) Posso permanecer na área de movimentação de empilhadeiras?",
+      "opcoes": [
+        "Sim, se eu estiver na companhia de um responsável.",
+        "Não, é expressamente proibido permanecer no raio de ação das empilhadeiras.",
+        "Sim, se eu estiver usando colete, pois, assim o Operador consegue me ver.",
+        "Todas as alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) Quais EPI’s devo utilizar para manuseio de cargas?",
+      "opcoes": [
+        "Calça refletiva.",
+        "Colete refletivo.",
+        "Sapato.",
+        "Sapato de segurança, colete refletivo e luvas de segurança resistente a atritos."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o objetivo do treinamento?",
+      "opcoes": [
+        "Reduzir as ocorrências.",
+        "Evitar desvios e perdas no ambiente de trabalho.",
+        "Orientar os motoristas referente aos riscos, cuidados e obrigações para um trabalho seguro.",
+        "Todas as alternativas."
+      ]
+    }
+  ]
+}
