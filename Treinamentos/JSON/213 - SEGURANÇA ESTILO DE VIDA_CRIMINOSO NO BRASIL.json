@@ -1,0 +1,52 @@
+{
+  "treinamento": "SEGURANÇA ESTILO DE VIDA_CRIMINOSO NO BRASIL",
+  "id": 213,
+  "idChecklist": 125,
+  "perguntas": [
+    {
+      "pergunta": "5) Os tipos de criminosos que os nossos Contratos devem se preocupar, são:",
+      "opcoes": [
+        "Aqueles despreparados, que não fazem planos.",
+        "Aqueles que agem de acordo com a oportunidade, sem muito estudo.",
+        "Aqueles que agem em quadrilha, que escolhem alvo de forma seletiva.",
+        "Aqueles que não têm o alvo determinado, que aproveita a oportunidade."
+      ]
+    },
+    {
+      "pergunta": "4) Qual a melhor definição para riscos?",
+      "opcoes": [
+        "Efeito de incerteza nos objetivos.",
+        "Ocorrência ou mudança em um conjunto específico de circunstâncias.",
+        "Chance de algo acontecer.",
+        "Atividade realizada para determinar a adequação, suficiência e eficácia do assunto em questão para atingir os objetivos estabelecidos."
+      ]
+    },
+    {
+      "pergunta": "3) Os criminosos comuns no Brasil se dividem em:",
+      "opcoes": [
+        "Aqueles que agem em quadrilha e tem o alvo definido e os que escolhem seu alvo a partir da oportunidade.",
+        "Aqueles que agem aleatoriamente e os que agem com alvo indefinido.",
+        "Aqueles que não infringem às leis e os que cometem crime.",
+        "Aqueles que não se importam com a presença das forças de segurança, e os que se sentem ameaçados."
+      ]
+    },
+    {
+      "pergunta": "2) Quais os criminosos que mais trazem problemas aos cidadãos em seu cotidiano?",
+      "opcoes": [
+        "Passionais.",
+        "Terroristas.",
+        "Mentalmente perturbados.",
+        "Criminosos comuns."
+      ]
+    },
+    {
+      "pergunta": "1) De acordo com o treinamento, como podemos definir criminoso?",
+      "opcoes": [
+        "Aquele que tem uma ação socialmente aprovada.",
+        "Aquele com boas intenções.",
+        "Aquele que infringe o código penal ou as leis cometendo crimes.",
+        "Aquele que possui aparência, atitude ou fisionomia agressiva."
+      ]
+    }
+  ]
+}
