@@ -1,0 +1,52 @@
+{
+  "treinamento": "ESTRATÉGIAS PARA GESTÃO DE CUSTOS E FORNECEDORES_DO",
+  "id": 670,
+  "idChecklist": 456,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual é a importância da negociação com fornecedores?",
+      "opcoes": [
+        "Aumentar os custos de produção.",
+        "Reduzir os custos associados à compra de matérias-primas e outros insumos necessários para a produção de bens e serviços.",
+        "Não ter relação com os fornecedores.",
+        "Aumentar a qualidade dos materiais e serviços."
+      ]
+    },
+    {
+      "pergunta": "4) Quais são umas das estratégias eficazes para a gestão de custos e fornecedores?",
+      "opcoes": [
+        "Aumentar os preços dos produtos e serviços para garantir lucros maiores.",
+        "Ignorar a concorrência e focar apenas nos custos internos.",
+        "Monitorar constantemente os custos e fornecedores para identificar possíveis desvios ou problemas.",
+        "Reduzir a qualidade dos materiais e serviços para economizar nos custos."
+      ]
+    },
+    {
+      "pergunta": "3) O que envolve a gestão de custos e fornecedores?",
+      "opcoes": [
+        "A seleção e gerenciamento de fornecedores que possam fornecer materiais e serviços de qualidade a preços acessíveis.",
+        "A aplicação de estratégias para maximizar resultados e aumentar custos.",
+        "A seleção de fornecedores com preços altos e qualidade superior.",
+        "A redução de custos sem levar em conta a qualidade dos materiais e serviços fornecidos."
+      ]
+    },
+    {
+      "pergunta": "2) Qual é a primeira etapa do processo de gestão de custos e fornecedores?",
+      "opcoes": [
+        "Monitoramento constante.",
+        "Análise da concorrência.",
+        "Análise de custos.",
+        "Negociação com fornecedores."
+      ]
+    },
+    {
+      "pergunta": "1) Qual é o objetivo da gestão de custos e fornecedores?",
+      "opcoes": [
+        "Maximizar custos e minimizar resultados.",
+        "Minimizar custos e maximizar resultados.",
+        "Ignorar custos e focar em resultados.",
+        "Não há objetivo definido."
+      ]
+    }
+  ]
+}
