@@ -1,0 +1,52 @@
+{
+  "treinamento": "A IMPORTÂNCIA DE DORMIR BEM",
+  "id": 272,
+  "idChecklist": 184,
+  "perguntas": [
+    {
+      "pergunta": "5) ASSINALE a alternativa correta sobre a importância de dormir bem.",
+      "opcoes": [
+        "Dormir bem é um luxo para quem pode e não tem nada o que eu possa fazer para mudar isso.",
+        "Para dormir bem é necessário antes de dormir mexer no celular e comer comida com mais açúcar.",
+        "Dormir bem não interfere no meu trabalho e nas minhas decisões.",
+        "Dormir bem é importante para sua saúde, trabalho e relacionamentos e se ainda tiver problemas para dormir, procure um médico especializado, você pode estar sofrendo de algum distúrbio do sono."
+      ]
+    },
+    {
+      "pergunta": "4) Quais hábitos você pode desenvolver e que pode te ajudar a dormir melhor?",
+      "opcoes": [
+        "Ouvir música antes de dormir, assistir TV, cuidar da alimentação e evitar vícios.",
+        "Assistir TV, ver WhatsApp, cuidar da alimentação e evitar vícios.",
+        "Ouvir música, ver celular, cuidar da alimentação e evitar vícios.",
+        "Preparar o ambiente antes de dormir, relaxar antes de dormir, cuidar da alimentação e evitar vícios."
+      ]
+    },
+    {
+      "pergunta": "3) Quem dorme mal tem mais chances do quê?",
+      "opcoes": [
+        "Mais chances de ter alergias no corpo.",
+        "Mais chances de ter depressão.",
+        "Mais chances de perder o foco e ficar de mau humor.",
+        "Mais chances de viver bem humorado."
+      ]
+    },
+    {
+      "pergunta": "2) O treinamento cita que a falta de sono pode ocasionar diversos problemas de saúde. Qual foi um dos problemas mencionados?",
+      "opcoes": [
+        "Problemas no coração.",
+        "AIDS.",
+        "Câncer.",
+        "Depressão."
+      ]
+    },
+    {
+      "pergunta": "1) A falta de sono prejudica a produção de qual hormônio?",
+      "opcoes": [
+        "Adrenalina.",
+        "Melatonina.",
+        "Progesterona.",
+        "Prolactina."
+      ]
+    }
+  ]
+}
