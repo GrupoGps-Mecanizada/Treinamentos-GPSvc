@@ -1,0 +1,52 @@
+{
+  "treinamento": "SMN-IT-GSU-054 – EXPEDIÇÃO DE MATERIAL DP15 REVISÃO 01_GRU AIRPORT",
+  "id": 1450,
+  "idChecklist": 1198,
+  "perguntas": [
+    {
+      "pergunta": "5) DEVEMOS PREENCHER O CAMPO “MOTIVO DO MOVIMENTO” COM QUAL CÓDIGO?",
+      "opcoes": [
+        "0008.",
+        "0006.",
+        "0004.",
+        "0002."
+      ]
+    },
+    {
+      "pergunta": "4) AO SELECIONAR A ABA \"OD\" VOCÊ DEVERÁ PREENCHER O CAMPO \"CENTRO\" DE ACORDO COM QUAL SITE?",
+      "opcoes": [
+        "MGER OU PUBU.",
+        "MGIR OU POBO.",
+        "MAEI OU PPPQ.",
+        "MOER OU PUBU."
+      ]
+    },
+    {
+      "pergunta": "3) AO PREENCHER O CAMPO “MONTANTE EXT. MI” SEMPRE USAR COM O VALOR DE:",
+      "opcoes": [
+        "2,00.",
+        "1,00.",
+        "5,00.",
+        "4,00."
+      ]
+    },
+    {
+      "pergunta": "2) AO PREENCHER O CAMPO “DM PARA CENTRO CUSTO” O QUE DEVEMOS DIGITAR?",
+      "opcoes": [
+        "202 PARA CENTRO DE CUSTO.",
+        "203 PARA CENTRO DE CUSTO.",
+        "204 PARA CENTRO DE CUSTO.",
+        "205 PARA CENTRO DE CUSTO."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O PRIMEIRO PASSO DA 1ª TELA?",
+      "opcoes": [
+        "DIGITAR A TRANSAÇÃO “MM00”.",
+        "DIGITAR A TRANSAÇÃO “MM01”.",
+        "DIGITAR A TRANSAÇÃO “MM02”.",
+        "DIGITAR A TRANSAÇÃO “MM03”."
+      ]
+    }
+  ]
+}
