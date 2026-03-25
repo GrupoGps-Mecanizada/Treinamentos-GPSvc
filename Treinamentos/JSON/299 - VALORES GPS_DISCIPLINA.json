@@ -1,0 +1,52 @@
+{
+  "treinamento": "VALORES GPS_DISCIPLINA",
+  "id": 299,
+  "idChecklist": 211,
+  "perguntas": [
+    {
+      "pergunta": "5) O que é Disciplina?",
+      "opcoes": [
+        "É fazer o que precisa ser feito, sem competência e comprometimento necessário.",
+        "É fazer o que precisa ser feito, com competência e comprometimento necessário.",
+        "É fazer o que precisa ser feito, sem competência, porém com o comprometimento necessário.",
+        "É fazer o que precisa ser feito, com competência, mas sem comprometimento."
+      ]
+    },
+    {
+      "pergunta": "4) Qual o benefício da eficácia?",
+      "opcoes": [
+        "Deixa seu ambiente com maior qualidade.",
+        "Mantém apenas sua atenção no resultado do que está sendo produzido.",
+        "Mantém sua atenção no resultado do que está sendo produzido e na qualidade final.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "3) Qual o benefício da eficiência?",
+      "opcoes": [
+        "Manter o foco nos custos envolvidos e evitando desperdícios, usando apenas os recursos disponíveis.",
+        "Manter o foco nos custos envolvidos, mas não evita desperdícios, e usa apenas os recursos disponíveis.",
+        "Apenas mantem o foco nos custos envolvidos.",
+        "Apenas evita desperdícios."
+      ]
+    },
+    {
+      "pergunta": "2) Quais são os benefícios que geramos aplicando na prática a Disciplina?",
+      "opcoes": [
+        "Eficiência, eficácia e efetividade.",
+        "Não levar bronca.",
+        "Aprende a ter foco.",
+        "Eficiência e efetividade."
+      ]
+    },
+    {
+      "pergunta": "1) Para o que serve as Normas e Procedimentos?",
+      "opcoes": [
+        "Para satisfação do cliente.",
+        "Para não serem seguidas.",
+        "Serve como bússola e como uma diretriz para que você não seja guiado de forma segura.",
+        "Serve como bússola e como uma diretriz para que você seja guiado de forma segura."
+      ]
+    }
+  ]
+}
