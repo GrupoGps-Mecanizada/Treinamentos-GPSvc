@@ -1,0 +1,52 @@
+{
+  "treinamento": "ANALISE ESTRATÉGICA_DO",
+  "id": 675,
+  "idChecklist": 461,
+  "perguntas": [
+    {
+      "pergunta": "5) Por que a análise estratégica e a tomada de decisão eficazes são importantes para uma empresa?",
+      "opcoes": [
+        "Para avaliar a qualidade dos produtos e serviços da empresa.",
+        "Para manter a empresa competitiva no mercado.",
+        "Para avaliar o desempenho financeiro da empresa.",
+        "Para avaliar o desempenho dos Colaboradores da empresa."
+      ]
+    },
+    {
+      "pergunta": "4) Por que é importante monitorar e avaliar regularmente os resultados durante o processo de análise estratégica?",
+      "opcoes": [
+        "Para garantir que a empresa esteja progredindo em direção a seus objetivos.",
+        "Para identificar oportunidades e ameaças externas.",
+        "Para avaliar os resultados da decisão tomada.",
+        "Para entender claramente qual é o problema a ser resolvido."
+      ]
+    },
+    {
+      "pergunta": "3) Qual das seguintes práticas é importante avaliar ao tomar uma decisão solicitada?",
+      "opcoes": [
+        "Identificar o problema a ser resolvido.",
+        "Coletar informações não relevantes.",
+        "Analisar as informações coletadas.",
+        "Gerar alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) O que é importante identificar antes de tomar uma decisão solicitada?",
+      "opcoes": [
+        "Coletar informações relevantes.",
+        "Analisar as informações coletadas.",
+        "Gerar alternativas.",
+        "Identificar o problema a ser resolvido."
+      ]
+    },
+    {
+      "pergunta": "1) Qual das seguintes etapas NÃO é uma parte do processo de análise estratégica?",
+      "opcoes": [
+        "Avaliação interna.",
+        "Implementação de planos.",
+        "Avaliação externa.",
+        "Definição de objetivos."
+      ]
+    }
+  ]
+}
