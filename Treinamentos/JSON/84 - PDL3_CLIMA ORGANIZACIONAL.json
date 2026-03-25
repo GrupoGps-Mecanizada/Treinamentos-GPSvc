@@ -1,0 +1,52 @@
+{
+  "treinamento": "PDL3_CLIMA ORGANIZACIONAL",
+  "id": 84,
+  "idChecklist": 57,
+  "perguntas": [
+    {
+      "pergunta": "5) Baseado no treinamento assinale a alternativa INCORRETA:",
+      "opcoes": [
+        "O líder é parte da equipe e interfere diretamente no clima organizacional.",
+        "O líder precisa ser um bom ouvinte, participar da tomada de decisão e delegação de tarefas.",
+        "O líder deve cobrar as áreas de apoio e sua equipe sem se importar com o ser humano.",
+        "O líder pode envolver as outras áreas de apoio porque eles são aliados."
+      ]
+    },
+    {
+      "pergunta": "4) Qual das alternativas indica o papel do líder para melhorar o clima organizacional?",
+      "opcoes": [
+        "Além de acompanhar o rendimento de sua equipe e atribuir tarefas, o líder precisa conhecer, ouvir e acompanhar os seus colaboradores.",
+        "O papel do líder se resume apenas acompanhar o rendimento de sua equipe e atribuir tarefas.",
+        "O papel do líder é apenas delegar tarefas.",
+        "O papel do líder é apenas cobrar resultado."
+      ]
+    },
+    {
+      "pergunta": "3) Baseado no treinamento quais sãos os indicadores em relação ao clima organizacional?",
+      "opcoes": [
+        "Falta de interesse, assiduidade, habilidades e produtividade.",
+        "Absenteísmo, turnover, presenteísmo e produtividade.",
+        "Competência, habilidades, presenteísmo e atitudes.",
+        "Absenteísmo, atitudes, habilidades e competência."
+      ]
+    },
+    {
+      "pergunta": "2) Quais são os benefícios de um bom clima organizacional?",
+      "opcoes": [
+        "Rotatividade dos colaboradores.",
+        "Colaboradores satisfeitos gerando custos elevados.",
+        "Aumento da produtividade, redução de erros e custos, menor rotatividade de pessoas e atração de talentos e clientes.",
+        "Aumento da produtividade, colaboradores desmotivados, e redução de novos Clientes."
+      ]
+    },
+    {
+      "pergunta": "1) De acordo com o treinamento clima organizacional:",
+      "opcoes": [
+        "É uma avaliação que apresenta dificuldade em identificar o ambiente e resultados da empresa.",
+        "É um conjunto de valores, atitudes e padrões de comportamento, formais e informais, existente em uma organização.",
+        "Conjunto de padrões de comportamentos informais existente em uma organização.",
+        "É uma avaliação que desvia os padrões dos comportamentos existentes na empresa."
+      ]
+    }
+  ]
+}
