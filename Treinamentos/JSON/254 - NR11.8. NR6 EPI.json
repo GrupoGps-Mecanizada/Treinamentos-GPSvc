@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR11.8. NR6 EPI",
+  "id": 254,
+  "idChecklist": 166,
+  "perguntas": [
+    {
+      "pergunta": "5) Marque abaixo um exemplo da obrigação do empregado:",
+      "opcoes": [
+        "Usar os EPI's somente quando não for desconfortável o seu uso.",
+        "Usar o EPI apenas para a finalidade que se destina.",
+        "Descartar o EPI em uma lixeira comum.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) Marque abaixo um exemplo de EPI:",
+      "opcoes": [
+        "Óculos de Proteção Contra Impactos.",
+        "Fita Zebrada.",
+        "Cone de sinalização.",
+        "Todas as alternativas."
+      ]
+    },
+    {
+      "pergunta": "3) O que significa a sigla EPC?",
+      "opcoes": [
+        "Equipamento de Precaução de Colisões.",
+        "Equipamento de Proteção Coletiva.",
+        "Equipamento de Proteção para máquinas rotativas.",
+        "Equipamento de Proteção Individual."
+      ]
+    },
+    {
+      "pergunta": "2) O que significa a sigla EPI?",
+      "opcoes": [
+        "Equipamento de Proteção Indispensável.",
+        "Equipamento de Proteção Coletiva.",
+        "Sigla para proteção do trabalhador da indústria.",
+        "Equipamento de Proteção Individual."
+      ]
+    },
+    {
+      "pergunta": "1) Do que se trata a Norma Regulamentadora 06 da Portaria 3.214/TEM?",
+      "opcoes": [
+        "É uma norma que autoriza o trabalho nas indústrias sem o uso de EPI em locais autorizados pelo empregador.",
+        "É uma norma que autoriza o trabalho nas indústrias sem o uso de EPI em locais autorizados pelo empregador e a remoção de EPC de máquinas rotativas.",
+        "É a Norma Regulamentadora que dispõe sobre o uso, guarda e conservação do EPI e EPC.",
+        "Todas as alternativas."
+      ]
+    }
+  ]
+}
