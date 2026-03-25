@@ -1,0 +1,52 @@
+{
+  "treinamento": "REGRAS QUE SALVAM VIDAS_4 E 5_BRASKEM",
+  "id": 234,
+  "idChecklist": 146,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais outras causas que podem causar acidentes na operação de guindastes?",
+      "opcoes": [
+        "Engasgos e Entorses.",
+        "Atropelo e Eletrocussão.",
+        "Queda e Envenenamento.",
+        "Queimadura e Escoriação."
+      ]
+    },
+    {
+      "pergunta": "4) De que maneira podemos assegurar a identificação dos perigos e controle dos riscos durante a elevação e movimentação de carga?",
+      "opcoes": [
+        "Ficando na \"linha de fogo\".",
+        "Não sendo preventivo.",
+        "Nunca caminhar sob cargas suspensas.",
+        "Não identificando as falhas."
+      ]
+    },
+    {
+      "pergunta": "3) Qual a causa mais comum que ocorre durante a realização de atividades, permitindo gerar a fatalidade (morte), por acidentes com guindastes?",
+      "opcoes": [
+        "Animal peçonhento.",
+        "Contaminação química.",
+        "Incêndio.",
+        "Atingido por objetos (esmagamento)."
+      ]
+    },
+    {
+      "pergunta": "2) De que forma asseguramos a identificação dos perigos e o controle dos riscos na atividade de abertura de linhas e equipamentos?",
+      "opcoes": [
+        "Com exames periódicos, somente.",
+        "Com uso de qualquer EPI.",
+        "Me posicionando fora da \"linha de fogo\".",
+        "Aplicando DDS, somente."
+      ]
+    },
+    {
+      "pergunta": "1) A atividade de abertura de linhas e equipamentos são muito comuns em quais cenários de trabalho?",
+      "opcoes": [
+        "Condução de veículos.",
+        "Escritórios.",
+        "Bancos.",
+        "Industria Química."
+      ]
+    }
+  ]
+}
