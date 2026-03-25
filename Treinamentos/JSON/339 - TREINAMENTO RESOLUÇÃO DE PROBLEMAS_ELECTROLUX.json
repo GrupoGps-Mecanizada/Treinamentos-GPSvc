@@ -1,0 +1,52 @@
+{
+  "treinamento": "TREINAMENTO RESOLUÇÃO DE PROBLEMAS_ELECTROLUX",
+  "id": 339,
+  "idChecklist": 238,
+  "perguntas": [
+    {
+      "pergunta": "5) O que fazemos na etapa de medidas preventivas? ",
+      "opcoes": [
+        "Testar e padronizar as ações corretivas definidas com base na causa do problema, e caso o problema não volte a acontecer tornamos estas ações permanentes.",
+        "Aplicamos somente medidas ao time.",
+        "Aplicamos somente as ações preventivas.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "4) Qual a metodologia e ferramenta utilizadas para identificar a causa de um problema? ",
+      "opcoes": [
+        "Espinha de peixe e 5 por quês.",
+        "Espinha de peixe e causa do problema.",
+        "5 por quês e PDCA.",
+        "Todas as alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) Em quais etapas de resolução de problemas aplicamos o PDCA? ",
+      "opcoes": [
+        "Planejar: Aplicamos no 1º e 2º passos, Problema e Causa, e Fazer, Checar; Agir: Aplicamos no 3º passo, Medidas Preventivas. ",
+        "Planejar: Aplicamos no 3º passo, Problema e Causa, e Fazer, Checar, Agir: Aplicamos no 1º e 2º passo, Medidas Preventivas. ",
+        "Não aplicamos o ciclo PDCA em resolução de problemas.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) Quais são os três passos da resolução de problema? ",
+      "opcoes": [
+        "O problema, Standard Work e medidas preventivas.",
+        "O problema; causa do problema e medidas preventivas.",
+        "O problema; causa do problema e Standard Work.",
+        "Todas as alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "1) O que é um problema?  ",
+      "opcoes": [
+        "Algo que não precisa ser resolvido.",
+        "É um GAP entre a performance atual e a desejada.",
+        "É a capacidade para atingir a performance desejada.",
+        "Nenhuma das alternativas acima."
+      ]
+    }
+  ]
+}
