@@ -1,0 +1,52 @@
+{
+  "treinamento": "ARMAZENAMENTO ESTOCÁVEIS_LC",
+  "id": 539,
+  "idChecklist": 341,
+  "perguntas": [
+    {
+      "pergunta": "5) Podemos utilizar produtos vencidos?",
+      "opcoes": [
+        "Sim, desde que não ultrapasse 3 dias de vencido.",
+        "Não, pois, se trata de um risco de saúde pública, é CRIME, descrito no Código de Defesa do Consumidor.",
+        "Não, pois, o produto está estragado.",
+        "Sim, desde que avalie as características sensoriais do produto: cor, odor, textura."
+      ]
+    },
+    {
+      "pergunta": "4) Em qual planilha devemos fazer o controle de no mínimo 20% dos produtos recebidos por nota fiscal?",
+      "opcoes": [
+        "Planilha de Inspeção de Rastreabilidade de Produtos estocáveis.",
+        "Planilha de Controle Produtivo.",
+        "Planilha de Controle de Temperatura de Equipamentos.",
+        "Planilha de Inspeção de Rastreabilidade de Produtos Perecíveis."
+      ]
+    },
+    {
+      "pergunta": "3) Podemos armazenar caixas de papelão no estoque?",
+      "opcoes": [
+        "Sim, em qualquer lugar disponível no estoque.",
+        "Não, de maneira alguma.",
+        "Sim, desde que estejam revestidas em saco cristal ou fita filme.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) O que significa PVPS?",
+      "opcoes": [
+        "Usar os produtos que estão com validade vencida.",
+        "Primeiro produto que vence, primeiro produto que sai do estoque.",
+        "Primeiro que entra, primeiro que sai.",
+        "Usar primeiro produto que recebe do fornecedor."
+      ]
+    },
+    {
+      "pergunta": "1) Para armazenamento dos produtos estocáveis, é necessário que se tenha um ambiente:",
+      "opcoes": [
+        "Limpo e com produtos vencidos.",
+        "Limpo e desorganizado.",
+        "Com produtos encostados na parede e desorganizados.",
+        "Limpo e organizado e com os produtos desencostados da parede no mínimo 10 cm."
+      ]
+    }
+  ]
+}
