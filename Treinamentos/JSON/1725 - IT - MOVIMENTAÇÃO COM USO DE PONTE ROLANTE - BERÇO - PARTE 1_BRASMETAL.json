@@ -1,0 +1,52 @@
+{
+  "treinamento": "IT - MOVIMENTAÇÃO COM USO DE PONTE ROLANTE - BERÇO - PARTE 1_BRASMETAL",
+  "id": 1725,
+  "idChecklist": 1419,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE O OPERADOR DEVE EVITAR DURANTE A OPERAÇÃO DA PONTE ROLANTE?",
+      "opcoes": [
+        "UTILIZAR A BUZINA.",
+        "MANTER A CARGA CENTRALIZADA.",
+        "MANTER A PONTE NA LINHA DE VISÃO.",
+        "USAR CAMINHOS SINALIZADOS."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE DEVE SER FEITO ANTES DE QUALQUER MOVIMENTAÇÃO COM A PONTE ROLANTE?",
+      "opcoes": [
+        "VERIFICAR O PESO APROXIMADO DA BOBINA.",
+        "VALIDAR OU PREENCHER O CHECKLIST DA PONTE.",
+        "REUNIR A EQUIPE PARA DDS.",
+        "SOLICITAR LIBERAÇÃO DO SUPERVISOR."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É O LIMITE MÁXIMO DE CARGA PERMITIDO PARA MOVIMENTAÇÃO?",
+      "opcoes": [
+        "5 TONELADAS.",
+        "8 TONELADAS.",
+        "10 TONELADAS.",
+        "12 TONELADAS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS EPI'S SÃO OBRIGATÓRIOS NA OPERAÇÃO?",
+      "opcoes": [
+        "CALÇADO, CAPACETE, ÓCULOS, PROTETOR CONCHA, MANGOTE, LUVAS E UNIFORME.",
+        "ÓCULOS DE PROTEÇÃO APENAS.",
+        "LUVAS E PROTETOR AURICULAR APENAS.",
+        "CAPACETE E BOTAS COMUNS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O PRINCIPAL OBJETIVO DA INSTRUÇÃO DE TRABALHO?",
+      "opcoes": [
+        "AUMENTAR A VELOCIDADE DA OPERAÇÃO.",
+        "PERMITIR QUE O OPERADOR EXECUTE A ATIVIDADE DE FORMA SEGURA.",
+        "REDUZIR O USO DE EPI'S.",
+        "SUBSTITUIR O TREINAMENTO PRÁTICO."
+      ]
+    }
+  ]
+}
