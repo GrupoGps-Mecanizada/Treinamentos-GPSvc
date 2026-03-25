@@ -1,0 +1,52 @@
+{
+  "treinamento": "RECURSOS ENERGÉTICOS_LC",
+  "id": 1335,
+  "idChecklist": 1094,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE ECONOMIZA O USO DE RECURSOS ENERGÉTICOS E AJUDA A PRESERVAR O MEIO AMBIENTE?",
+      "opcoes": [
+        "CAMINHAR.",
+        "ANDAR DE BICICLETA.",
+        "UTILIZAR TRANSPORTE PÚBLICO.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "4) PARA EVITARMOS O CONSUMO EXCESSIVO DE ENERGIA DEVEMOS DEIXAR O AR-CONDICIONADO EM QUAL NÍVEL DE TEMPERATURA?",
+      "opcoes": [
+        "10°C E 20°C.",
+        "16°C.",
+        "23°C E 25°C.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL O TERMO QUE USAMOS QUANDO OS APARELHOS ELETRÔNICOS CONTINUAM CONSUMINDO ENERGIA MESMO ESTANDO DESLIGADOS?",
+      "opcoes": [
+        "STANDBY.",
+        "BACKUP.",
+        "SPAM.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL TIPO DE LÂMPADA É MAIS ECONÔMICA E DURA POR MAIS TEMPO?",
+      "opcoes": [
+        "HALÓGENAS.",
+        "LED.",
+        "INCANDESCENTES.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1) AO SAÍMOS DE UM LOCAL (SALA, COZINHA, BANHEIRO, ETC) QUAL A PRIMEIRA AÇÃO QUE DEVEMOS TER?",
+      "opcoes": [
+        "FECHAR A PORTA.",
+        "ABRIR AS JANELAS.",
+        "DESLIGAR AS LUZES.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    }
+  ]
+}
