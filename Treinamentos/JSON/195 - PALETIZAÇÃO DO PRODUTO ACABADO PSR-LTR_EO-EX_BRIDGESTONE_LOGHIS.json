@@ -1,0 +1,52 @@
+{
+  "treinamento": "PALETIZAÇÃO DO PRODUTO ACABADO PSR-LTR_EO-EX_BRIDGESTONE_LOGHIS",
+  "id": 195,
+  "idChecklist": 115,
+  "perguntas": [
+    {
+      "pergunta": "5) PARA QUAL PRODUTO UTILIZAMOS O CARTÃO LARANJA E.X.?",
+      "opcoes": [
+        "Produtos de Equipamento Original.",
+        "Produtos destinados aos Armazéns Compec e Central.",
+        "Produtos de Exportação.",
+        "Pneus aguardando disposição/Vendas."
+      ]
+    },
+    {
+      "pergunta": "4) PARA QUAL PRODUTO UTILIZAMOS O CARTÃO VERDE E.O.?",
+      "opcoes": [
+        "Produtos de Equipamento Original.",
+        "Produtos de Exportação.",
+        "Produtos destinados aos Armazéns Compec e Central.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "3) AO DISPOR NO PALET, ROTULAR OU CARIMBAR O PNEU, QUAL DOCUMENTO UTILIZAMOS?",
+      "opcoes": [
+        "A etiqueta de código de barras.",
+        "O Cartão de Identificação conforme o canal atendido.",
+        "O rótulo de identificação do produto.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) AO COMPLETAR O PALET, O COLABORADOR DEVERÁ:",
+      "opcoes": [
+        "Colar o rótulo no produto.",
+        "Avisar o assistente logístico.",
+        "Carimbar o produto ou rotular.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE DEVEMOS VERIFICAR ANTES DE TIRAR O PNEU DA ESTEIRA?",
+      "opcoes": [
+        "Se as pintas de balanceamento \"righ mark\" e \"conicidade\" não estão borradas ou falhadas.",
+        "Se os pneus não estão sujos e necessitam a limpeza com o produto limotec.",
+        "Se os pneus não estão misturados.",
+        "Nenhuma das alternativas."
+      ]
+    }
+  ]
+}
