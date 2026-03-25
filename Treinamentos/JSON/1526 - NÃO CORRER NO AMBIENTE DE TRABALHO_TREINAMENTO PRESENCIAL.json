@@ -1,0 +1,52 @@
+{
+  "treinamento": "NÃO CORRER NO AMBIENTE DE TRABALHO_TREINAMENTO PRESENCIAL",
+  "id": 1526,
+  "idChecklist": 1266,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE PODE ACONTECER SE VOCÊ CORRER NA COZINHA?",
+      "opcoes": [
+        "VOCÊ PODE ESCORREGAR E CAIR.",
+        "VOCÊ CHEGA MAIS RÁPIDO.",
+        "VOCÊ TERMINA AS COISAS MAIS RÁPIDO.",
+        "NENHUMA DAS ALTERNATIVAS ACIMA."
+      ]
+    },
+    {
+      "pergunta": "4) COMO VOCÊ DEVE ANDAR NAS ESCADAS?",
+      "opcoes": [
+        "DEVAGAR E SEGURANDO NO CORRIMÃO.",
+        "CORRENDO PARA CHEGAR LOGO.",
+        "IGNORANDO OS DEGRAUS.",
+        "SUBINDO E DESCENDO DE OLHOS FECHADOS."
+      ]
+    },
+    {
+      "pergunta": "3)  O QUE VOCÊ DEVE FAZER SE TEM MUITO TRABALHO E PRECISA SE ORGANIZAR?",
+      "opcoes": [
+        "CORRER E EMPURRAR AS PESSOAS.",
+        "IGNORAR AS PESSOAS E PASSAR RÁPIDO.",
+        "PLANEJAR SEU TEMPO E FAZER AS TAREFAS COM CALMA.",
+        "FAZER DE CONTA QUE NÃO PRECISA IR RÁPIDO."
+      ]
+    },
+    {
+      "pergunta": "2) POR QUE É IMPORTANTE OLHAR PARA FRENTE AO CAMINHAR?",
+      "opcoes": [
+        "PARA VER SE ESTÁ NA HORA DO ALMOÇO.",
+        "PARA PERCEBER SE TEM ALGUÉM OU ALGO NO CAMINHO.",
+        "PARA OLHAR O CELULAR.",
+        "PARA NÃO SE DISTRAIR COM A CONVERSA."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE VOCÊ DEVE FAZER AO CAMINHAR NA COZINHA?",
+      "opcoes": [
+        "CORRER RÁPIDO.",
+        "CAMINHAR DEVAGAR E COM ATENÇÃO.",
+        "FALAR COM OS COLEGAS SEM OLHAR PARA ONDE ANDA.",
+        "IGNORAR O CHÃO."
+      ]
+    }
+  ]
+}
