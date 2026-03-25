@@ -1,0 +1,52 @@
+{
+  "treinamento": "PISHING_DELL",
+  "id": 398,
+  "idChecklist": 291,
+  "perguntas": [
+    {
+      "pergunta": "5) O que é o termo “engenharia social” nos ataques USB da Dell Technologies?",
+      "opcoes": [
+        "São elementos montados para que a vítima não conecte o dispositivo para abrir arquivos",
+        "São histórias simples apenas com mentiras, que levam a vítima a levar o dispositivo para casa para que de lá acesse os arquivos e tenha seu computador pessoal sequestrado",
+        "São histórias bem elaboradas com verdades e mentiras, que levam a vítima fazer uma ação direcionada, como clicar em arquivos e links suspeitos com a intenção de sequestrar arquivos e rede da empresa",
+        "São mensagens enviadas por criminosos pelo correio"
+      ]
+    },
+    {
+      "pergunta": "4) Como se proteger do Document Sharing Pishing?",
+      "opcoes": [
+        "O pessoal de segurança só deve usar recursos de compartilhamento de documentos aprovados pela Dell, para evitar esses tipos de ataques",
+        "Para se proteger deste tipo de ataque é necessário entrar com as credenciais de login apenas em sites protegidos pelo HTTPS",
+        "Para se proteger deste tipo de ataque, não devemos colocar nenhum documento na rede ou enviar por e-mail",
+        "Para se proteger deste tipo de ataque, devemos apenas utilizar documentos impressos e após, colocar no lixo confidencial"
+      ]
+    },
+    {
+      "pergunta": "3) Quais as melhores práticas para evitar o Pishing por e-mail?",
+      "opcoes": [
+        "Apenas clicar em links conhecidos, excluir anexos de remetentes desconhecidos, não baixar softwares não autorizados",
+        "Clicar em links desconhecidos, salvar anexos desconhecidos para análise, responder estranhos para que parem de enviar e-mails",
+        "Verificar todos os links conhecidos, abrindo-os, encaminhar e-mails desconhecidos para o time verificar se conhece, baixar softwares em anexo para verificar a autenticidade",
+        "Não abrir a caixa de e-mails, reduzindo todo o risco à 100%"
+      ]
+    },
+    {
+      "pergunta": "2) Como devo proceder ao encontrar um dispositivo de armazenamento externo (Pendrives, HDs Externos, ETC.) no site?",
+      "opcoes": [
+        "Devo imediatamente conectar no computador mais próximo para encontrar o usuário e alertá-lo",
+        "Devo verificar se é um item pessoal ou não e levar para a segurança local, para tratamento adequado",
+        "É importante que o item seja imediatamente descartado na lixeira adequada, por não saber a procedência",
+        "O Time de Cybersegurança deve ser acionado e o item entregue"
+      ]
+    },
+    {
+      "pergunta": "1) O que é um código Malicioso?",
+      "opcoes": [
+        "É um código que não se ativa automaticamente após visualização e não baixa outros malwares",
+        "É um código que se ativa automaticamente após visualização e pode baixar outros malwares",
+        "É um código que se ativa manualmente e deve ser executado outro código para baixar malwares",
+        "É um malware que se ativa independente do usuário abrir o arquivo ou não"
+      ]
+    }
+  ]
+}
