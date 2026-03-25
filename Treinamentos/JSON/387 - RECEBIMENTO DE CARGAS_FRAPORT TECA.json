@@ -1,0 +1,52 @@
+{
+  "treinamento": "RECEBIMENTO DE CARGAS_FRAPORT TECA",
+  "id": 387,
+  "idChecklist": 280,
+  "perguntas": [
+    {
+      "pergunta": "5) Após as cargas serem pesadas e etiquetadas, para onde o operador de empilhadeira movimenta as cargas?",
+      "opcoes": [
+        "Para a balança.",
+        "Para o local de armazenagem indicada no coletor.",
+        "Devolve ao caminhão.",
+        "Carrega para a aeronave."
+      ]
+    },
+    {
+      "pergunta": "4) Quem é o principal responsável pelas cargas, antes de serem recebidas?",
+      "opcoes": [
+        "Cliente.",
+        "Companhia aérea.",
+        "Despachante aduaneiro.",
+        "Supervisor da operação."
+      ]
+    },
+    {
+      "pergunta": "3) Quais tipos de cargas são recebidos?",
+      "opcoes": [
+        "Pesadas.",
+        "Somente em caixas.",
+        "Amarradas e batidas.",
+        "Unificadas."
+      ]
+    },
+    {
+      "pergunta": "2) Qual o título do treinamento que acabamos de ver?",
+      "opcoes": [
+        "Descarga de produtos.",
+        "Importação e exportação.",
+        "Recebimento de cargas.",
+        "Coleta seletiva."
+      ]
+    },
+    {
+      "pergunta": "1) Quando o operador de empilhadeira deve realizar o checklist?",
+      "opcoes": [
+        "Quando o turno estiver mais calmo.",
+        "Antes de iniciar as atividades.",
+        "Uma vez na semana.",
+        "Todas as alternativas estão corretas."
+      ]
+    }
+  ]
+}
