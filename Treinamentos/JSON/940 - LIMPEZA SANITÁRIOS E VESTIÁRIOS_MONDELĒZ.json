@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA SANITÁRIOS E VESTIÁRIOS_MONDELĒZ",
+  "id": 940,
+  "idChecklist": 717,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE É CORRETO UTILIZAR PARA AUXILIAR NA LIMPEZA DA PARTE INTERNA DO MICTÓRIO E VASO SANITÁRIO?",
+      "opcoes": [
+        "PANO PRETO.",
+        "FIBRA BRANCA.",
+        "ESPONJA AMARELA.",
+        "ESCOVA LAVATINA."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL É A COR DA FIBRA UTILIZADA NA LIMPEZA EXTERNA DO VASO SANITÁRIO E MICTÓRIO?",
+      "opcoes": [
+        "FIBRA AZUL.",
+        "FIBRA VERDE.",
+        "FIBRA ROSA.",
+        "FIBRAÇO."
+      ]
+    },
+    {
+      "pergunta": "3) QUAIS SÃO OS PRODUTOS QUÍMICOS UTILIZADOS NA LIMPEZA DE VESTIÁRIOS E SANITÁRIOS?",
+      "opcoes": [
+        "HYPOFOAM E DIVOSAN.",
+        "HYPOFOAM E HIPOCLORITO.",
+        "DIVOSAN E ÁGUA SANITÁRIA.",
+        "SOMENTE DIVOSAN."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL É A COR DAS LUVAS QUE DEVEM SER UTILIZADAS NA LIMPEZA DOS VESTIÁRIOS E SANITÁRIOS?",
+      "opcoes": [
+        "AZUL.",
+        "PRETO.",
+        "VERDE.",
+        "AMARELO."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É A COR DO KIT DE MATERIAIS QUE DEVE SER UTILIZADO NA LIMPEZA DE VESTIÁRIOS E SANITÁRIOS?",
+      "opcoes": [
+        "VERMELHO.",
+        "AZUL.",
+        "PRETO.",
+        "VERDE."
+      ]
+    }
+  ]
+}
