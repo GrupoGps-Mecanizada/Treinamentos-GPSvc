@@ -1,0 +1,52 @@
+{
+  "treinamento": "PDL 20_FEEDBACK SANDUÍCHE",
+  "id": 557,
+  "idChecklist": 359,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual o terceiro e último passo do feedback sanduíche?",
+      "opcoes": [
+        "Termina destacando as qualidades do colaborador e suas expectativas sobre a resolução do problema.",
+        "Termina destacando as qualidades do colaborador para evitar mal estar.",
+        "Termina destacando que será a última conversa sobre o assunto.",
+        "Termina com um pedido de ajuda para o RH."
+      ]
+    },
+    {
+      "pergunta": "4) Conforme o treinamento, se você não se sentir à vontade no primeiro feedback deve:",
+      "opcoes": [
+        "Evitar fazê-lo.",
+        "Dar o feedback de forma reservada.",
+        "Pedir apoio ao seu gestor ou ao RH.",
+        "Pedir a presença de um colega do mesmo setor do Colaborador."
+      ]
+    },
+    {
+      "pergunta": "3) Como deve ser o passo do feedback denominado como “recheio do sanduíche”?",
+      "opcoes": [
+        "Deverá ser de forma séria e impositiva para que gere resultados.",
+        "Deve ser iniciado com as expressões “mas” e “porém”.",
+        "Deve ser apoiado em fatos diversos, que aconteceram ao longo da carreira do Colaborador.",
+        "Deve ser apoiado em fatos e não em achismos, focado no comportamento e não na pessoa."
+      ]
+    },
+    {
+      "pergunta": "2) Qual o primeiro passo do feedback?",
+      "opcoes": [
+        "Direto, sem rodeios, abrindo todas as informações repassadas pelos colegas.",
+        "Um elogio sincero, específico e bem descritivo. Longe da correia e de forma individual.",
+        "Um elogio, criado para amenizar o que vai ser dito após.",
+        "Direto aos pontos a melhorar para evitar rodeios."
+      ]
+    },
+    {
+      "pergunta": "1) Com base no treinamento, o feedback sanduíche tem como objetivo:",
+      "opcoes": [
+        "Ensinar o líder a fazer autocrítica e melhorar a pontualidade dos Colaboradores.",
+        "Ensinar o líder a fazer autocrítica.",
+        "Dividir o feedback em três partes e evitar interrupções.",
+        "Dividir o feedback em três partes e ensinar o líder a fazer críticas construtivas."
+      ]
+    }
+  ]
+}
