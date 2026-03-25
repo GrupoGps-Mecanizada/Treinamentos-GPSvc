@@ -1,0 +1,52 @@
+{
+  "treinamento": "PLANO DE CONTROLE GERAL_BASF",
+  "id": 418,
+  "idChecklist": 311,
+  "perguntas": [
+    {
+      "pergunta": "5) Inspeção visual, limpeza de peças, separação para refugo, identificação de peças e montagem de palhete, são atividades realizadas no processo Calciner. Quem são os responsáveis por essa atividade?",
+      "opcoes": [
+        "São atividades realizadas pelos auxiliares de logísticas nas saídas dos Calciners",
+        "São atividades realizadas pelos vigilantes",
+        "São atividades realizadas pelos auxiliares administrativos",
+        "Nenhuma das alternativas acima"
+      ]
+    },
+    {
+      "pergunta": "4) Por que devemos nos certificar da revisão correta do documento?",
+      "opcoes": [
+        "Devemos nos certificar da revisão correta do documento, porque nele condiz a última atualização do cenário na operação e cumprimento exato das reações a serem seguidas em caso de desvios",
+        "Não precisamos nos certificar porque o responsável por esse documento é a BASF e não precisamos seguir",
+        "Para impedir erros",
+        "Nenhuma das respostas acima"
+      ]
+    },
+    {
+      "pergunta": "3) No Plano de Controle Unificado a que se refere o Plano de Reação?",
+      "opcoes": [
+        "Plano para reagir caso algum acidente de trabalho aconteça",
+        "Plano para reagir caso algum desvio aconteça na operação das atividades",
+        "Plano para reagir caso algum evento sinistro",
+        "Todas as alternativas acima"
+      ]
+    },
+    {
+      "pergunta": "2) Qual setor é responsável pela elaboração e manutenção do Plano de Controle Unificado?",
+      "opcoes": [
+        "Setor de Qualidade da BASF Indaiatuba",
+        "Setor de Recursos Humanos da IN-HAUS",
+        "Setor de SSMA da IN-HAUS",
+        "Setor financeiro da IN-HAUS"
+      ]
+    },
+    {
+      "pergunta": "1) O que é o Plano de Controle Unificado?",
+      "opcoes": [
+        "É um documento onde estão definidos todos os testes e a frequência que devem ser executados nos produtos em cada etapa do processo. Além de servir para aumentar a produtividade da equipe",
+        "É um artigo científico onde estão definidos todos os controles e a frequência que devem ser executados nos produtos em cada etapa do processo",
+        "É um documento onde estão definidos todos os controles (testes) e a frequência que devem ser executados nos produtos em cada etapa do processo. Além de servir para minimizar os danos maiores",
+        "Nenhuma das alternativas anteriores"
+      ]
+    }
+  ]
+}
