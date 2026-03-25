@@ -1,0 +1,52 @@
+{
+  "treinamento": "PLANILHA DE EQUIPAMENTO_LC",
+  "id": 541,
+  "idChecklist": 343,
+  "perguntas": [
+    {
+      "pergunta": "5) O que devemos fazer com os alimentos caso a geladeira apresente temperatura fora do padrão?",
+      "opcoes": [
+        "Deixar os alimentos no equipamento.",
+        "Transferir os alimentos para outro equipamento.",
+        "Deixar os alimentos em temperatura ambiente.",
+        "A enceradeira vai para cima."
+      ]
+    },
+    {
+      "pergunta": "4) Qual a temperatura ideal da geladeira?",
+      "opcoes": [
+        "12°C.",
+        "De 15 a 20°C.",
+        "De 0°C a 10°C.",
+        "Acima de 10°C."
+      ]
+    },
+    {
+      "pergunta": "3) O que devemos fazer caso a temperatura esteja fora do padrão?",
+      "opcoes": [
+        "Não devemos fazer nada.",
+        "Registrar na planilha e tomar a ação corretiva.",
+        "Desligar o equipamento.",
+        "Esperar o equipamento melhorar sozinho."
+      ]
+    },
+    {
+      "pergunta": "2) Quais turnos devem preencher a planilha de equipamentos?",
+      "opcoes": [
+        "Todos.",
+        "Turno da manhã.",
+        "Turno da Tarde.",
+        "Turno da Ceia."
+      ]
+    },
+    {
+      "pergunta": "1) Quais termômetros podemos utilizar para aferir a temperatura dos equipamentos?",
+      "opcoes": [
+        "Termostato.",
+        "Laser, espeto e termostato.",
+        "Espeto.",
+        "Laser."
+      ]
+    }
+  ]
+}
