@@ -1,0 +1,52 @@
+{
+  "treinamento": "CONHECENDO O GPSP_DEMONSTRAÇÃO_PIRÂMIDE",
+  "id": 69,
+  "idChecklist": 43,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual o objetivo da dinâmica da pirâmide?",
+      "opcoes": [
+        "Demonstrar ao máximo as funcionalidades do sistema.",
+        "Ver quem tem coordenação motora.",
+        "Entender sobre montagem de peças.",
+        "Ilustrar trabalho em equipe."
+      ]
+    },
+    {
+      "pergunta": "4) Qual é a forma de login no sistema?",
+      "opcoes": [
+        "Login via CPF.",
+        "Login via Data de nascimento.",
+        "Login via Matrícula.",
+        "Login via Nome completo."
+      ]
+    },
+    {
+      "pergunta": "3) Qual a forma de CONCLUIR uma tarefa no sistema?",
+      "opcoes": [
+        "Clicando em “tchau”.",
+        "Não precisa clicar em nada, a tarefa irá sumir.",
+        "Clicando em finalizar.",
+        "Clicando na opção de “sair”."
+      ]
+    },
+    {
+      "pergunta": "2) Qual a forma de INICIAR uma tarefa no sistema?",
+      "opcoes": [
+        "Clicando na palavra “Oi”.",
+        "Clicando no símbolo de play.",
+        "Clicando no seu nome no aplicativo.",
+        "Clicando na tela branca."
+      ]
+    },
+    {
+      "pergunta": "1) Quais são as três etapas fundamentais no sistema?",
+      "opcoes": [
+        "Clicar em iniciar, visualizar a instrução no ícone de imagem para execução e finalizar.",
+        "Clicar em visualizar a imagem para execução e finalizar.",
+        "Clicar em iniciar e finalizar.",
+        "Clicar em iniciar, ouvir e finalizar."
+      ]
+    }
+  ]
+}
