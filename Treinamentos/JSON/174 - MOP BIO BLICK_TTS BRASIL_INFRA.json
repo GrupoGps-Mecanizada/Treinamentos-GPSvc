@@ -1,0 +1,52 @@
+{
+  "treinamento": "MOP BIO BLICK_TTS BRASIL_INFRA",
+  "id": 174,
+  "idChecklist": 95,
+  "perguntas": [
+    {
+      "pergunta": "5) O que ESTÁ ERRADO sobre o uso do Mop Bio Blick?",
+      "opcoes": [
+        "A presilha de sua base possibilita levar o refil até a bolsa de lavagem sem nenhum contato com este.",
+        "Contém um reservatório externo de 650 ml para abastecimento com produto químico diluído.",
+        "A sua base é  de fácil encaixe, só é possível utilizá-lo com refis que contêm bolsos.",
+        "O Mop Bio Blick não tem reservatório."
+      ]
+    },
+    {
+      "pergunta": "4) Qual a melhor maneira de utilizar o Mop Bio Blick?",
+      "opcoes": [
+        "Com o pano seco, enrolado na base do bio, passe com movimentos de cima para baixo.",
+        "Manter o reservatório vazio e aplicar a solução com borrifador.",
+        "Levante o equipamento a uma certa altura do chão e acione o botão, passe a base com o refil de microfibra em movimentos de vai e vem.",
+        "Com o reservatório abastecido com solução, acionar botão para que o produto químico diluído seja aplicado no piso pela mangueira. Realizar movimentos em forma de oito deitado."
+      ]
+    },
+    {
+      "pergunta": "3) Como deve ser feita a troca do refil do Mop Bio Blick?",
+      "opcoes": [
+        "Necessário se abaixar, só pressionar as laterais com os pés para abertura.",
+        "Não é possível trocar o refil, fazer a lavagem acoplado no próprio Bio.",
+        "Abrir a tampa cinza, com auxílio do diluidor ou uma caneca, colocar até 500 ml de solução.",
+        "Com o pé, acione o botão da base que abrirá a base, com as mãos enluvadas, aperte a presilha para soltar o refil completamente da base."
+      ]
+    },
+    {
+      "pergunta": "2) Qual a importância da placa sinalizadora?",
+      "opcoes": [
+        "Evitar acidentes, pois sinaliza a área que o piso está úmido e escorregadio.",
+        "Não se faz necessário a utilização.",
+        "Para descarte de dejetos.",
+        "Para deixar o ambiente mais bonito."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o cuidado que devemos ter antes de realizar a limpeza úmida do piso?",
+      "opcoes": [
+        "Não é recomendável fazer limpeza úmida em piso algum.",
+        "Limpar uma vez por dia.",
+        "Colocar uma placa sinalizadora no começo e outra ao final da área a ser limpa.",
+        "Não apertar o botão de acionamento do Bio Blick."
+      ]
+    }
+  ]
+}
