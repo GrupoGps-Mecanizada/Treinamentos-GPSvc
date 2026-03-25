@@ -1,0 +1,52 @@
+{
+  "treinamento": "PGRSS_UNIMED",
+  "id": 395,
+  "idChecklist": 288,
+  "perguntas": [
+    {
+      "pergunta": "5) Marque a alternativa ERRADA",
+      "opcoes": [
+        "Os resíduos devem ser descartados no lixo adequado",
+        "Nunca reencape a agulha, pois você poderá se picar",
+        "É permitida a separação da seringa e agulha, desde que haja dispositivo de segurança",
+        "Documentos contendo dados sensíveis de pacientes podem ser descartados no lixo comum"
+      ]
+    },
+    {
+      "pergunta": "4) Qual a capacidade máxima em que devo fechar a caixa rígida para resíduos perfurocortantes?",
+      "opcoes": [
+        "Apenas quando a caixa estiver completamente cheia",
+        "Quando a caixa atingir 3/4 da capacidade",
+        "Quando a caixa atingir a metade da capacidade",
+        "A caixa rígida não se destina para resíduos perfurocortantes"
+      ]
+    },
+    {
+      "pergunta": "3) Quanto ao Grupo “B” resíduos químicos, é correto o descarte em",
+      "opcoes": [
+        "Lixo BRANCO",
+        "Caixa Rígida",
+        "Lixo PRETO",
+        "Lixo LARANJA"
+      ]
+    },
+    {
+      "pergunta": "2) Quanto a classificação dos resíduos, respectivamente: bisturi, bolsa de sangue, remédios e agulha. Indique abaixo a ordem dos grupos",
+      "opcoes": [
+        "GRUPO E – GRUPO E – GRUPO B – GRUPO A",
+        "GRUPO A – GRUPO B – GRUPO E – GRUPO E",
+        "GRUPO E – GRUPO A – GRUPO B – GRUPO E",
+        "GRUPO B – GRUPO E – GRUPO A – GRUPO E"
+      ]
+    },
+    {
+      "pergunta": "1) Qual é o objetivo do Plano de Gerenciamento de Riscos de Serviços de Saúde “PGRSS”?",
+      "opcoes": [
+        "Proporcionar controle sobre a saúde dos pacientes",
+        "Proporcionar aos resíduos gerados um encaminhamento seguro de forma eficiente",
+        "Agilizar o atendimento aos pacientes com doenças infecciosas",
+        "Nenhuma das alternativas está correta"
+      ]
+    }
+  ]
+}
