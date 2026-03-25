@@ -1,0 +1,52 @@
+{
+  "treinamento": "SEGURANÇA PATRIMONIAL_REGIONALMG",
+  "id": 323,
+  "idChecklist": 222,
+  "perguntas": [
+    {
+      "pergunta": "5) O Vigilante dever verificar antes do início das atividades",
+      "opcoes": [
+        "Condição geral do armamento, munição e veículo",
+        "Se tem revista para leitura",
+        "Se tem jogos de computador instalados",
+        "Ligar o rádio na frequência de sua preferência"
+      ]
+    },
+    {
+      "pergunta": "4) Em caso de anormalidade, o Vigilante deve:",
+      "opcoes": [
+        "Sair correndo",
+        "Confrontar o suposto invasor",
+        "Comunicar imediatamente o Supervisor",
+        "Fazer do suposto invasor refém"
+      ]
+    },
+    {
+      "pergunta": "3) Ao assumir o plantão, o Vigilante deve",
+      "opcoes": [
+        "Ligar o rádio",
+        "Fazer a abertura da ocorrência ao assumir o plantão, descrevendo todos os itens que estão sendo recebidos",
+        "Assistir TV",
+        "Ler um Livro"
+      ]
+    },
+    {
+      "pergunta": "2) O Vigilante deve tratar as pessoas com:",
+      "opcoes": [
+        "Mal-educado e Indiscreto",
+        "Desrespeitoso e sem informação",
+        "Indisponível e Inconveniente",
+        "Com respeito e Cordialidade"
+      ]
+    },
+    {
+      "pergunta": "1) Como o Vigilante deve se apresentar ao trabalho?",
+      "opcoes": [
+        "Devidamente sujo",
+        "Vestindo a roupa que mais gosta",
+        "Devidamente uniformizado, com Crachá Funcional e portando CNV",
+        "Com barba sem fazer"
+      ]
+    }
+  ]
+}
