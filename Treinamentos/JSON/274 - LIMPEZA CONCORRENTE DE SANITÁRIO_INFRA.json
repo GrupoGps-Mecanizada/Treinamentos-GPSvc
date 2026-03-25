@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA CONCORRENTE DE SANITÁRIO_INFRA",
+  "id": 274,
+  "idChecklist": 186,
+  "perguntas": [
+    {
+      "pergunta": "5) Marcar a alternativa CORRETA: Qual a cor do kit utilizado na limpeza de sanitários (balde, pano de microfibra, fibra e luvas)?",
+      "opcoes": [
+        "Kit de cor amarela.",
+        "Kit de cor vermelha.",
+        "Kit de cor azul.",
+        "Kit de cor laranja."
+      ]
+    },
+    {
+      "pergunta": "4) Quanto a ordem de limpeza das superfícies do sanitário, marque a alternativa com a ordem CORRETA.",
+      "opcoes": [
+        "1º espelhos, 2º suportes de descartáveis, 3º torneira, 4º pia, 5º área de maçaneta, 6º manchas na parede.",
+        "1º piso, 2º torneira, 3º parede, 4º suportes, 5º pia.",
+        "1º piso, 2º espelhos, 3º limpar a parede, 4º torneiras.",
+        "1º área de maçaneta, 2º piso, 3º espelhos, 4º pia, 5º suportes de papel toalha, não limpar os de sabonete."
+      ]
+    },
+    {
+      "pergunta": "3) Qual alternativa está ERRADA sobre a etapa de limpeza do vaso sanitário?",
+      "opcoes": [
+        "Para limpeza do vaso, utilizar luvas azuis, fibra verde cortada, escova lavatina e pano de microfibra azul.",
+        "Utilizamos a fibra verde cortada pela metade para limpar sujidades incrustradas dentro do vaso sanitário.",
+        "Acionar a descarga ao finalizar a limpeza interna do vaso, após limpar o botão de acionamento.",
+        "Secar a parte externa do vaso sanitário com o auxílio do pano de microfibra azul."
+      ]
+    },
+    {
+      "pergunta": "2) Marque a alternativa contém a atividade que NÃO é realizada na limpeza concorrente de sanitários:",
+      "opcoes": [
+        "Recolher resíduos.",
+        "Limpeza de superfícies como espelhos, pias e maçanetas.",
+        "Limpeza do vaso sanitário.",
+        "Limpeza completa do teto."
+      ]
+    },
+    {
+      "pergunta": "1) O que é limpeza concorrente de sanitários?",
+      "opcoes": [
+        "A limpeza concorrente de sanitários é o procedimento de limpeza realizado diariamente com a finalidade de conservação dos sanitários e reposição de descartáveis de acordo com a demanda do ambiente.",
+        "É a limpeza realizada com detergente por todo o piso do sanitário.",
+        "É um processo de higienização do corredor entre um sanitário e outro, em qualquer área, seja hospitalar, escritório ou shoppings.",
+        "É a limpeza somente do vaso sanitário."
+      ]
+    }
+  ]
+}
