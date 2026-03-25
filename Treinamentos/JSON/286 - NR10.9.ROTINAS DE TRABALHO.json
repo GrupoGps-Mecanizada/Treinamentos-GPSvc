@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR10.9.ROTINAS DE TRABALHO",
+  "id": 286,
+  "idChecklist": 198,
+  "perguntas": [
+    {
+      "pergunta": "5) De quem devem ser atendidas com prioridade as recomendações sobre ferramentas e equipamentos elétricos com isolação?",
+      "opcoes": [
+        "Fabricantes.",
+        "Empresas.",
+        "Revendedores.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "4) Qual instalação elétrica garante as condições de segurança ao trabalhador por meio de procedimentos e equipamentos adequados desde o início até o final dos trabalhos e liberação para uso?",
+      "opcoes": [
+        "Instalação liberada para serviços (BT/AT)",
+        "Instalação bloqueada para serviços (BT/AT)",
+        "Instalação inativa.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Qual o profissional pode alterar os procedimentos de desenergização de instalações elétricas?",
+      "opcoes": [
+        "Capacitado e autorizado.",
+        "Habilitado e autorizado.",
+        "Qualificado e autorizado.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "2) Conforme a NR10, qual é o primeiro procedimento para reenergização de instalações elétricas?",
+      "opcoes": [
+        "Remoção da sinalização de impedimento de reenergização.",
+        "Remoção do aterramento temporário, da equipotencialização e das proteções adicionais.",
+        "Retirada das ferramentas, utensílios e equipamentos.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "1) Conforme a NR10, qual é o primeiro procedimento que deve ser feito para desenergização de instalações elétricas?",
+      "opcoes": [
+        "Impedimento de reenergização.",
+        "Seccionamento.",
+        "Instalação da sinalização de impedimento de reenergização.",
+        "Nenhuma das anteriores."
+      ]
+    }
+  ]
+}
