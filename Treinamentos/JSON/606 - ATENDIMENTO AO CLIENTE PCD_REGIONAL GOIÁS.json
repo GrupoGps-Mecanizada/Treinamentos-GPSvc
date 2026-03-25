@@ -1,0 +1,52 @@
+{
+  "treinamento": "ATENDIMENTO AO CLIENTE PCD_REGIONAL GOIÁS",
+  "id": 606,
+  "idChecklist": 392,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual das características você precisará para lidar com um deficiente com paralisia cerebral?",
+      "opcoes": [
+        "Pena.",
+        "Agilidade.",
+        "Paciência.",
+        "Falta de atenção."
+      ]
+    },
+    {
+      "pergunta": "4) Qual deve ser a conduta de quem acompanha um deficiente visual?",
+      "opcoes": [
+        "Pegar na mão e conduzi-lo até onde precisar.",
+        "Dar o braço e emitir comando de voz.",
+        "Dar a instrução e ficar observando.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Onde os cães-guias não podem entrar?",
+      "opcoes": [
+        "Escolas.",
+        "Shopping.",
+        "Hospitais.",
+        "Supermercados."
+      ]
+    },
+    {
+      "pergunta": "2) Qual material de carga pode ser usado para se comunicar com pessoas surdas e/ou mudas?",
+      "opcoes": [
+        "Celular.",
+        "Apito.",
+        "Lanterna.",
+        "Papel e caneta."
+      ]
+    },
+    {
+      "pergunta": "1) Qual termo correto para nos referirmos a pessoas com deficiência?",
+      "opcoes": [
+        "PEC.",
+        "PcD.",
+        "PiD.",
+        "PnE."
+      ]
+    }
+  ]
+}
