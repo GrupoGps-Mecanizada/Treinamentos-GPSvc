@@ -1,0 +1,52 @@
+{
+  "treinamento": "DICAS DE SEGURANÇA COM PERFUROCORTANTES_ALIMENTAÇÃO",
+  "id": 787,
+  "idChecklist": 566,
+  "perguntas": [
+    {
+      "pergunta": "5) ASSINALE ABAIXO A ALTERNATIVA CORRETA. DEVEMOS MANTER AS FACAS SEMPRE:",
+      "opcoes": [
+        "CEGAS.",
+        "SEM O CABO.",
+        "AFIADAS E EM BOAS CONDIÇÕES.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "4) APÓS USO DAS FACAS, COMO DEVEMOS GUARDÁ-LAS?",
+      "opcoes": [
+        "SOBRE BANCADAS E DENTRO DAS PIAS.",
+        "EM QUALQUER LUGAR.",
+        "NO PORTA FACAS.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "3) POSSO UTILIZAR EQUIPAMENTOS QUEBRADOS?",
+      "opcoes": [
+        "NÃO, POIS, DEVO REPORTAR AO LÍDER IMEDIATO A IRREGULARIDADE.",
+        "SIM, SÓ AJUSTAR COM FITA ADESIVA.",
+        "SIM, MAS DEVO TOMAR CUIDADO REDOBRADO",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL EPI DEVEMOS USAR NA ATIVIDADE DE CORTE DE ALIMENTOS?",
+      "opcoes": [
+        "LUVA LATÉX.",
+        "LUVA MALHA DE AÇO.",
+        "LUVA DE PVC.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1) COMO DEVEMOS TRABALHAR NA COZINHA?",
+      "opcoes": [
+        "ACELERADO, QUERER FAZER TUDO CORRENDO.",
+        "OPERAR COM CALMA E ATENÇÃO.",
+        "TRABALHAR SEM EPI’S.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    }
+  ]
+}
