@@ -1,0 +1,52 @@
+{
+  "treinamento": "LGPD APLICADA AO TI - MÓDULO III",
+  "id": 351,
+  "idChecklist": 250,
+  "perguntas": [
+    {
+      "pergunta": "5) Quem é responsável da TI pelo correto tratamento de dados?",
+      "opcoes": [
+        "O Líder.",
+        "Todos os Colaboradores.",
+        "O Analista Programador.",
+        "O Desenvolvedor."
+      ]
+    },
+    {
+      "pergunta": "4) É responsabilidade da TI:",
+      "opcoes": [
+        "Realizar a gestão de backups.",
+        "Analisar contratos.",
+        "Contratar funcionários.",
+        "Todas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) A gestão de usuários e acessos é fundamental para:",
+      "opcoes": [
+        "Garantir a confidencialidade dos dados.",
+        "Atender ao princípio da transparência.",
+        "Enviar para ANPD.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) Um dos meios para a proteção de dados é:",
+      "opcoes": [
+        "Tornar os dados públicos.",
+        "Contratar segurança armada.",
+        "Adotar criptografia.",
+        "Consultar antecedentes dos funcionários."
+      ]
+    },
+    {
+      "pergunta": "1) A TI é responsável por:",
+      "opcoes": [
+        "Medidas administrativas.",
+        "Medidas técnicas.",
+        "Decidir sobre o tratamento de dados.",
+        "Nenhuma das alternativas."
+      ]
+    }
+  ]
+}
