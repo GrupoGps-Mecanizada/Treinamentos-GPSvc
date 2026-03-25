@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR10.11, 13 E 15.RISCOS ADICIONAIS",
+  "id": 288,
+  "idChecklist": 200,
+  "perguntas": [
+    {
+      "pergunta": "5) Assinale o item que é obrigação da empresa conforme a NR 10.",
+      "opcoes": [
+        "Comunicar, de imediato, ao responsável pela execução do serviço as situações que considerar de risco para sua segurança e saúde e a de outras pessoas.",
+        "Ocorrência de acidentes de trabalho envolvendo instalações e serviços em eletricidade, propor e adotar medidas preventivas e corretivas.",
+        "Zelar pela sua segurança e saúde e a de outras pessoas que possam ser afetadas por suas ações ou omissões no trabalho.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "4) Assinale exemplo de causa direta de acidente.",
+      "opcoes": [
+        "Descarga atmosférica.",
+        "Explosão de equipamento.",
+        "Não utilização de EPI.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Assinale o item com as causas de acidentes do trabalho.",
+      "opcoes": [
+        "Atos inseguros e condições inseguras.",
+        "Condições seguras.",
+        "Comportamento seguro.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "2) Áreas classificadas possuem qual potencial de atmosfera?",
+      "opcoes": [
+        "Potencial de atmosfera explosiva.",
+        "Potencial de atmosfera úmida.",
+        "Potencial de atmosfera seca.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "1) Assinale exemplo(s) de riscos adicionais.",
+      "opcoes": [
+        "Choque elétrico.",
+        "Arco elétrico.",
+        "Altura e espaço confinado.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    }
+  ]
+}
