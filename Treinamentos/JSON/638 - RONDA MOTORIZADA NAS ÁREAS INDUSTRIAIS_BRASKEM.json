@@ -1,0 +1,52 @@
+{
+  "treinamento": "RONDA MOTORIZADA NAS ÁREAS INDUSTRIAIS_BRASKEM",
+  "id": 638,
+  "idChecklist": 424,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual o documento devemos preencher para assegurar as condições do carro?",
+      "opcoes": [
+        "Checklist.",
+        "AST.",
+        "Formulários.",
+        "Ficha de DDS."
+      ]
+    },
+    {
+      "pergunta": "4) Quando registramos a ocorrência no aplicativo da empresa, o que devemos descrever?",
+      "opcoes": [
+        "Os fatos, registrando imagens e evidenciando através do “QR Code”, sequenciando os pontos visitados.",
+        "Os fatos, registrando áudios e evidenciando através do “QR Code”, sequenciando os pontos visitados.",
+        "Os fatos, registrando imagens e evidenciando através do “QR Code”, sequenciando os pontos não visitados.",
+        "Apenas os pontos visitados."
+      ]
+    },
+    {
+      "pergunta": "3) Quem pode realizar as rondas?",
+      "opcoes": [
+        "Qualquer pessoa habilitada.",
+        "Somente pessoas autorizadas.",
+        "Vigilante Condutor devidamente habilitado (Graber).",
+        "Motorista de vans e ônibus."
+      ]
+    },
+    {
+      "pergunta": "2) Por qual motivo temos que utilizar o aplicativo?",
+      "opcoes": [
+        "Para realizar treinamentos.",
+        "Para realizar assinatura de folha de ponto.",
+        "Para registrar rondas e ocorrências.",
+        "Para realizar registro de DDS."
+      ]
+    },
+    {
+      "pergunta": "1) Qual EPI devemos usar para realizar a atividade?",
+      "opcoes": [
+        "Touca Árabe.",
+        "Calçado de segurança, protetor auricular e óculos ampla visão.",
+        "Luva e mangote.",
+        "Capacete com jugular."
+      ]
+    }
+  ]
+}
