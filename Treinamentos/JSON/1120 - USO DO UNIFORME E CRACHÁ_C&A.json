@@ -1,0 +1,52 @@
+{
+  "treinamento": "USO DO UNIFORME E CRACHÁ_C&A",
+  "id": 1120,
+  "idChecklist": 893,
+  "perguntas": [
+    {
+      "pergunta": "5) COMO GARANTIR O BOM ESTADO DO UNIFORME?",
+      "opcoes": [
+        "USANDO APENAS DURANTE O EXPEDIENTE.",
+        "NÃO USANDO PRODUTOS À BASE DE CLORO.",
+        "DEIXAR O UNIFORME SECANDO BEM.",
+        "TODAS AS ALTERNATIVAS ACIMA."
+      ]
+    },
+    {
+      "pergunta": "4) QUEM É RESPONSÁVEL PELA HIGIENIZAÇÃO DO UNIFORME?",
+      "opcoes": [
+        "MEU LÍDER.",
+        "A EMPRESA.",
+        "EU MESMO (A).",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "3) POR QUE O USO DO CRACHÁ É FUNDAMENTAL NO DIA A DIA?",
+      "opcoes": [
+        "PORQUE ATRAVÉS DO CRACHÁ POSSO ACESSAR TODOS OS AMBIENTES DA EMPRESA.",
+        "O USO DO CRACHÁ NÃO É FUNDAMENTAL NO DIA A DIA",
+        "PORQUE A EMPRESA EXIGE O USO TODOS OS DIAS.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "2) É POSSÍVEL ENTRAR NO CD SEM UNIFORME?",
+      "opcoes": [
+        "É POSSÍVEL, BASTA FALAR COM O LÍDER.",
+        "DEPENDE DO DIA.",
+        "NÃO É POSSÍVEL, PRECISO USAR UNIFORME TODOS OS DIAS DURANTE O EXPEDIENTE.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É A IMPORTÂNCIA DO USO DO UNIFORME?",
+      "opcoes": [
+        "PROMOVER A SEGURANÇA DOS TRABALHADORES.",
+        "CRIAR UMA IMAGEM VISUAL UNIFICADA PARA A EMPRESA.",
+        "FACILITAR A IDENTIFICAÇÃO DOS COLABORADORES.",
+        "TODAS AS ALTERNATIVAS ACIMA."
+      ]
+    }
+  ]
+}
