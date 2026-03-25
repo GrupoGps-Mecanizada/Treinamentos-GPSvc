@@ -1,0 +1,57 @@
+{
+  "treinamento": "PORTAL GPS E GPSVC",
+  "id": 87,
+  "idChecklist": 60,
+  "perguntas": [
+    {
+      "pergunta": "5) O que significa a sigla MRH?",
+      "opcoes": [
+        "Manutenção de Recursos Humanos.",
+        "Movimentação de Recursos Humanos.",
+        "Momento Recursos Humanos.",
+        "Mobilidade de Recursos Humanos.",
+        "Mudança de Recursos Humanos."
+      ]
+    },
+    {
+      "pergunta": "4) Qual ação não é possível realizar para o Colaborador através da visão Gestor no GPSvc?",
+      "opcoes": [
+        "Ver holerite.",
+        "Enviar documentos.",
+        "Preencher currículo.",
+        "Ver benefícios.",
+        "Assinar contrato e termos."
+      ]
+    },
+    {
+      "pergunta": "3) Preciso abrir uma MRH de Férias, com quantos dias de antecedência preciso abrir essa MRH no Portal GPS?",
+      "opcoes": [
+        "60 dias.",
+        "45 dias.",
+        "30 dias.",
+        "20 dias.",
+        "7 dias."
+      ]
+    },
+    {
+      "pergunta": "2) Estou tentando realizar uma movimentação interna, porém os campos de salário e função não estão disponíveis. O que pode estar acontecendo?",
+      "opcoes": [
+        "O Colaborador possui menos de 6 meses de empresa ou passou por movimentação salarial ou de função nesse período.",
+        "Não sou o Líder desse Colaborador no Portal GPS.",
+        "Não sou o Supervisor desse Colaborador no CR (Centro de Resultados).",
+        "É uma inconsistência sistêmica.",
+        "Não sou o Gerente desse Colaborador no CR (Centro de Resultados)."
+      ]
+    },
+    {
+      "pergunta": "1) Na MRH de movimentação interna, qual o percentual máximo liberado para aumento salarial?",
+      "opcoes": [
+        "Não há, posso colocar o percentual que desejar.",
+        "60%",
+        "5%",
+        "7%",
+        "20%"
+      ]
+    }
+  ]
+}
