@@ -1,0 +1,52 @@
+{
+  "treinamento": "POP - COMPORTAMENTAL AÇÕES ADVERSAS RGSP_TREINAMENTO PRESENCIAL",
+  "id": 1144,
+  "idChecklist": 917,
+  "perguntas": [
+    {
+      "pergunta": "5) ASSINALE ABAIXO A ATITUDE QUE MOSTRA UM BOM ATENDIMENTO:",
+      "opcoes": [
+        "DÊ ATENÇÃO AO CLIENTE.",
+        "SAIBA CONVERSAR.",
+        "MANTENHA O RESPEITO.",
+        "TODAS AS ALTERNATIVAS ESTÃO CORRETAS."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL É A FINALIDADE DO CARRO FORTE?",
+      "opcoes": [
+        "TRANSPORTAR COLABORADORES DE UM LOCAL PARA OUTRO EM SEGURANÇA.",
+        "TRANSPORTAR EQUIPAMENTOS DE TRABALHO.",
+        "VEÍCULO PESADO E BLINDADO QUE TRANSPORTA VALORES EM ESPÉCIE (DINHEIRO) OU OUTROS.",
+        "ENTREGA DE CORRESPONDÊNCIAS."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE É O CONDICIONAMENTO DE INFORMAÇÕES A TODOS OS ENVOLVIDOS NO PROCESSO MEDIANTE A QUALQUER OCORRÊNCIA DO CONDOMÍNIO, INDIFERENTE DE GRAU?",
+      "opcoes": [
+        "MATRIZ DE COMUNICAÇÃO.",
+        "LEIS.",
+        "REGRAS.",
+        "NENHUMA DAS ALTERNATIVAS ESTÃO CORRETAS."
+      ]
+    },
+    {
+      "pergunta": "2) ASSINALE A ALTERNATIVA CORRETA. AÇÕES OU PROTESTOS EXTERNOS/INTERNOS POR MOTIVO DE REINVINDICAÇÕES PÚBLICA OU PRIVADA É:",
+      "opcoes": [
+        "UM ATENDIMENTO.",
+        "UM CONJUNTO DE REGRAS.",
+        "UMA MANIFESTAÇÃO.",
+        "REFLEXÃO"
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O PROCESSO DE ALTA DE ÁGUAS EM CÓRREGOS, RIOS E POR CONSEQUÊNCIA ACÚMULO DE ÁGUA NAS GALERIAS E VIAS PÚBLICAS PROVENIENTE DE CHUVA TORRENCIAL?",
+      "opcoes": [
+        "CHUVA.",
+        "INUNDAÇÃO.",
+        "TRATAMENTO DE ÁGUA.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    }
+  ]
+}
