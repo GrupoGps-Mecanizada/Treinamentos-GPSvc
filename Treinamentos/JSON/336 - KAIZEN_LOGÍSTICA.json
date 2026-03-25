@@ -1,0 +1,52 @@
+{
+  "treinamento": "KAIZEN_LOGÍSTICA",
+  "id": 336,
+  "idChecklist": 235,
+  "perguntas": [
+    {
+      "pergunta": "5) Se eu tiver dúvidas o que devo fazer?",
+      "opcoes": [
+        "Procurar o gestor mais próximo.",
+        "Pedir uma dica a um colega que nunca usou o programa.",
+        "Esperar acumular muitas dúvidas e depois lista-las ao Gerente em um pedaço de papel.",
+        "Ficar com dúvidas, pois haverá outro treinamento do In-Kaizen futuramente."
+      ]
+    },
+    {
+      "pergunta": "4) Para enviar as minhas ideias, o que devo fazer?",
+      "opcoes": [
+        "Escrever a ideia em um pedaço de papel e entregar ao supervisor mais próximo.",
+        "Enviar um e-mail para ideias_inhaus@gpssa.com e relatar a minha ideia.",
+        "Procurar os QR codes na operação e conseguir o endereço secreto.",
+        "Procurar os QR codes do programa In-Kaizen na operação e preencher o formulário de acordo com as perguntas."
+      ]
+    },
+    {
+      "pergunta": "3) Qual o nome do programa Kaizen da In-haus logística?",
+      "opcoes": [
+        "In-Hauzen.",
+        "NoKaizen.",
+        "EiKaizen.",
+        "In-Kaizen."
+      ]
+    },
+    {
+      "pergunta": "2) Qual a principal função do programa Kaizen?",
+      "opcoes": [
+        "Instigar a necessidade de colaboração entre os colegas.",
+        "Instigar o sentimento de melhoria contínua e trazer ideias que possam ajudar a operação.",
+        "Fazer com o que os Colaboradores deem ideias.",
+        "Tratar de problemas na operação."
+      ]
+    },
+    {
+      "pergunta": "1) Kaizen é uma palavra de origem Japonesa, que significa?",
+      "opcoes": [
+        "Mudar para pior.",
+        "Mudar de vida.",
+        "Mudar para melhor.",
+        "Mudar a mente."
+      ]
+    }
+  ]
+}
