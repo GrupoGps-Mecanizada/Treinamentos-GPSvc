@@ -1,0 +1,52 @@
+{
+  "treinamento": "METODOLOGIAS ÁGEIS_DO",
+  "id": 684,
+  "idChecklist": 470,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual é uma das vantagens das metodologias ágeis?",
+      "opcoes": [
+        "Ênfase na hierarquia da equipe.",
+        "Falta de adaptação às mudanças do mercado.",
+        "Ênfase na entrega contínua de valor.",
+        "Ausência de comunicação entre membros da equipe."
+      ]
+    },
+    {
+      "pergunta": "4) Quais são as características-chave das metodologias ágeis?",
+      "opcoes": [
+        "Abordagem incremental, comunicação, colaboração, adaptabilidade e ênfase na entrega contínua de valor.",
+        "Abordagem sequencial, competição, conflito, rigidez e ênfase na entrega única de valor.",
+        "Abordagem incremental, isolamento, individualismo, inabilidade de se adaptar e ênfase na entrega única de valor.",
+        "Abordagem flexível, falta de comunicação, colaboração, rigidez e ênfase na entrega contínua de valor."
+      ]
+    },
+    {
+      "pergunta": "3) Como as metodologias ágeis abordam o gerenciamento de projetos?",
+      "opcoes": [
+        "Planejando todo o projeto e executando-o de uma só vez.",
+        "Quebrando o projeto em partes menores e trabalhando em cada uma delas separadamente.",
+        "Gerenciando apenas um aspecto do projeto de cada vez.",
+        "Criando um plano rígido e inflexível que deve ser seguido estritamente."
+      ]
+    },
+    {
+      "pergunta": "2) Qual é o principal objetivo das metodologias ágeis?",
+      "opcoes": [
+        "Oferecer uma maneira mais rígida de gerenciar projetos.",
+        "Oferecer uma maneira mais flexível e adaptável de gerenciar projetos em ambientes complexos e incertos.",
+        "Oferecer uma maneira mais cara de gerenciar projetos.",
+        "Oferecer uma maneira mais lenta de gerenciar projetos."
+      ]
+    },
+    {
+      "pergunta": "1) Qual é a abordagem das metodologias ágeis?",
+      "opcoes": [
+        "Iterativa e incremental.",
+        "Planejar todo o projeto e executá-lo de uma só vez.",
+        "Trabalhar em silos.",
+        "Ignorar feedback do Cliente."
+      ]
+    }
+  ]
+}
