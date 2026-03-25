@@ -1,0 +1,52 @@
+{
+  "treinamento": "DIA DAS MÃES",
+  "id": 703,
+  "idChecklist": 487,
+  "perguntas": [
+    {
+      "pergunta": "5) ALÉM DE PRESENTEAR, PARA QUE MAIS O DIA DAS MÃES SERVE? ",
+      "opcoes": [
+        "PARA REFLETIR E VALORIZAR TODA LUTA, ESFORÇO, AMOR E DEDICAÇÃO DAS MÃES. ",
+        "PARA REFLETIR E VALORIZAR TODA LUTA, ESFORÇO, AMOR E DEDICAÇÃO DOS PAIS. ",
+        "PARA REFLETIR E NÃO VALORIZAR TODA LUTA, ESFORÇO, AMOR E DEDICAÇÃO DAS MÃES. ",
+        "PARA REFLETIR E NÃO VALORIZAR TODA LUTA, ESFORÇO, AMOR E DEDICAÇÃO DOS FILHOS.  \r\n"
+      ]
+    },
+    {
+      "pergunta": "4) AS NOVAS HABILIDADES QUE A MULHER ADQUIRE AO SE TORNAR MÃE, PODE AJUDÁ-LA NA VIDA PROFISSIONAL? ",
+      "opcoes": [
+        "NÃO, POIS, SÃO APENAS HABILIDADES DE MATERNIDADE. ",
+        "NÃO, POIS, AS MÃES NÃO TRABALHAM. ",
+        "SIM, SE A LIDERANÇA APOIAR PODE SER UMA FONTE PARA MELHORIA PROFISSIONAL.  ",
+        "SIM, SE BEM UTILIZADAS PODEM SER UMA FONTE PARA MELHORIA PROFISSIONAL.  "
+      ]
+    },
+    {
+      "pergunta": "3) POR QUE AS MÃES SE TORNAM MÚLTIPLAS MULHERES EM UMA SÓ?",
+      "opcoes": [
+        "PORQUE ELAS TÊM AJUDA DE VÁRIAS MULHERES. ",
+        "PORQUE ELAS EQUILIBRAM VÁRIAS FUNÇÕES AO MESMO TEMPO. ",
+        "PORQUE ELAS ADQUIREM VÁRIAS PERSONALIDADES. ",
+        "PORQUE ELAS SÓ FAZEM AMIZADE COM OUTRAS MÃES. "
+      ]
+    },
+    {
+      "pergunta": "2) QUANDO É COMEMORADO O DIA DAS MÃES? ",
+      "opcoes": [
+        "PRIMEIRO DOMINGO DO MÊS DE MAIO.",
+        "SEGUNDO DOMINGO DO MÊS DE MAIO.",
+        "TERCEIRO DOMINGO DO MÊS DE MAIO.",
+        "ÚLTIMO DOMINGO DO MÊS DE MAIO."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O OBJETIVO DESSE TREINAMENTO? ",
+      "opcoes": [
+        "ENALTECER O AMOR E A GARRA DOS PAIS. ",
+        "ENALTECER O AMOR E A GARRA DAS AVÓS.",
+        "ENALTECER O AMOR E A GARRA DAS MÃES.",
+        "ENALTECER O AMOR E A GARRA DOS FILHOS. "
+      ]
+    }
+  ]
+}
