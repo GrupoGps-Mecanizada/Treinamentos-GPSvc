@@ -1,0 +1,52 @@
+{
+  "treinamento": "CÓDIGO DE ÉTICA_M DIAS BRANCO",
+  "id": 1344,
+  "idChecklist": 1103,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE VOCÊ FARIA CASO SE DEPARASSE COM UMA SITUAÇÃO EM QUE A SEGURANÇA DE TODOS ESTIVESSE EM RISCO?",
+      "opcoes": [
+        "NÃO SUSPENDERIA AS MINHAS ATIVIDADES E DEIXARIA PARA COMUNICAR AO GESTOR NO FIM DO EXPEDIENTE.",
+        "FINGIR QUE NÃO VI.",
+        "SUSPENDERIA MINHAS ATIVIDADES E COMUNICARIA IMEDIATAMENTE AO GESTOR.",
+        "VOLTARIA A TRABALHAR NORMALMENTE."
+      ]
+    },
+    {
+      "pergunta": "4)  POR QUE NÃO É PERMITIDO A TROCA DE BENEFÍCIOS ENTRE POTENCIAIS FORNECEDORES?",
+      "opcoes": [
+        "PORQUE ISSO PODERIA PREJUDICAR A IMPARCIALIDADE NAS DECISÕES.",
+        "PORQUE AJUDARIA A REDUZIR OS CUSTOS DA EMPRESA.",
+        "PORQUE PROMOVERIA UMA MAIOR COLABORAÇÃO ENTRE ELES.",
+        "PORQUE PODE SER VANTAJOSA PARA AUMENTAR A MARGEM DE LUCRO."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL O COMPROMISSO DOS COLABORADORES E TERCEIROS, COM AS POLÍTICAS DE COMPLIANCE?",
+      "opcoes": [
+        "PROTEGER SOMENTE OS ACIONISTAS.",
+        "PROTEGER SOMENTE A LIDERANÇA.",
+        "PROTEGER A IMAGEM E REPUTAÇÃO.",
+        "PROTEGER SOMENTE A ALTA LIDERANÇA."
+      ]
+    },
+    {
+      "pergunta": "2) ONDE DEVO DENUNCIAR UMA VIOLAÇÃO AO CÓDIGO DE ÉTICA?",
+      "opcoes": [
+        "CANAL ÉTICO (SITE/E-MAIL/TELEFONE).",
+        "SAC.",
+        "REDES SOCIAIS.",
+        "NÃO REPORTAR, PORQUE NÃO FOI COMIGO."
+      ]
+    },
+    {
+      "pergunta": "1) QUANTAS DIRETRIZES ESTÃO PREVISTAS NO CÓDIGO DE ÉTICA?",
+      "opcoes": [
+        "9.",
+        "10.",
+        "11.",
+        "12."
+      ]
+    }
+  ]
+}
