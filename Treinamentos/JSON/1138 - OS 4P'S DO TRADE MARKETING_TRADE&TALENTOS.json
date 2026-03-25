@@ -1,0 +1,52 @@
+{
+  "treinamento": "OS 4P'S DO TRADE MARKETING_TRADE&TALENTOS",
+  "id": 1138,
+  "idChecklist": 911,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE O PREÇO REPRESENTA NAS ESTRATÉGIAS DOS 4PS?",
+      "opcoes": [
+        "A QUALIDADE DO PRODUTO.",
+        "O VALOR MONETÁRIO ATRIBUÍDO AO PRODUTO.",
+        "A DISTRIBUIÇÃO DO PRODUTO NOS PONTOS DE VENDA.",
+        "A PERCEPÇÃO DE VALOR QUE O CLIENTE TEM EM RELAÇÃO AO PRODUTO."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL É A DEFINIÇÃO DE \"PRODUTO\" NO CONTEXTO DO TRADE MARKETING?",
+      "opcoes": [
+        "APENAS O ITEM FÍSICO OFERECIDO PARA VENDA.",
+        "A ESTRATÉGIA DE PRECIFICAÇÃO DE UM PRODUTO.",
+        "O CONJUNTO DE ATRIBUTOS TANGÍVEIS E INTANGÍVEIS OFERECIDOS PARA SATISFAZER UMA NECESSIDADE OU DESEJO.",
+        "A REPRESENTAÇÃO SIMBÓLICA DA MARCA NO PONTO DE VENDA."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL DOS 4PS ENVOLVE ESTRATÉGIAS DE MARKETING E COMUNICAÇÃO PARA PROMOVER O PRODUTO NO PONTO DE VENDA?",
+      "opcoes": [
+        "PRODUTO.",
+        "PREÇO.",
+        "PROMOÇÃO.",
+        "PRAÇA."
+      ]
+    },
+    {
+      "pergunta": "2) PARA QUE SERVE OS MATERIAIS DE PONTOS DE VENDAS (MPDVS)?",
+      "opcoes": [
+        "PARA PROMOVER E AUMENTAR A VISIBILIDADE DOS PRODUTOS, MARCAS E SERVIÇOS DENTRO DO PDV.",
+        "PARA CRIAR PROMOÇÕES DA MARCA.",
+        "PARA MELHORAR O ASPECTO DO PRODUTO.",
+        "PARA ORIENTAR O CONSUMIDOR SOBRE O USO CORRETO DO PRODUTO."
+      ]
+    },
+    {
+      "pergunta": "1) QUAIS SÃO OS 4PS DO TRADE MARKETING?",
+      "opcoes": [
+        "PRODUTO, PREÇO, PLANOGRAMA E PRODUTO.",
+        "PRESENÇA, POSICIONAMENTO, PREÇO E PROMOÇÃO.",
+        "PRODUTO, PRAÇA, PREÇO E POSICIONAMENTO.",
+        "PRODUTO, PROPAGANDA, PREÇO E PARCERIAS."
+      ]
+    }
+  ]
+}
