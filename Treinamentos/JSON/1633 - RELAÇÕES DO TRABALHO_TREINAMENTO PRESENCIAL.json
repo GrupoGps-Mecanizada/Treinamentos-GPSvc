@@ -1,0 +1,52 @@
+{
+  "treinamento": "RELAÇÕES DO TRABALHO_TREINAMENTO PRESENCIAL",
+  "id": 1633,
+  "idChecklist": 1336,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL É A FUNÇÃO DA ENTIDADE SINDICAL?",
+      "opcoes": [
+        "REPRESENTAR UM GRUPO DE TRABALHADORES.",
+        "FAZER GREVE.",
+        "BUSCAR INTERESSES PRÓPRIOS.",
+        "NENHUMA DAS ALTERNATIVAS ACIMA."
+      ]
+    },
+    {
+      "pergunta": "4) QUANDO QUE EU POSSO APLICAR MEDIDA DISCIPLINAR?",
+      "opcoes": [
+        "QUANDO EU ESTIVER NERVOSA(O).",
+        "QUANDO EU ESTIVER ESTRESSADA.",
+        "QUALQUER MOMENTO.",
+        "QUANDO CONSTATADA UMA CONDUTA INAPROPRIADA."
+      ]
+    },
+    {
+      "pergunta": "3) PARA QUE SERVE UMA MEDIDA DISCIPLINAR?",
+      "opcoes": [
+        "PARA PERSEGUIR O EMPREGADO.",
+        "PARA ORIENTAR.",
+        "PARA PERSEGUIR E REDIRECIONAR A CONDUTA DO EMPREGADO.",
+        "PARA ESCLARECER E REDIRECIONAR A CONDUTA DO EMPREGADO."
+      ]
+    },
+    {
+      "pergunta": "2) COMO DEVO PROCEDER COM AGENDAMENTO DE UMA VISITA DE REPRESENTANTES DO SINDICATO?",
+      "opcoes": [
+        "NÃO ACEITAR A VISITA.",
+        "NÃO RESPONDER.",
+        "AGENDA A VISITA NO MELHOR HORÁRIO DA UNIDADE E COMPARTILHA COM O CLIENTE.",
+        "IMPEDIR QUE OS COLABORADORES CONVERSEM COM OS REPRESENTANTES."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE É O SINDICATO?",
+      "opcoes": [
+        "ORGANIZAÇÃO DE RH.",
+        "ORGANIZAÇÃO DE PESSOAS.",
+        "ORGANIZAÇÃO DE EMPREGADOS DE UMA MESMA EMPRESA.",
+        "ORGANIZAÇÃO DE EMPREGADOS DE UMA MESMA CATEGORIA."
+      ]
+    }
+  ]
+}
