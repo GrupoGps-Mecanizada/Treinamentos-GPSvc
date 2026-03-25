@@ -1,0 +1,52 @@
+{
+  "treinamento": "ABASTECIMENTO DAS LINHAS DE PRODUÇÃO_NOVELIS",
+  "id": 1096,
+  "idChecklist": 868,
+  "perguntas": [
+    {
+      "pergunta": "5) APÓS O POSICIONAMENTO DA BOBINA NO MANDRIL, O QUE O OPERADOR PRECISA FAZER PARA QUE A BOBINA NÃO FIQUE SOLTA?",
+      "opcoes": [
+        "ISOLAR A ÁREA.",
+        "DESCARTAR VOLTAS.",
+        "EXPANDIR O MANDRIL.",
+        "REALIZAR O GPSVISTA."
+      ]
+    },
+    {
+      "pergunta": "4) EM QUAL EQUIPAMENTO DEVEMOS POSICIONAR A BOBINA PARA REALIZAR O TOMBAMENTO?",
+      "opcoes": [
+        "MANDRIL.",
+        "EMPILHADEIRA DE 16T.",
+        "COILCAR.",
+        "TOMBADOR."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL FERRAMENTA É NECESSÁRIA PARA REALIZAR O DESEMBALO DAS BOBINAS?",
+      "opcoes": [
+        "TESOURA SEM PONTA.",
+        "ESTILETE RETRÁTIL AUTOMÁTICO.",
+        "ESTILETE RETRÁTIL MANUAL.",
+        "TESOURA COM PONTA."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS EPI’S SÃO NECESSÁRIOS PARA REALIZAR A ATIVIDADE DE ABASTECIMENTO?",
+      "opcoes": [
+        "BONÉ COM CASQUETE, ÓCULOS DE SEGURANÇA, LUVA ANTICORTE, DUPLA PROTEÇÃO AUDITIVA (CONCHA + PLUG) E BOTA DE SEGURANÇA.",
+        "LUVA E PLUG.",
+        "BONÉ CASQUETE, BOTA DE SEGURANÇA, ÓCULOS DE SEGURANÇA E LUVA DE RASPA.",
+        "ÓCULOS DE SEGURANÇA."
+      ]
+    },
+    {
+      "pergunta": "1) DE QUEM É A RESPONSABILIDADE DE ABASTECER A LINHA DO CLIENTE COM AS BOBINAS DA NOVELIS?",
+      "opcoes": [
+        "O CLIENTE.",
+        "O OPERADOR DE EMPILHADEIRA DA IN-HAUS.",
+        "A NOVELIS.",
+        "GERENTE DE PRODUÇÃO."
+      ]
+    }
+  ]
+}
