@@ -1,0 +1,52 @@
+{
+  "treinamento": "COLETA DE RESÍDUOS I_INFRA",
+  "id": 73,
+  "idChecklist": 46,
+  "perguntas": [
+    {
+      "pergunta": "5 – Ao realizar a coleta de resíduo I posso misturar os diferentes tipos de resíduo?",
+      "opcoes": [
+        "Não, os resíduos devem ser coletados separadamente para evitar contaminação.",
+        "Sim, para não deixar o resíduo acumular.",
+        "Sim, para realizar a coleta mais rapidamente.",
+        "Sim, quando houver um volume grande de resíduo para coletar."
+      ]
+    },
+    {
+      "pergunta": "4 – Quais cuidados devemos ter durante a coleta de resíduos?",
+      "opcoes": [
+        "Utilizar corretamente os EPIs, não realizar transbordo e segurar o saco sempre pela área de nó.",
+        "Segurar o saco pela área de nó e realizar o transbordo do resíduo quando necessário.",
+        "Utilizar o EPI somente na coleta do resíduo infectante.",
+        "Realizar o transbordo do resíduo quando a lixeira estiver parcialmente vazia."
+      ]
+    },
+    {
+      "pergunta": "3 – Se a caixa de perfuro cortante apresentar irregularidade durante a coleta, o que devo fazer?",
+      "opcoes": [
+        "Recolher a caixa utilizando dois sacos de resíduo infectante.",
+        "Não recolher a caixa e realizar outra atividade de higiene.",
+        "Recolher a caixa e avisar minha liderança.",
+        "Não recolher a caixa e avisar a equipe de enfermagem sobre a irregularidade para correção."
+      ]
+    },
+    {
+      "pergunta": "2 – Qual a cor da luva que devo utilizar no recolhimento dos resíduos das lixeiras?",
+      "opcoes": [
+        "Luva azul.",
+        "Luva laranja.",
+        "Luva verde.",
+        "Luva amarela."
+      ]
+    },
+    {
+      "pergunta": "1 – Para coleta de resíduos classificados como infectantes (grupo A) são utilizados os sacos?",
+      "opcoes": [
+        "Saco laranja com simbologia.",
+        "Saco preto.",
+        "Saco branco leitoso com simbologia.",
+        "Saco cinza."
+      ]
+    }
+  ]
+}
