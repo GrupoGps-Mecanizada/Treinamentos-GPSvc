@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR10.4.MEDIDAS DE CONTROLE",
+  "id": 283,
+  "idChecklist": 195,
+  "perguntas": [
+    {
+      "pergunta": "5) Como é chamado o ato de tomar-se medidas para fazer com que dois ou mais corpos condutores de eletricidade possuam a menor diferença de potencial elétrico entre eles?",
+      "opcoes": [
+        "Seccionamento.",
+        "Equipotencialização.",
+        "Desenergização.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "4) Como é chamada a ligação de um equipamento ou de um sistema à terra, por motivos de proteção ou por exigência quanto ao funcionamento do mesmo?",
+      "opcoes": [
+        "Impedimento.",
+        "Aterramento.",
+        "Isolamento.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Qual o nome do entorno de parte condutora energizada, cuja aproximação só é permitida a profissionais autorizados e com a adoção de técnicas e instrumentos apropriados de trabalho?",
+      "opcoes": [
+        "Zona controlada.",
+        "Zona de risco.",
+        "Zona livre.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "2) Qual o valor da extra baixa tensão ou tensão de segurança?",
+      "opcoes": [
+        "<= 100VDC / <=200VAC",
+        "<=50VAC / <=120VDC",
+        "<=50VDC / <=120VAC",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "1) Assinale o entorno de parte condutora energizada, não segregada, acessível, de dimensões estabelecidas de acordo com o nível de tensão, cuja aproximação só é permitida a profissionais autorizados.",
+      "opcoes": [
+        "Zona controlada.",
+        "Zona de risco.",
+        "Zona livre.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    }
+  ]
+}
