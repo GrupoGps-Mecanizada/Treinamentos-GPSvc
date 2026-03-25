@@ -1,0 +1,52 @@
+{
+  "treinamento": "REGRAS DE OURO_MONDELEZ",
+  "id": 878,
+  "idChecklist": 649,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE SIGNIFICA A SIGLA PCC?",
+      "opcoes": [
+        "PRODUTOS DE CUIDADOS CONTÍNUOS.",
+        "PROTEÇÃO E CAPACITAÇÃO CORPORATIVA.",
+        "PONTO CRÍTICO DE CONTROLE.",
+        "PROCEDIMENTOS DE CUIDADOS E CONDUTA."
+      ]
+    },
+    {
+      "pergunta": "4) ASSINALE SEQUÊNCIA CORRETA DA REGRA DE SEGURANÇA: NÃO___, ____ OU ____ SISTEMAS DE PROTEÇÃO DE MÁQUINAS E SISTEMAS DE EMERGÊNCIA.",
+      "opcoes": [
+        "DESATIVAR, DANIFICAR E BURLAR.",
+        "BURLAR, DESATIVAR OU DANIFICAR.",
+        "BURLAR, DANIFICAR OU DESATIVAR.",
+        "DANIFICAR, BURLAR OU DESATIVAR."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É O OBJETIVO DA LOTO?",
+      "opcoes": [
+        "CAPACITAR COLABORADORES EM PROCEDIMENTOS DE LIMPEZA E HIGIENIZAÇÃO.",
+        "BLOQUEIO E SINALIZAÇÃO DE ENERGIAS PERIGOSAS E VERIFICADAS COMO ENERGIA ZERO.",
+        "AUXILIAR NOS SISTEMAS DE EMERGÊNCIA DOS EQUIPAMENTOS E MÁQUINAS.",
+        "APLICAR AS MANOBRAS DE SISTEMAS DE PROTEÇÃO."
+      ]
+    },
+    {
+      "pergunta": "2) ACESSAR ÁREAS RESTRITAS SOMENTE COM A DEVIDA PERMISSÃO, É CLASSIFICADO COMO REGRA DE:",
+      "opcoes": [
+        "PROCEDIMENTOS DE PROTEÇÃO.",
+        "DADOS E PRIVACIDADE DO CLIENTE.",
+        "SEGURANÇA.",
+        "PADRÕES DE CONDUTA."
+      ]
+    },
+    {
+      "pergunta": "1) QUAIS FORAM AS REGRAS DE OURO MONDELEZ QUE APRESENTAMOS NESSE TREINAMENTO?",
+      "opcoes": [
+        "REGRAS DE SEGURANÇA E HIGIENIZAÇÃO.",
+        "REGRAS DE SEGURANÇA E SAÚDE.",
+        "REGRAS DE SEGURANÇA E ASSEIO PESSOAL.",
+        "USO DE SMARTPHONE, REGRAS DE SEGURANÇA E QUALIDADE."
+      ]
+    }
+  ]
+}
