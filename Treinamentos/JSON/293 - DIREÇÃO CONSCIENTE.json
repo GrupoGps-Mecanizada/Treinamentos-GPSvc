@@ -1,0 +1,52 @@
+{
+  "treinamento": "DIREÇÃO CONSCIENTE",
+  "id": 293,
+  "idChecklist": 205,
+  "perguntas": [
+    {
+      "pergunta": "5) Para os dias chuvosos é importante segurar o volante de qual forma?",
+      "opcoes": [
+        "Segurar o volante com apenas a mão direita.",
+        "Segurar o volante com apenas a mão esquerda.",
+        "Segurar o volante com as duas mãos.",
+        "Segurar o volante alternando entre as duas mãos e braço pra fora."
+      ]
+    },
+    {
+      "pergunta": "4) Qual dica pode diminuir colisão de veículos?",
+      "opcoes": [
+        "Ande grudado com o carro da frente.",
+        "Ande \"costurando\" no trânsito com ultrapassagens perigosas.",
+        "Respeite a distância de 1,5 metros do carro da frente e se estiver numa rodovia aumente essa distância.",
+        "Respeite a distância de 200 metros do carro da frente."
+      ]
+    },
+    {
+      "pergunta": "3) Qual a orientação para quem vai enfrentar longos percursos dirigindo?",
+      "opcoes": [
+        "A dica é dirigir sem parar, descansar é perder tempo.",
+        "A dica é dirigir e levar café no carro pra ajudar.",
+        "A dica é depois de dirigir, em média, duas horas é importante realizar uma parada de 15 minutos para descansar.",
+        "Nenhuma das respostas anteriores."
+      ]
+    },
+    {
+      "pergunta": "2) Qual orientação é dada para quem está nervoso e vai dirigir?",
+      "opcoes": [
+        "A dica é entrar no carro e acelerar para aliviar o nervosismo.",
+        "A dica é entrar no carro e pegar o caminho mais longo para desestressar.",
+        "A dica é manter a calma, aliviar o stress e depois pegar o volante.",
+        "A dica é continuar nervoso e dirigir descontando a irritação."
+      ]
+    },
+    {
+      "pergunta": "1) Foram dadas dicas para uma direção mais segura. Quantas dicas foram dadas?",
+      "opcoes": [
+        "7",
+        "3",
+        "4",
+        "2"
+      ]
+    }
+  ]
+}
