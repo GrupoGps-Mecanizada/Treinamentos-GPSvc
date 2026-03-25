@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR 35_TREINAMENTO PRESENCIAL",
+  "id": 1187,
+  "idChecklist": 954,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAIS SÃO OS EQUIPAMENTOS UTILIZADOS PARA TRABALHO EM ALTURA?",
+      "opcoes": [
+        "NÃO TEM EQUIPAMENTO ESPECÍFICO, PODE SUBIR EM QUALQUER COISA PARA ALCANÇAR A ALTURA.",
+        "SÓ É PERMITIDO ESCADA.",
+        "ANDAIME, BALANCIM, ESCADAS E PLATAFORMA.",
+        "SÓ PODE USAR PLATAFORMA."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL É O COMPRIMENTO MÁXIMO PERMITIDO PARA ESCADA SIMPLES?",
+      "opcoes": [
+        "8,5 M.",
+        "NÃO HÁ ALTURA ESTIMADA PARA USO DE ESCADAS.",
+        "5,0 M.",
+        "7,0 M."
+      ]
+    },
+    {
+      "pergunta": "3) ONDE DEVO FIXAR O TALABARTE PARA TER UMA PROTEÇÃO ADEQUADA/CORRETA?",
+      "opcoes": [
+        "EM QUALQUER LOCAL QUE DÊ PARA FIXAR.",
+        "ACIMA DOS OMBROS.",
+        "NA ALTURA DA CINTURA.",
+        "ABAIXO DOS JOELHOS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS SÃO OS EPI’S OBRIGATÓRIOS PARA O TRABALHO EM ALTURA?",
+      "opcoes": [
+        "CINTO DE SEGURANÇA E BOTINA ANTIDERRAPANTE.",
+        "PLATAFORMA ELEVATÓRIA.",
+        "ÓCULOS, LUVAS, CRACHÁ DE ACESSO E UNIFORME.",
+        "UNIFORME, CAPACETE, CINTO DE SEGURANÇA C/ TALABARTE E TRAVA QUEDAS, ÓCULOS DE SEGURANÇA, BOTINA DE SEGURANÇA E LUVAS."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE É TRABALHO EM ALTURA?",
+      "opcoes": [
+        "TRABALHOS EM ALTURA SÃO TODAS AS TAREFAS EXECUTADAS ACIMA DE 2,0 M.",
+        "TRABALHOS EM ALTURA SÃO TODAS AS TAREFAS QUE PRECISAM DE ESCADA.",
+        "TRABALHOS EM ALTURA SÃO TODAS AS TAREFAS EXECUTADAS ATÉ 1,80 M.",
+        "TRABALHOS EM ALTURA SÃO TODAS AS TAREFAS QUE PRECISE SUBIR EM ALGUMA COISA PARA ALCANÇAR."
+      ]
+    }
+  ]
+}
