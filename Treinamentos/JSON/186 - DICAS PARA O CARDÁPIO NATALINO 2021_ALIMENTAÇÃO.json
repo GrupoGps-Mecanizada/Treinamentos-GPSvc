@@ -1,0 +1,52 @@
+{
+  "treinamento": "DICAS PARA O CARDÁPIO NATALINO 2021_ALIMENTAÇÃO",
+  "id": 186,
+  "idChecklist": 106,
+  "perguntas": [
+    {
+      "pergunta": "5) Como deve ser cortada as batatas para assar?",
+      "opcoes": [
+        "Cortar em tiras ou à Julienne.",
+        "Cortar em Cubos ou Brunoise.",
+        "Cortar em formato de canoas.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "4) Quais legumes e ervas são utilizados no Mirepoix para \"marinar\" o pernil e o lagarto?",
+      "opcoes": [
+        "Cebola, cenoura, salsão e alho.",
+        "Cenoura, alho, manjericão e pimentão.",
+        "Cebola, vagem, tomilho e cenoura.",
+        "Batata, cebola, alho e pimentão."
+      ]
+    },
+    {
+      "pergunta": "3) Por quanto tempo devo deixar o pernil e o lagarto marinando na geladeira?",
+      "opcoes": [
+        "Por 6 horas sob refrigeração.",
+        "Por 2 horas sob refrigeração.",
+        "Por até 12 horas sob refrigeração.",
+        "Por até 12 horas sem refrigeração."
+      ]
+    },
+    {
+      "pergunta": "2) Quais ervas foram usadas para aromatizar a batata rústica?",
+      "opcoes": [
+        "Alecrim e Salsa.",
+        "Tomilho e Salsa.",
+        "Salsão, Cebolinha e Manjericão.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "1) Qual foi o Cardápio Natalino apresentado pelo Chefe Antonio?",
+      "opcoes": [
+        "Peito de Peru ao molho de laranja, Farofa Natalina, Salpicão de Frango e batata rústica ao alecrim.",
+        "Pernil à Califórnia, Filé ao Molho Madeira, Farofa Natalina e Batata Corada.",
+        "Pernil ao Molho com ameixas, Lagarto ao molho de Champignon, Farofa Natalina e Batata Rústica com ervas.",
+        "Cheester à Califórnia, Medalhão Suíno, Farofa de Ovos e Arroz Natalino."
+      ]
+    }
+  ]
+}
