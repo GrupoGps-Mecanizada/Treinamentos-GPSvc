@@ -1,0 +1,52 @@
+{
+  "treinamento": "UTILIZAÇÃO DE CONES DE IDENTIFICAÇÃO KNORR",
+  "id": 393,
+  "idChecklist": 286,
+  "perguntas": [
+    {
+      "pergunta": "5) O Que o Cone Amarelo representa?",
+      "opcoes": [
+        "Identificar os materiais mais bonitos.",
+        "Identificar materiais com problemas de qualidade.",
+        "Identificar materiais que deverão ser armazenados no estoque REC na área do PPV.",
+        "Apenas deixar o ambiente mais radiante."
+      ]
+    },
+    {
+      "pergunta": "4) O que o Cone Azul representa?",
+      "opcoes": [
+        "Materiais que estão com divergência.",
+        "Materiais que estão aguardando o processo de transbordo.",
+        "Materiais irão direto para a linha de Montagem/Usinagem.",
+        "Itens que serão armazenados."
+      ]
+    },
+    {
+      "pergunta": "3) O que o Cone Preto representa?",
+      "opcoes": [
+        "Materiais que estão aguardando conferência 100% do SLA.",
+        "Material que será enviado para qualidade.",
+        "Material aguardando transbordo.",
+        "Quando há divergências nas quantidades."
+      ]
+    },
+    {
+      "pergunta": "2) O que o Cone Vermelho representa?",
+      "opcoes": [
+        "Identificar materiais improdutivos.",
+        "Identificar os materiais que serão armazenados no PPL área do PPV.",
+        "Identificar os materiais que vão para linha.",
+        "Identificar os materiais críticos."
+      ]
+    },
+    {
+      "pergunta": "1) Qual a finalidade de colocar cones na operação?",
+      "opcoes": [
+        "Para deixar a operação colorida.",
+        "Para indicar qual será realizado primeiro.",
+        "Para sinalizar em qual processo o material está aguardando.",
+        "Nenhuma das opções estão corretas."
+      ]
+    }
+  ]
+}
