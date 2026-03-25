@@ -1,0 +1,52 @@
+{
+  "treinamento": "DISCO DE POLIMENTO_INFRA",
+  "id": 548,
+  "idChecklist": 350,
+  "perguntas": [
+    {
+      "pergunta": "5) Assinale a alternativa INCORRETA sobre “disco bege”. Assinale a alternativa INCORRETA sobre “disco bege”.",
+      "opcoes": [
+        "Indicado para polimento de piso com um baixo grau de riscos na cera.",
+        "Não é recomendado o seu uso em Paviflex, manta vinílica, granitos e granilites.",
+        "Tamanhos mais utilizados são 510mm e 680mm, sendo utilizado tanto em polidoras elétricas ou ultra polidoras (álcool e gás).",
+        "Indicado para ser utilizado em locais de tráfego pequeno, promove o polimento removendo o mínimo de cera do piso."
+      ]
+    },
+    {
+      "pergunta": "4) Sobre Polimento do Piso, podemos afirmar que:",
+      "opcoes": [
+        "É uma atividade feita somente em shoppings.",
+        "É um procedimento que utiliza somente as polidoras ou lavadoras automáticas.",
+        "É uma atividade importante de ser feita regularmente para garantir a durabilidade e qualidade do piso muito maior.",
+        "No polimento do piso é possível utilizar o disco verde para fazer remoção da cera."
+      ]
+    },
+    {
+      "pergunta": "3) Qual alternativa está INCORRRETA sobre o disco “pelo de porco”?",
+      "opcoes": [
+        "É indicado para polimento de piso com um alto grau de riscos na cera, em locais de tráfego intenso ou médio.",
+        "Indicado para limpeza diária sem a remoção de camadas de acabamento.",
+        "Não é recomendado para polir e eliminar marcas com pouca agressão das camadas de cera do piso.",
+        "Devolve o brilho rapidamente e é utilizado nos tamanhos 510mm e 680mm em polidoras elétricas ou ultra polidoras."
+      ]
+    },
+    {
+      "pergunta": "2) Quais equipamentos os discos podem ser acoplados?",
+      "opcoes": [
+        "Enceradeiras, lavadoras automáticas e polidoras, variando de acordo com o tamanho do disco.",
+        "Mop Plano de Piso.",
+        "Enceradeiras, lavadoras automáticas e polidoras, independentemente do tamanho do disco.",
+        "Não são acoplados a nenhum tipo de equipamento."
+      ]
+    },
+    {
+      "pergunta": "1) O que são discos de tratamento?",
+      "opcoes": [
+        "São componentes utilizados para diluição de produtos químicos.",
+        "Materias utilizados na limpeza de diferentes tipos piso.",
+        "Tipos diferentes de produtos químicos utilizados nas superfícies.",
+        "Tipos de panos de microfibra no formato de um disco."
+      ]
+    }
+  ]
+}
