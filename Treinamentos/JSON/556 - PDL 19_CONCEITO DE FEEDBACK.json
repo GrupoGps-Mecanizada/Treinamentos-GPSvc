@@ -1,0 +1,52 @@
+{
+  "treinamento": "PDL 19_CONCEITO DE FEEDBACK",
+  "id": 556,
+  "idChecklist": 358,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais ações são importantes na hora do feedback?",
+      "opcoes": [
+        "Quebrar o gelo, resumir o que vai ser dito e evitar comparações;",
+        "Quebrar o gelo e permanecer neutro perante as falhas pontuadas;",
+        "Resumir o que vai ser dito, evitar comparações e ser firme no tom de voz;",
+        "Resumir ao máximo o que tem que ser dito."
+      ]
+    },
+    {
+      "pergunta": "4) Conforme o treinamento, assinale a opção INCORRETA.",
+      "opcoes": [
+        "O feedback é essencial para ajudar na orientação e motivação dos profissionais;",
+        "Feedback é uma ferramenta que pode ser usada para orientar, corrigir, disciplinar e elogiar;",
+        "O feedback é a última alternativa para resgatar um Colaborador com baixo desempenho;",
+        "O feedback pode ser uma excelente ferramenta para o desenvolvimento profissional."
+      ]
+    },
+    {
+      "pergunta": "3) Quais são as boas práticas na hora de dar um feedback?",
+      "opcoes": [
+        "Escrever um roteiro e um documento para formalizar a conversa;",
+        "Escrever um plano de ação e chamar uma testemunha;",
+        "Escrever um roteiro, ser sincero e honesto, iniciar pelos pontos fortes;",
+        "Escrever um roteiro, ser sincero e honesto, iniciar pelos pontos fracos e depois elogiar."
+      ]
+    },
+    {
+      "pergunta": "2) Para que um feedback funcione, precisa de alguns cuidados, como:",
+      "opcoes": [
+        "Destacar as qualidades e um plano de ação bem completo;",
+        "Preparação, escolha do ambiente, saber ouvir, destacar as qualidades, tom de voz e finalização;",
+        "Preparação e elogio aos pontos fortes;",
+        "Preparação, sinceridade e ir direto ao ponto."
+      ]
+    },
+    {
+      "pergunta": "1) Com base no treinamento, feedback é uma palavra da língua inglesa e significa:",
+      "opcoes": [
+        "Apontar os pontos negativos do Colaborador;",
+        "Realimentar ou dar resposta a um determinado pedido ou acontecimento;",
+        "Realimentar planos do Colaborador com datas e sugestões;",
+        "Apontar os colegas que são bons exemplos no time."
+      ]
+    }
+  ]
+}
