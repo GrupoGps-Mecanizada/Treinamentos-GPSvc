@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA DE VIDROS_INFRA",
+  "id": 98,
+  "idChecklist": 72,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual o passo a passo da Limpeza de Vidros?",
+      "opcoes": [
+        "Ensaboar, esfregar e enxaguar.",
+        "Ensaboar, esfregar, enxaguar e secar.",
+        "Separar materiais e EPI’s, aplicar a solução limpadora, em seguida limpar utilizando a técnica “8” ou por faixas e finalizar os detalhes com pano limpo.",
+        "Esfregar com a fibra, seca e finalizar com jornal."
+      ]
+    },
+    {
+      "pergunta": "4) Qual ou quais as técnicas de limpeza de vidros?",
+      "opcoes": [
+        "Formato de “Z” ou “8”.",
+        "Formato de “8” ou por Faixas.",
+        "Apenas formato de “8”.",
+        "Apenas limpeza por Faixas."
+      ]
+    },
+    {
+      "pergunta": "3) Antes de iniciar a limpeza de vidros devemos:",
+      "opcoes": [
+        "Separar os materiais.",
+        "Utilizar os EPI.",
+        "Planejar adequadamente as rotinas diárias.",
+        "Todas as alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "2) Quais são os materiais para realizar a Limpeza de Vidros?",
+      "opcoes": [
+        "Pano e rodo.",
+        "Apenas o Lavador de vidros.",
+        "Lavador de vidros, Limpador de vidros e Raspador de vidros.",
+        "Toda limpeza é feita com pano de microfibra."
+      ]
+    },
+    {
+      "pergunta": "1) Como deve ser feita a Limpeza de Vidros?",
+      "opcoes": [
+        "Não há segredos para a Limpeza de Vidros.",
+        "Com os materiais, produtos e técnicas adequadas.",
+        "O melhor é usar detergente pra limpar e jornal pra secar.",
+        "Para a limpeza pode utilizar panos, flanelas ou jornal."
+      ]
+    }
+  ]
+}
