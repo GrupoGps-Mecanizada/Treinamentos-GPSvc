@@ -1,0 +1,52 @@
+{
+  "treinamento": "PDL7_SENSO DE PROPRIEDADE",
+  "id": 89,
+  "idChecklist": 62,
+  "perguntas": [
+    {
+      "pergunta": "5) Com base no treinamento, empresariamento é:",
+      "opcoes": [
+        "Pensar como se o seu setor fosse o seu negócio próprio.",
+        "Sugerir que os colaboradores comprem ações da empresa.",
+        "Capacitar as pessoas para o empreendedorismo.",
+        "Treinar as pessoas para que conheçam os problemas de todos os setores."
+      ]
+    },
+    {
+      "pergunta": "4) Qual ação ajuda a criar um senso de propriedade nos colaboradores?",
+      "opcoes": [
+        "Incentivar que os próprios colaboradores decidam suas tarefas.",
+        "Incentivar o rodízio entre áreas.",
+        "Incentivar confraternizações.",
+        "Incentivar que os próprios colaboradores sugiram uma solução para um problema."
+      ]
+    },
+    {
+      "pergunta": "3) De acordo com o treinamento, você estimula seus colaboradores a tomarem decisões quando:",
+      "opcoes": [
+        "Estimula as pessoas a abrirem seu próprio negócio.",
+        "Estimula a competição interna.",
+        "Estabelece prazos.",
+        "Delega tarefas e distribui responsabilidade."
+      ]
+    },
+    {
+      "pergunta": "2) No treinamento, vimos que para um líder o senso de propriedade significa:",
+      "opcoes": [
+        "Senso de pertencimento à sua operação.",
+        "Senso de tomar decisões.",
+        "Senso crítico em relação aos negócios.",
+        "Senso de que o meu líder é o dono do negócio."
+      ]
+    },
+    {
+      "pergunta": "1) Com base no treinamento, podemos dizer que um dos valores do grupo GPS é:",
+      "opcoes": [
+        "Empregabilidade.",
+        "Empreendedorismo.",
+        "Empresariamento.",
+        "Empreendimento."
+      ]
+    }
+  ]
+}
