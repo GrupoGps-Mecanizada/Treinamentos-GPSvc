@@ -1,0 +1,52 @@
+{
+  "treinamento": "POE.GMG-001_EVENTO EM GRUPO MOTO GERADOR_BANCO DO BRASIL-ICI II",
+  "id": 193,
+  "idChecklist": 113,
+  "perguntas": [
+    {
+      "pergunta": "5) Marque abaixo a alternativa que contêm EPI's indispensáveis para execução desta atividade:",
+      "opcoes": [
+        "Bota de eletricista, luva isolante e máscara de proteção contra poeiras.",
+        "Roupa de proteção NR-10 Classe 2, óculos de segurança e luva isolante.",
+        "Capa de chuva, roupa de proteção NR-10 Classe 4 e capacete com jugular.",
+        "Óculos de segurança, avental de couro e luva isolante."
+      ]
+    },
+    {
+      "pergunta": "4) Durante o isolamento elétrico do gerador, causador do problema, devemos abrir e extrair o seu disjuntor de saída. Os disjuntores de saída dos geradores ficam localizados em quais painéis?",
+      "opcoes": [
+        "CPG's (Cubículos de Paralelismo dos Geradores).",
+        "CDG's (Cubículos de Distribuição dos Geradores).",
+        "CDC's (Cubículos de Distribuição da Concessionária).",
+        "Cabines de Medição."
+      ]
+    },
+    {
+      "pergunta": "3) Sobre os procedimentos de segurança para esta atividade, a NR-10 prevê que:",
+      "opcoes": [
+        "É dispensável a instalação de cadeado para bloqueio dos equipamentos envolvidos.",
+        "Dentre os procedimentos previstos para desenergização de uma instalação elétrica estão inclusos a utilização da capa de chuva.",
+        "Não é necessário seguir a sequência das atividades para desenergização dos equipamentos.",
+        "São alguns dos procedimentos descritos na norma: constatação da ausência de tensão, impedimento de reenergização e seccionamento."
+      ]
+    },
+    {
+      "pergunta": "2) A partir da ocorrência do evento, qual o primeiro passo?",
+      "opcoes": [
+        "Desligar totalmente a alimentação da concessionária.",
+        "Extrair todos os disjuntores de saída dos geradores nos painéis CPG-1 e CPG-2.",
+        "Identificar o(s) gerador(es) causador(es) do problema.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "1) Quando devemos aplicar os procedimentos previstos no POE.GMG-001 – Evento em Grupo Moto Gerador?",
+      "opcoes": [
+        "Quando for necessário a parada dos geradores para manutenção.",
+        "Quando ocorrer algum evento em algum dos geradores.",
+        "Quando for necessário o acionamento dos geradores com carga resistiva.",
+        "Quando for necessário alguma ação no sistema de automação dos geradores."
+      ]
+    }
+  ]
+}
