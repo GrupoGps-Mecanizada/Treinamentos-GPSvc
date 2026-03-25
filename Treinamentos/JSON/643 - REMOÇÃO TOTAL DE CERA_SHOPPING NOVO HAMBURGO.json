@@ -1,0 +1,52 @@
+{
+  "treinamento": "REMOÇÃO TOTAL DE CERA_SHOPPING NOVO HAMBURGO",
+  "id": 643,
+  "idChecklist": 429,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais as medidas que você pode tomar para que não haja risco de queda?",
+      "opcoes": [
+        "Segurar no seu colega.",
+        "Andar de tênis esportivo.",
+        "Segurar bem na enceradeira.",
+        "Colocar fibras na sola do sapato para que não escorregue."
+      ]
+    },
+    {
+      "pergunta": "4) Após aplicação do removedor no piso:",
+      "opcoes": [
+        "A cera irá ficar com novo brilho.",
+        "O piso ficará muito escorregadio, com riscos de queda.",
+        "Você pode transitar livremente sem se preocupar, pois o local é muito seguro.",
+        "Espere o produto secar."
+      ]
+    },
+    {
+      "pergunta": "3) Após fazer a remoção da cera, preciso:",
+      "opcoes": [
+        "Deixar o piso secar.",
+        "Passar polidora no piso.",
+        "Recolher todos os materiais.",
+        "Molhar o piso com água, com auxílio do regador, e lavar com a máquina de lavar pisos ou enceradeira, utilizando disco preto, para realizar o enxague, removendo resquícios de sujidade e produto."
+      ]
+    },
+    {
+      "pergunta": "2) Para remoção de cera, irei usar:",
+      "opcoes": [
+        "Esponja e pano.",
+        "Removedor diluído, disco de remoção, fibra e chicleteira.",
+        "Detergente clorado.",
+        "Uma mistura de produtos para que a cera solte melhor."
+      ]
+    },
+    {
+      "pergunta": "1) A primeira coisa a fazer antes da remoção de cera é:",
+      "opcoes": [
+        "Molhar o piso.",
+        "Enxaguar o piso.",
+        "Fazer um checklist dos produtos e equipamentos que serão usados.",
+        "Colocar o disco na enceradeira."
+      ]
+    }
+  ]
+}
