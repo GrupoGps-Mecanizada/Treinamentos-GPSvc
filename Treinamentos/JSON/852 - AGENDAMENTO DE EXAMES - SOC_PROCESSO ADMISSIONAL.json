@@ -1,0 +1,52 @@
+{
+  "treinamento": "AGENDAMENTO DE EXAMES - SOC_PROCESSO ADMISSIONAL",
+  "id": 852,
+  "idChecklist": 623,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE DEVEMOS FAZER ANTES DE ESCOLHER A CLÍNICA PARA AGENDAMENTO?",
+      "opcoes": [
+        "EMITIR O CONTRATO.",
+        "PEDIR AO CANDIDATO PROCURAR UMA CLÍNICA.",
+        "ENTRAR EM CONTATO E ACORDAR UM HORÁRIO COM A CLÍNICA.",
+        "NENHUMA DAS OPÇÕES ANTERIORES."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL O NOME DO ÍCONE PARA INICIAR O AGENDAMENTO DENTRO DA ABA ATALHOS?",
+      "opcoes": [
+        "PRESTADOR.",
+        "SOCGED.",
+        "CLÍNICAS.",
+        "FUNCIONÁRIO."
+      ]
+    },
+    {
+      "pergunta": "3) SEGUNDO O TREINAMENTO, QUAL TIPO DE EXAME ESTAMOS AGENDANDO?",
+      "opcoes": [
+        "ADMISSIONAL.",
+        "PERIÓDICO.",
+        "DEMISSIONAL.",
+        "MUDANÇA DE FUNÇÃO."
+      ]
+    },
+    {
+      "pergunta": "2) ONDE LOCALIZAMOS O CR QUE DEVE SER INCLUÍDO NO CADASTRO?",
+      "opcoes": [
+        "PROTHEUS.",
+        "GPSVC.",
+        "FICHA DO FAST.",
+        "SOLICITAÇÃO DO CLIENTE."
+      ]
+    },
+    {
+      "pergunta": "1) NA INCLUSÃO DOS DADOS CADASTRAIS DO CANDIDATO QUANTOS ITENS SÃO NECESSÁRIOS INCLUIR?",
+      "opcoes": [
+        "10.",
+        "8.",
+        "3.",
+        "5."
+      ]
+    }
+  ]
+}
