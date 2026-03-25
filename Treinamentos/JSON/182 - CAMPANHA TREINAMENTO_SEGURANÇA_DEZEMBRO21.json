@@ -1,0 +1,52 @@
+{
+  "treinamento": "CAMPANHA TREINAMENTO_SEGURANÇA_DEZEMBRO21",
+  "id": 182,
+  "idChecklist": 102,
+  "perguntas": [
+    {
+      "pergunta": "5) Quando a norma de segurança privada limita a atividade de vigilância ao espaço intramuros, o que isso quer dizer?",
+      "opcoes": [
+        "As rondas podem ser realizadas em qualquer lugar dentro e fora do contrato.",
+        "As rondas só podem ser realizadas nas áreas internas do objeto do contrato de prestação de serviços.",
+        "É proibido fazer toda e qualquer tipo de ronda.",
+        "As rondas só podem ser realizadas nas áreas externas."
+      ]
+    },
+    {
+      "pergunta": "4) O que é oportunidade?",
+      "opcoes": [
+        "São as ocasiões propícias para a materialização do risco.",
+        "São eventos que proporcionam ocorrências.",
+        "São movimentos que disparam violência.",
+        "São as ocasiões que não geram nenhum tipo de risco."
+      ]
+    },
+    {
+      "pergunta": "3) O que é atratividade?",
+      "opcoes": [
+        "São itens despercebidos que identificam na ronda.",
+        "São equipamentos e produtos que não despertam interesse.",
+        "São notebooks e celulares encontrados na ronda.",
+        "São as qualidades, naturezas ou particularidades que despertam interesse."
+      ]
+    },
+    {
+      "pergunta": "2) O que é vulnerabilidade?",
+      "opcoes": [
+        "São todas as vantagens identificadas na ronda.",
+        "São todos os ganhos identificados no percurso da ronda.",
+        "São todas as fragilidades expostas no percurso de ronda.",
+        "São todos os equipamentos encontrados na ronda."
+      ]
+    },
+    {
+      "pergunta": "1) O que deve ser observado na ronda?",
+      "opcoes": [
+        "Observar as vulnerabilidades, atratividades e oportunidades nos locais inspecionados.",
+        "Observe as vulnerabilidades, repulsividades e oportunidades nos locais inspecionados.",
+        "Observe as vulnerabilidades, repulsividades e inconveniências nos locais inspecionados.",
+        "Observe as impertinências, atratividades e oportunidades nos locais inspecionados."
+      ]
+    }
+  ]
+}
