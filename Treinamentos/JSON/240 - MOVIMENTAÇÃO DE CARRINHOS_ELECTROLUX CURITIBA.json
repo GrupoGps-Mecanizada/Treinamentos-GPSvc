@@ -1,0 +1,52 @@
+{
+  "treinamento": "MOVIMENTAÇÃO DE CARRINHOS_ELECTROLUX CURITIBA",
+  "id": 240,
+  "idChecklist": 152,
+  "perguntas": [
+    {
+      "pergunta": "5) O que devemos fazer para evitar acidentes na atividade de movimentação de carrinhos?",
+      "opcoes": [
+        "Seguir os procedimentos, ter uma boa percepção dos riscos e comunicar as condições de risco aos responsáveis.",
+        "Prestar muita atenção na atividade é o suficiente.",
+        "Realizar a atividade como sempre foi feita, ignorando os procedimentos.",
+        "Seguir os procedimentos, ter cuidado e comunicar as condições de riscos, mas somente se for muito grave."
+      ]
+    },
+    {
+      "pergunta": "4) Selecione a alternativa INCORRETA:",
+      "opcoes": [
+        "Movimentar apenas um carrinho de cada vez.",
+        "Realizar a movimentação dos carrinhos mesmo se as peças não estiverem corretamente armazenadas.",
+        "Verificar se as cintas de fixação das peças estão devidamente presas.",
+        "Avaliar o trajeto antes de movimentar os carrinhos."
+      ]
+    },
+    {
+      "pergunta": "3) O que fazer caso encontre alguma não conformidade nos carrinhos?",
+      "opcoes": [
+        "Não realizar a movimentação e comunicar imediatamente ao líder e/ou a equipe de segurança do trabalho para a solução do problema e prevenção de acidentes.",
+        "Caso a não conformidade não esteja atrapalhando a movimentação das rodas devemos continuar a atividade e depois avisar o líder.",
+        "Devemos comunicar o líder e levar o carrinho para a produção para não parar a linha.",
+        "Deixar o carrinho com problema no estoque e aguardar que alguém conserte o problema."
+      ]
+    },
+    {
+      "pergunta": "2) Qual a forma correta de transportar os carrinhos em longas distâncias?",
+      "opcoes": [
+        "Devemos nos posicionar de costas para o carrinho e puxar o mesmo ao longo do trajeto.",
+        "Podemos fazer essa atividade da forma que acharmos mais confortável.",
+        "A movimentação em longas distâncias deve ser feita empurrando os carrinhos, segurando nas alças de pega e utilizando os EPIs adequados para a atividade.",
+        "Nenhuma das alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "1) Por que devemos seguir os procedimentos ao movimentar os carrinhos?",
+      "opcoes": [
+        "Não é necessário seguir todos os procedimentos, pois alguns atrapalham a atividade.",
+        "Devemos seguir os procedimentos para evitar que ocorram possíveis acidentes.",
+        "Os procedimentos servem somente para quando ocorre auditoria.",
+        "Devemos seguir os procedimentos apenas para não receber uma advertência."
+      ]
+    }
+  ]
+}
