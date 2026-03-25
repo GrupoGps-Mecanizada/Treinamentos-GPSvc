@@ -1,0 +1,52 @@
+{
+  "treinamento": "INSPEÇÃO DE SEGURANÇA - MÓDULO I - PARTE 1_CIPA",
+  "id": 1220,
+  "idChecklist": 986,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAIS INSPEÇÕES GERALMENTE SÃO REALIZADAS POR ESPECIALISTAS EM SEGURANÇA DO TRABALHO?",
+      "opcoes": [
+        "INSPEÇÕES DE ROTINA.",
+        "INSPEÇÕES PERIÓDICAS.",
+        "INSPEÇÕES ESPECIAIS.",
+        "TODAS AS INSPEÇÕES."
+      ]
+    },
+    {
+      "pergunta": "4) QUAIS SÃO OS TIPOS DE INSPEÇÕES QUE SÃO CITADAS NO TREINAMENTO?",
+      "opcoes": [
+        "INSPEÇÕES DE ROTINA.",
+        "INSPEÇÕES PERIÓDICAS.",
+        "INSPEÇÕES ESPECIAIS.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "3) QUAIS OS GANHOS DA INSPEÇÃO DE SEGURANÇA?",
+      "opcoes": [
+        "ANTECIPAÇÃO AOS POSSÍVEIS ACIDENTES.",
+        "FAVORECEM A FORMAÇÃO E O FORTALECIMENTO DO ESPÍRITO PREVENCIONISTA NOS COLABORADORES.",
+        "PROPORCIONAM UMA COOPERAÇÃO MAIS APROFUNDADA ENTRE OS SERVIÇOS ESPECIALIZADOS, CIPA E OS DIVERSOS SETORES DA EMPRESA.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL É O PRIMEIRO PASSO PARA UMA INSPEÇÃO?",
+      "opcoes": [
+        "DEFINIR QUEM VAI PARTICIPAR.",
+        "DEFINIR O QUE SE PRETENDE COM A INSPEÇÃO.",
+        "DEFINIR O PLANO DE AÇÃO LOGO NO INÍCIO, POIS, ASSIM NÃO FICARÃO AÇÕES PENDENTES.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É A FINALIDADE DA INSPEÇÃO DE SEGURANÇA?",
+      "opcoes": [
+        "DESCOBRIR OS RISCOS.",
+        "IDENTIFICAR OS RISCOS.",
+        "OBJETIVO PRÁTICO DE TOMAR OU PROPOR MEDIDAS QUE IMPEÇAM A AÇÃO DESSES RISCOS.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    }
+  ]
+}
