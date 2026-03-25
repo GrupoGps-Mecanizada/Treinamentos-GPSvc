@@ -1,0 +1,52 @@
+{
+  "treinamento": "PROTEÇÃO AUDITIVA - USO E CONSERVAÇÃO",
+  "id": 1465,
+  "idChecklist": 1213,
+  "perguntas": [
+    {
+      "pergunta": "5) SEGUNDO A NR-15, A PARTIR DE QUAL NÍVEL DE RUÍDO O USO DE PROTETOR AUDITIVO É OBRIGATÓRIO?",
+      "opcoes": [
+        "55 DB.",
+        "70 DB.",
+        "85 DB.",
+        "100 DB."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE DEVE SER EVITADO NO USO DO ABAFADOR ACOPLADO AO CAPACETE?",
+      "opcoes": [
+        "USAR COM HASTES AJUSTADAS.",
+        "GUARDAR EM LOCAL SECO.",
+        "HIGIENIZAR COM PANO ÚMIDO.",
+        "UTILIZAR TOUCA POR BAIXO."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É A ORIENTAÇÃO CORRETA PARA O USO DO PROTETOR TIPO CONCHA COM HASTE?",
+      "opcoes": [
+        "GUARDAR NO BOLSO QUANDO NÃO ESTIVER EM USO.",
+        "AJUSTAR A HASTE PARA A LATERAL DO PESCOÇO.",
+        "USAR COM A HASTE SOBRE A CABEÇA.",
+        "COMPARTILHAR COM COLEGAS EM CASOS URGENTES."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE PODE ACONTECER COM O USO INADEQUADO DO PROTETOR AUDITIVO?",
+      "opcoes": [
+        "GERA MAU CHEIRO.",
+        "OFERECE FALSA SENSAÇÃO DE SEGURANÇA.",
+        "CAUSA PROBLEMAS RESPIRATÓRIOS.",
+        "DIMINUI A CONCENTRAÇÃO."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É A PRINCIPAL FUNÇÃO DO PROTETOR AUDITIVO NO AMBIENTE DE TRABALHO?",
+      "opcoes": [
+        "REDUZIR A TEMPERATURA CORPORAL.",
+        "ATENUAR OS EFEITOS NOCIVOS DO RUÍDO.",
+        "EVITAR O USO DE OUTROS EPI'S.",
+        "SUBSTITUIR O CAPACETE DE PROTEÇÃO."
+      ]
+    }
+  ]
+}
