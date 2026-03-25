@@ -1,0 +1,52 @@
+{
+  "treinamento": "TREINAMENTO 7 DESPERDÍCIOS_ELECTROLUX",
+  "id": 242,
+  "idChecklist": 154,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais os benefícios em eliminar o desperdício de Produtos defeituosos?",
+      "opcoes": [
+        "Melhora a satisfação do consumidor, economia de dinheiro com redução de retrabalho e aumento da eficiência no atendimento à produção.",
+        "Não melhora a satisfação do consumidor.",
+        "Economiza somente dinheiro com redução de retrabalho.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "4) Quais as características principais do desperdício de transporte?",
+      "opcoes": [
+        "Uso incorreto de equipamentos de transporte, layout pobre, estoques elevados e armazenamento inadequado.",
+        "Uso correto de equipamentos de transporte e layout pobre, estoques elevados, armazenamento inadequado.",
+        "Somente layout pobre, estoques elevados e armazenamento inadequado.",
+        "Todas as alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) Quais as características principais do desperdício de estoque?",
+      "opcoes": [
+        "Excesso de materiais e produtos dentro dos Times e áreas de trabalho com condições de ergonomia desfavorável.",
+        "Excesso de materiais e produtos dentro dos Times e áreas de trabalho com condições de ergonomia favorável.",
+        "Não ter excesso de materiais e produtos dentro dos Times e áreas de trabalho com condições de ergonomia desfavorável.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "2) Quais são os 7 desperdícios?",
+      "opcoes": [
+        "Superprodução, Estoque, Transporte, Processo Complicado, Espera, Movimentação.",
+        "Superprodução, Estoque, Transporte, Processo Complicado, Espera, Movimentação, e Produto Defeituoso.",
+        "Superprodução, Estoque, Transporte, Processo Complicado, Espera e Produto Defeituoso.",
+        "Todas as alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "1) O que desperdício?",
+      "opcoes": [
+        "É todo trabalho necessário.",
+        "É todo trabalho desnecessário.",
+        "É não esbanjar algo.",
+        "É o conceito de uma avaliação positiva."
+      ]
+    }
+  ]
+}
