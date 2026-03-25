@@ -1,0 +1,52 @@
+{
+  "treinamento": "INSTRUÇÃO DE TRABALHO - DESCARTE DE RESÍDUO_GRU AIRPORT",
+  "id": 804,
+  "idChecklist": 583,
+  "perguntas": [
+    {
+      "pergunta": "5) QUEM DEVE SER ACIONADO E FAZER A CONTENÇÃO DE VAZAMENTOS DE PRODUTOS QUÍMICOS?",
+      "opcoes": [
+        "OS SUPERVISORES.",
+        "EMPRESA TERCEIRIZADA DE LIMPEZA.",
+        "SETOR DE MANUTENÇÃO.",
+        "EQUIPE DE EMERGÊNCIA QUÍMICA."
+      ]
+    },
+    {
+      "pergunta": "4) ONDE DEVE-SE DESCARTAR OS RESÍDUOS DE MADEIRAS?",
+      "opcoes": [
+        "EM QUALQUER CONTENTOR DE DESCARTE.",
+        "NO CONTENTOR AMARELO DO GRUPO B.",
+        "NA CAÇAMBINHA CINZA LOCALIZADA A FRENTE À LINHA H (HOTEL).",
+        "NA GAIOLA JUNTO DOS PLÁSTICOS."
+      ]
+    },
+    {
+      "pergunta": "3) QUAIS DOS RESÍDUOS ABAIXO SÃO CONSIDERADOS DA CLASSE D (RESÍDUO RECICLÁVEL)?",
+      "opcoes": [
+        "CHAPA DE AÇO, GARRAFA PET E DOCES.",
+        "GARRAFA PET, JORNAL E PAPELÃO.",
+        "CLIPS, PAPEL CONTACTE E ETIQUETAS ADESIVAS.",
+        "GARRAFAS DE ÓLEO, LUVAS COM GRAXA E REATORES."
+      ]
+    },
+    {
+      "pergunta": "2) NO GRUPO A INFECTANTE, QUAL A COR DO CONTENTOR DE DESCARTE?",
+      "opcoes": [
+        "AZUL.",
+        "AMARELO.",
+        "BRANCO.",
+        "ROSA."
+      ]
+    },
+    {
+      "pergunta": "1) QUAIS OS TIPOS DE GRUPOS DE DESCARTE DE RESÍDUOS QUE POSSUÍMOS NO TECA?",
+      "opcoes": [
+        "A INFECTANTES, B PERIGOSOS, D RECICLÁVEL, D NÃO RECICLÁVEL E E CORTANTES.",
+        "A POLUENTES, B FLUENTES, C PAPÉIS, D LÍQUIDO E E METAIS.",
+        "NÃO TEMOS UMA DEFINIÇÃO DE CLASSE DE GRUPO.",
+        "TODO DESCARTE DE RESÍDUO PODE SER FEITO EM QUALQUER CONTAINER."
+      ]
+    }
+  ]
+}
