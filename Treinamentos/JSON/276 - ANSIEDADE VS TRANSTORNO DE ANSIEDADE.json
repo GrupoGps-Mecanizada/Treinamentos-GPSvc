@@ -1,0 +1,52 @@
+{
+  "treinamento": "ANSIEDADE VS TRANSTORNO DE ANSIEDADE",
+  "id": 276,
+  "idChecklist": 188,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual objetivo da técnica em tirar o foco dos sintomas?",
+      "opcoes": [
+        "O objetivo é manter a pessoa centralizada no problema.",
+        "O objetivo é a pessoa ver como seu problema é pequeno.",
+        "O objetivo é fazê-la ter novos pensamentos apenas, sem nenhum tipo de avaliação.",
+        "O objetivo é distrair a pessoa, pois a crise pode se intensificar se ela focar nas reações do seu corpo e nos pensamentos que estão levando a esta crise. Então a intenção é mudar o pensamento."
+      ]
+    },
+    {
+      "pergunta": "4) Cite um procedimento que pode auxiliar alguém em crise.",
+      "opcoes": [
+        "Proponha exercícios respiratórios.",
+        "Neste momento deixa apenas a pessoa quieta.",
+        "Ajude ela a focar no que está preocupando.",
+        "Fique preocupado em apenas manter a pessoa positiva."
+      ]
+    },
+    {
+      "pergunta": "3) Assinale 3 sintomas do transtorno de ansiedade.",
+      "opcoes": [
+        "Palpitações, falta de ar e relaxamento.",
+        "Insônia, dor no pé e preocupações.",
+        "Falta de ar, insônia e sensação de tremor.",
+        "Dores no peito, agitação e depois desaceleração."
+      ]
+    },
+    {
+      "pergunta": "2) Qual a diferença entre ansiedade e transtorno de ansiedade?",
+      "opcoes": [
+        "Ansiedade é uma reação natural do nosso corpo, e transtorno de ansiedade é um movimento patológico que gera danos na qualidade de vida pessoal, social e afetiva da pessoa.",
+        "Ansiedade é uma reação natural do nosso corpo, e transtorno de ansiedade é um movimento normal, mas que gera danos na qualidade de vida pessoal, social e afetiva da pessoa.",
+        "Ansiedade é o medo do futuro e transtorno de ansiedade são perturbações comportamentais.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "1) O que é ansiedade?",
+      "opcoes": [
+        "São sentimentos ligados ao relaxamento, nervosismo e medo intenso.",
+        "São sentimentos ligados a preocupação, nervosismo e medo intenso.",
+        "A forma de tomar uma atitude impulsiva.",
+        "Ansiedade é um teste que o corpo emite."
+      ]
+    }
+  ]
+}
