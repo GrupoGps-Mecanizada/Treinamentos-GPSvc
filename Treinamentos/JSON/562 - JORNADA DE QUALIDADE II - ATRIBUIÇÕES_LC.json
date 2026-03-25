@@ -1,0 +1,52 @@
+{
+  "treinamento": "JORNADA DE QUALIDADE II - ATRIBUIÇÕES_LC",
+  "id": 562,
+  "idChecklist": 364,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais são as principais atribuições que a LC espera de seus Coordenadores de contrato?",
+      "opcoes": [
+        "Seja desorganizado, não cumpra suas atividades e não trabalhe em equipe.",
+        "Seja organizado, multitarefa, tenha discrição, ética empresarial, foco duplo, confiança com os Colaboradores, tenha imparcialidade, seja dedicado, tenha sempre melhoria contínua e trabalhe em equipe.",
+        "Não faça o atendimento adequado ao cliente, seja descomprometido com a empresa.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "4) Nas atribuições de RH/DP, qual afirmação é correta?",
+      "opcoes": [
+        "Controlar quadro de Colaboradores.",
+        "Monitorar folhas de ponto no Portal GPS.",
+        "Controlar escalas de férias e coberturas.",
+        "Todas as anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Das atribuições operacionais e administrativas podemos dizer que NÃO é correto:",
+      "opcoes": [
+        "Adequar o cardápio de acordo com padrão contratual.",
+        "Realizar o planejamento de acordo com o calendário estipulado.",
+        "Monitorar relatórios do Sistema Genial.",
+        "Receber as mercadorias sem conferir."
+      ]
+    },
+    {
+      "pergunta": "2) Fazem parte das atribuições de responsabilidades técnicas do Coordenador (nutricionista ou técnico em nutrição):",
+      "opcoes": [
+        "Manter o registro no CRN atualizado.",
+        "Zelar pelos documentos da empresa (Ex. MBPM).",
+        "Aplicar controles de qualidade (auditorias).",
+        "Todas as anteriores."
+      ]
+    },
+    {
+      "pergunta": "1) O que é o documento atribuições gerenciais em unidades de alimentação e nutrição?",
+      "opcoes": [
+        "É o contrato de trabalho do nutricionista.",
+        "É um termo onde estão descritas todas as atribuições gerenciais para os Coordenadores de unidade referente suas obrigações e deveres na LC Restaurantes.",
+        "É a ficha de registro do Colaborador.",
+        "Nenhuma das anteriores."
+      ]
+    }
+  ]
+}
