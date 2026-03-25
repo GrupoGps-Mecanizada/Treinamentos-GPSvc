@@ -1,0 +1,52 @@
+{
+  "treinamento": "RECEBIMENTO DE MERCADORIAS_SULZER",
+  "id": 388,
+  "idChecklist": 281,
+  "perguntas": [
+    {
+      "pergunta": "5) O que deve ser feito quando no ato do recebimento é verificado que a embalagem e/ou produtos estão avariados?",
+      "opcoes": [
+        "Não receber o produto.",
+        "Receber o produto apenas.",
+        "Não receber a carga.",
+        "Receber o produto e comunicar a liderança para abertura de RNC."
+      ]
+    },
+    {
+      "pergunta": "4) Em que momento deve-se assinar canhotos e CTE’s?",
+      "opcoes": [
+        "Quando o veículo chega na Recepção.",
+        "Quando a descarga é realizada.",
+        "Ao liberar o motorista.",
+        "Após a conferência física dos volumes."
+      ]
+    },
+    {
+      "pergunta": "3) Quando as informações estão divergentes, a quem deve-se recorrer?",
+      "opcoes": [
+        "Ao líder.",
+        "Ao motorista.",
+        "Ao time da Qualidade.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) O que deve ser feito quando há divergência de volumes?",
+      "opcoes": [
+        "Comunicar o líder.",
+        "Não descarregar o caminhão.",
+        "Esperar o fornecedor fazer outra entrega.",
+        "Assinar o documento e liberar o motorista."
+      ]
+    },
+    {
+      "pergunta": "1) Como é feito o recebimento de carga?",
+      "opcoes": [
+        "De olhos vendados.",
+        "Fazendo a entrada dos materiais pelo sistema sem verificação do físico.",
+        "Realizando uma comparação entre a quantidade de volumes constantes no CTE, comparados com a quantidades de volumes contados pelo recebedor.",
+        "Preenchendo uma folha."
+      ]
+    }
+  ]
+}
