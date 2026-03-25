@@ -1,0 +1,52 @@
+{
+  "treinamento": "INTELIGÊNCIA EMOCIONAL_SAÚDE MENTAL",
+  "id": 371,
+  "idChecklist": 265,
+  "perguntas": [
+    {
+      "pergunta": "5) Cite uma prática para desenvolver a inteligência emocional.",
+      "opcoes": [
+        "Desenvolver comportamento seguro.",
+        "Trabalhar com situações críticas.",
+        "Ter empatia.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "4) O que é necessário para desenvolver a inteligência emocional?",
+      "opcoes": [
+        "É necessário apenas ter autoconhecimento.",
+        "Autoconsciência e autorregulação das emoções.",
+        "Autoconsciência para desenvolver as emoções.",
+        "Autorregulação para dominar os impulsos."
+      ]
+    },
+    {
+      "pergunta": "3) O que você ganha ao desenvolver a inteligência emocional?",
+      "opcoes": [
+        "Você cria relacionamentos mais saudáveis mas não consegue tomar decisões mais assertivas.",
+        "Você não cria relacionamentos mais saudáveis, mas consegue tomar decisões mais assertivas.",
+        "Você cria relacionamentos mais saudáveis e consegue tomar decisões difíceis no dia a dia.",
+        "Você cria relacionamentos mais saudáveis e consegue tomar decisões mais assertivas."
+      ]
+    },
+    {
+      "pergunta": "2) No que a inteligência emocional auxilia?",
+      "opcoes": [
+        "Auxilia a desenvolver seus sentimentos.",
+        "Apenas auxilia a não ter estresse no trabalho.",
+        "Através dela você gerência os seus sentimentos, controla reações, potencializa aspectos positivos da própria personalidade.",
+        "Através dela você gerência os seus sentimentos, mas não controla reações, potencializa aspectos positivos da própria personalidade."
+      ]
+    },
+    {
+      "pergunta": "1) O que é inteligência emocional?",
+      "opcoes": [
+        "É a habilidade para conhecer os seus próprios sentimentos e ações diante da vida.",
+        "É a inabilidade para conhecer os seus próprios sentimentos e ações diante da vida.",
+        "Se trata do quanto você aprende sobre emoções.",
+        "É a forma como as pessoas se comunicam emocionalmente."
+      ]
+    }
+  ]
+}
