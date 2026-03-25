@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA E SANITIZAÇÃO ÚMIDA_MONDELĒZ",
+  "id": 939,
+  "idChecklist": 715,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAIS SÃO OS EPC’S CORRETOS (EQUIPAMENTO DE PROTEÇÃO COLETIVA) QUE DEVEM SER UTILIZADOS NA LIMPEZA ÚMIDA DE PISO?",
+      "opcoes": [
+        "UTILIZAR A PLACA DE SINALIZAÇÃO, FITA ZEBRADA E DELIMITAR ISOLANDO A ÁREA A SER LIMPA.",
+        "APENAS PLACA DE SINALIZAÇÃO.",
+        "APENAS FITA ZEBRADA.",
+        "NÃO É NECESSÁRIO SINALIZAR SE A LIMPEZA FOR UTILIZAR RAPIDAMENTE."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL É O PRODUTO QUE DEVEMOS UTILIZAR NA LIMPEZA ÚMIDA DO PISO DA FÁBRICA BALAS E GOMAS?",
+      "opcoes": [
+        "ÁLCOOL 70% .",
+        "DETERGENTE CLORADO.",
+        "TASKI COMBI PROFI.",
+        "HYPOFOAM."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É O PRODUTO QUE DEVEMOS UTILIZAR NA LIMPEZA ÚMIDA DO PISO DA FÁBRICA DRY MIX?",
+      "opcoes": [
+        "ÁLCOOL 70%.",
+        "DETERGENTE CLORADO.",
+        "TASKI COMBI PROFI.",
+        "HYPOFOAM."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL É O PRODUTO QUE DEVEMOS UTILIZAR NA LIMPEZA ÚMIDA DO PISO DA FÁBRICA CHOCOLATE?",
+      "opcoes": [
+        "ÁLCOOL 70%.",
+        "DETERGENTE CLORADO.",
+        "TASKI COMBI PROFI.",
+        "HYPOFOAM."
+      ]
+    },
+    {
+      "pergunta": "1) POR QUE NA ÁREA DE PRODUÇÃO DE ALIMENTOS É IMPORTANTE A LIMPEZA DO PISO?",
+      "opcoes": [
+        "SOMENTE PARA DEIXAR O PISO LIMPO.",
+        "EVITAR A CONTAMINAÇÃO CRUZADA.",
+        "NÃO É IMPORTANTE A LIMPEZA SÓ PISO.",
+        "NENHUMA DAS ALTERNATIVAS ANTERIORES."
+      ]
+    }
+  ]
+}
