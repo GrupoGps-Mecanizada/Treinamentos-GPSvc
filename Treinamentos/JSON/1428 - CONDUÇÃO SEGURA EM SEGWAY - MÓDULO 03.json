@@ -1,0 +1,52 @@
+{
+  "treinamento": "CONDUÇÃO SEGURA EM SEGWAY - MÓDULO 03",
+  "id": 1428,
+  "idChecklist": 1179,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE DEVE SER EVITADO AO CARREGAR O SEGWAY?",
+      "opcoes": [
+        "UTILIZAR TOMADAS ATERRADAS.",
+        "CONECTAR O PLUGUE NA PRESENÇA DE UMIDADE.",
+        "DESCONECTAR O CARREGADOR APÓS CARGA COMPLETA.",
+        "VERIFICAR SE OS LEDS INDICAM CARREGAMENTO."
+      ]
+    },
+    {
+      "pergunta": "4) ONDE O SEGWAY NÃO DEVE SER ESTACIONADO?",
+      "opcoes": [
+        "EM ÁREAS COM ALTO FLUXO DE PESSOAS E VEÍCULOS.",
+        "EM LOCAIS SECOS E SEGUROS.",
+        "EM SUPERFÍCIES PLANAS E NIVELADAS.",
+        "EM LOCAIS COM BOA VISIBILIDADE."
+      ]
+    },
+    {
+      "pergunta": "3) POR QUE O CHECKLIST DE INSPEÇÃO PRÉVIA É ESSENCIAL?",
+      "opcoes": [
+        "APENAS PARA VERIFICAR A BATERIA.",
+        "PARA GARANTIR QUE O SEGWAY ESTEJA LIMPO.",
+        "PARA TESTAR A VELOCIDADE MÁXIMA DO EQUIPAMENTO.",
+        "PARA EVITAR O USO DE UM EQUIPAMENTO COM FALHAS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL É UM DOS PRINCIPAIS RISCOS AO CONDUZIR O SEGWAY?",
+      "opcoes": [
+        "SUPERFÍCIES SECAS E NIVELADAS.",
+        "DESLOCAMENTO EM ÁREAS COM BURACOS, POÇAS OU ÓLEO.",
+        "USO DE EPI'S EM BOAS CONDIÇÕES.",
+        "PARAR O EQUIPAMENTO ANTES DE CRUZAMENTOS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL PRÁTICA COMPROMETE A ESTABILIDADE DO SEGWAY?",
+      "opcoes": [
+        "CONDUZIR COM AS DUAS MÃOS NO GUIDÃO.",
+        "RESPEITAR O FLUXO DE PESSOAS E VEÍCULOS.",
+        "UTILIZAR APENAS UMA DAS MÃOS NO GUIDÃO.",
+        "REALIZAR O CHECKLIST ANTES DO USO."
+      ]
+    }
+  ]
+}
