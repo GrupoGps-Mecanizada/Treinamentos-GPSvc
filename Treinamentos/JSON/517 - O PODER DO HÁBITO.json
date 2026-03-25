@@ -1,0 +1,52 @@
+{
+  "treinamento": "O PODER DO HÁBITO",
+  "id": 517,
+  "idChecklist": 320,
+  "perguntas": [
+    {
+      "pergunta": "5) Os hábitos podem ser reformulados?",
+      "opcoes": [
+        "Sim.",
+        "Não.",
+        "De vez em quando.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) O que é a “recompensa” citada nos ciclos do livro?",
+      "opcoes": [
+        "Se trata do momento que você realiza o que você busca.",
+        "Se trata de tudo que você deixa para trás para ficar bem.",
+        "Se trata dos ganhos que se tem com os hábitos tomados.",
+        "Todas as alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "3) O que é a “rotina” citada nos ciclos do livro?",
+      "opcoes": [
+        "É o conjunto de ações que você toma.",
+        "É a forma que nos comportamos no dia a dia.",
+        "São todos os hábitos ruins.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) O que é a “deixa” citada nos ciclos do livro?",
+      "opcoes": [
+        "É a forma que deixamos de ter uma vontade.",
+        "É deixar as coisas acontecerem.",
+        "É o que desencadeia o hábito, seja um estímulo ou vontade.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "1) Quais são os 3 ciclos do livro “O poder do hábito”?",
+      "opcoes": [
+        "Ame, deixe e fortaleça.",
+        "Deixa, rotina e recompensa.",
+        "Deixe, queira e realize.",
+        "Deixe, queira e recompensa."
+      ]
+    }
+  ]
+}
