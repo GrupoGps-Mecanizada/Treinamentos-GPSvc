@@ -1,0 +1,52 @@
+{
+  "treinamento": "APONTAMENTO ELETRÔNICO_GPSA",
+  "id": 908,
+  "idChecklist": 684,
+  "perguntas": [
+    {
+      "pergunta": "5) EM CASOS DE AUSÊNCIAS E REMANEJAMENTOS INTERNOS, ONDE NÃO SERÁ POSSÍVEL DE IMEDIATO REALIZAR A MARCAÇÃO DE PONTO, QUAL DEPARTAMENTO DEVE-SE ACIONAR?",
+      "opcoes": [
+        "COMPRAS.",
+        "RECURSOS HUMANOS.",
+        "CMO.",
+        "SUPERVISÃO DO CONTRATO/LÍDER DO POSTO."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL O PRAZO DE TOLERÂNCIA EM CASO DE ATRASO?",
+      "opcoes": [
+        "10 MINUTOS, CONFORME O ARTIGO 58 DA CLT PREVÊ 10 MINUTOS DE VARIAÇÃO DIÁRIA NA MARCAÇÃO DE PONTO.",
+        "7 MINUTOS, A PARTIR DE 8 MINUTOS SERÁ CONSIDERADO ATRASO.",
+        "5 MINUTOS, A PARTIR DE 6 MINUTOS SERÁ CONSIDERADO ATRASO.",
+        "3 MINUTOS, A PARTIR DE 4 MINUTOS SERÁ CONSIDERADO ATRASO."
+      ]
+    },
+    {
+      "pergunta": "3) EM CASOS DE PROBLEMAS COM O DISPOSITIVO/EQUIPAMENTO, QUAL DEPARTAMENTO SERÁ ACIONADO?",
+      "opcoes": [
+        "CMO.",
+        "DEPARTAMENTO PESSOAL.",
+        "SUPERVISÃO DO CONTRATO/LÍDER DO POSTO.",
+        "SESMT."
+      ]
+    },
+    {
+      "pergunta": "2) AO ACESSAR O APLICATIVO, QUAL SERÁ A PRIMEIRA INFORMAÇÃO PREENCHIDA PARA QUE A MARCAÇÃO DE PONTO SEJA REALIZADA?",
+      "opcoes": [
+        "CPF.",
+        "NOME.",
+        "MATRÍCULA – RE.",
+        "DATA DE NASCIMENTO."
+      ]
+    },
+    {
+      "pergunta": "1) EM CASOS EM QUE O SISTEMA APRESENTE A INFORMAÇÃO OFF-LINE, O QUE SE DEVE FAZER?",
+      "opcoes": [
+        "CONTATAR MEU SUPERVISOR E/OU LÍDER.",
+        "REGISTRAR A MARCAÇÃO DE PONTO, UMA VEZ QUE O SISTEMA OPERA NORMALMENTE OFF-LINE.",
+        "NÃO REGISTRAR A MARCAÇÃO DE PONTO.",
+        "REINICIAR O APARELHO DE PONTO."
+      ]
+    }
+  ]
+}
