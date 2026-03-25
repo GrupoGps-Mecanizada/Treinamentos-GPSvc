@@ -1,0 +1,52 @@
+{
+  "treinamento": "BOAS PRÁTICAS DE FABRICAÇÃO_BOTICÁRIO",
+  "id": 405,
+  "idChecklist": 298,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual o quinto “S” da metodologia do programa 5S?",
+      "opcoes": [
+        "Senso de Organização: ordenar cada objeto em uma disposição mais inteligente, deixando o que é mais utilizado de forma mais fácil de ser acessado e identificar ferramentas e recursos com sinalização.",
+        "Senso de Bem-Estar: cuidar do bem-estar, higiene e segurança no ambiente de trabalho. Promover ações que estimulem uma fácil comunicação para entendimento e resolução de desafios.",
+        "Senso de Autodisciplina: ter autodisciplina para tornar os 4S anteriores em bons hábitos. Desenvolver autoconhecimento e criar ações que estimulem a melhoria contínua para o todo da organização.",
+        "Senso de Limpeza: Entender a causa da sujeira e evitá-la sempre que possível. Utilize materiais para proteção, separe o que é reciclável. O que for sujo deverá ser limpo!"
+      ]
+    },
+    {
+      "pergunta": "4) Em relação a infraestrutura, podemos afirmar que são necessários quais dos itens abaixo para manter a qualidade dos produtos?",
+      "opcoes": [
+        "Teto com goteira, paredes limpas, piso limpo.",
+        "Instalações com baixa iluminação e paredes com boa pintura.",
+        "Grama bem cortada, parede e tetos limpos e piso irregular.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "3) Quais os tipos possíveis de contaminações no processo produtivo?",
+      "opcoes": [
+        "Microbiológica, impurezas, química.",
+        "Pragas, desinsetização, graxa, plástico e metal.",
+        "Física, química, microbiológica e pragas.",
+        "Microrganismos, poeira, roedores e água."
+      ]
+    },
+    {
+      "pergunta": "2) Em relação a conduta e comportamento, podemos afirmar que é ERRADO a utilização de:",
+      "opcoes": [
+        "Uniformes limpos.",
+        "Equipamentos de proteção individual e coletiva.",
+        "Anéis, brincos, colares, relógios, pulseiras, piercings e crachá no pescoço.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "1) Quais os principais objetivos do processo de boas práticas de fabricação?",
+      "opcoes": [
+        "Manter todos sem treinamentos.",
+        "Treinar apenas os Colaboradores do processo produtivo.",
+        "Treinar os responsáveis pelo processo de transporte e armazenamento.",
+        "Treinar os Colaboradores, manter as instalações, criar e controlar os processos, controle da qualidade e armazenar e inspecionar os insumos e produtos acabados."
+      ]
+    }
+  ]
+}
