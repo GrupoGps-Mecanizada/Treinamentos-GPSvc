@@ -1,0 +1,52 @@
+{
+  "treinamento": "MARÇO LILÁS_PREVENÇÃO DO COLO DE ÚTERO",
+  "id": 620,
+  "idChecklist": 406,
+  "perguntas": [
+    {
+      "pergunta": "5) Quando deve ser realizado o exame de Papanicolau?",
+      "opcoes": [
+        "O Papanicolau deve ser feito de 3 em 3 anos, por todas as mulheres com idades acima de 25 anos e que possuem vida sexual ativa.",
+        "A cada 2 anos por todas as mulheres com idades acima de 25 anos e que possuem vida sexual ativa.",
+        "A cada 5 anos por todas as mulheres com idades acima de 25 anos e que possuem vida sexual ativa.",
+        "A cada 10 anos por todas as mulheres com idades acima de 25 anos e que possuem vida sexual ativa."
+      ]
+    },
+    {
+      "pergunta": "4) Qual a principal forma de prevenção e identificação do câncer de colo de útero?",
+      "opcoes": [
+        "Teste de farmácia.",
+        "Tomar todas as vacinas.",
+        "Exame preventivo e Papanicolau, no qual é feita a coleta de células do colo do útero para detectar se há alguma infecção ou variação nesses tecidos.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "3) Quando a doença está em estágio avançado, ela começa a apresentar alguns sintomas como:",
+      "opcoes": [
+        "Dor abdominal associada a problemas intestinais e urinários, sangramento vaginal, secreções vaginais anormais, menstruação irregular etc.",
+        "Dor de cabeça e garganta inflamada.",
+        "Dor atrás dos olhos, cólicas e dor de cabeça.",
+        "Nenhum dos sintomas citados acima."
+      ]
+    },
+    {
+      "pergunta": "2) Qual o objetivo da campanha?",
+      "opcoes": [
+        "Falar sobre o câncer de estômago.",
+        "Reduzir o número de mortes por câncer de colo do útero e promover a prevenção desde cedo.",
+        "Homenagear as mulheres.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o mês de conscientização sobre a importância de se prevenir contra o câncer do colo do útero?",
+      "opcoes": [
+        "Janeiro.",
+        "Abril.",
+        "Fevereiro.",
+        "Março."
+      ]
+    }
+  ]
+}
