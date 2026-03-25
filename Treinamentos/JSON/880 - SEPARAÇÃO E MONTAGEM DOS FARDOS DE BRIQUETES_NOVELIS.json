@@ -1,0 +1,52 @@
+{
+  "treinamento": "SEPARAÇÃO E MONTAGEM DOS FARDOS DE BRIQUETES_NOVELIS",
+  "id": 880,
+  "idChecklist": 651,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE FAZER ANTES DE MOVIMENTAR QUALQUER CARGA COM A EMPILHADEIRA?",
+      "opcoes": [
+        "CHECKLIST DA EMPILHADEIRA E AVALIAR TODOS OS ITENS COM MUITA ATENÇÃO.",
+        "ORGANIZAR A CARGA.",
+        "TOMAR CAFÉ.",
+        "ABASTECER A LINHA DE PRODUÇÃO."
+      ]
+    },
+    {
+      "pergunta": "4) QUANTAS FITAS DEVEM SER UTILIZADAS PARA AMARRAÇÃO DOS FARDOS DE BRIQUETES NO CAMINHÃO?",
+      "opcoes": [
+        "TRÊS.",
+        "UM.",
+        "QUATRO.",
+        "DUAS."
+      ]
+    },
+    {
+      "pergunta": "3) QUANTOS MODELOS DE AMARRAÇÃO DE BRIQUETES TEMOS NA OPERAÇÃO NOVELIS?",
+      "opcoes": [
+        "DOIS.",
+        "UM.",
+        "TRÊS.",
+        "QUATRO."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE É O CLASS 01?",
+      "opcoes": [
+        "HEADS & TAILS (PONTAS E CAUDAS).",
+        "É ESQUELETO DA PRODUÇÃO DO CORPO DA LATA. LIVRE DE QUALQUER TIPO DE CONTAMINAÇÃO, COMO PINTURA, VERNIZ, JUNTAS DE TINTA, SELANTES, ÓLEOS, PLÁSTICOS, ETC.",
+        "A REJEIÇÃO E FINOS DE PRODUÇÃO DA TAMPA E DO ANEL DA LATA.",
+        "A REJEIÇÃO DE CORPOS DE LATA JÁ PINTADO E ENVERNIZADO."
+      ]
+    },
+    {
+      "pergunta": "1) QUANTAS CLASSIFICAÇÕES DE BRIQUETES NÓS TEMOS NA OPERAÇÃO NOVELIS?",
+      "opcoes": [
+        "TRÊS.",
+        "DOIS.",
+        "CINCO.",
+        "UM."
+      ]
+    }
+  ]
+}
