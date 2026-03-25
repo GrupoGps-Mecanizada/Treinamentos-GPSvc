@@ -1,0 +1,52 @@
+{
+  "treinamento": "CONDUTA ADEQUADA PARA DESLOCAMENTO EM TRANSPORTE COLETIVO OU FROTA_LOGISTICA",
+  "id": 384,
+  "idChecklist": 277,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais anormalidades quanto as condições dos veículos, ou quaisquer outros fatos que venham a alterar a rotina do deslocamento é necessário comunicar imediatamente ao Coordenador/Supervisor?",
+      "opcoes": [
+        "Veículos em más condições de conservação e limpeza.",
+        "Trafegabilidade.",
+        "Condutas inadequadas por parte de qualquer ocupante do veículo (Colaborador/Condutor), durante trajeto.",
+        "Todas as alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "4) Para maior segurança, conforto e tranquilidade das equipes que utilizam o transporte coletivo fretado, a orientação é:",
+      "opcoes": [
+        "Embarcar somente utilizando máscara de proteção facial (cobrindo adequadamente a boca e o nariz).",
+        "Seguir sempre as orientações do condutor (motorista).",
+        "Usar o cinto de segurança.",
+        "Todas as alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "3) O transporte coletivo fretado deve esperar todos os Colaboradores para seguir sua rota, independente do horário estabelecido para saída?",
+      "opcoes": [
+        "Sim, é dever do condutor esperar por todos os usuários, a menos que tenha sido informado previamente a falta de algum passageiro.",
+        "Sim, caso o Colaborador não apareça, o condutor do veículo fretado deve se deslocar até a residência do Colaborador, afim de apanhá-lo para condução até o posto de trabalho.",
+        "O Colaborador deve estar no local previamente definido, com alguns minutos de antecedência, afim de evitar transtornos operacionais e logísticos.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "2) O transporte coletivo fretado pode mudar sua rota, sem prévia autorização da empresa contratante, a fim de beneficiar um ou outro Funcionário?",
+      "opcoes": [
+        "Sim, deve atender as necessidades individuais de cada Colaborador.",
+        "O transporte coletivo fretado opera em horários programados e rotas estabelecidas pela Empresa contratante.",
+        "Variável, de acordo com as intempéries e condições climáticas.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "1) O que é o transporte coletivo fretado?",
+      "opcoes": [
+        "Veículo de uso exclusivo e individual, contratado pela empresa, para deslocamento diversos do Colaborador.",
+        "É um sistema de transporte de passageiros cuja característica principal é o deslocamento conjunto dos Colaboradores em um único meio de transporte.",
+        "Veículo disponibilizado pela empresa para uso exclusivo e pessoal.",
+        "Nenhuma das alternativas acima."
+      ]
+    }
+  ]
+}
