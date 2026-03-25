@@ -1,0 +1,52 @@
+{
+  "treinamento": "MOVIMENTAÇÃO DE PRODUTOS NO MERCADO_ELECTROLUX SÃO CARLOS",
+  "id": 408,
+  "idChecklist": 301,
+  "perguntas": [
+    {
+      "pergunta": "5) Com base no treinamento, podemos afirmar quê?",
+      "opcoes": [
+        "A separação dos produtos na área do mercado deve ser realizada quando o box estiver vazio.",
+        "Separar os produtos da lista de separação e alocar em local demarcado para empilhadeira retirar.",
+        "Produtos avariados podem ser separados e expedidos normalmente.",
+        "Produtos bloqueados podem ser expedidos normalmente."
+      ]
+    },
+    {
+      "pergunta": "4) Quando o box do mercado for reabastecido qual procedimento deve ser feito?",
+      "opcoes": [
+        "Anotar número de série e pedir para estoquista dar baixa.",
+        "Não precisa fazer nada.",
+        "Realizar transferência sistêmica do box de origem para box do mercado.",
+        "Pedir para operador o box de origem."
+      ]
+    },
+    {
+      "pergunta": "3) Quando solicitar abastecimento do Mercado?",
+      "opcoes": [
+        "Quando der vontade.",
+        "Quando acabar o turno.",
+        "Quando se aproximar do estoque mínimo do box do mercado.",
+        "Quando Líder solicitar."
+      ]
+    },
+    {
+      "pergunta": "2) Quais os ganhos que o Mercado proporciona?",
+      "opcoes": [
+        "Velocidade de separação, maior organização no estoque.",
+        "Lista de separações menores.",
+        "Maior fluxo de empilhadeiras.",
+        "Não traz nenhum ganho."
+      ]
+    },
+    {
+      "pergunta": "1) Baseado no treinamento, escolha a alternativa VERDADEIRA:",
+      "opcoes": [
+        "A área do mercado foi criada para separação de avarias.",
+        "A área do mercado tem objetivo de minimizar tempo de separação e tirar do estoque os fracionados.",
+        "O mercado é local destinado para armazenar produtos bloqueados e sem registro.",
+        "O mercado é um box normal de produtos acabados."
+      ]
+    }
+  ]
+}
