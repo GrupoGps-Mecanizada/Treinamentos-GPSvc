@@ -1,0 +1,52 @@
+{
+  "treinamento": "INSPEÇÃO OEA_WHIRLPOOL JOINVILLE",
+  "id": 409,
+  "idChecklist": 302,
+  "perguntas": [
+    {
+      "pergunta": "5) Quando verificar a estrutura interna do container o que deve observar?",
+      "opcoes": [
+        "Verificar se está vazio.",
+        "Que esteja limpo e higienizado.",
+        "Ficar atento para reparos incomuns.",
+        "Que esteja com cores compatíveis a cor do caminhão."
+      ]
+    },
+    {
+      "pergunta": "4) Quais procedimentos adotados na saída do caminhão?",
+      "opcoes": [
+        "Na saída, verificar notas fiscais e liberar o caminhão.",
+        "Na saída da portaria, será verificado se o lacre, nota fiscal e a placa da carreta, estão em conformidade.",
+        "Na saída, verificar estruturas do caminhão.",
+        "Na saída, verificar estrutura do caminhão e pneus."
+      ]
+    },
+    {
+      "pergunta": "3) Quais são os 7 pontos de revisão?",
+      "opcoes": [
+        "Interior e externa, portas externas, lado direito, lado esquerdo, parede frontal, teto e piso.",
+        "Interior e externa, portas externas, lado direito, lado esquerdo, parede frontal, teto e parafusos.",
+        "Interior e externa, portas externas, condições dos pneus, lado esquerdo parede frontal, teto e piso.",
+        "Interior e externa, cabine do caminhão, lado direito, lado esquerdo, parede frontal, teto e piso."
+      ]
+    },
+    {
+      "pergunta": "2) Item indispensável de vistoria OEA?",
+      "opcoes": [
+        "Fazer revista visual sem abertura do caminhão.",
+        "Verificar Portas internas e externas e certificar-se de que todos os mecanismos de travamento estão seguros e confiáveis e que estejam conectados ao contêiner.",
+        "Solicitar CNH do condutor.",
+        "Não vistoriar o caminhão interno."
+      ]
+    },
+    {
+      "pergunta": "1) Para liberar o acesso do caminhão é fundamental?",
+      "opcoes": [
+        "Recepcionar o condutor do caminhão e liberar.",
+        "Verificar bons estados dos pneus do caminhão e liberar.",
+        "Verificar planilha programação de entrada importação ou exportação.",
+        "Liberar após revista interna."
+      ]
+    }
+  ]
+}
