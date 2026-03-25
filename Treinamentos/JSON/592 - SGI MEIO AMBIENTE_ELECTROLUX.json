@@ -1,0 +1,52 @@
+{
+  "treinamento": "SGI MEIO AMBIENTE_ELECTROLUX",
+  "id": 592,
+  "idChecklist": 379,
+  "perguntas": [
+    {
+      "pergunta": "5) O que é o LAIA e onde encontramos a Política Energética Electrolux?",
+      "opcoes": [
+        "Levantamento de aspecto e Impacto Ambiental. A Política Energética está disponível nos murais da planta.",
+        "Levantamento de Impacto Ambiental.",
+        "A Política Energética não está disponível.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "4) O que estabelece o procedimento de Controle e Aquisição e uso de Produtos Químicos?",
+      "opcoes": [
+        "O procedimento estabelece que a utilização dos produtos químicos deve ser feita dentro do prazo de validade e frascos ou recipientes com substancias químicas devem estar identificado.",
+        "Produtos Químicos não precisam estar cadastrados no SGI.",
+        "Produtos Químicos não precisam ter FISPQ.",
+        "Todas as alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) O que estabelece o procedimento de Preparação e Resposta às Emergências?",
+      "opcoes": [
+        "O procedimento estabelece que qualquer situação de emergência, deve ser comunicada aos brigadistas, bombeiros ou gestor imediato.",
+        "Não devo comunicar ninguém em situações de emergência.",
+        "Devo comunicar no dia seguinte.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "2) O que estabelece o procedimento de “Coleta Seletiva”?",
+      "opcoes": [
+        "Devo jogar os resíduos no chão.",
+        "Os resíduos da coleta seletiva, devem ser armazenados em recipientes coloridos e identificados.",
+        "Devemos misturar os resíduos descartados nas coletoras.",
+        "Todas as alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "1) O que estabelece o procedimento de Comunicação?",
+      "opcoes": [
+        "Como abrir uma RQA.",
+        "Relatar não conformidade relacionadas à “Saúde, Segurança e Meio Ambiente”.",
+        "Como preencher o checklist do equipamento.",
+        "Nenhuma das alternativas acima."
+      ]
+    }
+  ]
+}
