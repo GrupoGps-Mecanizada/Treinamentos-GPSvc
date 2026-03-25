@@ -1,0 +1,52 @@
+{
+  "treinamento": "CHECKLIST DE BANHEIROS_UNIMED",
+  "id": 625,
+  "idChecklist": 411,
+  "perguntas": [
+    {
+      "pergunta": "5) Como devo assinalar o checklist de limpeza de banheiros?",
+      "opcoes": [
+        "(V) tarefa realizada, (NA) não se aplica, (C) limpeza de conservação, (P) limpeza profunda.",
+        "(OK) tarefa realizada, ( - ) não se aplica, (C) limpeza de conservação, (P) limpeza profunda.",
+        "(X) tarefa realizada, (NA) não se aplica, (C) limpeza de conservação, (P) limpeza profunda.",
+        "(OK) tarefa realizada, (NA) não se aplica, (C) limpeza de conservação, (P) limpeza profunda."
+      ]
+    },
+    {
+      "pergunta": "4) Qual o procedimento no momento de preencher o checklist de banheiros?",
+      "opcoes": [
+        "Não devo estar utilizando luvas.",
+        "Devo preencher o checklist utilizando luvas azuis de kit sanitário.",
+        "Devo preencher o checklist utilizando luvas cirúrgicas.",
+        "Posso utilizar qualquer tipo de luvas, desde que higienize antes."
+      ]
+    },
+    {
+      "pergunta": "3) Quais informações não podem faltar no preenchimento do checklist de limpeza de banheiros?",
+      "opcoes": [
+        "Setor, data, hora, nome e observações.",
+        "Setor, data, hora, nome e assinatura.",
+        "Setor, data, lixo, nome e assinatura.",
+        "Mictório, piso, lixo, parede e espelho."
+      ]
+    },
+    {
+      "pergunta": "2) Qual a importância do checklist?",
+      "opcoes": [
+        "Cria um documento formal que assegura tanto a empresa quanto ao Cliente.",
+        "Serve como relatório para controle do que está sendo feito.",
+        "Cria um histórico de tudo que foi feito por um funcionário ou para um Cliente.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "1) O que é um checklist de banheiro?",
+      "opcoes": [
+        "É uma folha utilizada para marcar as tarefas realizadas no banheiro.",
+        "É um documento utilizado para registrar o horário de entrada dos funcionários.",
+        "É um documento que gera evidências de que a tarefa foi realizada e cria um histórico.",
+        "É um formulário para registrar o recebimento de produtos de limpeza."
+      ]
+    }
+  ]
+}
