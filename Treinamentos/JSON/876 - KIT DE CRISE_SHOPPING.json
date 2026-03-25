@@ -1,0 +1,52 @@
+{
+  "treinamento": "KIT DE CRISE_SHOPPING",
+  "id": 876,
+  "idChecklist": 647,
+  "perguntas": [
+    {
+      "pergunta": "5) COM QUAL EQUIPE O KIT CRISE FICA GUARDADO?",
+      "opcoes": [
+        "VIGILÂNCIA.",
+        "BRIGADA.",
+        "PORTARIA.",
+        "SERVIÇOS GERAIS."
+      ]
+    },
+    {
+      "pergunta": "4) QUANDO PASSO UMA INFORMAÇÃO INCORRETA OU INCOMPLETA, O QUE PODE ACONTECER?",
+      "opcoes": [
+        "DESAPARECIMENTO DA OCORRÊNCIA.",
+        "AGRAVAMENTO DA OCORRÊNCIA.",
+        "RESOLUÇÃO DA OCORRÊNCIA.",
+        "NADA ACONTECE."
+      ]
+    },
+    {
+      "pergunta": "3) É CONSIDERADO OCORRÊNCIA COMUM:",
+      "opcoes": [
+        "OCORRÊNCIA DE GRANDE PROPORÇÃO.",
+        "OCORRÊNCIA DE MÉDIA.",
+        "OCORRÊNCIA DE PEQUENA PROPORÇÃO.",
+        "NENHUMA DAS ANTERIORES."
+      ]
+    },
+    {
+      "pergunta": "2) DENTRE OS TIPOS DE OCORRÊNCIAS, QUAL EXEMPLO NÃO É UMA CRISE?",
+      "opcoes": [
+        "DISPARO DE ALARME.",
+        "ALAGAMENTO.",
+        "EXPLOSÃO.",
+        "MORTE."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL DAS OPÇÕES ABAIXO NÃO É UMA OCORRÊNCIA?",
+      "opcoes": [
+        "EMERGÊNCIA.",
+        "CRISE.",
+        "OCORRÊNCIA COMUM.",
+        "URGÊNCIA."
+      ]
+    }
+  ]
+}
