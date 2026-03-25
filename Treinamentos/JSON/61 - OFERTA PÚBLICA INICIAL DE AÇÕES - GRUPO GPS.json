@@ -1,0 +1,43 @@
+{
+  "treinamento": "OFERTA PÚBLICA INICIAL DE AÇÕES - GRUPO GPS",
+  "id": 61,
+  "idChecklist": 28,
+  "perguntas": [
+    {
+      "pergunta": "Quem foram os representantes convidados para tocar a campainha no evento de Abertura de Capital?",
+      "opcoes": [
+        "Os diretores e presidente do Grupo GPS.",
+        "Colaboradores representando os segmentos de atuação do Grupo GPS.",
+        "Atrizes e Modelos contratados.",
+        "Fornecedores e parceiros do Grupo GPS."
+      ]
+    },
+    {
+      "pergunta": "Qual o nome do evento realizado para celebrar a Oferta Pública Inicial de Ações do Grupo GPS?",
+      "opcoes": [
+        "Toque de Campainha.",
+        "Chuva de Papel.",
+        "Salva de Palmas.",
+        "Festa de Confraternização."
+      ]
+    },
+    {
+      "pergunta": "Quais os benefícios da abertura de capital para uma empresa?",
+      "opcoes": [
+        "Atrair mais recursos, maior capacidade operacional e proporcionar melhorias na estratégia de negócios.",
+        "Melhores condições de negociação com fornecedores.",
+        "Aumentar a diversidade de serviços oferecidos aos Clientes.",
+        "Nenhum, ela apenas passa a pagar mais impostos."
+      ]
+    },
+    {
+      "pergunta": "O que é Oferta Pública Inicial de Ações?",
+      "opcoes": [
+        "É quando uma empresa recebe um prêmio.",
+        "É quando uma empresa passa a negociar suas ações na bolsa de valores.",
+        "É quando a empresa é colocada à venda.",
+        "É quando a empresa deixa de ser privatizada e se torna pública."
+      ]
+    }
+  ]
+}
