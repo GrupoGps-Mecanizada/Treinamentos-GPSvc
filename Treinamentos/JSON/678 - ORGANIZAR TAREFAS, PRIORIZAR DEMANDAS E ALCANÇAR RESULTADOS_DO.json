@@ -1,0 +1,52 @@
+{
+  "treinamento": "ORGANIZAR TAREFAS, PRIORIZAR DEMANDAS E ALCANÇAR RESULTADOS_DO",
+  "id": 678,
+  "idChecklist": 464,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais são as etapas do processo de planejamento de atividades para um projeto?",
+      "opcoes": [
+        "Identificação das mudanças do mercado, definição de prazos/responsabilidades e avaliação de riscos e oportunidades.",
+        "Definição dos objetivos do projeto, estabelecimento de um plano de ação e definição das atividades necessárias.",
+        "Alocação de recursos, estabelecimento de prioridades e criação de um cronograma de execução.",
+        "Produção, vendas, marketing, finanças e recursos humanos."
+      ]
+    },
+    {
+      "pergunta": "4) Qual a importância do planejamento de atividades para o sucesso de um projeto de desenvolvimento?",
+      "opcoes": [
+        "Ajuda a identificar e antecipar possíveis problemas ou obstáculos ao longo do caminho.",
+        "Permite tomar medidas preventivas para minimizar os riscos.",
+        "Garante que o projeto seja entregue dentro do prazo, orçamento e com a qualidade esperada.",
+        "Todas as alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) Por que investir em planejamento de atividades é fundamental para aumentar a eficiência e produtividade da empresa?",
+      "opcoes": [
+        "Porque aumenta os custos e o retrabalho.",
+        "Porque permite que a empresa realize as atividades de forma aleatória.",
+        "Porque permite que a empresa defina objetivos claros, aloque recursos de forma eficiente, estabeleça um cronograma de execução e minimize os riscos envolvidos.",
+        "Porque não há relação entre o planejamento de atividades e a eficiência e produtividade da empresa."
+      ]
+    },
+    {
+      "pergunta": "2) Por que é importante que o planejamento esteja alinhado com a visão e os objetivos da empresa?",
+      "opcoes": [
+        "Para que a empresa possa realizar as atividades de forma aleatória.",
+        "Para que a empresa possa se adaptar às mudanças do ambiente externo.",
+        "Para que a empresa possa realizar apenas as atividades mais urgentes.",
+        "Para que as atividades desenvolvidas estejam em consonância com a estratégia geral da organização."
+      ]
+    },
+    {
+      "pergunta": "1) O que é o planejamento de atividades?",
+      "opcoes": [
+        "É um processo de avaliação do mercado.",
+        "É o estabelecimento de objetivos e metas a serem alcançados dentro de uma empresa.",
+        "É um conjunto de ações necessárias para a execução de um projeto.",
+        "É um processo de treinamento da equipe da empresa."
+      ]
+    }
+  ]
+}
