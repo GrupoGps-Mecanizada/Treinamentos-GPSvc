@@ -1,0 +1,52 @@
+{
+  "treinamento": "O QUE SÃO PRODUTOS DOMISSANITÁRIOS_ALIMENTAÇÃO",
+  "id": 786,
+  "idChecklist": 565,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAIS OS EPI’S VOCÊ DEVE USAR AO MANIPULAR PRODUTOS DOMISSANITÁRIOS?",
+      "opcoes": [
+        "PROTETOR AURICULAR, BOTA E CAPACETE.",
+        "LUVA, CAPACETE, COLETE CERVICAL E BOTAS.",
+        "ÓCULOS DE SEGURANÇA, MÁSCARA PFF2, LUVAS LÁTEX OU PVC, AVENTAL IMPERMEÁVEL E BOTA DE SEGURANÇA OU GALOCHA.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE DEVO FAZER ANTES DE MANIPULAR DOMISSANITÁRIOS?",
+      "opcoes": [
+        "NADA, USO DO JEITO QUE RECEBO.",
+        "MISTURAR TODOS OS PRODUTOS DISPONÍVEIS.",
+        "DILUIR EM ÁGUA COM O DILUIDOR AUTOMÁTICO.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "3) QUEM REGULA A PRODUÇÃO DE DOMISSANITÁRIOS NO BRASIL?",
+      "opcoes": [
+        "AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA (ANVISA).",
+        "IMETRO.",
+        "MINISTÉRIO DO TRABALHO E EMPREGO - TEM.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "2) ASSINALE ABAIXO A ALTERNATIVA QUE CONTÉM PRODUTOS DOMISSANITÁRIOS:",
+      "opcoes": [
+        "TOLUENO, TOLUOL, ÁCIDO SULFÚRICO.",
+        "DETERGENTE, ALVEJANTE, DESINFETANTE.",
+        "TOLUENO, WD, QUEROSENE.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE SÃO PRODUTOS DOMISSANITÁRIOS?",
+      "opcoes": [
+        "SÃO SANEANTES DESTINADOS AO USO DOMÉSTICO.",
+        "SÃO SANEANTES AGRESSIVOS QUE NÃO PODEMOS USAR EM CASA.",
+        "SÃO PRODUTOS QUÍMICOS QUE NÃO UTILIZAMOS.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    }
+  ]
+}
