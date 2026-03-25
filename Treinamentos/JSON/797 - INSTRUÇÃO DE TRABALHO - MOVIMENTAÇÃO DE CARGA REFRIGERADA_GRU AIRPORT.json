@@ -1,0 +1,52 @@
+{
+  "treinamento": "INSTRUÇÃO DE TRABALHO - MOVIMENTAÇÃO DE CARGA REFRIGERADA_GRU AIRPORT",
+  "id": 797,
+  "idChecklist": 576,
+  "perguntas": [
+    {
+      "pergunta": "5) ASSINALE A ALTERNATIVA CORRETA. AO ARMAZENAR O EQUIPAMENTO RKN, O OPERADOR DEVE ABRIR A PORTA DE UNIDADE DE CARREGAMENTO E PUXAR TODO O CABO DO CONTÊINER PARA:",
+      "opcoes": [
+        "EVITAR SUPER CARREGAMENTO.",
+        "EVITAR FALTA DE ENERGIA.",
+        "EVITAR AVARIA.",
+        "EVITAR SUPERAQUECIMENTO."
+      ]
+    },
+    {
+      "pergunta": "4)  O QUE O COLABORADOR DEVE SEMPRE ACIONAR NO RACK PARA QUE O EQUIPAMENTO NÃO VENHA A SE MOVIMENTAR DEVIDO OS ROLETES?",
+      "opcoes": [
+        "TRAVAS.",
+        "PINOS.",
+        "SOQUETES.",
+        "BOTÃO DE EMERGÊNCIA."
+      ]
+    },
+    {
+      "pergunta": "3) APÓS ACOMODAR O RAP NA POSIÇÃO CORRETA DEVEMOS FAZER QUAL PROCEDIMENTO?",
+      "opcoes": [
+        "SEGUIR PARA O PRÓXIMO PUXE.",
+        "DEVE ACIONAR O SUPERVISOR GPS.",
+        "DEVE SÓ DEIXAR O EQUIPAMENTO EM CIMA DO RACK.",
+        "O EQUIPAMENTO DEVE SER PLUGADO NA TOMADA."
+      ]
+    },
+    {
+      "pergunta": "2) ONDE OS RAPS JAMAIS PODEM SER ARMAZENADOS DIRETAMENTE?",
+      "opcoes": [
+        "PALETES.",
+        "CHÃO.",
+        "RACK.",
+        "TODAS AS ALTERNATIVAS ESTÃO CORRETAS."
+      ]
+    },
+    {
+      "pergunta": "1) O OPERADOR AO COLOCAR O EQUIPAMENTO NO RACK DEVE SEMPRE ACIONAR O QUE?",
+      "opcoes": [
+        "FREIO DE MÃO.",
+        "BUZINA.",
+        "FARÓIS.",
+        "PISCA ALERTA."
+      ]
+    }
+  ]
+}
