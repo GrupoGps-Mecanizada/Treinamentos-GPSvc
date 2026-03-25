@@ -1,0 +1,52 @@
+{
+  "treinamento": "REVISTA DE VEÍCULOS PORTARIA SOCIAL_CIFERAL",
+  "id": 402,
+  "idChecklist": 295,
+  "perguntas": [
+    {
+      "pergunta": "5) Se na vistoria o vigilante verificar a tentativa de retirar algum material da planta sem o devido procedimento, como deve proceder?",
+      "opcoes": [
+        "Deve liberar a saída do veículo com o material e comunicar o Cliente por telefone.",
+        "Avisar de imediato o Cliente, com a retenção do veículo e condutor na portaria e após elucidado o fato, elaborar registro do fato.",
+        "Deve reter o material e liberar o veículo para não causar atrasos.",
+        "Não é necessário comunicar o Cliente, apenas reter o material."
+      ]
+    },
+    {
+      "pergunta": "4) Terceiros podem acessar com ferramentas, porém é necessário qual procedimento?",
+      "opcoes": [
+        "Embalar as ferramentas impossibilitando sua utilização.",
+        "Relacionar as ferramentas no checklist padrão e entregar uma cópia ao terceiro.",
+        "As ferramentas devem ser identificadas com caneta vermelha.",
+        "Devem estar armazenadas em maletas."
+      ]
+    },
+    {
+      "pergunta": "3) No acesso de terceiros, quem é o responsável por abrir as portas e porta-malas para vistoria?",
+      "opcoes": [
+        "O condutor do veículo.",
+        "O vigilante.",
+        "Ninguém, o procedimento não é necessário.",
+        "Qualquer pessoa que estiver nas imediações."
+      ]
+    },
+    {
+      "pergunta": "2) Veículos de carga e/ou com materiais destinados a expedição, devem acessar a planta por qual portaria?",
+      "opcoes": [
+        "Por qualquer portaria, não existe distinção.",
+        "Não podem acessar a planta por nenhuma das portarias.",
+        "Devem acessar pela Portaria Fiscal.",
+        "Devem acessar pela Portaria Social."
+      ]
+    },
+    {
+      "pergunta": "1) Quais veículos estão autorizados a acessar a planta pela Portaria Social?",
+      "opcoes": [
+        "Todos os veículos que tentarem acessar.",
+        "Caminhões e cargas de matéria-prima.",
+        "Veículos leves da frota do Cliente, terceiros autorizados, Gerentes e Coordenadores que constem na planilha de acesso.",
+        "Motoboys e vans."
+      ]
+    }
+  ]
+}
