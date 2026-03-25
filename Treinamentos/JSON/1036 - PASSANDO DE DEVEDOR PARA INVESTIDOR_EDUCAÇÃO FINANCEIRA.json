@@ -1,0 +1,52 @@
+{
+  "treinamento": "PASSANDO DE DEVEDOR PARA INVESTIDOR_EDUCAÇÃO FINANCEIRA",
+  "id": 1036,
+  "idChecklist": 810,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE OS FUNDOS IMOBILIÁRIOS E AS AÇÕES PROPORCIONAM AOS INVESTIDORES?",
+      "opcoes": [
+        "DÍVIDAS ADICIONAIS.",
+        "RENDA FIXA.",
+        "PARTICIPAÇÃO NOS LUCROS.",
+        "ACESSO A EMPRÉSTIMOS."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL É A IMPORTÂNCIA DA RESERVA DE EMERGÊNCIA?",
+      "opcoes": [
+        "PARA COMPRAR BENS DE LUXO.",
+        "PARA PAGAR DÍVIDAS ANTIGAS.",
+        "PARA GASTAR EM VIAGENS.",
+        "É COMO UM SEGURO CONTRA IMPREVISTOS."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE É SUGERIDO PARA QUEM TEM MAIS DE UMA DÍVIDA?",
+      "opcoes": [
+        "PRIORIZAR O PAGAMENTO DA MAIS CARA.",
+        "IGNORAR AS DÍVIDAS E ESPERAR UMA SOLUÇÃO.",
+        "CONTRAIR NOVAS DÍVIDAS.",
+        "NÃO SE PREOCUPAR COM RENEGOCIAÇÕES."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL É A RECOMENDAÇÃO PARA QUEM TEM PARCELAS ATRASADAS E ENFRENTA UM PROBLEMA URGENTE?",
+      "opcoes": [
+        "IGNORAR A SITUAÇÃO E ESPERAR MELHORAR.",
+        "BUSCAR FORMAS DE GANHAR DINHEIRO EXTRA.",
+        "FAZER MAIS DÍVIDAS.",
+        "DEIXAR AS PARCELAS ACUMULAREM."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE É ESSENCIAL PARA SAIR DAS DÍVIDAS, DE ACORDO COM O TREINAMENTO?",
+      "opcoes": [
+        "GANHAR NA LOTERIA.",
+        "APRENDER SOBRE INVESTIMENTOS.",
+        "IGNORAR OS PROBLEMAS FINANCEIROS.",
+        "CONTINUAR ACUMULANDO DÍVIDAS."
+      ]
+    }
+  ]
+}
