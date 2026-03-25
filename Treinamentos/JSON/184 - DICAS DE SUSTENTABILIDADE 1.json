@@ -1,0 +1,52 @@
+{
+  "treinamento": "DICAS DE SUSTENTABILIDADE 1",
+  "id": 184,
+  "idChecklist": 104,
+  "perguntas": [
+    {
+      "pergunta": "5) Assinale a alternativa correta sobre aparelhos eletroeletrônicos.",
+      "opcoes": [
+        "Aparelhos em stand-by consomem energia sem necessidade, tire-os da tomada quando não estiver em uso.",
+        "Prefira comprar computador mais antigos porque eles são mais econômicos.",
+        "Carregador de celular sempre na tomada ajuda a melhorar a vida útil do celular.",
+        "O chuveiro é o que menos consome energia."
+      ]
+    },
+    {
+      "pergunta": "4) Qual o motivo de dar preferência ao uso de lâmpadas fluorescentes?",
+      "opcoes": [
+        "Elas são mais claras e brancas.",
+        "O único motivo é que possuem um valor melhor na hora da compra.",
+        "Pois elas são produtos nacionais.",
+        "Pois elas duram até dez vezes mais e economizam até um terço de energia."
+      ]
+    },
+    {
+      "pergunta": "3) Ao utilizar os recursos naturais com consciência e sem agredir o meio ambiente, o que garantimos?",
+      "opcoes": [
+        "A continuidade do desenvolvimento humano em um planeta com boas condições de vida.",
+        "A extinção do desenvolvimento humano em um planeta com boas condições de vida.",
+        "A perpetuidade do planeta mas com condições ruins de vida.",
+        "Nada, pois minhas atitudes não influenciam no meio ambiente."
+      ]
+    },
+    {
+      "pergunta": "2) Complete a dica fornecida no vídeo. \"Se a torneira não for inteligente, mantenha...\"",
+      "opcoes": [
+        "Ela aberta pois isso garante que você irá lavar louça ou escovar os dentes mais rápido.",
+        "Fechada enquanto escova os dentes ou lava-louças.",
+        "Aberta pois isso não influencia com uso consciente dos recursos.",
+        "Aberta pois a água não tem chance de ter escassez no planeta."
+      ]
+    },
+    {
+      "pergunta": "1) O que é Sustentabilidade?",
+      "opcoes": [
+        "É um termo usado pra definir as ações que visam suprir as nossas necessidades atuais, mas sem comprometer o futuro das próximas gerações. Uso consciente.",
+        "Termo da moda sem aplicação real para o dia a dia das pessoas.",
+        "Um movimento que visa distribuir igualmente alimentação a todas as pessoas como forma de sustentar o planeta.",
+        "Um grupo político de boas ações com a natureza."
+      ]
+    }
+  ]
+}
