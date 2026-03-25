@@ -1,0 +1,52 @@
+{
+  "treinamento": "ABERTURA E FECHAMENTO DE ARAMADO_ELECTROLUX",
+  "id": 266,
+  "idChecklist": 178,
+  "perguntas": [
+    {
+      "pergunta": "5) Como poderá ser deslocado o ARAMADO?",
+      "opcoes": [
+        "Empurrar manualmente até o local desejado.",
+        "Somente com o uso de equipamentos adequados.",
+        "Entre duas pessoas para distribuir o peso.",
+        "Todas as alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) O que fazer antes de iniciar as atividades?",
+      "opcoes": [
+        "Inspecionar visualmente o ambiente e garantir que estou em local adequado e seguro e fora do raio de ação de máquinas e equipamentos e também inspecionar as condições do aramado.",
+        "Não é preciso cuidado.",
+        "É responsabilidade da liderança e da Qualidade.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) Quais os Equipamentos de Proteção Individual (EPI's) devo utilizar?",
+      "opcoes": [
+        "Luva e mangote resistente a corte.",
+        "Não há necessidade de usar EPI's para essa tarefa.",
+        "É necessário o uso de casquete, óculos de segurança contra impacto, protetor auricular, uniforme ou colete refletivo, luva de segurança e mangote resistente a corte e sapato de segurança.",
+        "Todas as alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) Qual o benefício dos ARAMADOS?",
+      "opcoes": [
+        "Não oferece benefícios.",
+        "Cabe em qualquer lugar.",
+        "Possibilitam o empilhamento vazio e garantem a você mais espaço para ser utilizado.",
+        "Todas as alternativas."
+      ]
+    },
+    {
+      "pergunta": "1) O que é ARAMADO?",
+      "opcoes": [
+        "Um porta objeto portátil.",
+        "Um palete empalhável.",
+        "Os racks aramados são equipamentos que vão aperfeiçoar o seu espaço, pois têm a facilidade de serem dobráveis, auto empilháveis e desmontáveis.",
+        "Nenhuma das alternativas."
+      ]
+    }
+  ]
+}
