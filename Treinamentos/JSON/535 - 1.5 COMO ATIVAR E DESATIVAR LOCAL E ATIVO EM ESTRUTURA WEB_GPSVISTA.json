@@ -1,0 +1,52 @@
+{
+  "treinamento": "1.5 COMO ATIVAR E DESATIVAR LOCAL E ATIVO EM ESTRUTURA WEB_GPSVISTA",
+  "id": 535,
+  "idChecklist": 337,
+  "perguntas": [
+    {
+      "pergunta": "5) Para inativar locais que não são mais utilizados pelo Cliente, basta:",
+      "opcoes": [
+        "Pausar o local na estrutura.",
+        "Ativar o local.",
+        "Despausar o local.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "4) Qual o ícone muda o status da estrutura?",
+      "opcoes": [
+        "O ícone de lápis.",
+        "O ícone de lixeira.",
+        "O ícone de “Workflow”.",
+        "O botão “Play”."
+      ]
+    },
+    {
+      "pergunta": "3) Se a estrutura estiver desativada é possível gerar as tarefas?",
+      "opcoes": [
+        "Sim, não interfere.",
+        "Sim, só não irá aparecer no smartphone.",
+        "Não, se estiver desativado não é possível gerar tarefas.",
+        "Nenhuma das alternativas anteriores.."
+      ]
+    },
+    {
+      "pergunta": "2) A sinalização azul representa que a estrutura está:",
+      "opcoes": [
+        "Pausada.",
+        "Despausada.",
+        "Excluída.",
+        "Bloqueada."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o objetivo da sinalização em cada nível de estrutura?",
+      "opcoes": [
+        "Sinalizar se o ambiente está Ativo ou Inativo.",
+        "Informar os dados dos Colaboradores.",
+        "Cadastrar os locais.",
+        "Habilitar o cadastro de Ativos."
+      ]
+    }
+  ]
+}
