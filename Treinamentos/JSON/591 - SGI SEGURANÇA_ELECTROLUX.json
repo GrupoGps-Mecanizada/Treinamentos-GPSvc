@@ -1,0 +1,52 @@
+{
+  "treinamento": "SGI SEGURANÇA_ELECTROLUX",
+  "id": 591,
+  "idChecklist": 378,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual o objetivo do procedimento de gerenciamento de risco ocupacional Electrolux?",
+      "opcoes": [
+        "Identificar riscos relacionados as atividades na Electrolux.",
+        "Criar o mapa de risco das atividades.",
+        "Não analisar os riscos ou perigos das atividades na Electrolux.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "4) Quantas Regras de Ouro temos no contrato Electrolux?",
+      "opcoes": [
+        "6 regras de ouro.",
+        "Nenhuma regra de ouro.",
+        "5 regras de ouro.",
+        "Todas as alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) Onde é divulgada a Política EHS LA Electrolux?",
+      "opcoes": [
+        "A política é divulgada nos murais da planta.",
+        "A política não é divulgada.",
+        "A política EHS LA Electrolux é divulgada somente nos times do cliente.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "2) O que devemos fazer em caso de acidente de trabalho?",
+      "opcoes": [
+        "Não comunicar ninguém.",
+        "Comunicar imediatamente o Técnico de Segurança e/ou Líder do time.",
+        "Ir sozinho ao ambulatório.",
+        "Todas as alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "1) O que é um quase acidente?",
+      "opcoes": [
+        "É o acidente que eu tive na minha casa.",
+        "Ocorrências inesperadas que apenas por pouco deixou de ser acidente com um trabalhador.",
+        "São situações que, se presentes no ambiente de trabalho, colocam em risco a integridade física e ou mental da pessoa.",
+        "Nenhuma das alternativas acima."
+      ]
+    }
+  ]
+}
