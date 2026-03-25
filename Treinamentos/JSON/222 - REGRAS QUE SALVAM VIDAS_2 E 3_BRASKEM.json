@@ -1,0 +1,52 @@
+{
+  "treinamento": "REGRAS QUE SALVAM VIDAS_2 E 3_BRASKEM",
+  "id": 222,
+  "idChecklist": 134,
+  "perguntas": [
+    {
+      "pergunta": "5) O controle de energia perigosa nos assegura a verificação das fontes de energia por meio de:",
+      "opcoes": [
+        "Todas as fontes de energia perigosa estão isoladas, bloqueadas e identificadas.",
+        "Todo serviço não precisa ser verificado e/ou isolado.",
+        "Toda atividade é segura e não precisa de analise prévio.",
+        "Somente serviços com elétrica precisa de controle de energia."
+      ]
+    },
+    {
+      "pergunta": "4) Complete a lacuna da frase a seguir: \"A falha no controle de energia perigosa é responsável por ______ dos acidentes graves em muitas indústrias.\"",
+      "opcoes": [
+        "60%",
+        "40%",
+        "30%",
+        "10%"
+      ]
+    },
+    {
+      "pergunta": "3) A emissão da PT (Permissão de Trabalho), deverá ocorrer após a:",
+      "opcoes": [
+        "Execução da atividade.",
+        "Trocar de fardamento.",
+        "Mudança do turno.",
+        "Confirmação dos controles e se o trabalho está seguro."
+      ]
+    },
+    {
+      "pergunta": "2) A permissão de trabalho (PT) é uma importante ferramenta que ajuda na prevenção de incidentes, prioritariamente através da:",
+      "opcoes": [
+        "Exposição aos riscos.",
+        "Cancelamento de atividades.",
+        "Leitura dos procedimentos.",
+        "Identificação prévia de riscos."
+      ]
+    },
+    {
+      "pergunta": "1) Qual a principal meta a ser alcançada com as regras que SALVAM VIDAS?",
+      "opcoes": [
+        "Busca por trabalho.",
+        "Busca por concorrência.",
+        "Busca por \"zero\" ocorrências.",
+        "Todas as alternativas estão corretas."
+      ]
+    }
+  ]
+}
