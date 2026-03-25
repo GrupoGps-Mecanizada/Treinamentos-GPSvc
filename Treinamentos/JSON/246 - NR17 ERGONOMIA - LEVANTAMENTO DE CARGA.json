@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR17 ERGONOMIA - LEVANTAMENTO DE CARGA",
+  "id": 246,
+  "idChecklist": 158,
+  "perguntas": [
+    {
+      "pergunta": "5) Onde deve ser apoiado as cargas em altura?",
+      "opcoes": [
+        "Na mão.",
+        "Nos braços.",
+        "No ombro.",
+        "No joelho."
+      ]
+    },
+    {
+      "pergunta": "4) Qual o procedimento para levantamento manual de cargas no chão?",
+      "opcoes": [
+        "Agache-se com as costas retas, levante-se com a força de suas pernas e equilibre a carga com a força de seus braços.",
+        "Agache-se com as costas curvadas, levante-se com a força de suas pernas e equilibre a carga com a força de seus braços.",
+        "Agache-se com as costas retas, levante-se com a força dos seus braços e equilibre a carga com a força de seus braços.",
+        "Pegar com a paleteira."
+      ]
+    },
+    {
+      "pergunta": "3) O que deve ser verificado antes de movimentar uma carga?",
+      "opcoes": [
+        "O tamanho, a forma e o volume da carga.",
+        "O tamanho, o modelo e o volume da carga.",
+        "O tamanho e a espessura da carga.",
+        "O local, a forma e o volume da carga."
+      ]
+    },
+    {
+      "pergunta": "2) Quais as principais atividades estão relacionadas ao risco ergonômico?",
+      "opcoes": [
+        "Trabalho em altura, esforços repetitivos e levantamento de carga.",
+        "Trabalho em pé, esforços repetitivos e levantamento de carga.",
+        "Hepatite A e Hepatite B.",
+        "Gripe forte."
+      ]
+    },
+    {
+      "pergunta": "1) Do que se trata a NR-17?",
+      "opcoes": [
+        "Da ergonomia.",
+        "Do trabalho em altura.",
+        "Da saúde mental.",
+        "Do meio ambiente."
+      ]
+    }
+  ]
+}
