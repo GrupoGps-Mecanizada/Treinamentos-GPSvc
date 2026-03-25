@@ -1,0 +1,55 @@
+{
+  "treinamento": "COMUNICAÇÃO ASSERTIVA NAS RELAÇÕES INTERPESSOAIS",
+  "id": 415,
+  "idChecklist": 308,
+  "perguntas": [
+    {
+      "pergunta": "5) Sobre a importância da comunicação, assinale a alternativa correta:",
+      "opcoes": [
+        "Quanto mais clara for a comunicação em relação à sua intenção, maior desconfiança ela gera.",
+        "É importante ser assertivo mesmo que isso provoque uma postura resistente na outra pessoa.",
+        "A assertividade acontece mesmo que você não expresse exatamente o que quer, desde que o outro esteja aberto e receptivo.",
+        "Na assertividade, não é preciso ser cuidadoso desde que o objetivo esteja claro para as partes.",
+        "A confiança e a comunicação assertiva se retroalimentam no sentido de tornar os relacionamentos mais positivos."
+      ]
+    },
+    {
+      "pergunta": "4) Analise as questões abaixo e marque a alternativa CORRETA sobre comunicação.",
+      "opcoes": [
+        "Um número mínimo de problemas pode ser ligado à falta de comunicação.",
+        "A comunicação, seja ela verbal ou não verbal, é a responsável pela transmissão das mensagens entre as partes.",
+        "O verdadeiro problema da comunicação é que as pessoas escutam para compreender, e não para responder.",
+        "A comunicação clara resulta em apenas uma troca de palavras.",
+        "A forma como nos comunicamos não influenciam em nossas relações interpessoais."
+      ]
+    },
+    {
+      "pergunta": "3) Sobre comunicação assertiva, é INCORRETO:",
+      "opcoes": [
+        "Sair falando do que não tem um real conhecimento e dar informações a respeito do que se quer transmitir.",
+        "Ir direto ao ponto, mas ter cuidado para não parecer agressivo; expor ideias sem rodeios, mas evitar julgar ou impor seu ponto de vista.",
+        "Ter cuidado com o idioma, principalmente, a forma escrita.",
+        "Ficar atento à linguagem corporal, pois a comunicação também é formada pelo uso do corpo.",
+        "Pensar em como seria estar no lugar do outro enquanto se comunica."
+      ]
+    },
+    {
+      "pergunta": "2) O objetivo do comportamento assertivo é minimizar as tensões interpessoais com:",
+      "opcoes": [
+        "Respeito por si próprio.",
+        "Respeito pelos pontos de vista dos outros.",
+        "Estabelecimento de relações abertas.",
+        "Todas as opções anteriores."
+      ]
+    },
+    {
+      "pergunta": "1) O estilo de comunicação assertivo caracteriza-se por expressar o ponto de vista:",
+      "opcoes": [
+        "De forma direta e não objetiva.",
+        "De forma indireta e objetiva.",
+        "De forma direta e intimidadora.",
+        "De forma direta e objetiva."
+      ]
+    }
+  ]
+}
