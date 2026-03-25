@@ -1,0 +1,52 @@
+{
+  "treinamento": "INSPEÇÃO OEA - PARTE 1_RENAULT",
+  "id": 1240,
+  "idChecklist": 1006,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL É O PROPÓSITO DE REALIZAR INSPEÇÕES DE SEGURANÇA NOS PROCESSOS DE OEA?",
+      "opcoes": [
+        "ASSEGURAR QUE TODAS AS CARGAS SEJAM TAXADAS ADEQUADAMENTE.",
+        "VERIFICAR A DOCUMENTAÇÃO ADUANEIRA DE TODAS AS CARGAS EXPORTADAS.",
+        "AUMENTAR A EFICIÊNCIA OPERACIONAL ATRAVÉS DA AUTOMAÇÃO DE PROCESSOS.",
+        "PREVENIR O CONTRABANDO E A CONTAMINAÇÃO DAS CARGAS COM ITENS ILÍCITOS."
+      ]
+    },
+    {
+      "pergunta": "4) QUAIS PAÍSES PARTICIPAM DOS ACORDOS DE RECONHECIMENTO MÚTUO RELACIONADOS AO OEA ATÉ 2017?",
+      "opcoes": [
+        "73 PAÍSES.",
+        "25 PAÍSES.",
+        "50 PAÍSES.",
+        "100 PAÍSES."
+      ]
+    },
+    {
+      "pergunta": "3) EM QUE ANO O PROGRAMA OEA FOI IMPLEMENTADO NO BRASIL?",
+      "opcoes": [
+        "2000.",
+        "2005.",
+        "2015.",
+        "2017."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL É O PRINCIPAL BENEFÍCIO DE SER UM OPERADOR ECONÔMICO AUTORIZADO?",
+      "opcoes": [
+        "ISENÇÃO DE IMPOSTOS SOBRE IMPORTAÇÕES E EXPORTAÇÕES.",
+        "ACESSO IRRESTRITO A TODOS OS PORTOS INTERNACIONAIS.",
+        "TRATAMENTO PRIORITÁRIO DAS CARGAS PELA ADUANA.",
+        "PERMISSÃO PARA OPERAR SEM REVISÕES DE SEGURANÇA."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE SIGNIFICA A SIGLA OEA NO CONTEXTO DE COMÉRCIO INTERNACIONAL?",
+      "opcoes": [
+        "OPERAÇÃO ECONÔMICA ADUANEIRA.",
+        "OPERADOR ECONÔMICO AUTORIZADO.",
+        "OFICIAL DE EXPORTAÇÃO APROVADO.",
+        "ORGANIZAÇÃO DE ESTATÍSTICAS ADUANEIRAS"
+      ]
+    }
+  ]
+}
