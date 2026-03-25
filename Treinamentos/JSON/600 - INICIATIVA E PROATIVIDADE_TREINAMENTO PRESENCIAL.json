@@ -1,0 +1,52 @@
+{
+  "treinamento": "INICIATIVA E PROATIVIDADE_TREINAMENTO PRESENCIAL",
+  "id": 600,
+  "idChecklist": 386,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual é a atitude de uma pessoa que não procrastina?",
+      "opcoes": [
+        "Adia suas atividades.",
+        "Realiza primeiro atividades de curto prazo.",
+        "Tem foco, analisa as urgências e finaliza suas atividades sem distração.",
+        "Inicia atividades com outras pendentes."
+      ]
+    },
+    {
+      "pergunta": "4) Qual é a atitude de uma pessoa que procrastina?",
+      "opcoes": [
+        "Resolve tudo de imediato.",
+        "Tem senso de urgência nas atividades.",
+        "Tudo que começa a fazer termina.",
+        "Deixa sempre para depois."
+      ]
+    },
+    {
+      "pergunta": "3) Qual é a atitude de uma pessoa proativa?",
+      "opcoes": [
+        "Soluciona problemas só quando é acionado.",
+        "Previne problemas e soluciona os que aparecem sem ser acionado.",
+        "Todas as atividades precisam ser solicitadas.",
+        "Espera alguém se movimentar para fazer o mesmo."
+      ]
+    },
+    {
+      "pergunta": "2) Qual é a atitude de uma pessoa reativa?",
+      "opcoes": [
+        "Atende as demandas antes de virar um problema.",
+        "Espera dar um problema para encontrar solução.",
+        "Previne problemas.",
+        "Não espera ser acionado para resolver um problema."
+      ]
+    },
+    {
+      "pergunta": "1) O que é ter iniciativa?",
+      "opcoes": [
+        "Não fazer.",
+        "Esperar solicitação para fazer.",
+        "É a ação de realizar algo ou alguma atividade antes do esperado, antes de ser proposto por outra pessoa.",
+        "Fazer depois que alguém já fez."
+      ]
+    }
+  ]
+}
