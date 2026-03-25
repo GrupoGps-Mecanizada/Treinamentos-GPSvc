@@ -1,0 +1,52 @@
+{
+  "treinamento": "CÍRCULO DE SINNER_INFRA",
+  "id": 1745,
+  "idChecklist": 1436,
+  "perguntas": [
+    {
+      "pergunta": "5) INFORME UMA PRÁTICA CORRETA RELACIONADA À AÇÃO QUÍMICA.",
+      "opcoes": [
+        "MISTURAR PRODUTOS PARA LIMPAR MAIS RÁPIDO.",
+        "USAR QUALQUER PRODUTO DISPONÍVEL.",
+        "APLICAR O PRODUTO E RETIRAR IMEDIATAMENTE.",
+        "RESPEITAR A DILUIÇÃO E USAR O PRODUTO CORRETO PARA CADA SUPERFÍCIE."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE DEVE SER FEITO QUANDO UM DOS FATORES DO CÍRCULO DE SINNER É REDUZIDO?",
+      "opcoes": [
+        "INTERROMPER A LIMPEZA.",
+        "AUMENTAR APENAS A FORÇA FÍSICA.",
+        "AJUSTAR OS OUTROS FATORES PARA MANTER A EFICIÊNCIA.",
+        "UTILIZAR MAIS PRODUTO SEM ORIENTAÇÃO."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL ALTERNATIVA APRESENTA CORRETAMENTE OS FATORES DO CÍRCULO DE SINNER?",
+      "opcoes": [
+        "PRODUTO, FORÇA, RAPIDEZ E ORGANIZAÇÃO.",
+        "AÇÃO QUÍMICA, AÇÃO TEMPORAL, AÇÃO TÉRMICA E AÇÃO MECÂNICA.",
+        "TEMPO, FORÇA, ÁGUA E EQUIPAMENTO.",
+        "PRODUTO, EPI, TÉCNICA E ATENÇÃO."
+      ]
+    },
+    {
+      "pergunta": "2) QUANTOS FATORES FORMAM O CÍRCULO DE SINNER?",
+      "opcoes": [
+        "QUATRO.",
+        "TRÊS.",
+        "DOIS.",
+        "CINCO."
+      ]
+    },
+    {
+      "pergunta": "1) PARA QUE SERVE O CÍRCULO DE SINNER NA LIMPEZA?",
+      "opcoes": [
+        "AUMENTAR O USO DE FORÇA FÍSICA.",
+        "SUBSTITUIR OS PRODUTOS DE LIMPEZA.",
+        "GARANTIR UMA LIMPEZA MAIS EFICIENTE, SEGURA E COM QUALIDADE.",
+        "REDUZIR O TEMPO DE TRABALHO SEM PLANEJAMENTO."
+      ]
+    }
+  ]
+}
