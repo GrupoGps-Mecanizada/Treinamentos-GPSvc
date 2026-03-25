@@ -1,0 +1,52 @@
+{
+  "treinamento": "PDL10_ATENDIMENTO AO CLIENTE PARTE 2",
+  "id": 93,
+  "idChecklist": 66,
+  "perguntas": [
+    {
+      "pergunta": "5) Baseado no treinamento, podemos afirmar que quando você está atendendo ao Cliente:",
+      "opcoes": [
+        "É a imagem da empresa que está sendo representada, tanto da empresa que você trabalha com da empresa que você está prestando serviço",
+        "É apenas a sua imagem que está sendo representada",
+        "É a imagem do cliente que você quer apenas representar",
+        "É apenas a imagem de quem você está prestando serviço que você quer representar"
+      ]
+    },
+    {
+      "pergunta": "4) Baseado no treinamento devemos tomar cuidado para \"não subir o tom de voz\", mas sim buscar ser o ponto de:",
+      "opcoes": [
+        "Serenidade",
+        "Conectividade",
+        "Indiferença",
+        "Rispidez"
+      ]
+    },
+    {
+      "pergunta": "3) Baseado no treinamento, fazer reuniões e alinhamentos são importantes para:",
+      "opcoes": [
+        "São fundamentais para saber como o trabalho de todos está ocorrendo, proponha para o Cliente para que elas ocorram com uma certa regularidade",
+        "São fundamentais somente para saber como o trabalho de todos está ocorrendo, mas não existe necessidade de fazer regularmente",
+        "São fundamentais para saber como o trabalho de todos apenas em um determinado momento, quando o cliente solicitar",
+        "São fundamentais para saber como o processo dentro do cliente está ocorrendo e assim camuflar as pendências"
+      ]
+    },
+    {
+      "pergunta": "2) Baseado no treinamento no tópico \"conhecer o Cliente\", é correto afirmar que:",
+      "opcoes": [
+        "Conhecer o perfil do Cliente é essencial para tornar o dia a dia do nosso trabalho mais assertivo",
+        "Somente contratos grandes importa",
+        "Nenhum cliente importa",
+        "Alguns clientes com maior poder aquisitivo importa"
+      ]
+    },
+    {
+      "pergunta": "1) O que é empatia?",
+      "opcoes": [
+        "É a capacidade de se colocar no lugar da outra pessoa",
+        "É dificuldade de lidar com as emoções alheias",
+        "É a capacidade de não entender o outro",
+        "É viver no seu próprio mundo"
+      ]
+    }
+  ]
+}
