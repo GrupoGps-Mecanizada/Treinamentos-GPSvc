@@ -1,0 +1,52 @@
+{
+  "treinamento": "USO PROPORCIONAL DA FORÇA_INTRODUÇÃO",
+  "id": 725,
+  "idChecklist": 509,
+  "perguntas": [
+    {
+      "pergunta": "5)   \nESSE TREINAMENTO PODE AUXILIAR NA GARANTIA DA SEGURANÇA DE QUEM?  ",
+      "opcoes": [
+        "A SEGURANÇA DO DONO DA EMPRESA.",
+        "A SEGURANÇA DO CLIENTE. ",
+        "A SEGURANÇA DE TODOS. ",
+        "A SEGURANÇA DO COLABORADOR.  "
+      ]
+    },
+    {
+      "pergunta": "4) QUAIS SÃO OS PRINCÍPIOS FUNDAMENTAIS QUE COMPÕEM O TRIÂNGULO DA FORÇA LETAL? ",
+      "opcoes": [
+        "HABILIDADE, OPORTUNIDADE E RISCO.",
+        "CORAGEM, OPORTUNIDADE E RISCO.",
+        "HABILIDADE, CHANCE E RISCO. ",
+        "CONHECIMENTO, OPORTUNIDADE E RISCO."
+      ]
+    },
+    {
+      "pergunta": "3) ASSINALE ABAIXO A ALTERNATIVA QUE CONTENHA APENAS EXEMPLOS DE EQUIPAMENTOS DE BAIXA LETALIDADE:  ",
+      "opcoes": [
+        "ARMA DE FOGO E MUNIÇÃO DE BORRACHA.",
+        "LACRIMOGÊNEOS E SPRAY DE PIMENTA. ",
+        "CANIVETE E TASER.",
+        "TODAS AS ALTERNATIVAS ACIMA. "
+      ]
+    },
+    {
+      "pergunta": "2) QUANTOS NÍVEIS O USO PROGRESSIVO DA FORÇA TEM?  ",
+      "opcoes": [
+        "5 NÍVEIS. ",
+        "7 NÍVEIS.",
+        "6 NÍVEIS. ",
+        "8 NÍVEIS.  "
+      ]
+    },
+    {
+      "pergunta": "1) O USO DA FORÇA TEM ALGUNS PRINCÍPIOS BÁSICOS, ASSINALE ABAIXO A ALTERNATIVA QUE CONTÉM ESSES PRINCÍPIOS:  ",
+      "opcoes": [
+        "LEGALIDADE, NECESSIDADE, PROPORCIONALIDADE E CONVENIÊNCIA. ",
+        "LEGALIDADE, NECESSIDADE, PROPORCIONALIDADE E REGRA. ",
+        "LEGALIDADE, USUALIDADE, PROPORCIONALIDADE E CONVENIÊNCIA.  ",
+        "APENAS A LEGALIDADE E NECESSIDADE.  "
+      ]
+    }
+  ]
+}
