@@ -1,0 +1,52 @@
+{
+  "treinamento": "PRINCÍPIOS GERAIS DA NR12",
+  "id": 403,
+  "idChecklist": 296,
+  "perguntas": [
+    {
+      "pergunta": "5) Se o trabalhador notar a falta de dispositivos de segurança na máquina, deverá",
+      "opcoes": [
+        "Continuar trabalhando normalmente, para não atrasar a demanda.",
+        "Falar para o colega e reclamar da empresa.",
+        "Deverá ficar parado, pois não dá pra fazer nada.",
+        "Comunicar seu superior imediato se uma proteção ou dispositivo de segurança foi removido, danificado ou se perdeu sua função."
+      ]
+    },
+    {
+      "pergunta": "4) Cabe ao trabalhador, exceto",
+      "opcoes": [
+        "Cumprir todas as orientações relativas aos procedimentos seguros de operação, alimentação, abastecimento, limpeza, manutenção, inspeção, transporte, desativação, desmonte e descarte.",
+        "Participar dos treinamentos fornecidos pelo empregador para atender às exigências/requisitos descritos nesta NR.",
+        "Aumentar a produção, e reduzir o tempo do processo, retirando partes desnecessárias do equipamento.",
+        "Não realizar qualquer tipo de alteração nas proteções mecânicas ou dispositivos de segurança de máquinas e equipamentos, de modo que possa colocar em risco a sua saúde ou de terceiros."
+      ]
+    },
+    {
+      "pergunta": "3) O empregador deve adotar medidas de proteção para o trabalho nessa ordem de prioridade",
+      "opcoes": [
+        "Equipamentos de proteção individual, equipamentos de proteção coletiva, sinalização.",
+        "Equipamentos de proteção coletiva, equipamentos de proteção individual, medidas administrativas e de organização.",
+        "Equipamentos de proteção coletiva, medidas administrativas ou de organização, equipamentos de proteção individual.",
+        "Equipamentos de proteção individual, equipamentos de proteção coletiva e medidas administrativas e de organização."
+      ]
+    },
+    {
+      "pergunta": "2) É correto afirmar que esta Norma se aplica para:",
+      "opcoes": [
+        "Utilização de máquinas e equipamentos, e ainda à sua fabricação, importação, comercialização, exposição e cessão a qualquer título, em todas as atividades econômicas.",
+        "Máquinas e equipamentos classificados como eletrodomésticos.",
+        "Aos equipamentos estáticos.",
+        "Às máquinas e equipamentos movidos ou impulsionados por força humana ou animal."
+      ]
+    },
+    {
+      "pergunta": "1) Esta Norma Regulamentadora NR e seus anexos definem referências técnicas, princípios fundamentais e medidas de proteção para:",
+      "opcoes": [
+        "Para instruir o trabalhador como se deve operar uma máquina.",
+        "Para estabelecer diretrizes de operação de máquinas e equipamentos, bem como dificultar a vida dos trabalhadores.",
+        "Para resguardar a saúde e a integridade física dos trabalhadores, estabelecendo requisitos mínimos para a prevenção de acidentes e doenças do trabalho na utilização de máquinas e equipamentos.",
+        "Para auxiliar o trabalhador a montar uma máquina e/ou equipamento."
+      ]
+    }
+  ]
+}
