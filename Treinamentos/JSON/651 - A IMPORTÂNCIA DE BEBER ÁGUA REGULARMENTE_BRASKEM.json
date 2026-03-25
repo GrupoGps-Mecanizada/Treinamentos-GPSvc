@@ -1,0 +1,52 @@
+{
+  "treinamento": "A IMPORTÂNCIA DE BEBER ÁGUA REGULARMENTE_BRASKEM",
+  "id": 651,
+  "idChecklist": 437,
+  "perguntas": [
+    {
+      "pergunta": "5) Como saber se estou hidratado o suficiente?",
+      "opcoes": [
+        "Bebendo 1 litro diariamente estarei hidratado.",
+        "Um bom indicativo é a coloração da urina. Quando estiver verde, o corpo tende a estar bem hidratado.",
+        "Um bom indicativo é a coloração da urina. Quando estiver escura, o corpo tende a estar bem hidratado.",
+        "Um bom indicativo é a coloração da urina. Quando está mais clara, o corpo tende a estar bem hidratado."
+      ]
+    },
+    {
+      "pergunta": "4) Uma das funções da água é:",
+      "opcoes": [
+        "Ajudar a “desintoxicar” o corpo, eliminando as toxinas no sistema e otimizando a função dos rins.",
+        "Lubrificar as partes do corpo para que não se movimentem, como articulações e medula espinhal.",
+        "Mandar mensagens elétricas para diferentes ações, como o movimentar os pés.",
+        "Ajudar a aumentar a constipação, dificultando os movimentos do intestino."
+      ]
+    },
+    {
+      "pergunta": "3) Assinale a alternativa INCORRETA:",
+      "opcoes": [
+        "A água regula a temperatura do corpo, que perde suor ao longo do dia, principalmente em ambientes quentes.",
+        "A água fornece nutrientes importantes a todas as células, em particular as musculares, que retarda a fadiga muscular.",
+        "A água hidrata a pele.",
+        "A água resseca a pele."
+      ]
+    },
+    {
+      "pergunta": "2) Por que a água é tão importante para o corpo??",
+      "opcoes": [
+        "Porque além de saciar a sede, a água é essencial para manter o corpo funcionando corretamente e com saúde, pois quase todos os principais sistemas do metabolismo dependem dela para funcionar.",
+        "Para não ficarmos com sede.",
+        "A água não é importante para o nosso corpo, porque podemos viver sem água.",
+        "Para que possamos dormir tranquilamente."
+      ]
+    },
+    {
+      "pergunta": "1) ASSINALE A ALTERNATIVA CORRETA:",
+      "opcoes": [
+        "PESSOAS SEDENTÁRIAS: NÃO PRECISAM BEBER ÁGUA, POIS, NÃO SE EXERCITAM.",
+        "PESSOAS SEDENTÁRIAS: DEVEM BEBER EM MÉDIA, DE 2  LITROS E MEIO A 3 LITROS DE ÁGUA POR DIA.",
+        "PESSOAS QUE SE EXERCITAM REGULARMENTE: DEVEM BEBER EM MÉDIA, 1 LITRO POR DIA.",
+        "PESSOAS QUE SE EXERCITAM REGULARMENTE: DEVEM BEBER EM MÉDIA, 30 LITROS POR DIA."
+      ]
+    }
+  ]
+}
