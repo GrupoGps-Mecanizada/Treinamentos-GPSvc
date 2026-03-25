@@ -1,0 +1,52 @@
+{
+  "treinamento": "CAMPANHA DE MEIO AMBIENTE - 5R'S_BC2",
+  "id": 988,
+  "idChecklist": 763,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE É RECICLAR?",
+      "opcoes": [
+        "REDUZIR O LIXO.",
+        "TRANSFORMAR ALGO USADO EM ALGO NOVO, POR MEIO DE PROCESSOS INDUSTRIAIS.",
+        "DECOMPOR O RESÍDUO.",
+        "REPENSAR AS ATITUDES."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE É LIXO?",
+      "opcoes": [
+        "É TODO MATERIAL QUE PODE SER REUTILIZADO.",
+        "É TODO MATERIAL QUE PRECISA SER GUARDADO.",
+        "É TODO MATERIAL QUE SE DECOMPÕE.",
+        "É TODO E QUALQUER MATERIAL CONSIDERADO INÚTIL E/OU SEM VALOR, GERADO PELA ATIVIDADE HUMANA."
+      ]
+    },
+    {
+      "pergunta": "3) QUANTO TEMPO O VIDRO LEVA PARA SE DECOMPOR NA NATUREZA?",
+      "opcoes": [
+        "100 ANOS.",
+        "1 MILHÃO DE ANOS.",
+        "250 ANOS.",
+        "DE 3 A 6 MESES."
+      ]
+    },
+    {
+      "pergunta": "2)  NA POLÍTICA DOS 5R’S, QUAL A DEFINIÇÃO DE REPENSAR?",
+      "opcoes": [
+        "REFLETIR SOBRE OS PROCESSOS SOCIOAMBIENTAIS DE PRODUÇÃO (MATÉRIA-PRIMA, CONDIÇÕES DE TRABALHO E DISTRIBUIÇÃO).",
+        "REFLETIR SOBRE O QUE FAZER COM O LIXO.",
+        "REFLETIR EM QUANTO TEMPO VOU GERAR O LIXO.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAIS SÃO OS 5R’S QUE AUXILIAM EM PRÁTICAS SUSTENTÁVEIS?",
+      "opcoes": [
+        "RENOVAR, RECUSAR, REPENSAR, RECICLAR E REUTILIZAR.",
+        "REVER, RENOVAR, REPENSAR, RECICLAR E REDUZIR.",
+        "REPENSAR, RECUSAR, REDUZIR, REUTILIZAR E RECICLAR.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    }
+  ]
+}
