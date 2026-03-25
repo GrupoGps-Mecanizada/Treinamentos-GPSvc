@@ -1,0 +1,52 @@
+{
+  "treinamento": "FINALIZANDO AS ATIVIDADES_BURGER KING E GPS VISTA",
+  "id": 380,
+  "idChecklist": 273,
+  "perguntas": [
+    {
+      "pergunta": "5) O que é tarefa Final de Plantão no GPS Vista?",
+      "opcoes": [
+        "É quando você coloca o aplicativo para cronometrar o tempo em que você realiza determinada atividade",
+        "Perguntas a serem respondidas antes de ir embora, ao final do turno de trabalho, no aplicativo do GPS Vista por um smartphone ou tablet",
+        "É o registro como se fosse um relógio de ponto para marcar o seu horário de chegada",
+        "Nenhuma das alternativas acima"
+      ]
+    },
+    {
+      "pergunta": "4) Qual a alternativa INCORRETA sobre a tarefa Final de Plantão do GPS Vista?",
+      "opcoes": [
+        "Realizar logo depois de recolher e guardar seu material de limpeza, EPIs e produtos químicos.",
+        "Ao clicar em tarefa de Final de Plantão, responder a todas as perguntas com sinceridade",
+        "Clicar em “concluir” quando terminar de colocar as respostas para cada pergunta presente na tarefa Final de Plantão",
+        "Não há a opção de relatar ocorridos via mensagem de áudio"
+      ]
+    },
+    {
+      "pergunta": "3) Qual alternativa está INCORRRETA sobre o GPS Vista no Burger King?",
+      "opcoes": [
+        "É um sistema somente utilizado por gestores",
+        "É usado como aplicativo do smartphone para registro de atividades.",
+        "Em algumas unidades utiliza-se o GPS Vista em smartphone, em outras unidades utiliza-se em tablet",
+        "O smartphone fica guardado com o gerente da unidade"
+      ]
+    },
+    {
+      "pergunta": "2) Quando utilizar o GPS Vista para a tarefa Final de Plantão?",
+      "opcoes": [
+        "Somente ao finalizar as atividades, antes do final do turno",
+        "Somente quando houver tablets à disposição nas unidades",
+        "Antes de iniciar as atividades, no início do turno, preencher a “tarefa inicial”.",
+        "Durante a realização de todas atividades e somente clicar em “concluir” ao final do turno"
+      ]
+    },
+    {
+      "pergunta": "1) O que é o GPS Vista?",
+      "opcoes": [
+        "É uma regra de limpeza profissional",
+        "É o sistema utilizado pelo Grupo GPS para acompanhamento das atividades das unidades onde presta-se serviços",
+        "É uma configuração de uma lavadora de piso",
+        "Um sistema utilizado para conferir dados como folha de pagamento e holerites"
+      ]
+    }
+  ]
+}
