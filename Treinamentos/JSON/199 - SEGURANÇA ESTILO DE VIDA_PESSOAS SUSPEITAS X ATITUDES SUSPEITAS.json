@@ -1,0 +1,52 @@
+{
+  "treinamento": "SEGURANÇA ESTILO DE VIDA_PESSOAS SUSPEITAS X ATITUDES SUSPEITAS",
+  "id": 199,
+  "idChecklist": 119,
+  "perguntas": [
+    {
+      "pergunta": "5) Segurança tem um valor importantíssimo, portanto, antes de tudo é:",
+      "opcoes": [
+        "Andar distraído.",
+        "Estilo de vida.",
+        "Treinamento severo.",
+        "Conhecimento técnico."
+      ]
+    },
+    {
+      "pergunta": "4) O que podemos entender como atitudes suspeitas?",
+      "opcoes": [
+        "Pessoas trajando roupas finas.",
+        "Pessoas que te cumprimentam com cordialidade.",
+        "Pessoas que passam muitas vezes por um determinado local, casal de namorados, motocicletas com dois ocupantes.",
+        "Pessoas que tem \"cara\" de bandido."
+      ]
+    },
+    {
+      "pergunta": "3) Por motivo de segurança, ao andar nas ruas, o que devemos nos atentar?",
+      "opcoes": [
+        "Atitudes suspeitas.",
+        "Pessoas suspeitas.",
+        "Pessoas que tem \"cara\" de bandido.",
+        "Pessoas com boas atitudes."
+      ]
+    },
+    {
+      "pergunta": "2) Muitas pessoas acreditam que bandido tem \"cara\", vestimenta, etc., o que entendemos no vídeo sobre isto?",
+      "opcoes": [
+        "Que isso é verdade.",
+        "Que os bandidos sempre demonstram quem são.",
+        "Mito, mas na questão da vestimenta é verídico.",
+        "Que são mitos, pois o bandido se adapta as situações para conseguir seus objetivos."
+      ]
+    },
+    {
+      "pergunta": "1) Como podemos definir \"mito\"?",
+      "opcoes": [
+        "Algo ou alguém que é representado de forma realista.",
+        "Narrativa fabulosa de origem-popular.",
+        "Crenças populares verídicas.",
+        "Histórias verdadeiras."
+      ]
+    }
+  ]
+}
