@@ -1,0 +1,52 @@
+{
+  "treinamento": "JCI PARA HIGIENE_INFRA",
+  "id": 1185,
+  "idChecklist": 953,
+  "perguntas": [
+    {
+      "pergunta": "5) COMO A MANUTENÇÃO DE ALTOS PADRÕES DE HIGIENE AFETA A PERCEPÇÃO DO HOSPITAL?",
+      "opcoes": [
+        "MELHORA A REPUTAÇÃO DE CONFIABILIDADE E QUALIDADE.",
+        "REDUZ A NECESSIDADE DE PROFISSIONAIS QUALIFICADOS.",
+        "AUMENTA A QUANTIDADE DE PACIENTES.",
+        "DIMINUI A NECESSIDADE DE ACREDITAÇÃO."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL É O PAPEL CRUCIAL DA EQUIPE DE LIMPEZA NA OBTENÇÃO DA ACREDITAÇÃO JCI?",
+      "opcoes": [
+        "AUMENTAR A PRODUTIVIDADE.",
+        "ADMINISTRAR MEDICAMENTOS.",
+        "PREVENIR INFECÇÕES HOSPITALARES.",
+        "REALIZAR DIAGNÓSTICOS."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL DOS SEGUINTES CRITÉRIOS É NECESSÁRIO PARA UMA ORGANIZAÇÃO DE SAÚDE OBTER A ACREDITAÇÃO DA JCI?",
+      "opcoes": [
+        "INOVAÇÃO TECNOLÓGICA.",
+        "MARKETING EFICIENTE.",
+        "EXPANSÃO DE INFRAESTRUTURA.",
+        "QUALIDADE NA EDUCAÇÃO DOS PROFISSIONAIS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL É O PRINCIPAL OBJETIVO DA ACREDITAÇÃO DA JCI PARA HOSPITAIS E ORGANIZAÇÕES DE SAÚDE?",
+      "opcoes": [
+        "AUMENTAR O LUCRO.",
+        "DEMONSTRAR COMPROMISSO COM QUALIDADE E SEGURANÇA.",
+        "REDUZIR CUSTOS OPERACIONAIS.",
+        "EXPANDIR INTERNACIONALMENTE."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É A ORIGEM DA JOINT COMMISSION INTERNATIONAL (JCI)?",
+      "opcoes": [
+        "BRASIL.",
+        "JAPÃO.",
+        "ESTADOS UNIDOS.",
+        "ALEMANHA."
+      ]
+    }
+  ]
+}
