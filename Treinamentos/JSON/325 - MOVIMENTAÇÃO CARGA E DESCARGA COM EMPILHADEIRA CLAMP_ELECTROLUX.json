@@ -1,0 +1,52 @@
+{
+  "treinamento": "MOVIMENTAÇÃO CARGA E DESCARGA COM EMPILHADEIRA CLAMP_ELECTROLUX",
+  "id": 325,
+  "idChecklist": 224,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual a sequência de atividades no carregamento de produtos com Clamp?",
+      "opcoes": [
+        "1. Retirar o picking list no guichê, 2. Retirar e fazer o checklist na máquina 3. Se dirigir ao endereço para retirada nos produtos e 4. Movimentá-los na doca designada no picking list.",
+        "1. Retirar e fazer o checklist na máquina, 2. Retirar o picking list no guichê, 3. Se dirigir ao endereço para retirada nos produtos e 4. Movimentá-los para a doca designada no picking list.",
+        "1. Retirar a máquina do guichê 2. Se dirigir a doca e retirar o produto; 3. Movimentar o picking list.",
+        "1. Pegar o carrinho 2. Ir ao endereço 3. Movimentar o picking list."
+      ]
+    },
+    {
+      "pergunta": "4) Como devo deixar os blocos de produtos na doca?",
+      "opcoes": [
+        "Devo deixá-los de forma organizada para serem carregados.",
+        "Em qualquer lugar.",
+        "A minha esquerda.",
+        "De lado."
+      ]
+    },
+    {
+      "pergunta": "3) Onde localizo o endereço para retirada dos produtos?",
+      "opcoes": [
+        "Pergunto ao meu Supervisor.",
+        "Envio um e-mail para perguntas_inhaus@gpssa.com e pergunto.",
+        "Escolho o primeiro endereço que tiverem os produtos.",
+        "Do picking list."
+      ]
+    },
+    {
+      "pergunta": "2) Como devo fazer a retirada do picking list no guichê?",
+      "opcoes": [
+        "Escolher somente os BR12.",
+        "Escolher somente os BR10.",
+        "Escolher qual eu quiser.",
+        "De forma aleatória."
+      ]
+    },
+    {
+      "pergunta": "1) Quais EPI’s são obrigatórios nas operações com empilhadeira?",
+      "opcoes": [
+        "Óculos de segurança e sapato de segurança.",
+        "Óculos de segurança, protetor auricular, sapato de segurança e uniforme ou colete reflexivo.",
+        "Sapato de segurança.",
+        "Nada, pois eu estou atento a todos os perigos."
+      ]
+    }
+  ]
+}
