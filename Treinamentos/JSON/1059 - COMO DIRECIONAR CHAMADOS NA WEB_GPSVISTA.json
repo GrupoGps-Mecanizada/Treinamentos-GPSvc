@@ -1,0 +1,52 @@
+{
+  "treinamento": "COMO DIRECIONAR CHAMADOS NA WEB_GPSVISTA",
+  "id": 1059,
+  "idChecklist": 833,
+  "perguntas": [
+    {
+      "pergunta": "5) APÓS PREENCHER TODAS AS INFORMAÇÕES NECESSÁRIAS, O QUE ACONTECE AO CLICAR EM \"SALVAR\"?",
+      "opcoes": [
+        "É GERADA UMA TAREFA AUTOMATICAMENTE.",
+        "O CHAMADO É ENCERRADO IMEDIATAMENTE.",
+        "É ENVIADO UM E-MAIL PARA O RESPONSÁVEL.",
+        "NENHUMA AÇÃO É REALIZADA."
+      ]
+    },
+    {
+      "pergunta": "4) EM INSTRUÇÕES DE TAREFAS, PODEMOS COLOCAR QUE TIPO DE DOCUMENTO?",
+      "opcoes": [
+        "UMA LISTA DE PRESENÇA, PARA OS COLABORADORES ASSINAREM.",
+        "UM POP OU UM MANUAL, PARA QUE NOSSOS COLABORADORES ESTEJAM VISUALIZANDO AS INFORMAÇÕES.",
+        "O ESCOPO DO QUE PRECISA SER FEITO NA TAREFA.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "3) AO CLICAR NA OPÇÃO \"NOVA TAREFA\" O QUE O SISTEMA TRAZ?",
+      "opcoes": [
+        "O NOME, A DESCRIÇÃO E O SERVIÇO EM QUESTÃO.",
+        "O NOME, A DESCRIÇÃO E O CLIENTE EM QUESTÃO.",
+        "O NOME, A DESCRIÇÃO E O COLABORADOR EM QUESTÃO.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL É O STATUS COMUM DOS CHAMADOS ESPECÍFICOS MENCIONADOS NO TREINAMENTO?",
+      "opcoes": [
+        "\"PENDENTE AVALIAÇÃO\".",
+        "\"PENDENTE REVISÃO\".",
+        "\"PENDENTE ENCERRAMENTO\"",
+        "\"PENDENTE PROGRAMAÇÃO\"."
+      ]
+    },
+    {
+      "pergunta": "1) COMO É REALIZADO O ACESSO À OPÇÃO DE ATRIBUIÇÃO DE TAREFAS PARA CHAMADOS ESPECÍFICOS?",
+      "opcoes": [
+        "MENU SUPERIOR.",
+        "MENU DIREITO.",
+        "MENU ESQUERDO.",
+        "MENU DE CONFIGURAÇÕES."
+      ]
+    }
+  ]
+}
