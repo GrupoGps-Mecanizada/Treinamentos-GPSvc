@@ -1,0 +1,52 @@
+{
+  "treinamento": "CADASTRO DE NOVOS VISITANTES_EVOLUTION TOWERS",
+  "id": 663,
+  "idChecklist": 449,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual a data deve ser informada no cadastro do visitante?",
+      "opcoes": [
+        "Data atual.",
+        "Data de ontem.",
+        "Data do dia seguinte.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) Quais documentos podem ser utilizados para cadastro?",
+      "opcoes": [
+        "RG.",
+        "CPF.",
+        "Passaporte em caso de visitante estrangeiro.",
+        "Todas as alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "3) A primeira informação a ser digitada na tela de cadastro é:",
+      "opcoes": [
+        "Nome do visitado.",
+        "Nome do prédio.",
+        "Nome do bairro.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) Para acessar a tela de cadastro de visitantes deve-se clicar em:",
+      "opcoes": [
+        "Entrada.",
+        "Rota.",
+        "Fuga.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "1) Para fazer login no sistema de acesso deve-se clicar em:",
+      "opcoes": [
+        "Login.",
+        "Saída.",
+        "Entrada.",
+        "Nenhuma das alternativas."
+      ]
+    }
+  ]
+}
