@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA CONCORRENTE - MÓDULO 1_REGIONAL SC",
+  "id": 1243,
+  "idChecklist": 1009,
+  "perguntas": [
+    {
+      "pergunta": "5) PRINCÍPIO ESSENCIAL DA LIMPEZA CONCORRENTE?",
+      "opcoes": [
+        "INTERROMPER O MÁXIMO POSSÍVEL.",
+        "USAR PRODUTOS COM CHEIRO FORTE.",
+        "LIMPAR DE FORMA DISCRETA E EFICIENTE.",
+        "NÃO USAR EPI'S."
+      ]
+    },
+    {
+      "pergunta": "4) QUAIS SÃO OS EPI'S USADOS NA LIMPEZA CONCORRENTE?",
+      "opcoes": [
+        "CAPACETE E COLETE REFLETIVO.",
+        "LUVAS, MÁSCARAS E AVENTAIS.",
+        "FONES DE OUVIDO E BOTAS.",
+        "ÓCULOS DE SOL E BONÉ."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É A IMPORTÂNCIA DE SINALIZAR AS ÁREAS EM LIMPEZA?",
+      "opcoes": [
+        "PARA EVITAR QUE AS PESSOAS ENTREM EM ÁREAS PERIGOSAS.",
+        "PARA INDICAR QUE O LOCAL ESTÁ FECHADO PERMANENTEMENTE.",
+        "PARA MELHORAR A DECORAÇÃO DO LOCAL.",
+        "PARA PROMOVER A EMPRESA DE LIMPEZA."
+      ]
+    },
+    {
+      "pergunta": "2) EM QUAL AMBIENTE A LIMPEZA CONCORRENTE É ESPECIALMENTE CRÍTICA?",
+      "opcoes": [
+        "ARMAZÉNS.",
+        "PARQUES.",
+        "HOSPITAIS.",
+        "CINEMAS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O PRINCIPAL OBJETIVO DA LIMPEZA CONCORRENTE?",
+      "opcoes": [
+        "REDECORAR O AMBIENTE.",
+        "MANTER A HIGIENE E SEGURANÇA ENQUANTO O ESPAÇO ESTÁ EM USO.",
+        "REALIZAR A MANUTENÇÃO DE EQUIPAMENTOS.",
+        "TROCAR A MOBÍLIA DO LOCAL."
+      ]
+    }
+  ]
+}
