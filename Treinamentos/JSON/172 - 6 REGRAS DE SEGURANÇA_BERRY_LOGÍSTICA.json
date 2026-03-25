@@ -1,0 +1,52 @@
+{
+  "treinamento": "6 REGRAS DE SEGURANÇA_BERRY_LOGÍSTICA",
+  "id": 172,
+  "idChecklist": 92,
+  "perguntas": [
+    {
+      "pergunta": "5) Quantos metros devem ser tomadas medidas de proteção contra quedas?",
+      "opcoes": [
+        "2 metros.",
+        "1,5 metros.",
+        "1,7 metros.",
+        "1,2 metros."
+      ]
+    },
+    {
+      "pergunta": "4) Onde deve estar a carteirinha do operador de empilhadeira?",
+      "opcoes": [
+        "No bolso para não perder.",
+        "No espaço confinado.",
+        "Guardado no armário para não perder.",
+        "Deve estar em local visível."
+      ]
+    },
+    {
+      "pergunta": "3) Quem deve colocar o calço de roda no caminhão?",
+      "opcoes": [
+        "Eu mesmo devo colocar.",
+        "O meu líder.",
+        "Quem estiver operando a empilhadeira.",
+        "O motorista do caminhão."
+      ]
+    },
+    {
+      "pergunta": "2) Para mexer empilhadeiras ou outros veículos na Berry é preciso estar?",
+      "opcoes": [
+        "Bem.",
+        "Acordado.",
+        "Habilitado.",
+        "Acompanhado."
+      ]
+    },
+    {
+      "pergunta": "1) Em nossa operação, o Loto é utilizado para o operador quando?",
+      "opcoes": [
+        "Ao movimentar uma paleteira.",
+        "Ao se deslocar do setor.",
+        "Ao realizar qualquer atividade com o veículo.",
+        "Ao fechar o armário."
+      ]
+    }
+  ]
+}
