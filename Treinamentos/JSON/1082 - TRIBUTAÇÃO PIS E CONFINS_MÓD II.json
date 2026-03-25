@@ -1,0 +1,52 @@
+{
+  "treinamento": "TRIBUTAÇÃO PIS E CONFINS_MÓD II",
+  "id": 1082,
+  "idChecklist": 853,
+  "perguntas": [
+    {
+      "pergunta": "5) A APURAÇÃO DE CRÉDITO DE PIS E COFINS DEVE SER CONFORME O REGIME DE QUAL EMPRESA?",
+      "opcoes": [
+        "CONFORME A EMPRESA TOMADORA.",
+        "CONFORME A EMPRESA PRESTADORA.",
+        "PODE SER CONFORME QUALQUER UMA DAS EMPRESAS.",
+        "NENHUMA DAS ALTERNATIVAS ACIMA."
+      ]
+    },
+    {
+      "pergunta": "4) QUANTAS CONTAS DE DESPESAS INCIDEM CRÉDITO DE PIS E COFINS?",
+      "opcoes": [
+        "91 CONTAS.",
+        "55 CONTAS.",
+        "93 CONTAS.",
+        "60 CONTAS."
+      ]
+    },
+    {
+      "pergunta": "3) A APURAÇÃO DE CRÉDITO DE PIS E COFINS É CALCULADO COM BASE EM QUAL TIPO DE NOTA?",
+      "opcoes": [
+        "É CALCULADO COM BASE EM NOTAS DE SAÍDA.",
+        "É CALCULADO COM BASE EM QUALQUER NOTA",
+        "É CALCULADO COM BASE APENAS EM NOTAS DE VALORES PEQUENOS.",
+        "É CALCULADO COM BASE EM NOTAS DE ENTRADA."
+      ]
+    },
+    {
+      "pergunta": "2) UMA EMPRESA PODE SER DO REGIME CUMULATIVO E TAMBÉM DO NÃO CUMULATIVO?",
+      "opcoes": [
+        "SIM, SÃO CHAMADAS DE EMPRESAS MISTAS.",
+        "SIM, SÃO CHAMADAS DE EMPRESAS DIVIDIDAS.",
+        "NÃO SÓ PODEM SER DE UM REGIME.",
+        "NENHUMA DAS ALTERNATIVAS ACIMA."
+      ]
+    },
+    {
+      "pergunta": "1) FALANDO SOBRE PIS E COFINS. A ELIMINAÇÃO DE PEDIDOS ANTIGOS ENTRA COM ALÍQUOTA ANTIGA?",
+      "opcoes": [
+        "NÃO.",
+        "SIM.",
+        "DEPENDE DO TIPO DE PEDIDO.",
+        "DEPENDE DA EMPRESA."
+      ]
+    }
+  ]
+}
