@@ -1,0 +1,52 @@
+{
+  "treinamento": "O QUE É MERCHANDISING_TRADE&TALENTOS",
+  "id": 1116,
+  "idChecklist": 889,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAIS SÃO AS ETAPAS DO MERCHANDISING?",
+      "opcoes": [
+        "ENCANTAR, PROVOCAR, DESTACAR, PROMOVER E VENDER.",
+        "VENDER, PROVOCAR, ADMINISTRAR E CONQUISTAR.",
+        "DESTACAR, ENCANTAR, COMPRAR E DIVULGAR.",
+        "PROMOVER, ADMINISTRAR, ENCANTAR, VENDER E PROVOCAR."
+      ]
+    },
+    {
+      "pergunta": "4)  O QUE É MERCHANDISING?",
+      "opcoes": [
+        "NOME USADO PARA DESCREVER AÇÕES DE MARKETING E COMUNICAÇÃO.",
+        "USADO PARA PROMOVER MARCAS, PRODUTOS E SERVIÇOS.",
+        "RESPONSÁVEL PELA APRESENTAÇÃO DOS PRODUTOS NA LOJA.",
+        "TODAS AS ALTERNATIVAS ESTÃO CORRETAS."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE É O ATACAREJO?",
+      "opcoes": [
+        "ESTABELECIMENTOS QUE VENDEM EM GRANDES QUANTIDADES PARA OUTROS COMÉRCIOS.",
+        "ESTABELECIMENTOS QUE VENDEM EM PEQUENAS QUANTIDADES DIRETO AO CONSUMIDOR FINAL.",
+        "ESTABELECIMENTOS QUE VENDEM NO ATACADO E NO VAREJO.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE PODE SER CONSIDERADO PONTO DE VENDA?",
+      "opcoes": [
+        "HOSPITAIS, POSTOS DE SAÚDE E FARMÁCIAS.",
+        "SUPERMERCADOS, FARMÁCIAS, HOME CENTERS, ETC.",
+        "ESCOLAS, FACULDADES E BIBLIOTECAS.",
+        "SUPERMERCADOS E FARMÁCIAS."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE SIGNIFICA A SIGLA PDV?",
+      "opcoes": [
+        "POSTO DE VEÍCULO.",
+        "PONTO DE VEICULAÇÃO.",
+        "PONTO DE VENDA.",
+        "PASTA DE VERIFICAÇÃO."
+      ]
+    }
+  ]
+}
