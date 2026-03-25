@@ -1,0 +1,52 @@
+{
+  "treinamento": "FISPQ CIVIL_BRADESCO",
+  "id": 661,
+  "idChecklist": 447,
+  "perguntas": [
+    {
+      "pergunta": "5) Com base no treinamento, qual o assunto tratado na seção 7 da FISPQ?",
+      "opcoes": [
+        "Medidas técnicas para manuseio e armazenamento.",
+        "Composição e informação sobre os ingredientes.",
+        "Controle de exposição e Proteção Individual.",
+        "Identificação de perigos."
+      ]
+    },
+    {
+      "pergunta": "4) Em caso de acidente com o produto, o conhecimento prévio de informações de quais seções proporcionará eficácia na ação corretiva e mitigação de danos?",
+      "opcoes": [
+        "1, 4 e 6.",
+        "2, 3 e 4.",
+        "5, 6 e 7.",
+        "4, 5 e 6."
+      ]
+    },
+    {
+      "pergunta": "3) Qual o objetivo dos pictogramas na FISPQ?",
+      "opcoes": [
+        "Os pictogramas não indicam perigos associados à utilização de um produto químico ou mistura perigosa.",
+        "Os pictogramas indicam a composição associada à utilização de um produto químico ou mistura perigosa.",
+        "Os pictogramas indicam a natureza dos perigos associados à utilização de uma substância ou mistura perigosa.",
+        "Os pictogramas não enaltecem as recomendações de prudência na utilização de um produto químico."
+      ]
+    },
+    {
+      "pergunta": "2) O que é FISPQ?",
+      "opcoes": [
+        "É um documento do ministério do trabalho.",
+        "É a Ficha de Informações de Segurança de Produtos Químicos.",
+        "Não é um documento estabelecido pela norma ABNT 14.725.",
+        "É um relatório que aborda as opiniões de alguns especialistas sobre os produtos químicos."
+      ]
+    },
+    {
+      "pergunta": "1) Em relação à FISPQ, é correto afirmar que:",
+      "opcoes": [
+        "Fornece informações sobre não proteção à segurança, à saúde e ao meio ambiente.",
+        "É um documento facultativo para a comercialização de produtos químicos.",
+        "Não fornece informações sobre a composição dos produtos químicos.",
+        "Fornece informações sobre proteção à segurança, à saúde e ao meio ambiente."
+      ]
+    }
+  ]
+}
