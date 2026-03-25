@@ -1,0 +1,52 @@
+{
+  "treinamento": "USO DOS EPI'S_C&A",
+  "id": 1121,
+  "idChecklist": 894,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL É A FORMA CORRETA DE USAR O CAPACETE?",
+      "opcoes": [
+        "COLOQUE O CAPACETE NA CABEÇA, NIVELADO, COM A ABA FRONTAL VIRADA PARA FRENTE.",
+        "FECHE A CORREIA DA CARNEIRA GIRANDO A MANOPLA DE AJUSTE NO SENTIDO HORÁRIO.",
+        "AJUSTE A TIRA JUGULAR SOB O QUEIXO ATRAVÉS DA FIVELA, DE MODO QUE O CAPACETE FIQUE BEM-POSICIONADO NA CABEÇA, SEM RISCO DE CAIR.",
+        "TODAS AS ALTERNATIVAS ACIMA."
+      ]
+    },
+    {
+      "pergunta": "4) QUAIS SÃO OS ITENS OBRIGATÓRIOS DENTRO DA OPERAÇÃO?",
+      "opcoes": [
+        "UNIFORME.",
+        "CRACHÁ.",
+        "CAPACETE, BOTA E LUVA.",
+        "TODAS AS ALTERNATIVAS ACIMA."
+      ]
+    },
+    {
+      "pergunta": "3) QUAIS SÃO OS PERIGOS PRESENTES NO AMBIENTE DE TRABALHO?",
+      "opcoes": [
+        "RUÍDOS EXCESSIVOS, QUEDAS, IMPACTOS, ENTRE OUTROS.",
+        "DOENÇAS CONTAGIOSAS E RISCOS QUÍMICOS.",
+        "CONTAMINAÇÃO CRUZADA E FUNGOS.",
+        "O AMBIENTE DE TRABALHO NÃO APRESENTA PERIGOS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL É A IMPORTÂNCIA DO USO DO EPI?",
+      "opcoes": [
+        "PREVENIR ACIDENTES.",
+        "MINIMIZAR RISCOS DE LESÕES.",
+        "PROTEGER A INTEGRIDADE FÍSICA DOS COLABORADORES.",
+        "TODAS AS ALTERNATIVAS ACIMA."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE SIGNIFICA A SIGLA EPI?",
+      "opcoes": [
+        "EQUIPAGEM DE PRESERVAÇÃO INDIVIDUAL.",
+        "EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL.",
+        "INDIVIDUAL PRESERVATION EQUIPAMENTO.",
+        "NENHUMA DAS ALTERNATIVAS ACIMA."
+      ]
+    }
+  ]
+}
