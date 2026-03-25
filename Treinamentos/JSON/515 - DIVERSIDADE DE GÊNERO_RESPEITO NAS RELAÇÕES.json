@@ -1,0 +1,52 @@
+{
+  "treinamento": "DIVERSIDADE DE GÊNERO_RESPEITO NAS RELAÇÕES",
+  "id": 515,
+  "idChecklist": 319,
+  "perguntas": [
+    {
+      "pergunta": "5) No treinamento vimos que é importante conhecer e seguir o procedimento do seu Cliente. Além disso, qual atitude cabe a você colocar em prática?",
+      "opcoes": [
+        "Exercer o respeito a todas as pessoas.",
+        "Realizar o descumprimento do procedimento do Cliente.",
+        "Agir com indisciplina na execução das atividades.",
+        "Não praticar o respeito a todas as pessoas."
+      ]
+    },
+    {
+      "pergunta": "4) O que é “nome social”?",
+      "opcoes": [
+        "É o nome que a pessoa gosta de usar nas redes sociais.",
+        "Se trata do nome que os profissionais utilizam em suas empresas.",
+        "São apelidos que são herdados de amigos e família.",
+        "É o prenome adotado e que corresponde à forma pela qual a pessoa se reconhece e é reconhecida por sua comunidade."
+      ]
+    },
+    {
+      "pergunta": "3) O que é identidade de gênero?",
+      "opcoes": [
+        "É o entendimento que a pessoa tem sobre ela mesma, como ela se reconhece e deseja ser reconhecida socialmente, seja mulher, homem ou transgênero.",
+        "É a identidade que a pessoa quer ter, é sua escolha.",
+        "É a forma que a pessoa quer seguir sua vida.",
+        "É o entendimento de como o ser humano é transcendente."
+      ]
+    },
+    {
+      "pergunta": "2) Qual o significado da letra “Q”?",
+      "opcoes": [
+        "Representa pessoas “Queers”, são pessoas que se encaixam em rótulos definidos.",
+        "Representa pessoas “Quit”, são pessoas que não se encaixam em rótulos definidos.",
+        "Representa pessoas Queer, são pessoas que não se rotulam e nem se encaixam em rótulos definidos.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "1) O que significa o termo diversidade de gênero?",
+      "opcoes": [
+        "É uma maneira exclusiva de utilizar para toda a orientação e diversidade sexual, identidade e expressão de gênero, sem a necessidade de especificar cada uma destas pluralidades.",
+        "É uma maneira inclusiva de utilizar para toda a orientação e diversidade sexual, identidade e expressão de gênero, sem a necessidade de especificar cada uma destas pluralidades.",
+        "Se trata da forma como cada um quer se referir a pessoas LGBT.",
+        "É a forma correta de conversar com cada indivíduo."
+      ]
+    }
+  ]
+}
