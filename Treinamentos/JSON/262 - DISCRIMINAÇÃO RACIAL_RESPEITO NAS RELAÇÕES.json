@@ -1,0 +1,52 @@
+{
+  "treinamento": "DISCRIMINAÇÃO RACIAL_RESPEITO NAS RELAÇÕES",
+  "id": 262,
+  "idChecklist": 174,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual é o Artigo que enquadra o Racismo como crime?",
+      "opcoes": [
+        "Artigo 2º.",
+        "Artigo 3º.",
+        "Artigo 4º.",
+        "Artigo 5º."
+      ]
+    },
+    {
+      "pergunta": "4) Para o que costumam usar o estereótipo de uma pessoa?",
+      "opcoes": [
+        "O Estereótipo é muito usado para definir e limitar pessoas.",
+        "O Estereótipo é muito usado para definir e ajudar as pessoas.",
+        "O Estereótipo é muito usado para segregar pessoas.",
+        "O Estereótipo é muito usado julgar as pessoas."
+      ]
+    },
+    {
+      "pergunta": "3) Qual conceito de Discriminação?",
+      "opcoes": [
+        "É o ato de julgar as pessoas.",
+        "É o ato de segregar qualquer pessoa que lhe convém.",
+        "É o ato de segregar, separar ou dar prioridades e tratamento diferenciado em razão da raça.",
+        "É o ato de segregar, separar ou dar prioridades e tratamento diferenciado, mas não em razão da raça."
+      ]
+    },
+    {
+      "pergunta": "2) Qual conceito de Preconceito?",
+      "opcoes": [
+        "É o ato de julgar algo ou alguém sem conhecê-lo, criando um estereótipo.",
+        "É o ato de julgar algo ou alguém sem conhecê-lo. Mas não criando um estereótipo.",
+        "É a segregação.",
+        "É a definição do tratamento diferenciado."
+      ]
+    },
+    {
+      "pergunta": "1) De maneira geral, a qual ideia o racismo está ligado?",
+      "opcoes": [
+        "Está ligado a ideia de que não existe superioridade entre as diferentes raças e tons de pele. Inferiorizando equivocadamente determinados grupos.",
+        "Está ligado a ideia de que existe superioridade entre as diferentes raças e tons de pele. Inferiorizando equivocadamente determinados grupos.",
+        "Está ligado ao estereótipo unicamente.",
+        "Está ligado a tarefa de prioridades raciais."
+      ]
+    }
+  ]
+}
