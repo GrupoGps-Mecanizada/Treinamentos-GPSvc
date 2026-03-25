@@ -1,0 +1,52 @@
+{
+  "treinamento": "RECARGA BATERIA EMPILHADEIRAS ELETRICAS HELLI_ELECTROLUX SÃO CARLOS",
+  "id": 645,
+  "idChecklist": 431,
+  "perguntas": [
+    {
+      "pergunta": "5) Em caso de dificuldades para executar os passos descritos nesse treinamento, você deve:",
+      "opcoes": [
+        "Chamar um colega de trabalho com mais experiência.",
+        "Chamar o time de segurança do trabalho para ser socorrido.",
+        "Chamar obrigatoriamente seu Líder para receber orientações adequadas.",
+        "Acionar o botão de emergência do veículo."
+      ]
+    },
+    {
+      "pergunta": "4) Se for preciso usar a empilhadeira antes de atingir 100% de carga, devo:",
+      "opcoes": [
+        "Retirar rapidamente o dispositivo de recarga para não soltar faíscas.",
+        "Acionar o botão vermelho “BOTÃO DE PAUSA” no painel do carregador.",
+        "Desligar o disjuntor no painel elétrico central.",
+        "Chamar o seu LÍDER para te apoiar na decisão."
+      ]
+    },
+    {
+      "pergunta": "3) Ao iniciar o recarregamento o painel do carregador deve mostrar STATUS:",
+      "opcoes": [
+        "Bloqueado.",
+        "Finalizado.",
+        "Charging.",
+        "Em espera."
+      ]
+    },
+    {
+      "pergunta": "2) De acordo com o treinamento assinale a alternativa correta:",
+      "opcoes": [
+        "Estacione sempre de ré e mantenha o Clamp elevado do chão.",
+        "Deixe a empilhadeira ligada antes de iniciar a recarga.",
+        "Estacione em qualquer posição e de frente.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "1) Qual é o tipo de combustível utilizado nas atuais empilhadeiras?",
+      "opcoes": [
+        "Combustível fóssil.",
+        "Gasolina aditivada.",
+        "Gás GLP.",
+        "Energia elétrica."
+      ]
+    }
+  ]
+}
