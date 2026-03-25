@@ -1,0 +1,52 @@
+{
+  "treinamento": "USO SEGURO DE ESCADAS",
+  "id": 1411,
+  "idChecklist": 1166,
+  "perguntas": [
+    {
+      "pergunta": "5) ) QUANDO É OBRIGATÓRIO UTILIZAR UMA SEGUNDA PESSOA PARA SEGURAR A ESCADA TIPO “A”?",
+      "opcoes": [
+        "QUANDO A MESMA ESTIVER SENDO USADA A PARTIR DO QUARTO DEGRAU.",
+        "QUANDO A MESMA ESTIVER SENDO USADA A PARTIR DO SEGUNDO DEGRAU.",
+        "QUANDO A MESMA ESTIVER SENDO USADA A PARTIR DO TERCEIRO DEGRAU.",
+        "NUNCA, POIS, POSSO UTILIZAR SEM NINGUÉM SEGURAR A MESMA EM QUALQUER DEGRAU."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL ATITUDE É PROIBIDA DURANTE O USO DA ESCADA?",
+      "opcoes": [
+        "UTILIZAR ÓCULOS DE PROTEÇÃO.",
+        "TRABALHAR COM AUXÍLIO DE UM COLEGA.",
+        "SEGURAR A BASE QUANDO NECESSÁRIO.",
+        "PROJETAR O TRONCO PARA FORA DOS MONTANTES."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE DEVE SER FEITO ANTES DE USAR UMA ESCADA?",
+      "opcoes": [
+        "APENAS POSICIONÁ-LA CORRETAMENTAMENTE.",
+        "ISOLAR A ÁREA E INSPECIONAR A ESCADA.",
+        "USÁ-LA IMEDIATAMENTE SE PARECER SEGURA.",
+        "GARANTIR QUE SEJA LEVE PARA FÁCIL TRANSPORTE."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS EPI'S SÃO OBRIGATÓRIOS PARA O USO SEGURO DE ESCADAS?",
+      "opcoes": [
+        "CAPACETE, MÁSCARA E BOTAS.",
+        "CAPACETE, ÓCULOS E LUVAS DE PROTEÇÃO.",
+        "COLETE REFLETIVO E PROTETOR AURICULAR.",
+        "CINTO DE SEGURANÇA E MÁSCARA."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O PRINCIPAL RISCO DO USO INADEQUADO DE ESCADAS?",
+      "opcoes": [
+        "DANIFICAR A ESCADA.",
+        "CAUSAR QUEDAS E ACIDENTES.",
+        "AUMENTAR O TEMPO DE SERVIÇO.",
+        "GERAR DESGASTE FÍSICO."
+      ]
+    }
+  ]
+}
