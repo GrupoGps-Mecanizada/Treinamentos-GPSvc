@@ -1,0 +1,52 @@
+{
+  "treinamento": "PROJETO NÓS_MÓD. 2",
+  "id": 1781,
+  "idChecklist": 1452,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAIS ASPECTOS DA VIDA DAS MULHERES SÃO AFETADOS PELA VIOLÊNCIA?",
+      "opcoes": [
+        "APENAS A SEGURANÇA FÍSICA.",
+        "A AUTOESTIMA, A SAÚDE EMOCIONAL E A SEGURANÇA.",
+        "SOMENTE A SAÚDE EMOCIONAL.",
+        "APENAS O ACESSO À PROTEÇÃO."
+      ]
+    },
+    {
+      "pergunta": "4) QUAIS ATITUDES CARACTERIZAM A VIOLÊNCIA PSICOLÓGICA?",
+      "opcoes": [
+        "HUMILHAÇÕES, AMEAÇAS E CONTROLE EMOCIONAL.",
+        "XINGAMENTOS, DIFAMAÇÕES E EXPOSIÇÃO DA IMAGEM.",
+        "EMPURRÕES, TAPAS E AGRESSÕES.",
+        "CONTROLE OU DESTRUIÇÃO DE BENS E DINHEIRO."
+      ]
+    },
+    {
+      "pergunta": "3) QUAIS ATITUDES CARACTERIZAM A VIOLÊNCIA PATRIMONIAL?",
+      "opcoes": [
+        "HUMILHAÇÕES, AMEAÇAS E CONTROLE EMOCIONAL.",
+        "XINGAMENTOS, DIFAMAÇÕES E EXPOSIÇÃO DA IMAGEM.",
+        "EMPURRÕES, TAPAS E AGRESSÕES.",
+        "CONTROLE OU DESTRUIÇÃO DE BENS E DINHEIRO."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS SÃO AS 5 FORMAS DE VIOLÊNCIA CITADAS?",
+      "opcoes": [
+        "FÍSICA, PSICOLÓGICA, MORAL, SEXUAL E PATRIMONIAL.",
+        "FÍSICA, PSICOLÓGICA, VERBAL, PATRIMONIAL E  PROFISSIONAL.",
+        "FÍSICA, PSICOLÓGICA, MORAL, SEXUAL E INTELECTUAL.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1)  O QUE O TERMO INTERSECCIONALIDADE EXPLICA?",
+      "opcoes": [
+        "COMO A VIOLÊNCIA AFETA APENAS A SAÚDE EMOCIONAL DAS MULHERES.",
+        "COMO DIFERENTES FORMAS DE OPRESSÃO SE COMBINAM.",
+        "COMO A VIOLÊNCIA SURGE APENAS POR FALTA DE DENÚNCIA.",
+        "COMO O SILÊNCIO MANTÉM O CICLO DE INJUSTIÇA."
+      ]
+    }
+  ]
+}
