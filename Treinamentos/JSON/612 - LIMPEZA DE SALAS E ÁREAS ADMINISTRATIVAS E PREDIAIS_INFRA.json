@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA DE SALAS E ÁREAS ADMINISTRATIVAS E PREDIAIS_INFRA",
+  "id": 612,
+  "idChecklist": 398,
+  "perguntas": [
+    {
+      "pergunta": "5) No momento da limpeza do piso, deve-se sinalizar a área com:",
+      "opcoes": [
+        "Com o carrinho funcional.",
+        "Balde no meio do corredor.",
+        "Placa de sinalização piso molhado.",
+        "Com uma cadeira."
+      ]
+    },
+    {
+      "pergunta": "4) Quando tiver alguma dúvida, quanto a execução da atividade devo procurar:",
+      "opcoes": [
+        "O Cliente.",
+        "Meu líder imediato.",
+        "Não procurar ninguém, fazer o que acho que é certo.",
+        "O porteiro."
+      ]
+    },
+    {
+      "pergunta": "3) De acordo com o que estudamos, deve-se:",
+      "opcoes": [
+        "Retirar o lixo da lixeira com as mãos.",
+        "Limpar materiais eletrônicos com fibra verde.",
+        "Limpar equipamentos eletrônicos enquanto estiverem ligados à rede elétrica.",
+        "Iniciar a limpeza das escadas pelo corrimão."
+      ]
+    },
+    {
+      "pergunta": "2) Dos materiais e equipamentos utilizados, assinale a alternativa incorreta:",
+      "opcoes": [
+        "Carro funcional.",
+        "Produto químico específico.",
+        "Carro de mão,",
+        "Espanador eletrostático."
+      ]
+    },
+    {
+      "pergunta": "1) Qual a cor da luva utilizada para executar esta atividade?",
+      "opcoes": [
+        "Luva azul.",
+        "Luva amarela.",
+        "Luva verde.",
+        "Luva rosa."
+      ]
+    }
+  ]
+}
