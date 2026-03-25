@@ -1,0 +1,52 @@
+{
+  "treinamento": "INSPEÇÃO OEA - PARTE 4_RENAULT",
+  "id": 1242,
+  "idChecklist": 1008,
+  "perguntas": [
+    {
+      "pergunta": "5) COMO DEVE SER A ABORDAGEM DE PESSOAS NÃO IDENTIFICADAS NAS ÁREAS DE CARGA?",
+      "opcoes": [
+        "PERMITIR ACESSO TEMPORÁRIO PARA VERIFICAR SUAS INTENÇÕES.",
+        "IGNORAR A MENOS QUE INTERFIRAM DIRETAMENTE",
+        "DEVEM SER ABORDADAS E REMOVIDAS SE NECESSÁRIO.",
+        "OFERECER ORIENTAÇÃO SOBRE COMO SE REGISTRAR."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE É MANDATÓRIO PARA O EFETIVO DE VIGILÂNCIA DURANTE O PROCESSO DE EXPORTAÇÃO?",
+      "opcoes": [
+        "AGIR DE FORMA SIGILOSA E NÃO CAPTURAR IMAGENS.",
+        "USAR UNIFORMES COLORIDOS.",
+        "LEVAR DISPOSITIVOS ELETRÔNICOS PARA AS ÁREAS DE CARGA.",
+        "COMENTAR SOBRE O PROCESSO COM TERCEIROS."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É A FUNÇÃO DO VIGILANTE OEA NO CAS?",
+      "opcoes": [
+        "INSPEÇÃO DE 7 PONTOS APENAS.",
+        "MONITORAMENTO DE CÂMERAS.",
+        "POSTO SENSÍVEL NO PROCESSO DE INSPEÇÃO.",
+        "GERENCIAMENTO DE DOCAS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL POSTO DE VIGILÂNCIA É RESPONSÁVEL POR REALIZAR REGISTROS DE INSPEÇÃO DE SAÍDA NA PORTARIA 2?",
+      "opcoes": [
+        "VIGILANTE OEA (CAS).",
+        "VIGILANTE APOIO (CAS).",
+        "VIGILANTE PORTARIA 1 (CDQB).",
+        "PGCA – PORTARIA 2."
+      ]
+    },
+    {
+      "pergunta": "1) QUANTAS DOCAS SÃO UTILIZADAS PARA INSPEÇÕES DE 7 E 17 PONTOS NO CMO?",
+      "opcoes": [
+        "UMA DOCA.",
+        "DUAS DOCAS.",
+        "TRÊS DOCAS.",
+        "QUATRO DOCAS."
+      ]
+    }
+  ]
+}
