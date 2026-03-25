@@ -1,0 +1,52 @@
+{
+  "treinamento": "1.1 COMO CRIAR USUÁRIO NO PORTAL WEB_GPSVISTA",
+  "id": 360,
+  "idChecklist": 258,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais os erros NÃO podem impedir o cadastro no Portal do GPS Vista?",
+      "opcoes": [
+        "Colocar os dados em todos campos.",
+        "Não colocar os dados iguais ao cadastro do Microsiga.",
+        "Não colocar a senha seguindo os critérios informados.",
+        "Não flegar a opção de qual o tipo de usuário está criando."
+      ]
+    },
+    {
+      "pergunta": "4) Ao se cadastrar pela Web, qual será o login de acesso?",
+      "opcoes": [
+        "CPF e E-mail.",
+        "Somente E-mail.",
+        "Matrícula.",
+        "Nome Completo."
+      ]
+    },
+    {
+      "pergunta": "3) Qual critério para o cadastro de senha?",
+      "opcoes": [
+        "Deve conter letras, Caracteres especiais e Números.",
+        "Apenas letras e números.",
+        "Números.",
+        "Não há nenhum critério para cadastro."
+      ]
+    },
+    {
+      "pergunta": "2) Quais as opções de cadastro são possíveis dentro da WEB?",
+      "opcoes": [
+        "GPS, Cliente e Fornecedor.",
+        "GPS.",
+        "Para se cadastrar é necessário criar um usuário no vista.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "1) Ao clicar para cadastrar um novo usuário, quais dados devem ser preenchidos?",
+      "opcoes": [
+        "Nome completo, e-mail, CPF, data de Nascimento e senha.",
+        "Nome Completo e senha.",
+        "Somente os campos de e-mail e senha.",
+        "Nome completo, CPF e data de nascimento."
+      ]
+    }
+  ]
+}
