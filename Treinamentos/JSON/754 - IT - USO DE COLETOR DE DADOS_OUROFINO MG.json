@@ -1,0 +1,52 @@
+{
+  "treinamento": "IT - USO DE COLETOR DE DADOS_OUROFINO MG",
+  "id": 754,
+  "idChecklist": 536,
+  "perguntas": [
+    {
+      "pergunta": "5) POSSO DIGITAR AS INFORMAÇÕES E NÃO USAR O INFRAVERMELHO DO COLETOR PARA IMPUTAR AS INFORMAÇÕES? ",
+      "opcoes": [
+        "NÃO, POIS, POSSO SER INDUZIDO AO ERRO.",
+        "QUANDO MEU SUPERVISOR MANDAR.",
+        "SOMENTE QUANDO O MATERIAL ESTIVER SEM ETIQUETA.",
+        "QUANDO QUERO AGILIZAR O PROCESSO."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL OPÇÃO DEVEMOS SELECIONAR NO COLETOR PARA REALIZAR ARMAZENAGEM?",
+      "opcoes": [
+        "2.PRODUÇÃO.",
+        "1.ARMAZENAGEM.",
+        "6.TROCA DE FILAS.",
+        "4.TRIAGEM."
+      ]
+    },
+    {
+      "pergunta": "3) VOCÊ ESTÁ OPERANDO NA PLANTA INSETICIDAS, QUAL FILA DE ARMAZENAGEM VOCÊ DEVE ESTAR?",
+      "opcoes": [
+        "INSETICIDAS. ",
+        "HERBICIDAS.",
+        "PESTICIDAS.",
+        "NENHUMA DAS AFIRMATIVAS ACIMA."
+      ]
+    },
+    {
+      "pergunta": "2)  É OBRIGATÓRIO A UTILIZAÇÃO DO COLETOR DE DADOS?",
+      "opcoes": [
+        "NÃO É OBRIGATÓRIO.",
+        "PREFIRO UTILIZAR O PICKLIST.",
+        "DEPENDE DA SITUAÇÃO. ",
+        "O USO É OBRIGATÓRIO"
+      ]
+    },
+    {
+      "pergunta": "1) QUAIS SÃO AS MAIORES VANTAGENS DO COLETOR DE DADOS?",
+      "opcoes": [
+        "AGILIZA A COLETA DOS DADOS E EVITA ERROS.",
+        "REDUZ OS CUSTOS DOS PROCESSOS E AUMENTA A PRODUTIVIDADE DA EQUIPE.",
+        "AUMENTA A PRODUTIVIDADE DA EQUIPE E CONTRIBUI PARA A MELHORIA DO PROCESSO DECISÓRIO.",
+        "TODAS AS ALTERNATIVAS ANTERIORES."
+      ]
+    }
+  ]
+}
