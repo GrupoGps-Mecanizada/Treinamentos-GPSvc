@@ -1,0 +1,52 @@
+{
+  "treinamento": "CONTROLADOR LÓGICO PROGRAMÁVEL_AUTOMAÇÃO INDUSTRIAL",
+  "id": 410,
+  "idChecklist": 303,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual é a composição de um CLP?",
+      "opcoes": [
+        "CPU, periféricos de entradas digitais e bastidor.",
+        "Fonte de alimentação; CPU; periféricos de entrada e saída digitais/analógicas e bastidor.",
+        "CPU e periféricos de saídas digitais.",
+        "Periféricos de entradas e saídas digitais e analógicas."
+      ]
+    },
+    {
+      "pergunta": "4) Qual a função básica de um CLP?",
+      "opcoes": [
+        "Processar a programação do sistema e atualizar as saídas de processo.",
+        "Ler as entradas, processar a leitura e atualizar as saídas de controle.",
+        "Realizar a leitura das entradas e atualizar as saídas digitais.",
+        "Processar a programação interna e atualizar as saídas de processo."
+      ]
+    },
+    {
+      "pergunta": "3) Quem é considerado o “PAI” do Controlador Digital Modular?",
+      "opcoes": [
+        "Eng. Richard Morley.",
+        "Eng. Edward R. Clark.",
+        "Eng. Nikola Tesla.",
+        "Eng. William Gilbert."
+      ]
+    },
+    {
+      "pergunta": "2) Qual foi a empresa que solicitou o projeto que foi implementado o primeiro Controlador Digital Modular?",
+      "opcoes": [
+        "Ford.",
+        "Chrysler.",
+        "VW.",
+        "GM – General Motors."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o significado da sigla CLP?",
+      "opcoes": [
+        "Controlador Lógico de Processo.",
+        "Concentrador Lógico de Processo.",
+        "Controlador Lógico Programável.",
+        "Concentrador Lógico de Processo."
+      ]
+    }
+  ]
+}
