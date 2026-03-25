@@ -1,0 +1,52 @@
+{
+  "treinamento": "CREDENCIAL AEROPORTUÁRIA_FLORIPA AIRPORT",
+  "id": 392,
+  "idChecklist": 285,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual a sigla da sequência de conferência de credencial aeroportuária?",
+      "opcoes": [
+        "ACDFE",
+        "EFDCA;",
+        "ABCDF;",
+        "ACD."
+      ]
+    },
+    {
+      "pergunta": "4) Qual a sequência correta de conferência da credencial aeroportuária?",
+      "opcoes": [
+        "Aeroporto de origem / Código de acesso / Data de validade / Foto / Empresa",
+        "Código de acesso / Data de validade / Foto / Empresa / Aeroporto de origem",
+        "Data de validade / Foto / Empresa / Aeroporto de origem / Código de acesso",
+        "Empresa / Código de acesso / Data de validade / Foto / Aeroporto de origem"
+      ]
+    },
+    {
+      "pergunta": "3) Qual o primeiro item a ser observado em uma conferência da credencial aeroportuária?",
+      "opcoes": [
+        "Foto",
+        "Aeroporto de origem;",
+        "Data de validade;",
+        "Código de acesso."
+      ]
+    },
+    {
+      "pergunta": "2) Qual prazo máximo de validade de uma credencial temporária?",
+      "opcoes": [
+        "Trinta dias",
+        "Sessenta dias;",
+        "Noventa dias;",
+        "Cento e vinte dias."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o prazo máximo de validade de uma credencial permanente?",
+      "opcoes": [
+        "Dois anos",
+        "Três anos;",
+        "Dois meses;",
+        "Um ano."
+      ]
+    }
+  ]
+}
