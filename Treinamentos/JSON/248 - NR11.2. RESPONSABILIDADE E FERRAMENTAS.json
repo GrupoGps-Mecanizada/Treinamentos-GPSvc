@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR11.2. RESPONSABILIDADE E FERRAMENTAS",
+  "id": 248,
+  "idChecklist": 160,
+  "perguntas": [
+    {
+      "pergunta": "5) Quem é um Profissional habilitado?",
+      "opcoes": [
+        "Que sabe abastecer a linha rápido.",
+        "Profissional com atribuições legais para a atividade a ser desempenhada e que assume a responsabilidade técnica, tendo registro no conselho profissional de classe.",
+        "As duas primeiras alternativas.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) Quem é um profissional capacitado?",
+      "opcoes": [
+        "Trabalhador que recebeu capacitação sob orientação e responsabilidade de um Profissional habilitado.",
+        "Pessoa que possui CNH.",
+        "Colaborador que foi treinado na NR11.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) O que é um procedimento na definição do treinamento de NR 11?",
+      "opcoes": [
+        "Um material escrito que posso encontrar na máquina.",
+        "Não há procedimento para operar empilhadeira.",
+        "Sequência de operações a serem desenvolvidas para realização de um determinado trabalho, incluindo meios materiais e humanos, medidas de segurança e circunstâncias que possibilitem sua realização.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) Para que serve uma cultura \"Prevencionista\"?",
+      "opcoes": [
+        "Para prevenir somente acidentes com pessoas.",
+        "Para prevenir somente acidentes materiais.",
+        "Para que o Operador de empilhadeira não se machuque.",
+        "Visando preservar a saúde e a integridade física do Colaborador, informar sobre os riscos ambientais e desenvolver cultura prevencionista."
+      ]
+    },
+    {
+      "pergunta": "1) Marque uma das responsabilidades de um Operador de empilhadeira:",
+      "opcoes": [
+        "Responsável por armazenar todo o estoque do armazém.",
+        "Tem a obrigação de não responder por seus próprios atos ou por atos de outrem, estando vinculado por lei ou contrato.",
+        "Tem a obrigação de responder por seus próprios atos ou por atos de outrem, estando vinculado por lei ou contrato.",
+        "Manter o equipamento limpo usando um pano seco."
+      ]
+    }
+  ]
+}
