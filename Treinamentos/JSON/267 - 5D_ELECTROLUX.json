@@ -1,0 +1,52 @@
+{
+  "treinamento": "5D_ELECTROLUX",
+  "id": 267,
+  "idChecklist": 179,
+  "perguntas": [
+    {
+      "pergunta": "5) Para que serve o PDCA, e quais são suas etapas?",
+      "opcoes": [
+        "O PDCA é um método de gestão de 4 passos utilizados para o controle e melhoria contínua de processos e produtos e suas etapas são: planejar, fazer, checar e agir.",
+        "O PDCA é um método de gestão utilizado para melhoria contínua de processos e suas etapas são: padronizar, fazer, checar e agir.",
+        "O PDCA é um método de gestão que só atrapalha o controle de processos e produtos e suas etapas são: planejar, fazer, checar e agir.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "4) Qual o nome do indicador de Qualidade da área de Logística e Manufatura?",
+      "opcoes": [
+        "O indicador de Qualidade da Logística é o IRA, e da Manufatura é NRFT e QIC.",
+        "O indicador de Qualidade da Logística é o NRFT, e da Manufatura é o IRA.",
+        "O indicador de Qualidade da Logística é o IRA, e da Manufatura é somente o NRFT.",
+        "Todas as alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) Quais são os elementos do sistema 5D?",
+      "opcoes": [
+        "Procedimento da Qualidade, Standard Work, Condições de 5S, Resolução de problemas, Matriz de Habilidades, Performance na Qualidade.",
+        "Não receba; Não manufature; Não disperse; Não repita e Não envie.",
+        "Receba; Manufature; Disperse; Repita e Envie.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "2) Quais são os Princípios 5D?",
+      "opcoes": [
+        "Procedimento da Qualidade, Standard Work, Condições de 5S, Resolução de problemas, Matriz de Habilidades, Performance na Qualidade.",
+        "Não receba; Não manufature; Não disperse; Não repita e Não envie.",
+        "Receba; Manufature; Disperse; Repita e Envie.",
+        "Todas as alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "1) O que é 5D?",
+      "opcoes": [
+        "O 5D é um sistema de gestão da qualidade.",
+        "O 5D garante os requisitos fundamentais para a boa qualidade nos processos produtivos.",
+        "O 5D não garante os requisitos fundamentais para a boa qualidade nos processos produtivos.",
+        "O 5D é um sistema que só atrapalha o processo produtivo."
+      ]
+    }
+  ]
+}
