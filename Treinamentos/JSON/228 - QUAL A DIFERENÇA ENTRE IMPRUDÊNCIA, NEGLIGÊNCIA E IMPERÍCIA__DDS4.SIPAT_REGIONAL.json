@@ -1,0 +1,52 @@
+{
+  "treinamento": "QUAL A DIFERENÇA ENTRE IMPRUDÊNCIA, NEGLIGÊNCIA E IMPERÍCIA?_DDS4.SIPAT_REGIONAL AL",
+  "id": 228,
+  "idChecklist": 140,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual alternativa melhor explica o conceito de imperícia?",
+      "opcoes": [
+        "Imperícia consiste em o agente não saber praticar o ato, ou seja realizar uma determinada tarefa sem ter o conhecimento técnico, teórico ou prático necessário.",
+        "Imperícia é quando nos tornamos perito sobre algo assunto.",
+        "Imperícia consiste em agir sabendo praticar, ter todo o conhecimento técnico, teórico ou prático na execução da tarefa.",
+        "Imperícia consiste em praticar ações que venham prevenir acidentes."
+      ]
+    },
+    {
+      "pergunta": "4) Deixar de usar o EPI obrigatório para sua atividade, de acordo com o conteúdo estudado, é um exemplo de?",
+      "opcoes": [
+        "Imprudência.",
+        "Negligência.",
+        "Imperícia.",
+        "Contingência."
+      ]
+    },
+    {
+      "pergunta": "3) De acordo com o conteúdo estudado, a Negligência também pode ser entendida e conhecida como?",
+      "opcoes": [
+        "Negligência também é conhecida como Imprudência.",
+        "Negligência pode ser entendida como o cuidado exagerado do trabalhador na realização da sua tarefa.",
+        "Negligência pode ser entendida como ato seguro.",
+        "Negligência também pode ser conhecida como falta de cuidado e desatenção. Omissão ou falta de observação do dever."
+      ]
+    },
+    {
+      "pergunta": "2) Qual das alternativas é um exemplo de imprudência?",
+      "opcoes": [
+        "O trabalhador que guarda e conserva seu equipamento de proteção individual (EPI).",
+        "Um motorista devidamente habilitado que ultrapassa um sinal vermelho e, como consequência provoca um acidente de trânsito.",
+        "Um trabalhador que antes de iniciar a atividade certifica que todos os riscos estão controlados.",
+        "O motorista que respeita as leis de trânsito."
+      ]
+    },
+    {
+      "pergunta": "1) De acordo com o conteúdo estudado, qual alternativa explica melhor o conceito de imprudência?",
+      "opcoes": [
+        "Ser imprudente é quando praticamos a ação de forma precipitada e sem cuidado.",
+        "Ser imprudente é ser responsável e cauteloso.",
+        "Ser imprudente muitas vezes é ser uma pessoa que pensa sempre no futuro, não se importando em viver o presente.",
+        "Ser imprudente é ser amigo de todo mundo e comunicativo."
+      ]
+    }
+  ]
+}
