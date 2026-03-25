@@ -1,0 +1,52 @@
+{
+  "treinamento": "COLETA DE AMOSTRA_TREINAMENTO PRESENCIAL",
+  "id": 1106,
+  "idChecklist": 878,
+  "perguntas": [
+    {
+      "pergunta": "5) ONDE DEVEMOS ARMAZENAR AS AMOSTRAS DE PÃO E TORRADA?",
+      "opcoes": [
+        "NO FREEZER.",
+        "NO BALCÃO.",
+        "NO PASSTHROUG QUENTE.",
+        "NA GELADEIRA À 4°C, JUNTO COM OS ALIMENTOS SERVIDOS FRIOS."
+      ]
+    },
+    {
+      "pergunta": "4) ONDE DEVEMOS GUARDAR AS AMOSTRAS DE SOBREMESA E SALADAS?",
+      "opcoes": [
+        "EM TEMPERATURA REFRIGERADA À 4°C.",
+        "EM TEMPERATURA CONGELADA.",
+        "TEMPERATURA AMBIENTE.",
+        "NENHUMA DAS ALTERNATIVAS ESTÃO CORRETAS."
+      ]
+    },
+    {
+      "pergunta": "3) POR QUANTO TEMPO DEVEMOS GUARDAR AS AMOSTRAS?",
+      "opcoes": [
+        "POR 48H.",
+        "POR 96H.",
+        "POR 72H.",
+        "DE ACORDO COM A LEGISLAÇÃO LOCAL DE CADA UNIDADE."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS INFORMAÇÕES DEVE CONTER NO SACO DE AMOSTRA?",
+      "opcoes": [
+        "UNIDADE E QUANTIDADE.",
+        "UNIDADE, ALIMENTO, TURNO, RESPONSÁVEL, DATA DE COLETA E DATA DE DESCARTE.",
+        "TURNO, ALIMENTO E CONSUMIDOR.",
+        "DATA DE COLETA, DATA DE DESCARTE, UNIDADE E RESPONSÁVEL PELO CONSUMO."
+      ]
+    },
+    {
+      "pergunta": "1) ONDE DEVEMOS COLETAR AS AMOSTRAS DOS ALIMENTOS SERVIDOS?",
+      "opcoes": [
+        "NO SACO CRISTAL.",
+        "NA LUVA DESCARTÁVEL.",
+        "NO SACO TARJA.",
+        "NA SACOLA."
+      ]
+    }
+  ]
+}
