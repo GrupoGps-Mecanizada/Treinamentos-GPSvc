@@ -1,0 +1,52 @@
+{
+  "treinamento": "GERENCIAMENTO DE PRODUTOS QUÍMICOS_SAMARCO",
+  "id": 416,
+  "idChecklist": 309,
+  "perguntas": [
+    {
+      "pergunta": "5) São responsabilidades de quem usa produtos perigosos, EXCETO",
+      "opcoes": [
+        "Cumprir as instruções constantes dos rótulos dos materiais ou substâncias perigosas quanto ao uso, armazenamento e disposição.",
+        "Seguir as informações contidas na FISPQ, Rótulo de Segurança, Formulário de Homologação e Ficha de Emergência do produto químico.",
+        "Utilizar os equipamentos de proteção individual indicados na FISPQ e caso específicos, pela Segurança do Trabalho e Higiene Ocupacional, como seguir todas as instruções e práticas seguras da Samarco.",
+        "Deixar de Informar todo o incidente químico com potencial efeito adverso a Gerência de saúde e Gerência de segurança."
+      ]
+    },
+    {
+      "pergunta": "4) Quais embalagens de materiais perigosos precisam possuir rotulagem e identificação dos Riscos que estes oferecem?",
+      "opcoes": [
+        "Os containers, frascos, tanques etc. que tenha produtos/materiais/substâncias potencialmente perigosas devem ser corretamente identificados e rotulados de modo a advertir sobre os riscos existentes.",
+        "Materiais na forma líquidos que estejam armazenados em containers que contenham produtos que causam riscos à saúde exceto aqueles que estejam em baias de contenção ou em área coberta.",
+        "Materiais na forma líquidos que estejam armazenados em containers, frascos, tanques e/ou qualquer vasilhame que contenham produtos que causam riscos à saúde.",
+        "nenhuma das respostas anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Qual a forma adequada de armazenagem de materiais perigosos?",
+      "opcoes": [
+        "O materiais perigosos devem estar armazenados em local que contenha baia de contenção hidrantes, além de possuir local para armazenamento das FISPQ.",
+        "Devem estar armazenados em locais que possuam boa ventilação, e que sejam próximos a hidrantes.",
+        "São armazenados em locais adequados, que possuem ventilação e espaço suficiente para movimentação de forma segura. Para os produtos líquidos e pastosos, serão exigidas baias de contenção ou cobertura.",
+        "São armazenados em locais adequados, suficiente para movimentação de forma segura, não é necessário possuir boa ventilação. Para produtos líquidos e pastosos, são exigidas baias de contenção."
+      ]
+    },
+    {
+      "pergunta": "2) Quais informações contidas na FISPQ?",
+      "opcoes": [
+        "Identificação, propriedades físicas e químicas, riscos à saúde e segurança.",
+        "Precauções para uso, formas de manejo seguro e disposição adequada.",
+        "Informações vitais destinadas aos usuários finais de materiais perigosos.",
+        "Todas as respostas anteriores."
+      ]
+    },
+    {
+      "pergunta": "1) Qual a definição de Produtos Perigosos?",
+      "opcoes": [
+        "Toda substância na forma líquida, sólida ou gasosa utilizada nos processos. Todo produto químico deve ser considerado potencialmente perigoso para a saúde, para o meio ambiente ou para ambos.",
+        "Substâncias que trazem risco a saúde, exceto aquelas que possuem FISPQ.",
+        "Toda substância na forma líquida, sólida ou gasosa utilizada nos processos. Porém, nem todo produto químico deve ser considerado potencialmente perigoso.",
+        "Substâncias que trazem risco a saúde, e todas que possuam FISPQ."
+      ]
+    }
+  ]
+}
