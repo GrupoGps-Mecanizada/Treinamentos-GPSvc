@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA DE SUPERFÍCIES_INFRA",
+  "id": 77,
+  "idChecklist": 50,
+  "perguntas": [
+    {
+      "pergunta": "5 – Qual a forma correta de finalizar a limpeza de superfícies de um ambiente?",
+      "opcoes": [
+        "O correto é finalizar limpando maçanetas e interruptores.",
+        "O correto é finalizar limpando o telefone.​",
+        "O correto é finalizar limpando os vidros.​",
+        "O correto é finalizar limpando o teto."
+      ]
+    },
+    {
+      "pergunta": "4 – Quais superfícies devem ser limpas nos diversos ambientes?",
+      "opcoes": [
+        "Somente as cadeiras.​",
+        "Somente as mesas.​",
+        "Somente os vidros.",
+        "Todas as superfícies como mesas, cadeiras, parapeito, batentes, TV’s, monitores, aparelhos de telefone, maçanetas e interruptores."
+      ]
+    },
+    {
+      "pergunta": "3 – Qual o cuidado correto na limpeza de TVs e Monitores?",
+      "opcoes": [
+        "O correto é não fazer a limpeza.​",
+        "O correto é fazer a limpeza com pano de microfibra molhado.​",
+        "O correto é fazer a limpeza com o pano de microfibra seco.",
+        "Todas as alternativas acima.​"
+      ]
+    },
+    {
+      "pergunta": "2 – Qual a técnica correta para limpeza de superfícies?",
+      "opcoes": [
+        "A técnica correta para limpeza é fazer movimentos unidirecionais, em sentido único, de cima para baixo.​",
+        "A técnica correta para limpeza é fazer movimentos circulares.​",
+        "O importante é estar com a aparência limpo.",
+        "Não é necessário ter nenhuma técnica."
+      ]
+    },
+    {
+      "pergunta": "1 – Qual a importância de higienizar corretamente as superfícies?",
+      "opcoes": [
+        "Ficar com aparência de limpo.",
+        "Remover a sujeira.​",
+        "Garantir a desinfecção das mesas.​",
+        "Garantir a limpeza e desinfecção das superfícies removendo os microrganismos presentes nas superfícies horizontais e verticais."
+      ]
+    }
+  ]
+}
