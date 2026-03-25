@@ -1,0 +1,52 @@
+{
+  "treinamento": "SSMA LC - POSTURA INADEQUADA_LC",
+  "id": 542,
+  "idChecklist": 344,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais cuidados devemos tomar ao levantar uma caixa?",
+      "opcoes": [
+        "Abaixar os braços e pegar a caixa.",
+        "Flexionar as pernas e pegar a caixa com a postura ereta e levantar mantendo a postura.",
+        "Arrastar a caixa até o local para armazenamento e depois guardar.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "4) No trabalho em pé na preparação de alimentos qual a alternativa correta?",
+      "opcoes": [
+        "O uso de bancada é essencial para o bom desenvolvimento do nosso trabalho.",
+        "Ao realizar atividades em pé nas bancadas evitar o máximo a inclinação do tronco.",
+        "Trabalhar com a postura sempre ereta.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) Para qual atividade devo utilizar o carrinho de transporte?",
+      "opcoes": [
+        "É indicado para realizar o transporte de pratos, utensílios e condimentos.",
+        "É indicado para transportar outros Colaboradores na cozinha.",
+        "É indicado para usar como apoio para a porta.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "2) Qual seria a forma correta de realizar tarefa de manuseio manual de cargas?",
+      "opcoes": [
+        "Ao levantar cargas muito grande, carregar sozinho.",
+        "Sempre que necessário cargas maiores pedir auxílio para uma outra pessoa.",
+        "Não manter nenhum cuidado.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "1) Ao utilizarmos rodos, vassouras e afins qual alternativa correta?",
+      "opcoes": [
+        "Utilizar rodos e vassouras quebrados.",
+        "Usar rodos e vassouras com cabos pequenos.",
+        "Usar rodos e vassouras com cabos grandes.",
+        "Nenhuma das alternativas."
+      ]
+    }
+  ]
+}
