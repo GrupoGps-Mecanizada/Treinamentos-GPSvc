@@ -1,0 +1,52 @@
+{
+  "treinamento": "MANUAL DA RESPONSA MOD II_BURGER KING",
+  "id": 659,
+  "idChecklist": 445,
+  "perguntas": [
+    {
+      "pergunta": "5) É muito frequente a presença de animais perdidos ou de rua nas portas dos restaurantes ou até casos de atropelamento no estacionamento, sendo assim é correto afirmar que:",
+      "opcoes": [
+        "Se um animal for encontrado faça os registros e o leve para casa para bons tratos",
+        "Em atropelamentos preste o socorro necessário e convide um cliente para atuar como testemunha",
+        "Solicite a saída do animal imediatamente, se preciso pegue materiais de limpeza para espantá-lo.",
+        "Promova no estacionamento algum programa de adoção imediata."
+      ]
+    },
+    {
+      "pergunta": "4) Em dias de manifestação fique atento para qualquer tipo de tumulto ou desordem, entre as alternativas abaixo, qual a orientação que se enquadra melhor nessa situação?",
+      "opcoes": [
+        "Chame a polícia em casos de tumulto nos restaurantes.",
+        "Participe apenas se for manifestações sobre direitos trabalhistas.",
+        "Acione o botão de pânico.",
+        "Identifique quem iniciou a desordem e solicite sua saída."
+      ]
+    },
+    {
+      "pergunta": "3) Em casos de presenciar ou ser refém de algum furto ou roubo durante sua jornada de trabalho, o que deve ser feito?",
+      "opcoes": [
+        "Não se envolva, se afaste da situação.",
+        "Disponibilize o telefone do restaurante para que o cliente faça o bloqueio de suas contas bancárias.",
+        "O Cliente pode solicitar as imagens das câmeras do restaurante, então grave o momento exato do acontecido e o mostre.",
+        "Vá até a delegacia com o Cliente para prestar boletim de ocorrência."
+      ]
+    },
+    {
+      "pergunta": "2) Nos restaurantes há diversas ocorrências sobre objetos perdidos, assinale a alternativa em que descreve uma orientação INCORRETA a ser feita:",
+      "opcoes": [
+        "Não discuta e peça calma.",
+        "Se coloque à disposição para levar o caso à administração do local.",
+        "Caso o Cliente solicite a imagem das câmeras, grave e o mostre.",
+        "Guarde o objeto nos achados e perdidos para caso o Cliente voltar para buscar."
+      ]
+    },
+    {
+      "pergunta": "1) Em possível situação de assalto ou arrastão, o que NÃO deve ser feito?",
+      "opcoes": [
+        "Inspeção da loja.",
+        "Verificar se há feridos e se houver, o leve o para um lugar seguro.",
+        "Ouvir, responder e cooperar com atenção a solicitação do assaltante.",
+        "Acionar o botão de pânico apenas após a chegada da polícia no restaurante."
+      ]
+    }
+  ]
+}
