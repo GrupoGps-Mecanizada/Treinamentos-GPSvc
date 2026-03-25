@@ -1,0 +1,52 @@
+{
+  "treinamento": "CAMPANHA TREINAMENTO_FACILITIES_DEZEMBRO21",
+  "id": 183,
+  "idChecklist": 103,
+  "perguntas": [
+    {
+      "pergunta": "5) Esse tema está vinculado a campanha \"Meu treinamento no GPSvc\", do que se trata essa campanha?",
+      "opcoes": [
+        "Uma campanha destinada apenas a Gerentes e coordenadores.",
+        "Uma campanha de contratação de mão de obra.",
+        "Uma campanha que tem como objetivo limitar o acesso aos treinamentos.",
+        "Uma campanha que permite que o colaborador elabore um vídeo de treinamento e concorra a um prêmio, compartilhando seu conhecimento sobre o assunto."
+      ]
+    },
+    {
+      "pergunta": "4) Antes de manipular produto químico, o que deve ser feito?",
+      "opcoes": [
+        "Ligar para o meu líder.",
+        "É obrigatório colocar todos os EPIs para manipular ou diluir os produtos.",
+        "Tirar EPI's pois isso não ajuda em nada.",
+        "Tirar etiquetas de todos os produtos deixando sem informação."
+      ]
+    },
+    {
+      "pergunta": "3) O que o Sistema de Diluidor Automático oferece?",
+      "opcoes": [
+        "Segurança na diluição.",
+        "Odor ruim na diluição.",
+        "Falta de controle na diluição.",
+        "Perigo de acidente."
+      ]
+    },
+    {
+      "pergunta": "2) Qual o principal meio de proteção aos riscos?",
+      "opcoes": [
+        "Durante as rotinas diárias.",
+        "Conhecer os riscos que cada substância ou produto químico oferece.",
+        "Observando outras pessoas realizarem a mesma atividade.",
+        "Realizando o arriscado."
+      ]
+    },
+    {
+      "pergunta": "1) Onde posso encontrar especificações do produto químico que irei manusear?",
+      "opcoes": [
+        "FISPQ's (Ficha de Informação de Segurança do Produto Químico).",
+        "Ficha de EPI (Equipamento de Proteção Individual).",
+        "Na internet.",
+        "Perguntando ao líder."
+      ]
+    }
+  ]
+}
