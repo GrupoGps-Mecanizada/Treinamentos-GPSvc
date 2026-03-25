@@ -1,0 +1,52 @@
+{
+  "treinamento": "COLETA SELETIVA_ELECTROLUX",
+  "id": 94,
+  "idChecklist": 68,
+  "perguntas": [
+    {
+      "pergunta": "5) Em quais cores de lixeiras são descartados os resíduos enviados para reaproveitamento energético?",
+      "opcoes": [
+        "Lixeiras marrom e vermelho.",
+        "Lixeiras azuis e cinzas.",
+        "Lixeiras cinzas e laranjadas.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) Onde devem ser descartados os resíduos de PU (Poliuretano) e plásticos em geral?",
+      "opcoes": [
+        "Lixeiras Cinza.",
+        "Lixeiras Vermelhas.",
+        "Lixeiras Azuis.",
+        "Lixeiras Brancas."
+      ]
+    },
+    {
+      "pergunta": "3) Onde devem ser descartados os resíduos de Liner e papel sem contaminação?",
+      "opcoes": [
+        "Lixeiras Cinza.",
+        "Lixeira Laranja.",
+        "Lixeira Azul.",
+        "Lixeira Vermelha."
+      ]
+    },
+    {
+      "pergunta": "2) Quais as condições dos copos plásticos para que sejam descartados?",
+      "opcoes": [
+        "Apenas os copos de água.",
+        "Os copos devem estar vazios, sem restos de líquidos.",
+        "Cheios, com restos de líquidos.",
+        "Devem estar amassados."
+      ]
+    },
+    {
+      "pergunta": "1) Em qual cor de lixeiras as fitas adesivas em geral devem ser descartadas?",
+      "opcoes": [
+        "Cinza.",
+        "Vermelha.",
+        "Azul.",
+        "Amarelo."
+      ]
+    }
+  ]
+}
