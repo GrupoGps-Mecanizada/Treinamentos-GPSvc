@@ -1,0 +1,52 @@
+{
+  "treinamento": "ERGONOMIA - LEVANTAR PESO_TREINAMENTO PRESENCIAL",
+  "id": 1452,
+  "idChecklist": 1200,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE VOCÊ DEVE FAZER SE O OBJETO FOR MUITO PESADO?",
+      "opcoes": [
+        "PEDIR AJUDA OU DIVIDIR O PESO EM PARTES MENORES PARA EVITAR LESÃO.",
+        "LEVANTAR DE UMA VEZ SÓ.",
+        "JOGAR O OBJETO NO CHÃO.",
+        "CARREGAR TUDO SOZINHO PARA SER MAIS RÁPIDO."
+      ]
+    },
+    {
+      "pergunta": "4) QUANDO VOCÊ DEVE UTILIZAR CARRINHO OU PALETEIRA?",
+      "opcoes": [
+        "SOMENTE QUANDO NÃO TIVER NINGUÉM POR PERTO.",
+        "APENAS PARA OBJETOS LEVES.",
+        "NUNCA, É MELHOR CARREGAR NAS MÃOS.",
+        "SEMPRE QUE POSSÍVEL, PARA EVITAR CARREGAR PESO E EVITAR SOFRER LESÃO."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE DEVE SER EVITADO AO LEVANTAR OU CARREGAR ALGO PESADO?",
+      "opcoes": [
+        "LEVANTAR COM AS PERNAS.",
+        "DEVE SER EVITADO GIRAR O TRONCO ENQUANTO CARREGA.",
+        "USAR AS DUAS MÃOS.",
+        "MANTER O PESO PRÓXIMO AO CORPO."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL É A POSIÇÃO CORRETA PARA MANTER A CARGA AO LEVANTAR?",
+      "opcoes": [
+        "LONGE DO CORPO.",
+        "NO ALTO DA CABEÇA.",
+        "PERTO DO CORPO, NA ALTURA DA CINTURA.",
+        "SEGURANDO COM UMA MÃO."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE VOCÊ DEVE FAZER AO LEVANTAR ALGO PESADO DO CHÃO?",
+      "opcoes": [
+        "CURVAR AS COSTAS.",
+        "DOBRAR OS JOELHOS E MANTER A COLUNA RETA.",
+        "LEVANTAR COM A FORÇA DOS BRAÇOS.",
+        "GIRAR A CINTURA ENQUANTO LEVANTA."
+      ]
+    }
+  ]
+}
