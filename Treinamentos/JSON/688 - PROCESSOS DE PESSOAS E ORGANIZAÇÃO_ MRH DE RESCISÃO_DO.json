@@ -1,0 +1,52 @@
+{
+  "treinamento": "PROCESSOS DE PESSOAS E ORGANIZAÇÃO: MRH DE RESCISÃO_DO",
+  "id": 688,
+  "idChecklist": 474,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual é o processo que deve ser feito na aba de Rescisão Programação?",
+      "opcoes": [
+        "Informar a data de homologação do contrato de trabalho.",
+        "Informar a data de início do processo de rescisão.",
+        "Buscar o histórico de MRHs de rescisões encerradas.",
+        "Modificar as MRHs de rescisões canceladas."
+      ]
+    },
+    {
+      "pergunta": "4) O que é importante lembrar sobre o processo de rescisão em relação ao cronograma da área de departamento pessoal?",
+      "opcoes": [
+        "Os pedidos de demissão não podem acontecer em período de fechamento de folha.",
+        "O Colaborador deve fazer a carta com data do primeiro dia útil do mês seguinte.",
+        "O Colaborador não receberá o salário integral se pedir demissão em período de fechamento de folha.",
+        "A rescisão será calculada com base na data estipulada na carta de demissão."
+      ]
+    },
+    {
+      "pergunta": "3) O que acontece na aba de Rescisões Canceladas?",
+      "opcoes": [
+        "É possível encontrar todas as MRHs de rescisões encerradas.",
+        "São registrados os motivos e as datas de início do processo de rescisão.",
+        "É possível acompanhar o andamento de um processo de rescisão que ainda está em aberto.",
+        "É possível encontrar todas as MRHs que foram abertas, mas canceladas antes do processamento do Departamento de Pessoal."
+      ]
+    },
+    {
+      "pergunta": "2) O que é a homologação no processo de rescisão de contrato de trabalho?",
+      "opcoes": [
+        "O ato formal de encerramento do contrato de trabalho.",
+        "A conferência dos documentos relativos ao período trabalhado.",
+        "A assinatura do Termo de Rescisão do Contrato de Trabalho (TRCT).",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "1) Qual é a função da aba de Rescisões abertas no processo de rescisão de contrato de trabalho?",
+      "opcoes": [
+        "Buscar o histórico de algum processo de rescisão encerrado.",
+        "Registrar o motivo e a data de início do processo de rescisão.",
+        "Acompanhar o andamento de um processo de rescisão que ainda está em aberto.",
+        "Cancelar um processo de rescisão que foi solicitado erroneamente."
+      ]
+    }
+  ]
+}
