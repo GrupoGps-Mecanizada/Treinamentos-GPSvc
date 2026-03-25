@@ -1,0 +1,52 @@
+{
+  "treinamento": "PRINCÍPIOS PARA GARANTIR A SEGURANÇA_FURUKAWA",
+  "id": 566,
+  "idChecklist": 367,
+  "perguntas": [
+    {
+      "pergunta": "5) O que devo fazer quando a máquina apresentar problema de funcionamento?",
+      "opcoes": [
+        "Não é necessário chamar o líder.",
+        "Pare a máquina e chame ajuda de seu líder ou a área da manutenção e jamais tente “consertar” o equipamento.",
+        "Chamar o líder somente se eu não conseguir consertar e corrigir o problema.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) Referente ao uso dos EPI’s (Equipamentos de Proteção Individual) marque a alternativa CORRETA.",
+      "opcoes": [
+        "O uso dos EPI’s é uma obrigação de todos.",
+        "Somente a área de manutenção deve usar, conforme citado no segundo ponto dos princípios de manutenção.",
+        "Ninguém precisa usar EPI’s.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) Do que se trata a NR 12:",
+      "opcoes": [
+        "Segurança na empilhadeira.",
+        "Segurança na estrechadeira.",
+        "Esta norma trata de Segurança no Trabalho em máquinas e equipamentos.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "2) Conforme o treinamento, do que se trata o princípio nº 01?",
+      "opcoes": [
+        "Mau funcionamento e falhas mecânicas.",
+        "Mau funcionamento e falhas elétricas.",
+        "Procedimento operacional.",
+        "Não toque em partes móveis durante a operação da máquina."
+      ]
+    },
+    {
+      "pergunta": "1) O que é o DNA de Segurança apresentado no treinamento?",
+      "opcoes": [
+        "Reduzir as ocorrências.",
+        "Evitar desvios e perdas no ambiente de trabalho.",
+        "É a parte mais importante de cada célula. É responsável por passar as características de uma geração a outra.",
+        "Todas as alternativas."
+      ]
+    }
+  ]
+}
