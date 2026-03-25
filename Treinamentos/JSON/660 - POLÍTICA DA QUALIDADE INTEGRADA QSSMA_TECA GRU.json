@@ -1,0 +1,52 @@
+{
+  "treinamento": "POLÍTICA DA QUALIDADE INTEGRADA QSSMA_TECA GRU",
+  "id": 660,
+  "idChecklist": 446,
+  "perguntas": [
+    {
+      "pergunta": "5) Onde está localizada a Política da Qualidade?",
+      "opcoes": [
+        "No aplicativo GPCvc.",
+        "No manual da qualidade, no quadro de gestão de forma visível e no Portal GPS.",
+        "Em jornais e revistas.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "4) Qual dos itens abaixo está relacionado à participação na Política da Qualidade?",
+      "opcoes": [
+        "Guardar a sua segurança e dos demais Colaboradores, dar pitaco nas atividades alheias e melhorar a comunicação interna.",
+        "Estímulo à cultura da qualidade, melhoria contínua dentro do contrato, padronização dos produtos e serviços prestados e descumprimento dos processos.",
+        "Cuidar da saúde, meio ambiente, produtividade e inovação.",
+        "Cumprir os processos de acordo com os procedimentos, atender as expectativas do Cliente e não se atentar a segurança, saúde e meio ambiente."
+      ]
+    },
+    {
+      "pergunta": "3) O que é a Política da Qualidade?",
+      "opcoes": [
+        "A Política de Qualidade é a melhoria contínua onde a empresa firma seu comprometimento com os Clientes.",
+        "A Política de Qualidade é o descompromisso por escrito, no qual a empresa firma seu comprometimento com a qualidade.",
+        "A Política de Qualidade é o compromisso por escrito, no qual a empresa firma seu comprometimento com a qualidade.",
+        "A Política da Qualidade é somente o que está escrito."
+      ]
+    },
+    {
+      "pergunta": "2) Qual alternativa abaixo se refere a nossa Política da Qualidade?",
+      "opcoes": [
+        "Respeitar o meio ambiente com medidas de proteção, prevenção da poluição e desenvolvimento sustentável, atender à legislação e servir aos Clientes com inovação e produtividade.",
+        "Respeitar o meio ambiente sem medidas de proteção, prevenção da poluição e desenvolvimento sustentável, atender à legislação e servir aos Clientes com inovação e produtividade.",
+        "Respeitar o meio ambiente com medidas de proteção, prevenção da poluição e desenvolvimento sustentável, atender à legislação e não servir aos Clientes com inovação e produtividade.",
+        "Não respeitar o meio ambiente com medidas de proteção, prevenção da poluição e desenvolvimento sustentável, atender à legislação e não servir aos Clientes com inovação e produtividade."
+      ]
+    },
+    {
+      "pergunta": "1) Qual dos itens abaixo estão relacionados com as premissas inquestionáveis da Política da Qualidade?",
+      "opcoes": [
+        "Servir aos Clientes com inovação e produtividade.",
+        "Atender à legislação pertinente e outros requisitos aplicáveis.",
+        "Preservar a sua rentabilidade através do cumprimento das metas econômicas.",
+        "Todas estão corretas."
+      ]
+    }
+  ]
+}
