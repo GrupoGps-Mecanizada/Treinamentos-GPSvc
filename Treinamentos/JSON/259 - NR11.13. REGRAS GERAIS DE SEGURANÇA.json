@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR11.13. REGRAS GERAIS DE SEGURANÇA",
+  "id": 259,
+  "idChecklist": 171,
+  "perguntas": [
+    {
+      "pergunta": "5) Quando finalizar a minha atividade com a empilhadeira o que devo fazer?",
+      "opcoes": [
+        "Quando não mais houver trabalho com a empilhadeira, a mesma deve ser estacionada e ter sua chave desligada e mantida no equipamento, freios acionados e controles em ponto neutro.",
+        "Finalizando o trabalho com a empilhadeira deve-se estacionar e ter a chave desligada e retirada, freios acionados e controles em ponto neutro para que não seja operada por pessoas não autorizadas.",
+        "Quando não mais houver trabalho com a empilhadeira, a mesma deve ser estacionada e ter sua chave desligada somente.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "4) Qual procedimento correto em rampas acentuadas?",
+      "opcoes": [
+        "A movimentação em rampas acentuadas (Aclives ou Declives) a carga deve estar para o lado mais alto.",
+        "Não existe procedimento para acesso de rampas acentuadas.",
+        "A movimentação em rampas acentuadas (Aclives ou Declives) a carga deve estar para o lado mais baixo.",
+        "Todas alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) Com base no treinamento, marque a alternativa correta:",
+      "opcoes": [
+        "Jamais permita \"passageiros\" nos garfos, somente em qualquer outra parte da empilhadeira.",
+        "É permitido carregar e elevar pessoas para agilizar e dar carona na empilhadeira e no reboque.",
+        "Jamais permita \"passageiros\" nos garfos ou em qualquer outra parte da empilhadeira, ela só tem um assento, e é o do operador!",
+        "Todas as alternativas estão incorretas."
+      ]
+    },
+    {
+      "pergunta": "2) Em caso de falhas na empilhadeira durante a jornada de trabalho, o que devo fazer?",
+      "opcoes": [
+        "Se em algum momento a empilhadeira estiver falhando ou se houver motivo para considerá-la insegura, somente informo imediatamente a supervisão e sigo operando, pois a linha é prioridade.",
+        "Se em algum momento a empilhadeira estiver falhando ou se houver motivo para considerá-la insegura, suspenda as operações e informe imediatamente a supervisão.",
+        "Se em algum momento a empilhadeira estiver falhando ou se houver motivo para considerá-la insegura, sigo as operações e informo imediatamente a supervisão para que seja acionado a manutenção.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "1) Referente ao treinamento: O que devo fazer antes do início de cada turno?",
+      "opcoes": [
+        "Preencher o checklist no início de cada turno, certificando a buzina, freios, pneus e que outros controles estejam em bom funcionamento, e não haja folgas excessivas nas correntes e comandos.",
+        "Não certificar as condições de segurança do equipamento.",
+        "Não preencher o checklist no início de cada turno, certificando a buzina, freios, pneus e que os outros controles estejam em bom funcionamento e não haja folga excessiva nas correntes e comandos.",
+        "Todas as alternativas estão corretas."
+      ]
+    }
+  ]
+}
