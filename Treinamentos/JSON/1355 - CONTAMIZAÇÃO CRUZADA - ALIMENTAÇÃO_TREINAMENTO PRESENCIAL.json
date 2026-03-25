@@ -1,0 +1,52 @@
+{
+  "treinamento": "CONTAMIZAÇÃO CRUZADA - ALIMENTAÇÃO_TREINAMENTO PRESENCIAL",
+  "id": 1355,
+  "idChecklist": 1113,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE SIGNIFICA HIGIENIZAÇÃO?",
+      "opcoes": [
+        "LIMPAR + DESINCRUSTAR.",
+        "LAVAR + LIMPAR.",
+        "LIMPAR + SANITIZAR.",
+        "DESENGORDURAR + DESINCRUSTAR."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE SIGNIFICA SANITIZAR?",
+      "opcoes": [
+        "ELIMINAR SUJIDADES.",
+        "DESENGORDURAR.",
+        "DESINCRUSTAR.",
+        "REDUZIR A CARGA DE MICRORGANISMOS, COMO BACTÉRIAS, VÍRUS E FUNGOS."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE SIGNIFICA LIMPAR?",
+      "opcoes": [
+        "ELIMINAR BACTÉRIAS.",
+        "ELIMINAR SUJIDADES.",
+        "ELIMINAR VÍRUS.",
+        "ELIMINAR FUNGOS."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE É CONTAMINAÇÃO CRUZADA?",
+      "opcoes": [
+        "É A TRANSFERÊNCIA DE MICRORGANISMOS DE UMA SUPERFÍCIE A OUTRA POR MEIO DE CONTATO.",
+        "É A FALTA DE MONITORAMENTO DE TEMPERATURA.",
+        "É UMA FORMA DE PREPARAR A CARNE.",
+        "TODAS AS ALTERNATIVAS ESTÃO INCORRETAS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL O OBJETIVO DO PITADAS DA QUALIDADE?",
+      "opcoes": [
+        "CONSCIENTIZAÇÃO SOBRE MEIO AMBIENTE.",
+        "TREINAMENTO SOBRE SEGURANÇA DOS ALIMENTOS.",
+        "CONSCIENTIZAÇÃO SOBRE ACIDENTE E DOENÇAS DO TRABALHO.",
+        "CAMPANHA SOBRE DESPERDÍCIO DE ALIMENTOS."
+      ]
+    }
+  ]
+}
