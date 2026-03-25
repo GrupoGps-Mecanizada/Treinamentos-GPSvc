@@ -1,0 +1,52 @@
+{
+  "treinamento": "MEIO AMBIENTE EM PAUTA: ENERGIA_TREINAMENTO PRESENCIAL",
+  "id": 1595,
+  "idChecklist": 1299,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE VOCÊ PODE FAZER PARA POUPAR ENERGIA?",
+      "opcoes": [
+        "MANTER OS EQUIPAMENTOS DE ARMAZENAMENTO EM BOM ESTADO DE CONSERVAÇÃO E VEDAÇÃO.",
+        "APAGAR A LUZ QUANDO SAIR DO AMBIENTE.",
+        "DESLIGAR COMPUTADOR E IMPRESSORA ANTES DE IR EMBORA.",
+        "TODAS AS ALTERNATIVAS ACIMA."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL O PERCENTUAL DE ELETRICIDADE PROVENIENTE DE FONTES RENOVÁVEIS NO BRASIL?",
+      "opcoes": [
+        "60 A 63%.",
+        "83%.",
+        "60%.",
+        "90%."
+      ]
+    },
+    {
+      "pergunta": "3) POR QUE ECONOMIZAR ENERGIA FAZ BEM AOS NEGÓCIOS?",
+      "opcoes": [
+        "GERA ECONOMIA FINANCEIRA E BOA REPUTAÇÃO NO MERCADO.",
+        "GERA PAZ E TRANQUILIDADE.",
+        "GERA BOA REPUTAÇÃO E TRABALHO.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS SÃO OS TRÊS PRINCIPAIS TIPOS DE ENERGIA COMUMENTE USADOS?",
+      "opcoes": [
+        "SOLAR, EÓLICA E PETRÓLEO.",
+        "EÓLICA, BIOMASSA E GÁS.",
+        "ELETRICIDADE, GÁS E PETRÓLEO.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL O OBJETIVO DO MEIO AMBIENTE EM PAUTA?",
+      "opcoes": [
+        "CONSCIENTIZAÇÃO E TREINAMENTO SOBRE MEIO AMBIENTE.",
+        "TREINAMENTO SOBRE SEGURANÇA DOS ALIMENTOS.",
+        "CONSCIENTIZAÇÃO SOBRE ACIDENTE E DOENÇAS DO TRABALHO.",
+        "CAMPANHA DE SATISFAÇÃO DOS CONSUMIDORES."
+      ]
+    }
+  ]
+}
