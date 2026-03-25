@@ -1,0 +1,52 @@
+{
+  "treinamento": "FUNÇÃO E IMPORTÂNCIA DA ÁGUA_ALIMENTAÇÃO SAUDÁVEL",
+  "id": 603,
+  "idChecklist": 389,
+  "perguntas": [
+    {
+      "pergunta": "5) O que podemos colocar dentro da água para que fique com um gosto “melhor”?",
+      "opcoes": [
+        "Açúcar.",
+        "Pedaços de frutas.",
+        "Legumes.",
+        "Gás."
+      ]
+    },
+    {
+      "pergunta": "4) O que significa sentir sede para o nosso corpo?",
+      "opcoes": [
+        "É um sinal de fome.",
+        "É um sinal de calor.",
+        "É um sinal de hidratação.",
+        "É um sinal de desidratação."
+      ]
+    },
+    {
+      "pergunta": "3) Qual a porcentagem aproximada de água na composição da urina?",
+      "opcoes": [
+        "95% da composição da urina.",
+        "80% da composição da urina.",
+        "50% da composição da urina.",
+        "100% da composição da urina."
+      ]
+    },
+    {
+      "pergunta": "2) Qual a porcentagem de água no peso de um adulto?",
+      "opcoes": [
+        "45% do peso corporal.",
+        "20% do peso corporal.",
+        "60% do peso corporal.",
+        "65% do peso corporal."
+      ]
+    },
+    {
+      "pergunta": "1) Qual a porcentagem de água no peso de uma criança?",
+      "opcoes": [
+        "75% do peso corporal.",
+        "80% do peso corporal.",
+        "60% do peso corporal.",
+        "50% do peso corporal."
+      ]
+    }
+  ]
+}
