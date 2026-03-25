@@ -1,0 +1,52 @@
+{
+  "treinamento": "ESCUTA ATIVA",
+  "id": 594,
+  "idChecklist": 381,
+  "perguntas": [
+    {
+      "pergunta": "5) Por que devemos permanecer neutros e sem julgamentos nas nossas respostas?",
+      "opcoes": [
+        "Porque permite que a outra pessoa se sinta desconfortável em compartilhar seus pensamentos.",
+        "Porque não permite que a outra pessoa se sinta confortável.",
+        "Porque permite que a outra pessoa se sinta confortável em compartilhar seus pensamentos.",
+        "Porque as pessoas não lidam bem com julgamentos."
+      ]
+    },
+    {
+      "pergunta": "4) Como mostrar que estamos realmente sintonizados na conversa?",
+      "opcoes": [
+        "Usando uma linguagem corporal aberta e não ameaçadora, isso envolve por exemplo não cruzar os braços.",
+        "Usando uma linguagem corporal fechada e ameaçadora, isso envolve por exemplo cruzar os braços.",
+        "Não sorrindo enquanto ouve a pessoa.",
+        "Fazendo movimentos negativos com a cabeça."
+      ]
+    },
+    {
+      "pergunta": "3) Assinale abaixo a alternativa que contém uma das técnicas de escuta ativa:",
+      "opcoes": [
+        "Estar totalmente presente no lugar.",
+        "Estar totalmente presente na conversa.",
+        "Não refletir sobre o que foi dito.",
+        "Não fazer perguntas abertas para encorajar novas respostas."
+      ]
+    },
+    {
+      "pergunta": "2) O que a escuta ativa requer?",
+      "opcoes": [
+        "Requer um ambiente silencioso para a conversa.",
+        "Requer apenas duas pessoas para o processo de comunicação.",
+        "Requer ser um participante ativo no processo de comunicação.",
+        "Requer ser um participante não ativo no processo de comunicação."
+      ]
+    },
+    {
+      "pergunta": "1) O que é escuta ativa?",
+      "opcoes": [
+        "Uma habilidade de comunicação que envolve ir além de simplesmente ouvir as palavras que outra pessoa fala, mas também buscar entender o significado e a intenção por trás delas.",
+        "Uma habilidade de comunicação que envolve apenas ouvir as palavras que a outra pessoa fala.",
+        "Uma habilidade de comunicação que envolve falar ao mesmo tempo que a outra pessoa.",
+        "Uma habilidade de comunicação que envolve ir além de simplesmente ouvir as palavras que a outra pessoa fala, mas também buscar não entender o significado e a intenção por trás delas."
+      ]
+    }
+  ]
+}
