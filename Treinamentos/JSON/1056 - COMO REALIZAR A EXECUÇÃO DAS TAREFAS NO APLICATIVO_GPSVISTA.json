@@ -1,0 +1,52 @@
+{
+  "treinamento": "COMO REALIZAR A EXECUÇÃO DAS TAREFAS NO APLICATIVO_GPSVISTA",
+  "id": 1056,
+  "idChecklist": 830,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE É NECESSÁRIO FAZER APÓS PREENCHER TODAS AS PERGUNTAS AO REALIZAR UMA TAREFA?",
+      "opcoes": [
+        "REALIZAR A ASSINATURA E CLICAR EM ENVIAR.",
+        "PREENCHER NOVAMENTE AS INFORMAÇÕES.",
+        "ENVIAR DIRETAMENTE SEM REVISÃO.",
+        "AGUARDAR INSTRUÇÕES ADICIONAIS."
+      ]
+    },
+    {
+      "pergunta": "4) QUAIS SÃO AS FORMAS DE BUSCAR AS TAREFAS?",
+      "opcoes": [
+        "APENAS POR NOME.",
+        "APENAS POR QR CODE.",
+        "PELO NOME OU LENDO O QR CODE DO LOCAL.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "3) COMO AS TAREFAS SÃO ORDENADAS NA ABA DE TAREFAS?",
+      "opcoes": [
+        "DO MAIOR PARA O MENOR PRAZO DE EXECUÇÃO.",
+        "ALEATORIAMENTE.",
+        "DO MENOR PARA O MAIOR PRAZO DE EXECUÇÃO.",
+        "NÃO HÁ UMA ORDEM ESPECÍFICA."
+      ]
+    },
+    {
+      "pergunta": "2) EM QUAL ABA OS COLABORADORES DEVEM REALIZAR SUAS ATIVIDADES?",
+      "opcoes": [
+        "NA ABA DA ÍRIS.",
+        "EM QUALQUER ABA, NÃO HÁ RESTRIÇÕES.",
+        "NA ABA DE FERRAMENTAS.",
+        "NA ABA DE TAREFAS."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE A ABA DA ÍRIS PERMITE VISUALIZAR?",
+      "opcoes": [
+        "SOMENTE TAREFAS EM ABERTO.",
+        "TAREFAS EM ABERTO, ESCALONADAS, ATRASADAS, EM ALERTA E CHAMADOS PARA O CR.",
+        "SOMENTE TAREFAS ESCALONADAS E ATRASADAS.",
+        "APENAS CHAMADOS ABERTOS PARA O CR."
+      ]
+    }
+  ]
+}
