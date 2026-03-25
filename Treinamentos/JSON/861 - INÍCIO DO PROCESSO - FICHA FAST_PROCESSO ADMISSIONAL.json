@@ -1,0 +1,52 @@
+{
+  "treinamento": "INÍCIO DO PROCESSO - FICHA FAST_PROCESSO ADMISSIONAL",
+  "id": 861,
+  "idChecklist": 632,
+  "perguntas": [
+    {
+      "pergunta": "5) A QUEM É DESTINADO OS BENEFÍCIOS INCLUSOS NA FICHA?",
+      "opcoes": [
+        "AO ANALISTA DE AT.",
+        "AO CLIENTE.",
+        "AO FUTURO COLABORADOR.",
+        "AO CONSULTOR DA SELEÇÃO."
+      ]
+    },
+    {
+      "pergunta": "4)  É POSSÍVEL VISUALIZAR OS STATUS NA FICHA?",
+      "opcoes": [
+        "SIM, APENAS STATUS DE ATENDIMENTO.",
+        "SIM, APENAS STATUS DE EXPORTAÇÃO.",
+        "SIM, STATUS DE ATENDIMENTO E EXPORTAÇÃO.",
+        "NÃO É POSSÍVEL VISUALIZAR STATUS."
+      ]
+    },
+    {
+      "pergunta": "3) CASO A FICHA NÃO POSSUA CR, HÁ ALGUM IMPACTO?",
+      "opcoes": [
+        "SIM, IMPOSSIBILITA NA EXPORTAÇÃO.",
+        "SIM, COM IMPACTOS NO E-SOCIAL.",
+        "SIM, COM IMPACTO NA MRH.",
+        "NENHUM IMPACTO."
+      ]
+    },
+    {
+      "pergunta": "2) QUANTAS CATEGORIAS OBRIGATÓRIAS TEMOS NA FICHA?",
+      "opcoes": [
+        "4.",
+        "7.",
+        "6.",
+        "NENHUMA."
+      ]
+    },
+    {
+      "pergunta": "1) EM QUE CATEGORIA ENCONTRAMOS A INFORMAÇÃO DO PRAZO DE CONTRATAÇÃO?",
+      "opcoes": [
+        "DADOS CADASTRAIS.",
+        "FORMA DE CONTRATAÇÃO.",
+        "BENEFÍCIOS.",
+        "INFORMAÇÕES DO CANDIDATO."
+      ]
+    }
+  ]
+}
