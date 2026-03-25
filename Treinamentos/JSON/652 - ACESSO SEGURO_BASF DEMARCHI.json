@@ -1,0 +1,52 @@
+{
+  "treinamento": "ACESSO SEGURO_BASF DEMARCHI",
+  "id": 652,
+  "idChecklist": 438,
+  "perguntas": [
+    {
+      "pergunta": "5) Antes de iniciar atividade operacional eu devo:",
+      "opcoes": [
+        "Conversar com meu líder.",
+        "Estar com uniforme refletivo, retirar todos os adornos e estar com todos os EPI’s necessários para a minha atividade.",
+        "Estar com uniforme refletivo, não preciso retirar os adornos e estar com todos os EPI’s necessários para a minha atividade.",
+        "Não estar com uniforme refletivo, retirar o adorno e estar com os EPI’s  que encontrei no setor para a minha atividade."
+      ]
+    },
+    {
+      "pergunta": "4) Sempre que você chegar em um prédio, depósito ou fábrica, o que deve ser observado antes da entrada?",
+      "opcoes": [
+        "Observar quais são os EPI’s obrigatórios que constam na placa de sinalização e colocar o cartão de ponto M no quadro.",
+        "Perguntar para alguém da área quais os EPI’s necessários.",
+        "Não é necessário utilizar EPI’s.",
+        "Utilizar o EPI que encontrar no setor."
+      ]
+    },
+    {
+      "pergunta": "3) Quais são as regras básicas para adentrar na unidade de Logística a fim de que seja possível manter a segurança?",
+      "opcoes": [
+        "Sempre utilizar o corrimão, utilizar celular só em áreas permitidas e respeitar as faixas de pedestres.",
+        "Não respeitar as faixas de pedestres e não utilizar o corrimão.",
+        "Utilizar o corrimão e o celular em qualquer lugar e a qualquer momento.",
+        "Atravessar fora da faixa enquanto uso o celular."
+      ]
+    },
+    {
+      "pergunta": "2) Quando houver instrução para abandono da área, o Colaborador deve se dirigir para:",
+      "opcoes": [
+        "Portaria.",
+        "Ponto de encontro.",
+        "Sala da gerência.",
+        "Prédio principal."
+      ]
+    },
+    {
+      "pergunta": "1) Em caso de emergência qual ramal deve ser acessado?",
+      "opcoes": [
+        "Ramal 7777.",
+        "Ramas 6585.",
+        "Ramal 7877.",
+        "Ramal 3333."
+      ]
+    }
+  ]
+}
