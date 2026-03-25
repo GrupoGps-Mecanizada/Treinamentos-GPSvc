@@ -1,0 +1,52 @@
+{
+  "treinamento": "RECICLANDO ATITUDE_TREINAMENTO PRESENCIAL",
+  "id": 630,
+  "idChecklist": 416,
+  "perguntas": [
+    {
+      "pergunta": "5) A comunicação não verbal se dá através:",
+      "opcoes": [
+        "Da linguagem corporal, tom de voz, dicção e clareza.",
+        "Do uso de gestos com as mãos",
+        "Da linguagem corporal, gestos, posturas e semblantes.",
+        "Da linguagem formal, usando palavras de difícil entendimento."
+      ]
+    },
+    {
+      "pergunta": "4) Assinale a alternativa INCORRETA sobre ser proativo:",
+      "opcoes": [
+        "Ser proativo significa pensar e agir antecipadamente.",
+        "É importante que crie um plano, procedimentos e que liste itens para realizar a tarefa.",
+        "Não precisa reunir informações para desempenhar uma tarefa.",
+        "Importante olhar suas responsabilidades antes do início do trabalho."
+      ]
+    },
+    {
+      "pergunta": "3) O que a ética profissional estabelece?",
+      "opcoes": [
+        "Estabelece critérios para orientar a conduta profissional e nortear o desenvolvimento de suas atividades.",
+        "Estabelece que deve falar mal sobre pessoas e empresa pelas quais você passou, porque é bom para a sua imagem.",
+        "Estabelece que devemos fazer fofocas, pois é um comportamento que não atrapalha no ambiente de trabalho.",
+        "Estabelece que não caracteriza falta de ética profissional, quando o Colaborador resolver fazer críticas aos colegas de trabalho ou culpar um subordinado pelas costas."
+      ]
+    },
+    {
+      "pergunta": "2) Um dos requisitos básicos do profissional que atende púbico é:",
+      "opcoes": [
+        "Se comunicar bem, ser claro e objetivo.",
+        "Usar a comunicação verbal, que se da através da linguagem corporal (gestos, postura e semblantes).",
+        "Ser confiante e se comunicar bem, porém deve manter a postura de inflexível.",
+        "Usar a linguagem não verbal para uma boa dicção das palavras."
+      ]
+    },
+    {
+      "pergunta": "1) O que significa atender?",
+      "opcoes": [
+        "Atender é construir relacionamentos.",
+        "Atender é uma ferramenta utilizada pela empresa, que não tem nada a ver com o Cliente.",
+        "Atender é destruir relacionamentos.",
+        "Atender não tem influência no sucesso da empresa."
+      ]
+    }
+  ]
+}
