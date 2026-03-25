@@ -1,0 +1,53 @@
+{
+  "treinamento": "PROCEDIMENTO AUDITORIA_RENAULT_LOGÍSTICA",
+  "id": 138,
+  "idChecklist": 78,
+  "perguntas": [
+    {
+      "pergunta": "5) O que é considerado 5S?",
+      "opcoes": [
+        "Varrer o setor e manter a aparência.",
+        "Limpeza do local somente.",
+        "Organização de Posto de Trabalho, Limpeza do Setor, Identificação de Peças, Segregação de peças NOK e Respeitar o Lay Out.",
+        "Limpar o setor e identificar as peças corretamente.",
+        "Todas alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "4) Quais das opções são consideradas eixos da Política de Qualidade Renault?",
+      "opcoes": [
+        "Satisfação do cliente e competividade para o conhecimento.",
+        "Saúde e Segurança do Trabalho  e satisfazer ao cliente.",
+        "Saúde e Segurança do Trabalho, recursos Humanos e Gestão e contribuir para o conhecimento.",
+        "Saúde e Segurança do trabalho, Recursos Humanos e Gestão, Satisfação do Cliente, Melhoria e Competitividade e Contribuir para o conhecimento."
+      ]
+    },
+    {
+      "pergunta": "3) Qual é o procedimento para realizar o bloqueio de peça?",
+      "opcoes": [
+        "Preencher a ficha 5 cores  e Jogar a peça no lixo.",
+        "Preencher a ficha 5 cores e  Deixar a peça na bancada.",
+        "Não fazer nada, só  Colocar com as peças liberadas.",
+        "Preencher a Etiqueta 5 cores, e solicitar ao líder e SQF para  levar a peça para a área de bloqueio."
+      ]
+    },
+    {
+      "pergunta": "2) Qual o significado de STR?",
+      "opcoes": [
+        "Solicitação de Transporte Rastreado.",
+        "Solicitação de Treino Reativo.",
+        "Solicitação de Triagem Remunerada.",
+        "Solicitação de Triagem e Retrabalho."
+      ]
+    },
+    {
+      "pergunta": "1) Quais são os documentos necessários para a execução da atividade?",
+      "opcoes": [
+        "STR, CPF e Instrução de Trabalho.",
+        "Instrução de Trabalho, Peça Padrão e Acompanhamento de Produção.",
+        "STR, PEÇA PADRAO E RG.",
+        "STR, Instrução de Trabalho, Peça Padrão e Acompanhamento de Produção."
+      ]
+    }
+  ]
+}
