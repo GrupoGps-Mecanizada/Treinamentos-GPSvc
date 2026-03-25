@@ -1,0 +1,52 @@
+{
+  "treinamento": "VALIDAÇÃO DE EXPORTAÇÃO - PROTHEUS_PROCESSO ADMISSIONAL",
+  "id": 854,
+  "idChecklist": 625,
+  "perguntas": [
+    {
+      "pergunta": "5) EM QUE JANELA INCLUÍMOS OS BENEFÍCIOS DO COLABORADOR?",
+      "opcoes": [
+        "FUNCIONAIS.",
+        "CADASTRAIS.",
+        "CARGOS E SALÁRIOS.",
+        "BENEFÍCIOS."
+      ]
+    },
+    {
+      "pergunta": "4) EM QUE SITUAÇÃO DEVEMOS INCLUIR OS CAMPOS DA JANELA OUTRAS INFORMAÇÕES?",
+      "opcoes": [
+        "COLABORADOR ESTRANGEIRO.",
+        "COLABORADOR MENOR DE IDADE.",
+        "COLABORADOR PCD.",
+        "NÃO PREENCHEMOS EM NENHUMA SITUAÇÃO."
+      ]
+    },
+    {
+      "pergunta": "3) EM QUE JANELA PODEMOS VALIDAR O NOME DO COLABORADOR?",
+      "opcoes": [
+        "CADASTRAIS.",
+        "FUNCIONAIS.",
+        "DOCUMENTOS.",
+        "E-SOCIAL."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS SÃO AS PRINCIPAIS MECÂNICAS DE PESQUISA PARA ENCONTRAR UM COLABORADOR?",
+      "opcoes": [
+        "APENAS CPF.",
+        "RG E NOME.",
+        "MATRÍCULA, NOME E CPF.",
+        "MATRÍCULA, NOME E PIS."
+      ]
+    },
+    {
+      "pergunta": "1) QUANTAS JANELAS O CADASTRO DO FUNCIONÁRIO POSSUI?",
+      "opcoes": [
+        "8.",
+        "12.",
+        "3.",
+        "5."
+      ]
+    }
+  ]
+}
