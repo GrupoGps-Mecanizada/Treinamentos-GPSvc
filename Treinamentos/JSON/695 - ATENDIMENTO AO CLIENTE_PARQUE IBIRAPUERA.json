@@ -1,0 +1,52 @@
+{
+  "treinamento": "ATENDIMENTO AO CLIENTE_PARQUE IBIRAPUERA",
+  "id": 695,
+  "idChecklist": 479,
+  "perguntas": [
+    {
+      "pergunta": "5) O Colaborador pode passar por algumas situações de ocorrências no parque. Assinale a alternativa com uma das possíveis ocorrências e o direcionamento correto a ser feito:",
+      "opcoes": [
+        "Em casos de mal súbito, acione a equipe de bombeiros e do ambulatório, isolando o local e não tocando na vítima.",
+        "Em caso de mal súbito, acione o líder e tente reanimar a vítima.",
+        "Ambulantes no parque é permitido, apenas acione seu líder para deixá-lo ciente.",
+        "Situações de assaltos ou discriminação, acalme a vítima, vá atrás do causador para saber informações e anote no livro de ocorrências."
+      ]
+    },
+    {
+      "pergunta": "4) É importante que o Colaborador esteja sempre preparado e atualizado com todas as localizações do parque. Em caso de um visitante solicitar o mapa do parque, qual o direcionamento mais correto?",
+      "opcoes": [
+        " \tDirecione o visitante à administração, para não passar informação errada.",
+        "\tAbandone seu posto e vá com ele no local desejado.",
+        "Indique o QR Code mais próximo para que o visitante tenha acesso ao mapa completo.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "3) A pontualidade deve ser cumprida, além de demonstrar responsabilidade, é dever do Colaborador cumprir os horários estabelecidos. Sabendo disso, assinale a alternativa INCORRETA:",
+      "opcoes": [
+        "Chegue com 15 minutos de antecedência para se preparar para o posto.",
+        "Quando der seu horário estabelecido, mesmo sem a chegada do substituto abandone o posto, o importante é cumprir sua carga horária.",
+        "Respeite os horários de intervalo.",
+        "Caso aconteça algum imprevisto pessoal, comunique seu líder."
+      ]
+    },
+    {
+      "pergunta": "2) Uma boa postura é essencial para sua saúde e para transmitir uma imagem de profissionalismo. Assinale abaixo as recomendações corretas para sua rotina de trabalho:",
+      "opcoes": [
+        "Apoie em postes para descansar sua região lombar.",
+        " Mantenha a coluna reta e alinhada.",
+        "Cruze os braços para transmitir aparência seria e de segurança.",
+        " \tQuando estiver em posição estática, tente se movimentar e alongar os braços."
+      ]
+    },
+    {
+      "pergunta": "1) A apresentação pessoal é fundamental para a credibilidade e seriedade no trabalho, por isso devemos ter sempre comportamentos e aparência exemplar. Com isso, assinale a alternativa correta:",
+      "opcoes": [
+        "\tChinelos são ideais para sua jornada de trabalho, pois são confortáveis para um dia inteiro em pé.",
+        "Em dias ensolarados, use bonés para se proteger dos raios ultravioletas.",
+        "Cabelo e barba devem sempre estar limpos, cortados e alinhados.",
+        "Priorize o uso de tênis e mulheres o uso de salto."
+      ]
+    }
+  ]
+}
