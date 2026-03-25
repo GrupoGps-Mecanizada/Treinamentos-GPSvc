@@ -1,0 +1,52 @@
+{
+  "treinamento": "CUIDADOS ERGONÔMICOS PARA ÁREAS ADMINISTRATIVAS_TREINAMENTO PRESENCIAL",
+  "id": 1527,
+  "idChecklist": 1267,
+  "perguntas": [
+    {
+      "pergunta": "5) COMO ORGANIZAR A MESA DE TRABALHO PODE AJUDAR?",
+      "opcoes": [
+        "EVITA MOVIMENTOS DESNECESSÁRIOS E MELHORA A EFICIÊNCIA.",
+        "MELHORA UM POUCO A ORGANIZAÇÃO.",
+        "DEIXA AS COISAS ACESSÍVEIS.",
+        "NÃO FAZ DIFERENÇA."
+      ]
+    },
+    {
+      "pergunta": "4) POR QUE É IMPORTANTE FAZER PEQUENAS PAUSAS DURANTE O TRABALHO?",
+      "opcoes": [
+        "PARA FICAR PARADO E CANSAR MAIS RÁPIDO.",
+        "PARA OLHAR O CELULAR.",
+        "PARA DORMIR.",
+        "PARA DESCANSAR E MELHORAR A CIRCULAÇÃO."
+      ]
+    },
+    {
+      "pergunta": "3) COMO DEVEM FICAR OS BRAÇOS ENQUANTO VOCÊ DIGITA?",
+      "opcoes": [
+        "ESTICADOS PARA FRENTE.",
+        "LEVANTADOS ACIMA DA CABEÇA.",
+        "FORMANDO UM ÂNGULO DE 90 GRAUS, COM OS COTOVELOS APOIADOS.",
+        "NENHUMA DAS ALTERNATIVAS ANTERIORES."
+      ]
+    },
+    {
+      "pergunta": "2) ONDE DEVE ESTAR O MONITOR DO COMPUTADOR?",
+      "opcoes": [
+        "ABAIXO DA ALTURA DOS OLHOS.",
+        "NA ALTURA DOS OLHOS.",
+        "NA ALTURA DOS JOELHOS.",
+        "NENHUMA DAS ALTERNATIVAS ANTERIORES."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE VOCÊ DEVE AJUSTAR NA SUA CADEIRA PARA MAIOR CONFORTO?",
+      "opcoes": [
+        "A ALTURA E O APOIO PARA AS COSTAS.",
+        "APENAS A ALTURA.",
+        "A COR DA CADEIRA.",
+        "NÃO PRECISA AJUSTAR NADA."
+      ]
+    }
+  ]
+}
