@@ -1,0 +1,52 @@
+{
+  "treinamento": "UTILIZAÇÃO DO EPI",
+  "id": 60,
+  "idChecklist": 37,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais os cuidados na conservação dos EPIs?",
+      "opcoes": [
+        "No final do turno de trabalho não preciso guardar os EPIs.",
+        "Não preciso me preocupar com isso.",
+        "No final do turno de trabalho guardar os EPIs limpos, higienizados e separados.",
+        "Posso emprestar o meu EPI para meu colega de trabalho do próximo turno."
+      ]
+    },
+    {
+      "pergunta": "4) Quando o óculos de segurança deve ser utilizado?",
+      "opcoes": [
+        "Estiver fazendo muito sol.",
+        "Na limpeza de superfícies aéreas (acima da altura dos meus olhos) para evitar respingos e poeira.",
+        "Não precisa ser utilizado.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) A utilização do EPI...",
+      "opcoes": [
+        "É opcional.",
+        "Só pode ser utilizado na limpeza do piso.",
+        "Não precisa usar.",
+        "É obrigatória, devendo ser utilizado na realização de todas as atividades de limpeza."
+      ]
+    },
+    {
+      "pergunta": "2) O que significa a sigla EPI?",
+      "opcoes": [
+        "Equipamento de Proteção.",
+        "Equipamento de Uso Individual.",
+        "Equipamento de Proteção Individual.",
+        "Equipamento de uso exclusivo."
+      ]
+    },
+    {
+      "pergunta": "1) Qual luva devo utilizar para a coleta de resíduos?",
+      "opcoes": [
+        "Luva azul.",
+        "Luva amarela.",
+        "Luva laranja.",
+        "Luva vermelha."
+      ]
+    }
+  ]
+}
