@@ -1,0 +1,52 @@
+{
+  "treinamento": "PDL 12_GESTÃO DE CONFLITOS",
+  "id": 328,
+  "idChecklist": 227,
+  "perguntas": [
+    {
+      "pergunta": "5) Com base no treinamento, ser ouvinte e escutar as pessoas:",
+      "opcoes": [
+        "valoriza seu time e o torna mais colaborativo e produtivo.",
+        "valoriza quem não se envolve em conflitos.",
+        "valoriza o excesso de fofocas e provocações.",
+        "colabora com ruídos na comunicação."
+      ]
+    },
+    {
+      "pergunta": "4) Podemos dizer que na resolução de conflitos, a palavra-chave é:",
+      "opcoes": [
+        "punição.",
+        "relevar.",
+        "julgar.",
+        "equilíbrio."
+      ]
+    },
+    {
+      "pergunta": "3) De acordo com o treinamento, são práticas importantes no processo de gestão de conflitos:",
+      "opcoes": [
+        "Enfrentar os inimigos e estabelecer barreiras nos relacionamentos.",
+        "Enfrentar os Colaboradores que estão em conflito.",
+        "Estabelecer regras rígidas e nomear encarregados.",
+        "Enfrentar os conflitos e estabelecer prazos para resolução."
+      ]
+    },
+    {
+      "pergunta": "2) Com base no treinamento, gerenciar conflitos deve ser:",
+      "opcoes": [
+        "uma questão simples do dia-a-dia.",
+        "uma preocupação continua de qualquer gestor ou líder.",
+        "uma preocupação do nosso concorrente.",
+        "uma preocupação simples, pois não impacta diretamente no contrato."
+      ]
+    },
+    {
+      "pergunta": "1) No treinamento, vimos que a gestão de conflitos é muito importante, pois impacta:",
+      "opcoes": [
+        "diretamente no nosso dia-a-dia.",
+        "diretamente no nosso humor.",
+        "no dia-a-dia dos nossos familiares.",
+        "diretamente no nosso propósito."
+      ]
+    }
+  ]
+}
