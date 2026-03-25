@@ -1,0 +1,52 @@
+{
+  "treinamento": "PRODUTOS DE HIGIENE E SUA UTILIZAÇÃO_ALIMENTAÇÃO",
+  "id": 332,
+  "idChecklist": 231,
+  "perguntas": [
+    {
+      "pergunta": "5) Para Unidade que possui diluidor manual, o que é necessário?",
+      "opcoes": [
+        "Colheres dosadoras descartáveis e panos de uso geral para limpar um possível vazamento.",
+        "Panelas pequenas e grandes dependendo do local onde será higienizado.",
+        "Recipientes exclusivos para a guarda de material diluído e baldes medidores.",
+        "Baldes de uso geral para todos os tipos de produtos."
+      ]
+    },
+    {
+      "pergunta": "4) Para que serve um dosador de produto químico?",
+      "opcoes": [
+        "Para economizar e colocar água para diluir mais.",
+        "Para agregar mais equipamentos na cozinha.",
+        "Para garantir que o produto seja diluído corretamente, com custo ideal, sem risco à equipe.",
+        "Para evitar lavar os dosadores manuais."
+      ]
+    },
+    {
+      "pergunta": "3) Com relação ao uso de EPI, ao manipular um produto químico, é importante:",
+      "opcoes": [
+        "Usar sempre protetor auricular para se proteger.",
+        "Consultar o POP – Manejo de resíduos para se certificar do EPI que deve ser utilizado.",
+        "O coordenador de Contrato não pode exigir um EPI ao manipular produtos químicos.",
+        "Verificar qual EPI é necessário para cada produto utilizado."
+      ]
+    },
+    {
+      "pergunta": "2) Quais as consequências quando usamos um produto que é destinado a um local, para outro local?",
+      "opcoes": [
+        "Pode causar danos à superfície ou equipamentos.",
+        "Causar brilho excessivo e escorregar.",
+        "Economia de produto já que não é o local adequado.",
+        "Pode causar excesso de sanitização."
+      ]
+    },
+    {
+      "pergunta": "1) O que significa um Processo de Higienização?",
+      "opcoes": [
+        "Significa lavar corretamente com água e detergente neutro.",
+        "Significa a lavagem manual e depois usar um produto específico de sanitização.",
+        "Remover as sujidades.",
+        "Aumentar a ação do detergente e a quantidade  de água."
+      ]
+    }
+  ]
+}
