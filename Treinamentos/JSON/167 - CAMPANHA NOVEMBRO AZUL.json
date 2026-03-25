@@ -1,0 +1,52 @@
+{
+  "treinamento": "CAMPANHA NOVEMBRO AZUL",
+  "id": 167,
+  "idChecklist": 90,
+  "perguntas": [
+    {
+      "pergunta": "5) Sobre a prevenção podemos afirmar:",
+      "opcoes": [
+        "É importante que o homem a partir de 45 anos realize regularmente os exames PSA e exame retal.",
+        "O Ministério da Saúde recomenda o exame retal a cada dois anos partir dos 20 anos de idade",
+        "Exame de sangue (PSA) ou exame retal não identificam alterações na próstata.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "4) Quais são os fatores de maior risco?",
+      "opcoes": [
+        "Idade acima de 60 anos, histórico familiar, homens negros sofrem maior incidência e obesidade.",
+        "Hipertensão e histórico na família.",
+        "Excesso de exercício físico e tabagismo.",
+        "Dieta rica em fibras e pobre em gordura animal."
+      ]
+    },
+    {
+      "pergunta": "3) Quais os principais sintomas do câncer de próstata?",
+      "opcoes": [
+        "Vermelhidão da pele e dificuldade de urinar.",
+        "Inchaço da bexiga.",
+        "Urinar com sangue.",
+        "Dores ao urinar, vontade de urinar com frequência, presença de sangue/sêmen, dor óssea, mas pode não ter nenhum sintoma por isso a importância dos exames."
+      ]
+    },
+    {
+      "pergunta": "2) Sobre o câncer de próstata, podemos afirmar que:",
+      "opcoes": [
+        "Segundo o Instituto Nacional do câncer, todos terão câncer de mama.",
+        "Câncer de próstata é o tumor que afeta a próstata",
+        "Os exames preventivos e consultas com o urologista são inúteis no diagnóstico de câncer de próstata.",
+        "Câncer de próstata não tem nada a ver com hereditariedade."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o objetivo da campanha de Novembro Azul?",
+      "opcoes": [
+        "Campanha com objetivo de fazer com que todos passem a usar a cor Azul.",
+        "Campanha com objetivo de usar laço azul, símbolo internacional usado por indivíduos, empresas e organizações.",
+        "Campanha com o objetivo de alertar a sociedade sobre o diagnóstico precoce do câncer de próstata, além de ressaltar a importância de olhar com atenção para a saúde.",
+        "Campanha com o objetivo comercial de venda de roupas de cor Azul."
+      ]
+    }
+  ]
+}
