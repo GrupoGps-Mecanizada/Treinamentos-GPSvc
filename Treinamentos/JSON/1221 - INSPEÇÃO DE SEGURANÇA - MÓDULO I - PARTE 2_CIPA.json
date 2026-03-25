@@ -1,0 +1,52 @@
+{
+  "treinamento": "INSPEÇÃO DE SEGURANÇA - MÓDULO I - PARTE 2_CIPA",
+  "id": 1221,
+  "idChecklist": 987,
+  "perguntas": [
+    {
+      "pergunta": "5) SOBRE O QUE O FILME NOS TRAZ REFLEXÕES?",
+      "opcoes": [
+        "SOMENTE SOBRE O ESFORÇO REPETITIVO.",
+        "SOBRE A IRONIA DO ATOR.",
+        "SOBRE AS CONDIÇÕES DE SAÚDE E HIGIENE NO TRABALHO.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "4) QUAIS CARACTERÍSTICAS DE PRODUÇÃO SÃO EXPRESSAS NO FILME?",
+      "opcoes": [
+        "TAYLORISMO SOMENTE.",
+        "FORDISMO SOMENTE.",
+        "DE AUTOMATIZAÇÃO DE CADEIAS PRODUTIVAS.",
+        "TAYLORISMO E DO FORDISMO."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE ESTAVA EM DESACORDO REFERENTE AS CONDIÇÕES DE TRABALHO DOS OPERÁRIOS?",
+      "opcoes": [
+        "CONDIÇÕES FÍSICAS E PSICOLÓGICAS NECESSÁRIAS.",
+        "CONDIÇÕES PSICÓTICAS NECESSÁRIAS.",
+        "SOMENTE O CONDICIONAMENTO FÍSICO.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL O MECANISMO DE PRODUÇÃO ADOTADO?",
+      "opcoes": [
+        "PRODUÇÃO ARTESANAL.",
+        "PRODUÇÃO ELETROMECÂNICA.",
+        "PRODUÇÃO EM SÉRIE.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1) EM QUAL PERÍODO SE PASSA A HISTÓRIA DO VÍDEO?",
+      "opcoes": [
+        "EM TEMPOS MODERNOS.",
+        "NA REVOLUÇÃO INDUSTRIAL.",
+        "NA REVOLUÇÃO ARTESANAL.",
+        "NO FEUDALISMO."
+      ]
+    }
+  ]
+}
