@@ -1,0 +1,52 @@
+{
+  "treinamento": "PSG_PLANO DE CHAMADA",
+  "id": 269,
+  "idChecklist": 181,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual a periodicidade que a Liderança deve realizar a validação dos dados contido no Plano de Chamada?",
+      "opcoes": [
+        "Trimestralmente.",
+        "Mensalmente.",
+        "Semestralmente.",
+        "Anualmente."
+      ]
+    },
+    {
+      "pergunta": "4) Quais os dados que devem conter no Plano de Chamada?",
+      "opcoes": [
+        "Nome, função, endereço, telefone [mais do que um número] do Colaborador e e-mail.",
+        "Nome e telefone.",
+        "Nome, função, endereço, telefone [mais do que um número] do Colaborador.",
+        "Nome, função e e-mail."
+      ]
+    },
+    {
+      "pergunta": "3) Quem é o responsável por elaborar o Plano de Chamada?",
+      "opcoes": [
+        "Gerente do Contrato.",
+        "Cliente.",
+        "Líder imediato do Contrato.",
+        "Nenhuma das respostas anteriores."
+      ]
+    },
+    {
+      "pergunta": "2) Quais as vantagens o Plano de Chamada pode oferecer a operação?",
+      "opcoes": [
+        "Otimização do tempo e continuidade dos serviços.",
+        "Trabalho em equipe.",
+        "Treinamento constante e redundância.",
+        "Todas as respostas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "1) O que é o Plano de Chamada?",
+      "opcoes": [
+        "É uma lista simples com os dados de contato de todos os Colaboradores que atuam no Contrato.",
+        "É uma lista contendo o e-mail de todos os Colaboradores que atuam no Contrato.",
+        "É uma lista simples contendo apenas o endereço de todos os Colaboradores que atuam no Contrato.",
+        "É uma lista simples contendo o telefone de um posto de serviço."
+      ]
+    }
+  ]
+}
