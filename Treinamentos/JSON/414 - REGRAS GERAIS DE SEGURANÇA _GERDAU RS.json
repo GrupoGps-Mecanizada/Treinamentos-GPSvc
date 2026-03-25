@@ -1,0 +1,52 @@
+{
+  "treinamento": "REGRAS GERAIS DE SEGURANÇA _GERDAU RS",
+  "id": 414,
+  "idChecklist": 307,
+  "perguntas": [
+    {
+      "pergunta": "5) Segundo as regras gerais de segurança, todos os acidentes ou quase acidentes devem:",
+      "opcoes": [
+        "Ser deixados de lado.",
+        "Ser avisados a polícia.",
+        "Comunicar imediatamente o superior imediato.",
+        "Esconder o caso."
+      ]
+    },
+    {
+      "pergunta": "4) Segundo as regras gerais de segurança, como devemos usar os EPI´s exigidos?",
+      "opcoes": [
+        "De acordo com cada área e atividade.",
+        "Somente quando nos solicitarem.",
+        "Não é necessário.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "3) Segundo as regras gerais de segurança sobre a cargas suspensas devemos:",
+      "opcoes": [
+        "Não dar bola e passar por baixo.",
+        "Procurar a saída de emergência mais próxima.",
+        "Procurar por ajuda.",
+        "Manter sempre uma distância segura."
+      ]
+    },
+    {
+      "pergunta": "2) Segundo as regras gerais de segurança, somente devemos executar tarefas onde todos os riscos estejam:",
+      "opcoes": [
+        "Identificados.",
+        "Desconhecidos.",
+        "Avaliados e controlados.",
+        "Gerenciados."
+      ]
+    },
+    {
+      "pergunta": "1) Segundo as regras gerais de segurança, quem pode operar equipamentos e acessar áreas restritas?",
+      "opcoes": [
+        "Qualquer pessoa integrada na Gerdau.",
+        "Somente pessoa treinada e autorizada.",
+        "Somente gerentes do cliente.",
+        "Todas as alternativas."
+      ]
+    }
+  ]
+}
