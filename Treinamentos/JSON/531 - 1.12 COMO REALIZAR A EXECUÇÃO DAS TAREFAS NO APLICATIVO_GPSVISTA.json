@@ -1,0 +1,52 @@
+{
+  "treinamento": "1.12 COMO REALIZAR A EXECUÇÃO DAS TAREFAS NO APLICATIVO_GPSVISTA",
+  "id": 531,
+  "idChecklist": 333,
+  "perguntas": [
+    {
+      "pergunta": "5) Como pausar a tarefa disponível no APP?",
+      "opcoes": [
+        "Caso esteja habilitada essa opção, clique em pausar e escolha o motivo;",
+        "Não é possível pausar;",
+        "Clicar em abortar;",
+        "Clicar no ícone de “+” na parte superior."
+      ]
+    },
+    {
+      "pergunta": "4) Como buscar todas as atividades atribuídas para o CR?",
+      "opcoes": [
+        "Na Aba íris no APP, é possível buscar todas as tarefas do CR;",
+        "Basta filtrar por QR-Code;",
+        "Na aba de Tarefas;",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Quais as etapas para executar a tarefa?",
+      "opcoes": [
+        "Iniciar deslocamento, chegar ao local, responder Checklist e concluir;",
+        "Iniciar a tarefa, tirar foto e finalizar;",
+        "Responder o procedimento e evidenciar por imagem;",
+        "Basta ler o QR-Code."
+      ]
+    },
+    {
+      "pergunta": "2) Quais as opções de filtros de tarefas no App?",
+      "opcoes": [
+        "Não há filtros;",
+        "QR-Code, Íris e no campo de buscar e aba de tarefas;",
+        "Somente na Íris;",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o objetivo do Aplicativo GPS Vista?",
+      "opcoes": [
+        "Execução de tarefas, abertura de chamados e acompanhamento dos status das tarefas;",
+        "Para abertura de chamados;",
+        "Para cadastrar as rotinas de ativos;",
+        "Para criar atividades de ativos de refrigeração."
+      ]
+    }
+  ]
+}
