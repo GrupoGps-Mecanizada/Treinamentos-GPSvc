@@ -1,0 +1,52 @@
+{
+  "treinamento": "GESTÃO DO CONHECIMENTO",
+  "id": 396,
+  "idChecklist": 289,
+  "perguntas": [
+    {
+      "pergunta": "5) A gestão do conhecimento quando bem praticada resulta em:",
+      "opcoes": [
+        "Criar gincanas periódica para melhorar a competitividade e sigilo de intelecto por Colaborador.",
+        "Produz estímulos para seus Colaboradores estarem mais motivados a aprender e criar, pois pode proporcionar grande crescimento intelectual mutuo.",
+        "Pode trazer tecnologias novas para a operação para redução de custos com mão de obra humana.",
+        "No crescimento exclusivo da empresa com as melhorias."
+      ]
+    },
+    {
+      "pergunta": "4) Assinale a alternativa que tenha pelo menos 3 ferramentas da gestão do conhecimento.",
+      "opcoes": [
+        "Melhoras praticas; Gestão de informações; Recursos Humanos.",
+        "Educação corporativa; Gestão de competências; Desenvolvimento de pessoas.",
+        "Qualidade Operacional; Recursos Humanos; Gestão de informações.",
+        "Gestão de competências; Desenvolvimento de pessoas; Qualidade Operacional."
+      ]
+    },
+    {
+      "pergunta": "3) A gestão de conhecimento nos apoia na organização em:",
+      "opcoes": [
+        "Criar competitividade na operação em quem mais tem conhecimento sobre as áreas.",
+        "Automatizar os trabalhos para redução de custo por mão de obra humana.",
+        "Incentiva a busca por ideias inovadoras e soluções mais criativas, porém impacta na produtividade.",
+        "Ao organizar o conhecimento e os processos, torna-se mais fácil visualizar onde há oportunidades de evolução e melhorias."
+      ]
+    },
+    {
+      "pergunta": "2) Quais são os pilares do conhecimento?",
+      "opcoes": [
+        "Processos; Pessoas; Tecnologia.",
+        "Pedidos; Processos; Pessoas.",
+        "Tecnologia; Pessoas; Conhecimento.",
+        "Processos; Pessoas; Conhecimento."
+      ]
+    },
+    {
+      "pergunta": "1) Como a gestão do conhecimento pode ser definida?",
+      "opcoes": [
+        "O processo de não passar seu conhecimento para a organização.",
+        "O processo de fazer avaliações de QI mensalmente.",
+        "O processo de criar, compartilhar, usar e gerenciar o conhecimento de uma organização.",
+        "O processo de criar um fluxograma organizacional hierárquico da operação."
+      ]
+    }
+  ]
+}
