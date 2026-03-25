@@ -1,0 +1,52 @@
+{
+  "treinamento": "MULTIPLICAÇÃO DE TALENTOS_DO",
+  "id": 674,
+  "idChecklist": 460,
+  "perguntas": [
+    {
+      "pergunta": "5) O que é importante para garantir que os talentos estejam alinhados com os objetivos da organização?",
+      "opcoes": [
+        "Criar um plano de desenvolvimento personalizado.",
+        "Desafiá-los com novas responsabilidades e projetos.",
+        "Monitorar o progresso dos talentos.",
+        "A liderança estar sempre presente e disponível para orientar e apoiar os talentos."
+      ]
+    },
+    {
+      "pergunta": "4) Por que é importante que os talentos sejam desafiados com novas responsabilidades e projetos?",
+      "opcoes": [
+        "Para aumentar a rotatividade de Colaboradores na empresa.",
+        "Para reduzir os custos da empresa.",
+        "Para permitir que eles cresçam e se desenvolvam dentro da organização.",
+        "Para terceirizar os serviços de treinamento e desenvolvimento."
+      ]
+    },
+    {
+      "pergunta": "3) Qual é o objetivo da multiplicação de talentos?",
+      "opcoes": [
+        "Aumentar a rotatividade de funcionários na empresa.",
+        "Reduzir os custos da empresa.",
+        "Identificar, desenvolver e reter os melhores talentos dentro de uma organização.",
+        "Terceirizar os serviços de treinamento e desenvolvimento."
+      ]
+    },
+    {
+      "pergunta": "2) Qual é a primeira etapa para multiplicar talentos?",
+      "opcoes": [
+        "Criar um plano de desenvolvimento.",
+        "Não criar um plano de desenvolvimento.",
+        "Identificar os talentos internos.",
+        "Monitorar o progresso dos talentos."
+      ]
+    },
+    {
+      "pergunta": "1) O que é a multiplicação de talentos?",
+      "opcoes": [
+        "Um processo de redução de funcionários.",
+        "Um processo de identificação e desenvolvimento de talentos internos.",
+        "Um processo de terceirização de talentos.",
+        "Um processo de contratação de talentos externos."
+      ]
+    }
+  ]
+}
