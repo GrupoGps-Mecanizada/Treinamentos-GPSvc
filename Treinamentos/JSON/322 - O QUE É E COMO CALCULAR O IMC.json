@@ -1,0 +1,52 @@
+{
+  "treinamento": "O QUE É E COMO CALCULAR O IMC",
+  "id": 322,
+  "idChecklist": 221,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual a medida abdominal esperada para homens e mulheres?",
+      "opcoes": [
+        "Abaixo de 80 cm para mulheres e 94 cm para homens.",
+        "Abaixo de 18,5 para mulheres e 24,9 para homens.",
+        "Abaixo de 90 para mulheres e 105 para homens.",
+        "Abaixo de 85 para mulheres e 100 para homens."
+      ]
+    },
+    {
+      "pergunta": "4) Quais são os exames que podem auxiliar no mapeamento do peso?",
+      "opcoes": [
+        "Bioimpedância e a Densidade óssea.",
+        "Biodesindade e a Densitometria óssea.",
+        "Bioimpedância e a Densitometria óssea.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "3) Qual resultado é considerado peso normal?",
+      "opcoes": [
+        "Entre 19,5 e 25,9.",
+        "Entre 18,5 e 24,9.",
+        "Entre 08,5 e 15,9.",
+        "Entre 28,5 e 35,9."
+      ]
+    },
+    {
+      "pergunta": "2) Para o que serve o IMC?",
+      "opcoes": [
+        "Ele demonstra se o peso está alto ou baixo considerando a altura. E é uma das principais ferramentas de medição da obesidade.",
+        "Ele serve para impactar o peso.",
+        "Ele demonstra apenas se a pessoa está obesa.",
+        "Ele demonstra apenas se a pessoa está magra."
+      ]
+    },
+    {
+      "pergunta": "1) O que significa a sigla IMC?",
+      "opcoes": [
+        "Índice de musculo corpóreo.",
+        "Instrução de massa corpórea.",
+        "Índice de musculo do corpo.",
+        "Índice de massa corpórea."
+      ]
+    }
+  ]
+}
