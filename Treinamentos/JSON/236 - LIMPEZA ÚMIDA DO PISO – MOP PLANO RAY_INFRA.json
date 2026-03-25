@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA ÚMIDA DO PISO – MOP PLANO RAY_INFRA",
+  "id": 236,
+  "idChecklist": 148,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual das alternativas está INCORRETA sobre utilização do Mop Plano Ray?",
+      "opcoes": [
+        "Sempre utilizar duas placas sinalizadora de piso molhado, posicionando uma no início, onde você está começando a limpeza, e outra no final, onde você vai terminar a limpeza.",
+        "A utilização do equipamento Mop Plano Ray na limpeza úmida do piso é similar ao Mop plano Bio e similar ao Mop Plano Jet.",
+        "Possui botão de acionamento na parte superior do cabo, trava para abrir e fechar a região de abastecimento com produto químico e base aderente para fixar o refil de microfibra.",
+        "É um equipamento para limpeza seca do piso, não é possível realizar a higienização úmida do piso."
+      ]
+    },
+    {
+      "pergunta": "4) É correto afirmar sobre o Mop Plano Ray Inifnity:",
+      "opcoes": [
+        "É um equipamento pesado e que exige movimentação dos punhos para manuseio.",
+        "Não remove as sujidades do piso de espaços pequenos.",
+        "Equipamento leve devido à presença das duas manoplas no cabo, que facilitam o trabalho, apenas empurrando de um lado para o outro, o equipamento gira sozinho diminuindo o esforço no punho.",
+        "Não deve ser abastecido com produto químico, utilizar somente água."
+      ]
+    },
+    {
+      "pergunta": "3) Qual é o cuidado na sinalização do ambiente na realização da limpeza úmida do piso?",
+      "opcoes": [
+        "Sempre utilizar duas placas sinalizadora de piso molhado, posicionando uma no início, onde você está começando a limpeza, e outra no final, onde você vai terminar a limpeza.",
+        "Utilizar apenas uma placa sinalizadora de piso molhado posicionando na área onde está iniciando a limpeza.",
+        "Somente utilizar a placa de sinalização de piso molhado se houver pessoas circulando no ambiente.",
+        "Utilizar apenas uma placa sinalizadora de piso molhado posicionando na área onde irá finalizar a limpeza."
+      ]
+    },
+    {
+      "pergunta": "2) Qual o tipo refil de microfibra utilizado no Mop Plano Ray e como posicioná-lo na base do equipamento?",
+      "opcoes": [
+        "Refil descartável, acoplados às ventosas presentes na parte superior da base.",
+        "Refil 100% algodão com bolsos acoplados a presilhas laterias.",
+        "Refil 100% microfibra com costado aderente que se fixa a base do Mop Plano Ray.",
+        "Refil de poliéster com dois lados, encaixado na base articulada, usando o lado azul para limpeza seca e o lado vermelho para limpeza úmida."
+      ]
+    },
+    {
+      "pergunta": "1) Como é feito o abastecimento de produto químico no Mop Plano Ray?",
+      "opcoes": [
+        "Não há abastecimento, uma vez que ele é utilizado para limpeza seca.",
+        "Gire a trava até o desenho do cadeado ficar aberto, abaixar a tampa e fazer abastecimento com produto químico com o auxílio da caneca dosadora. Ao finalizar, fechar a tampa e travar novamente.",
+        "Retiro o reservatório do cabo que é externo, abasteço com produto químico e depois devo fixar o reservatório no cabo novamente.",
+        "Não preciso abastecer o Mop Plano Ray com produto químico, pode ser utilizado apenas água."
+      ]
+    }
+  ]
+}
