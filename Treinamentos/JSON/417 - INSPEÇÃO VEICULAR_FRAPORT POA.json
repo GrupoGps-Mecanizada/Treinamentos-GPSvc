@@ -1,0 +1,52 @@
+{
+  "treinamento": "INSPEÇÃO VEICULAR_FRAPORT POA",
+  "id": 417,
+  "idChecklist": 310,
+  "perguntas": [
+    {
+      "pergunta": "5) O profissional inspeciona os veículos e equipamentos antes de permitir o acesso às ARS, quando necessário com auxílio de espelho de investigação, vistoriando quais locais?",
+      "opcoes": [
+        "Compartimentos adjacentes às portas, quebra-sol e porta-luvas; Parte inferior dos veículos (chassi).",
+        "Bancos e áreas sob os mesmos; Rodas.",
+        "Porta-malas, caçambas e outros compartimentos de carga; Compartimento do motor; e outras áreas que possam ser utilizadas para ocultar itens proibidos.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "4) Quem deve realizar a Inspeção Veicular?",
+      "opcoes": [
+        "Administrativo.",
+        "Secretária.",
+        "Vigilantes.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) O que significa ATIV?",
+      "opcoes": [
+        "Autorização de Trânsito Interno de Veículos.",
+        "Equipamento de Proteção Individual.",
+        "Autorização de Trânsito Externo de Veículos.",
+        "Terminal de Cargas."
+      ]
+    },
+    {
+      "pergunta": "2) Com qual equipamento é realizado a Inspeção?",
+      "opcoes": [
+        "Régua.",
+        "Espelho.",
+        "Lápis.",
+        "Extintor."
+      ]
+    },
+    {
+      "pergunta": "1) O que é Inspeção Veicular?",
+      "opcoes": [
+        "Inspeção de veículos.",
+        "Inspeção de bicicletas.",
+        "Inspeção de pessoas.",
+        "Inspeção de roupas."
+      ]
+    }
+  ]
+}
