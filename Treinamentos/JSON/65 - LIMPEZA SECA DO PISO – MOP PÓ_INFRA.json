@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA SECA DO PISO – MOP PÓ_INFRA",
+  "id": 65,
+  "idChecklist": 39,
+  "perguntas": [
+    {
+      "pergunta": "5) Como fazer a limpeza do refil mop pó?",
+      "opcoes": [
+        "Deixar de molho em água sanitária.",
+        "Posso guardar o mop sujo para utilizar mais tarde.",
+        "Lavar com água fria e detergente neutro e secar em ambiente ventilado.",
+        "Deixar de molho no desinfetante."
+      ]
+    },
+    {
+      "pergunta": "4) Ao finalizar a limpeza seca do piso com o mop pó?",
+      "opcoes": [
+        "Deve sacudir o mop para soltar toda a sujidade e partículas que ficaram impregnadas.",
+        "Devo recolher as partículas maiores com a mão.",
+        "Posso guardar o mop sujo para utilizar mais tarde.",
+        "Não devo sacudir o mop para evitar que as partículas sejam suspensas e utilizo a pá com tampa basculante para recolher as partículas."
+      ]
+    },
+    {
+      "pergunta": "3) Qual técnica correta de utilização do mop pó?",
+      "opcoes": [
+        "Iniciar o mopeamento de fora para dentro com movimentos retos.",
+        "Iniciar o mopeamento pelo ponto mais longe da entrada com movimentos em formato de “oito”.",
+        "Não tem um técnica específica, posso realizar qualquer tipo de movimento.",
+        "Utilizar sempre com movimentos retor, como se utilizasse uma vassoura."
+      ]
+    },
+    {
+      "pergunta": "2) O conjunto mop pó é formado por?",
+      "opcoes": [
+        "Somente o cabo de alumínio.",
+        "Somente a base do rodo.",
+        "Cabo de alumínio, armação para fixação do refil e refil mop pó.",
+        "Somente o refil mop pó."
+      ]
+    },
+    {
+      "pergunta": "1) O que é limpeza seca do piso?",
+      "opcoes": [
+        "É o conjunto para retirar partículas sólidas como pó e poeira de superfícies em geral, sem ajuda de água ou produtos químicos.",
+        "É a limpeza realizada em sanitários.",
+        "É a limpeza realizada em móveis e paredes.",
+        "É a limpeza realizada usando produto químico."
+      ]
+    }
+  ]
+}
