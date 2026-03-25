@@ -1,0 +1,52 @@
+{
+  "treinamento": "APLICAÇÃO DE FILME STRETCH EM PALLETS_FURUKAWA",
+  "id": 897,
+  "idChecklist": 670,
+  "perguntas": [
+    {
+      "pergunta": "5) ASSINALE A ALTERNATIVA CORRETA. LOGO APÓS O PRODUTO SER FINALIZADO, O MATERIAL É DESTINADO À:",
+      "opcoes": [
+        "ÁREA DO CD MP.",
+        "FÁBRICA.",
+        "TRANSIÇÃO.",
+        "ÁREA DE ARMAZENAMENTO OU CARREGAMENTO."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL FERRAMENTA É UTILIZADA PARA COMPACTAR E TER UM MELHOR ACONDICIONAMENTO DA CARGA?",
+      "opcoes": [
+        "MARTELO DE BORRACHA.",
+        "MARTELO.",
+        "PÉ DE CABRA.",
+        "ALICATE."
+      ]
+    },
+    {
+      "pergunta": "3) AS CANTONEIRAS SÃO COLOCADAS EM QUAIS PARTES DO PALLET?",
+      "opcoes": [
+        "APENAS NAS LATERAIS.",
+        "APENAS NA PARTE SUPERIOR.",
+        "NAS LATERAIS E NA PARTE SUPERIOR.",
+        "NÃO É NECESSÁRIO CANTONEIRAS."
+      ]
+    },
+    {
+      "pergunta": "2) EM QUAL APLICATIVO O COLABORADOR REALIZA A LEITURA DA ETIQUETA?",
+      "opcoes": [
+        "APLICATIVO GPSVISTA.",
+        "APLICATIVO GPSVC.",
+        "APLICATIVO GPS APONTAMENTO.",
+        "NENHUMA DAS OPÇÕES ACIMA."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O PRINCIPAL OBJETIVO PARA DESTE TREINAMENTO?",
+      "opcoes": [
+        "DEMONSTRAR A FORMA CORRETA PARA CARREGAMENTO DE PALLET.",
+        "DEMONSTRAR A FORMA CORRETA PARA STRETCHAMENTO DE PALLET.",
+        "DEMONSTRAR A FORMA CORRETA PARA RIPAMENTO DE BOBINAS.",
+        "DEMONSTRAR A FORMA CORRETA PARA ARMAZENAMENTO DE MATERIAIS."
+      ]
+    }
+  ]
+}
