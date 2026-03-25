@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA PROFUNDA NOS PISOS DE GRANITO DOS SANITÁRIOS_SHOPPING PRAIA DE BELAS",
+  "id": 554,
+  "idChecklist": 356,
+  "perguntas": [
+    {
+      "pergunta": "5) Após a aplicação do “Decrust B” diluído, quanto tempo devemos esperar para realizar a lavagem com a enceradeira?",
+      "opcoes": [
+        "1 hora.",
+        "20 minutos.",
+        "45 minutos.",
+        "5 minutos."
+      ]
+    },
+    {
+      "pergunta": "4) Qual produto deve ser usado na neutralização do ácido após a lavagem do piso?",
+      "opcoes": [
+        "Detergente.",
+        "Limpa vidros.",
+        "Álcool.",
+        "Clean By Peroxy."
+      ]
+    },
+    {
+      "pergunta": "3) Qual máquina deve ser usada para a lavagem do piso?",
+      "opcoes": [
+        "Enceradeira.",
+        "Lavadora Brava.",
+        "Barracuda.",
+        "Hidrojateadora."
+      ]
+    },
+    {
+      "pergunta": "2) Qual a medida de diluição correta para a lavagem de piso com Decrust B?",
+      "opcoes": [
+        "1/100.",
+        "1/50.",
+        "1/20.",
+        "1/1000."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o produto que usamos para a remoção da sujidade do piso no vídeo apresentado?",
+      "opcoes": [
+        "Cloro.",
+        "Decrust B.",
+        "Clean By Peroxy.",
+        "Detergente Multiuso."
+      ]
+    }
+  ]
+}
