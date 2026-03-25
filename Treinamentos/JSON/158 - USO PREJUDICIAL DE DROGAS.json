@@ -1,0 +1,52 @@
+{
+  "treinamento": "USO PREJUDICIAL DE DROGAS",
+  "id": 158,
+  "idChecklist": 84,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual o nome do programa gratuito mais conhecido no país para tratamento no uso de drogas?",
+      "opcoes": [
+        "Apoio psiquiátrico.",
+        "Narcóticos anônimos.",
+        "Assistência anônima.",
+        "Assistência Social."
+      ]
+    },
+    {
+      "pergunta": "4) Qual o primeiro passo para começar um tratamento no consumo de drogas e álcool?",
+      "opcoes": [
+        "Me alimentar melhor.",
+        "Praticar esportes.",
+        "Tentar mudar sozinho(a).",
+        "Pedir ajuda."
+      ]
+    },
+    {
+      "pergunta": "3) Qual é o primeiro passo para prevenção?",
+      "opcoes": [
+        "Saber mais sobre os efeitos maléficos das drogas e não conversar sobre o assunto.",
+        "Só buscar informações sobre o tema quando souber que alguém próximo está com dificuldades.",
+        "Saber mais sobre os efeitos maléficos das drogas e conversar abertamente sobre o assunto.",
+        "Conversar abertamente sobre o assunto, mas somente em casa com a família."
+      ]
+    },
+    {
+      "pergunta": "2) Qual o nome da doença causada pelo consumo excessivo de álcool?",
+      "opcoes": [
+        "Tabagismo.",
+        "Alcoolismo.",
+        "Abstinência.",
+        "Dependência"
+      ]
+    },
+    {
+      "pergunta": "1) Quais as classificações dos tipos de drogas que existem?",
+      "opcoes": [
+        "Estimulantes, depressoras e perturbadoras.",
+        "Estimulantes, envolventes e perturbadoras.",
+        "Envolventes, esporádicas e perturbadoras.",
+        "Envolventes, depressoras e esporádicas."
+      ]
+    }
+  ]
+}
