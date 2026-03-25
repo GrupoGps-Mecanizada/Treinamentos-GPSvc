@@ -1,0 +1,52 @@
+{
+  "treinamento": "GESTÃO EMOCIONAL EM MOMENTO DE CRISE_SAÚDE MENTAL – MÓDULO 3",
+  "id": 618,
+  "idChecklist": 404,
+  "perguntas": [
+    {
+      "pergunta": "5) DE FORMA RESUMIDA, COMO VOCÊ DEVE LIDAR COM UMA SITUAÇÃO DE DESRESPEITO NO LOCAL DE TRABALHO?",
+      "opcoes": [
+        "NESSE MOMENTO É MUITO IMPORTANTE QUE VOCÊ FUJA DO FOCO DA SUA ATIVIDADE.",
+        "NESSE MOMENTO É MUITO IMPORTANTE QUE VOCÊ NÃO FUJA DO FOCO DA SUA ATIVIDADE, PARA ISSO PODEMOS USAR A TÉCNICA DOS 6 SEGUNDOS OU O DIÁLOGO USANDO PALAVRAS OFENSIVAS.",
+        "NESSE MOMENTO É MUITO IMPORTANTE QUE VOCÊ NÃO FUJA DO FOCO DA SUA ATIVIDADE, PARA ISSO PODEMOS USAR A TÉCNICA DOS 6 SEGUNDOS OU O DIÁLOGO USANDO PALAVRAS ASSERTIVAS.",
+        "NESSE MOMENTO É MUITO IMPORTANTE QUE VOCÊ FUJA DO FOCO DA SUA ATIVIDADE, USANDO A TÉCNICA DOS 6 SEGUNDOS."
+      ]
+    },
+    {
+      "pergunta": "4) O que é a técnica dos 6 segundos?",
+      "opcoes": [
+        "É um exercício onde você deve lembrar por exemplo de 6 nomes de frutas; 6 nomes de países, etc., pois, quando paramos para pensar, estamos respirando e trazendo nossa razão de volta.",
+        "É um exercício onde você deve lembrar por exemplo de 6 nomes de frutas; 6 nomes de países, etc., pois, quando paramos para pensar, também paramos de respirar, o que nos ajuda a trazer a calma.",
+        "É um exercício onde você deve lembrar por exemplo de 5 nomes de frutas; 5 nomes de países, etc., pois, quando paramos para pensar, estamos respirando e não trazendo a razão de volta.",
+        "É um exercício onde você deve parar para discutir o assunto da crise por 6 segundos."
+      ]
+    },
+    {
+      "pergunta": "3) Como podemos fazer para nos acalmarmos e voltarmos a raciocinar normalmente?",
+      "opcoes": [
+        "Para nos acalmarmos podemos usar a técnica dos 5 segundos.",
+        "Para nos acalmarmos podemos usar a técnica dos 6 segundos.",
+        "Para nos acalmarmos podemos usar a técnica dos 3 segundos.",
+        "Para nos acalmarmos podemos usar a técnica dos 10 segundos."
+      ]
+    },
+    {
+      "pergunta": "2) Internalizar o sentimento para fugir do descontrole é uma boa opção?",
+      "opcoes": [
+        "Sim, pois, apenas dessa maneira evitamos sair do controle.",
+        "Não, pois, pode nos gerar problemas financeiros.",
+        "Não, pois, pode nos gerar problemas físicos.",
+        "Sim, pois, quando internalizamos os sentimentos não nos gera nenhum problema físico."
+      ]
+    },
+    {
+      "pergunta": "1) Por que não devemos tomar nenhuma decisão em momentos de crise?",
+      "opcoes": [
+        "Porque quando tomamos uma decisão movidos pela emoção, a probabilidade de nos arrependermos depois é muito pequena.",
+        "Porque quando tomamos uma decisão movidos pela razão, a probabilidade de nos arrependermos é muito grande.",
+        "Porque quando tomamos uma decisão movidos pela emoção, a probabilidade de nos arrependermos é zero.",
+        "Porque quando tomamos uma decisão movidos pela emoção, a probabilidade de nos arrependermos depois é muito grande."
+      ]
+    }
+  ]
+}
