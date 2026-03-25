@@ -1,0 +1,52 @@
+{
+  "treinamento": "COMO CRIAR ROTINA - BLOCO 03 - REGRA DOS REGISTROS_GPSVISTA",
+  "id": 1063,
+  "idChecklist": 837,
+  "perguntas": [
+    {
+      "pergunta": "5) DEPOIS DE SELECIONAR QUEM É O USUÁRIO, O QUE PRECISA SER FEITO?",
+      "opcoes": [
+        "CLICAR NA SETA À DIREITA.",
+        "CLICAR NA SETA À ESQUERDA.",
+        "CLICAR NA SETA NO CENTRO DA TELA.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "4) QUANTOS CARGOS PODEMOS SELECIONAR?",
+      "opcoes": [
+        "APENAS 1.",
+        "QUANTOS CARGOS FOREM NECESSÁRIOS.",
+        "10 CARGOS.",
+        "20 CARGOS."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE FAZER CASO UM COLABORADOR VOLANTE DE OUTRO CR PRECISE SER INCLUÍDO COMO RESPONSÁVEL POR UMA TAREFA?",
+      "opcoes": [
+        "NÃO É POSSÍVEL INCLUIR COLABORADORES VOLANTES.",
+        "SELECIONAR APENAS O CAMPO \"COLABORADOR\".",
+        "PEDIR AO OUTRO CR PARA FAZER A INCLUSÃO.",
+        "ESCOLHER \"BUSCAR TODA A EMPRESA\"."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE É POSSÍVEL FAZER AO DEFINIR OS RESPONSÁVEIS PELAS TAREFAS?",
+      "opcoes": [
+        "ESPECIFICAR APENAS POR FUNÇÃO.",
+        "ESCOLHER APENAS POR CARGO.",
+        "SELECIONAR POR CARGO, FUNÇÃO OU COLABORADOR.",
+        "BUSCAR APENAS COLABORADORES VOLANTES."
+      ]
+    },
+    {
+      "pergunta": "1)  O QUE É O CADASTRO DE ROTINA?",
+      "opcoes": [
+        "É O QUE, COMO, QUEM E ONDE SERÁ REALIZADA A TAREFAS.",
+        "É ONDE, QUANDO, POR QUEM E POR QUE SERÁ REALIZADA A TAREFAS.",
+        "É APENAS COMO SERÁ REALIZADA A TAREFA.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    }
+  ]
+}
