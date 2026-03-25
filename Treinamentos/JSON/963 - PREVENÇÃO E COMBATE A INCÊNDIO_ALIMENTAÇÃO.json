@@ -1,0 +1,52 @@
+{
+  "treinamento": "PREVENÇÃO E COMBATE A INCÊNDIO_ALIMENTAÇÃO",
+  "id": 963,
+  "idChecklist": 740,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE É UM HIDRANTE?",
+      "opcoes": [
+        "RESERVATÓRIO DE ÁGUA.",
+        "RESERVATÓRIO DE GÁS.",
+        "RESERVATÓRIO DE ENERGIA.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL FOI A BOATE QUE PEGOU FOGO?",
+      "opcoes": [
+        "COMODORO.",
+        "TERRA BRASIL.",
+        "CALI (CALARARRI).",
+        "BOATE KISS."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É A MELHOR MANEIRA DE COMBATER O INCÊNDIO DA CLASSE C (QUADROS ELÉTRICOS)?",
+      "opcoes": [
+        "AGENTE EXTINTOR PÓ QUÍMICO.",
+        "AGENTE EXTINTOR (H2O).",
+        "AGENTE EXTINTOR DIÓXIDO DE CARBONO (CO2).",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL É A MELHOR MANEIRA DE COMBATER O INCÊNDIO DA CLASSE B (LÍQUIDOS INFLAMÁVEIS)?",
+      "opcoes": [
+        "AGENTE EXTINTOR DIÓXIDO DE CARBONO (CO2).",
+        "AGENTE EXTINTOR PÓ QUÍMICO.",
+        "AGENTE EXTINTOR (H2O).",
+        "NENHUMA DAS ALTERNATIVAS"
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É A MELHOR MANEIRA DE COMBATER O INCÊNDIO DA CLASSE A (PAPEL, MADEIRA E OUTROS OBJETOS)?",
+      "opcoes": [
+        "AGENTE EXTINTOR ÁGUA (H2O).",
+        "AGENTE EXTINTOR PÓ QUÍMICO.",
+        "AGENTE EXTINTOR DIÓXIDO DE CARBONO (CO2)",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    }
+  ]
+}
