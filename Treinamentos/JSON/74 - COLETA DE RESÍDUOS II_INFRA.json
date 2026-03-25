@@ -1,0 +1,52 @@
+{
+  "treinamento": "COLETA DE RESÍDUOS II_INFRA",
+  "id": 74,
+  "idChecklist": 47,
+  "perguntas": [
+    {
+      "pergunta": "5 – Quais os cuidados aos realizar a pesagem dos resíduos?",
+      "opcoes": [
+        "Misturar todos os tipos de resíduo e realizar a pesagem em uma única vez.",
+        "Avaliar o funcionamento da balança e pesar no máximo de 02 a 03 sacos por vez.",
+        "Não é necessário realizar a pesagem de resíduos.",
+        "Após pesar o resíduo não precisa registrar o peso no formulário de controle."
+      ]
+    },
+    {
+      "pergunta": "4 – Ao realizar a coleta de resíduo II posso misturar os diferentes tipos de resíduo?",
+      "opcoes": [
+        "Não, os resíduos devem ser coletados separadamente para evitar contaminação.",
+        "Sim, para realizar a coleta mais rapidamente.",
+        "Sim, quando houver um volume grande de resíduo para coletar.",
+        "Sim, para não deixar o resíduo acumular."
+      ]
+    },
+    {
+      "pergunta": "3 – Marque a alternativa que descreve todos os EPIs obrigatórios para o coletor de resíduos:",
+      "opcoes": [
+        "Máscara, óculos de segurança e luva azul.",
+        "Máscara, luva azul e luva de pvc verde cano longo.",
+        "Máscara, óculos de segurança, avental impermeável, luva pvc verde cano longo, luva azul e bota.",
+        "Óculos de segurança, avental impermeável e luva azul."
+      ]
+    },
+    {
+      "pergunta": "2 – Qual a cor da luva que devo utilizar para empurrar o carro coletor de resíduos?",
+      "opcoes": [
+        "Luva azul.",
+        "Luva verde.",
+        "Luva amarela.",
+        "Luva laranja."
+      ]
+    },
+    {
+      "pergunta": "1 – Para coleta de resíduos classificados como infectantes (grupo A) são utilizados os sacos?",
+      "opcoes": [
+        "Saco laranja com simbologia.",
+        "Saco cinza.",
+        "Saco preto.",
+        "Saco branco leitoso com simbologia"
+      ]
+    }
+  ]
+}
