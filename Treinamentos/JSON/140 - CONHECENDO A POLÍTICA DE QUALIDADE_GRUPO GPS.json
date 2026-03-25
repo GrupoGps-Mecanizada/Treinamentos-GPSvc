@@ -1,0 +1,52 @@
+{
+  "treinamento": "CONHECENDO A POLÍTICA DE QUALIDADE_GRUPO GPS",
+  "id": 140,
+  "idChecklist": 80,
+  "perguntas": [
+    {
+      "pergunta": "5) A política de Qualidade deve ser conhecida por quem?",
+      "opcoes": [
+        "Deve ser conhecida por todos os colaboradores e todas as áreas.",
+        "Deve ser conhecida apenas pelos diretores.",
+        "Deve ser conhecida apenas pelos acionistas.",
+        "Deve ser conhecida somente pela área de Qualidade."
+      ]
+    },
+    {
+      "pergunta": "4) Assinale a alternativa INCORRETA sobre a política de qualidade?",
+      "opcoes": [
+        "Posso aplicar a política de Qualidade no meu dia a dia quando uso o EPI adequado.",
+        "Posso aplicar a política de Qualidade quando estou atendendo com excelência o meu Cliente.",
+        "Posso aplicar a política de Qualidade quando busco melhorar sempre nas minhas atividades.",
+        "Posso aplicar a política de Qualidade quando decido não ir trabalhar sem aviso prévio ao meu líder."
+      ]
+    },
+    {
+      "pergunta": "3) Em qual local posso consultar a política de qualidade?",
+      "opcoes": [
+        "No site www.gpssa.com.br.",
+        "No Instagram da empresa.",
+        "Na Página do Facebook da empresa.",
+        "Na mesa de trabalho."
+      ]
+    },
+    {
+      "pergunta": "2) O Grupo GPS compromete-se a fornecer serviços que satisfaçam as necessidades e expectativas de quem?",
+      "opcoes": [
+        "Do Diretor.",
+        "Do Supervisor.",
+        "Do Cliente.",
+        "Da mídia."
+      ]
+    },
+    {
+      "pergunta": "1) O que é a Política de Qualidade?",
+      "opcoes": [
+        "A política de Qualidade é um documento com as principais diretrizes e compromissos da empresa quanto a Qualidade dos serviços oferecidos.",
+        "A política de Qualidade é uma carta secreta que apenas os acionistas possuem acesso.",
+        "A política de Qualidade é um cargo que faz pesquisa com os Clientes sobre Qualidade.",
+        "A política de Qualidade é uma função que fica junto com o diretor da regional para fiscalização."
+      ]
+    }
+  ]
+}
