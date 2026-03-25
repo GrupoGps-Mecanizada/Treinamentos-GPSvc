@@ -1,0 +1,52 @@
+{
+  "treinamento": "SSMA LC - USO DE FACAS_LC",
+  "id": 543,
+  "idChecklist": 345,
+  "perguntas": [
+    {
+      "pergunta": "5) Devemos manter as facas sempre:",
+      "opcoes": [
+        "Cegas.",
+        "Sem o cabo.",
+        "Afiadas e em boas condições.",
+        "Todas as alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) Após uso das facas como devemos guarda-las?",
+      "opcoes": [
+        "Sobre bancadas e dentro de pias.",
+        "Em qualquer lugar.",
+        "No faqueiro.",
+        "Todas as alternativas."
+      ]
+    },
+    {
+      "pergunta": "3) Que tipo de luvas devermos usar para realizar o corte de carne?",
+      "opcoes": [
+        "Malha de aço.",
+        "Luva de borracha.",
+        "Nenhum tipo de luva.",
+        "Luvas descartáveis."
+      ]
+    },
+    {
+      "pergunta": "2) O que devemos fazer quando estivermos manipulando as facas?",
+      "opcoes": [
+        "Manter próxima do corpo.",
+        "Manter afastada do corpo.",
+        "Não manter nenhum cuidado.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "1) Caso necessário, posso usar a faca para:",
+      "opcoes": [
+        "Apertar parafusos soltos na cozinha.",
+        "Bater em pregos soltos na cozinha.",
+        "Descascar fios.",
+        "Nenhuma das alternativas, facas só para cortes de alimentos."
+      ]
+    }
+  ]
+}
