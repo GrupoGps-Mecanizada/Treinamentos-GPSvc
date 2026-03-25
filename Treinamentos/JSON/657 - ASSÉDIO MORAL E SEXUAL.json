@@ -1,0 +1,52 @@
+{
+  "treinamento": "ASSÉDIO MORAL E SEXUAL",
+  "id": 657,
+  "idChecklist": 443,
+  "perguntas": [
+    {
+      "pergunta": "5) Assinale abaixo a alternativa que mostra um exemplo de ação que podemos ter para evitar o assédio sexual no trabalho:",
+      "opcoes": [
+        "Não conversar com os colegas de trabalho.",
+        "Incentivar a formação de um ambiente de trabalho pautado no desrespeito.",
+        "Não fazer comentários ou perguntas que possam ser indelicadas e até mesmo abordagens que possam caracterizar intimidade não adequada ao ambiente de trabalho.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "4) Assinale a alternativa que mostre as 2 formas que o assédio sexual pode se manifestar no trabalho:",
+      "opcoes": [
+        "Assédio sexual por chantagem e assédio sexual por intimidação.",
+        "Assédio sexual por gênero e assédio sexual por cargo.",
+        "Assédio sexual por idade e assédio sexual por hierarquia.",
+        "Assédio sexual por fala e assédio sexual por toque."
+      ]
+    },
+    {
+      "pergunta": "3) Assinale abaixo a alternativa que mostra um exemplo de ação que podemos ter para evitar o assédio moral no trabalho:",
+      "opcoes": [
+        "Incentivar a competitividade entre os Colaboradores.",
+        "Praticar de forma constante a capacitação relacionada a liderança, postura e saúde mental.",
+        "Não definifir bem os cargos e metas de cada um.",
+        "Praticar de forma constante a capacitação relacionada a temas técnicos."
+      ]
+    },
+    {
+      "pergunta": "2) Assinale a alternativa que mostre as 3 formas que o assédio moral pode se manifestar no trabalho:",
+      "opcoes": [
+        "Assédio moral alto, assédio moral médio e assédio moral baixo.",
+        "Assédio moral grave, assédio moral mediano e assédio moral leve.",
+        "Assédio moral vertical, assédio moral horizontal e assédio moral misto.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "1) O que é preciso para as ações agressivas serem caracterizadas como assédio moral?",
+      "opcoes": [
+        "As ações agressivas devem ocorrer repetidamente ou por tempo prolongado, com a intenção de prejudicar.",
+        "As ações agressivas devem ocorrer repetidamente ou por tempo prolongado, com a intenção de incentivar.",
+        "As ações agressivas devem ocorrer apenas uma vez, com a intenção de prejudicar.",
+        "As ações agressivas devem ocorrer apenas uma vez, com a inteção de incentvar a pessoa."
+      ]
+    }
+  ]
+}
