@@ -1,0 +1,52 @@
+{
+  "treinamento": "EVENTOS JUNINOS_ALIMENTAÇÃO_TREINAMENTO PRESENCIAL",
+  "id": 1441,
+  "idChecklist": 1189,
+  "perguntas": [
+    {
+      "pergunta": "5) SE NÃO HOUVER CONDIÇÕES ADEQUADAS PARA ARMAZENAMENTO SOB REFRIGERAÇÃO, QUAIS TIPOS DE SOBREMESAS DEVEM SER SERVIDAS?",
+      "opcoes": [
+        "ARROZ DOCE E CANJICA.",
+        "DOCES NÃO PERECÍVEIS, COMO PAÇOCAS, PÉ-DE-MOLEQUE E DOCE DE ABÓBORA TABLETE.",
+        "CURAU.",
+        "NÃO SERVIR SOBREMESAS."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL O CRITÉRIO DE TEMPERATURA DE ARMAZENAMENTO PARA SOBREMESAS SERVIDAS QUENTES?",
+      "opcoes": [
+        "MÍNIMO 30°C.",
+        "MÍNIMO 65°C.",
+        "MÁXIMO 65°C.",
+        "MÁXIMO 30°C."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL O CRITÉRIO DE TEMPERATURA DE ARMAZENAMENTO PARA SOBREMESAS SERVIDAS FRIAS?",
+      "opcoes": [
+        "MÁXIMO 4°C.",
+        "MÁXIMO 10°C.",
+        "MÁXIMO 8°C.",
+        "PODE FICAR EM TEMPERATURA AMBIENTE."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE DEVE SER CONSIDERADO NA ELABORAÇÃO DO CARDÁPIO JUNINO?",
+      "opcoes": [
+        "A SATISFAÇÃO DO CLIENTE.",
+        "CAPACIDADE DE ARMAZENAMENTO.",
+        "TEMPERATURA ADEQUADA DOS EQUIPAMENTOS.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL O OBJETIVO DO PITADAS DA QUALIDADE?",
+      "opcoes": [
+        "CONSCIENTIZAÇÃO SOBRE MEIO AMBIENTE.",
+        "TREINAMENTO SOBRE SEGURANÇA DOS ALIMENTOS.",
+        "CONSCIENTIZAÇÃO SOBRE ACIDENTE E DOENÇAS DO TRABALHO.",
+        "CAMPANHA SOBRE DESPERDÍCIO DE ALIMENTOS."
+      ]
+    }
+  ]
+}
