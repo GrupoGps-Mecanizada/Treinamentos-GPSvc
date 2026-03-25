@@ -1,0 +1,52 @@
+{
+  "treinamento": "HIGIENIZAÇÃO DE MÃOS E LUVAS",
+  "id": 59,
+  "idChecklist": 36,
+  "perguntas": [
+    {
+      "pergunta": "3) Quando devemos higienizar as mãos?",
+      "opcoes": [
+        "Antes e depois das refeições.",
+        "Antes e após o uso das luvas.",
+        "Após ir ao banheiro.",
+        "Todas as alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "5) A higienização das luvas...",
+      "opcoes": [
+        "Não é importante, porque ela é de borracha.",
+        "Não preciso me preocupar.",
+        "Deve ser realizada na parte externa constantemente após as atividades e no final do turno de trabalho deve ser higienizado a parte interna.",
+        "Deve ser realizada somente uma vez por semana."
+      ]
+    },
+    {
+      "pergunta": "4) Podemos higienizar as mãos com álcool gel?",
+      "opcoes": [
+        "Não, a mão deve ser higienizada com água e sabão.",
+        "Sim, sempre que a mão estiver sem sujidade visível.",
+        "Sim, mas só no inicio do trabalho, depois devemos lavar com água e sabão.",
+        "Não, porque o álcool gel não limpa a mão."
+      ]
+    },
+    {
+      "pergunta": "2) Cuidados com as mãos durante turno de trabalho?",
+      "opcoes": [
+        "Não pode ser utilizado nenhum tipo de adorno, somente o relógio.",
+        "Não pode ser utilizado nenhum tipo de adorno, mas as unhas podem ter esmalte escuro.",
+        "Não pode ser utilizado nenhum tipo de adorno (anéis, pulseiras e relógio) e as unhas devem estar curtas e sem esmalte.",
+        "Não é necessário ter nenhum cuidado especial, somente higienizar corretamente as mãos."
+      ]
+    },
+    {
+      "pergunta": "1) Qual a importância de higienizar corretamente as mãos?",
+      "opcoes": [
+        "Prevenir que o indivíduo adquira algum tipo de infecção e cuidar da saúde.",
+        "Evitar sujar as superfícies.",
+        "Evitar sujar os EPIs.",
+        "Evitar sujar os equipamentos."
+      ]
+    }
+  ]
+}
