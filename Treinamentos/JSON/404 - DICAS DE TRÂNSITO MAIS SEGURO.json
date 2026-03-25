@@ -1,0 +1,52 @@
+{
+  "treinamento": "DICAS DE TRÂNSITO MAIS SEGURO",
+  "id": 404,
+  "idChecklist": 297,
+  "perguntas": [
+    {
+      "pergunta": "5) Quando chegamos dirigindo a um cruzamento devemos:",
+      "opcoes": [
+        "Buzinar.",
+        "Acelerar para ultrapassar o veículo à sua frente.",
+        "Parar e aguardar o sinal mudar.",
+        "Ter a certeza que nada nos obrigará a ficar parado no meio do mesmo."
+      ]
+    },
+    {
+      "pergunta": "4) Quando dirigimos devemos ter comportamento civilizado, portanto devemos agir:",
+      "opcoes": [
+        "Diferente do comportamento de quando estamos no trabalho.",
+        "Devemos ignorar alguma provocação que possa ocorrer, evitando assim um transtorno ainda maior.",
+        "Retribuir toda e qualquer provocação que possa ocorrer.",
+        "Buzinar em sinal de protesto e se possível gritar para o outro motorista."
+      ]
+    },
+    {
+      "pergunta": "3) Quando deve usar a seta de direção?",
+      "opcoes": [
+        "Quando estiver andando linha reta em rodovias de alta velocidade.",
+        "Quando estiver andando linha reta em rodovias de baixa velocidade.",
+        "Quando o carro estiver parado e você quiser chamar o guarda.",
+        "Sempre que você for mudar de direção."
+      ]
+    },
+    {
+      "pergunta": "2) Por que não jogar lixo na rua enquanto dirigimos?",
+      "opcoes": [
+        "Porque devemos jogar lixo na rua somente quando não estamos em um veículo.",
+        "Porque é uma infração de trânsito, somente por isso.",
+        "Não devemos jogar lixo na rua, pois, é uma falta de civilidade e educação, além deste lixo ser levado pelas chuvas vindo a causar transtornos à população.",
+        "Não devemos jogar lixo na rua pois é proibido."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o risco de se utilizar o telefone celular enquanto dirige?",
+      "opcoes": [
+        "A ligação pode cair.",
+        "Pode interferir em alguns equipamentos eletrônicos do veículo.",
+        "Você coloca a sua vida e a de outros em risco, pois o telefone tira a sua atenção.",
+        "O telefone pode ser furtado."
+      ]
+    }
+  ]
+}
