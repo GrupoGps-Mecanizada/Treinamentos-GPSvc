@@ -1,0 +1,52 @@
+{
+  "treinamento": "PLANO DE AÇÃO E PLANO DE METAS - MÓDULO 1_DO",
+  "id": 683,
+  "idChecklist": 469,
+  "perguntas": [
+    {
+      "pergunta": "5) Como a empresa pode alcançar a excelência operacional?",
+      "opcoes": [
+        "Através da definição de metas específicas e mensuráveis.",
+        "Através do estabelecimento de indicadores de desempenho.",
+        "Buscando constantemente melhorias em seus processos.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "4) Qual é a importância do acompanhamento periódico do quadro de metas?",
+      "opcoes": [
+        "Estimula a concentração nas metas pactuadas.",
+        "Permite que a empresa monitore seu progresso.",
+        "Fortalece o alinhamento de interesses entre líderes e liderados.",
+        "Identifica gargalos e desperdícios nos processos."
+      ]
+    },
+    {
+      "pergunta": "3) O que é a meritocracia?",
+      "opcoes": [
+        "É um conjunto de metas a serem atingidas em um determinado período de tempo.",
+        "É um sistema de avaliação de desempenho baseado em metas específicas e mensuráveis.",
+        "É uma prática de remuneração, premiação e recompensa baseada na entrega das metas pactuadas.",
+        "É uma cultura de melhoria contínua que envolve todos os Colaboradores na busca por melhorias."
+      ]
+    },
+    {
+      "pergunta": "2) O que é o Plano de Metas (PM)?",
+      "opcoes": [
+        "É o conjunto de atividades necessárias para alcançar determinada meta.",
+        "É o acompanhamento de indicadores de desempenho que permitem que a empresa monitore seu progresso.",
+        "É o conjunto de metas a serem atingidas em um determinado período de tempo.",
+        "É o estabelecimento de objetivos claros e mensuráveis."
+      ]
+    },
+    {
+      "pergunta": "1) O que é o Plano de Ação (PA)?",
+      "opcoes": [
+        "É o conjunto de metas a serem atingidas em um determinado período de tempo.",
+        "É o conjunto de atividades necessárias para alcançar determinada meta.",
+        "É o estabelecimento de objetivos claros e mensuráveis.",
+        "É a avaliação do desempenho da empresa em relação aos objetivos estabelecidos."
+      ]
+    }
+  ]
+}
