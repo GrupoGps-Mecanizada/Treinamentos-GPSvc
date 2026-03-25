@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA PROFUNDA ESTAÇÕES DE TRABALHO_USO RESTRITO",
+  "id": 99,
+  "idChecklist": 73,
+  "perguntas": [
+    {
+      "pergunta": "5) O que é importante ter como ponto de atenção na limpeza profunda das estações?",
+      "opcoes": [
+        "Ter um olhar crítico na limpeza.",
+        "Certificar-se que tudo esteja em ordem ao finalizar o processo de limpeza.",
+        "Respeitar o horário de início e término da limpeza.",
+        "Todas as alternativas anteriores estão corretas."
+      ]
+    },
+    {
+      "pergunta": "4) Qual o tipo produto químico deve ser utilizado na desinfecção dos acessórios a estação de trabalho (monitores, mouse, teclados e aparelhos telefônicos)?",
+      "opcoes": [
+        "Detergente neutro.",
+        "Desinfetante.",
+        "Hipoclorito.",
+        "Todas as alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Quais são os materiais de limpeza utilizados na limpeza profunda?",
+      "opcoes": [
+        "Pano de microfibra verde e luva azul.",
+        "Pano de microfibra azul e fibra verde.",
+        "Pano descartável e fibra verde.",
+        "Pano de Microfibra verde, luvas verdes e fibra branca."
+      ]
+    },
+    {
+      "pergunta": "2) Qual o tipo produto químico deve ser utilizado na limpeza profunda das estações de trabalho?",
+      "opcoes": [
+        "Hipoclorito.",
+        "Sapólio.",
+        "Detergente Amoniacal.",
+        "Restaurador."
+      ]
+    },
+    {
+      "pergunta": "1) O que é Limpeza Profunda?",
+      "opcoes": [
+        "É a limpeza semanal do piso.",
+        "É a remoção de sujidades impregnadas, soltas, orgânicas e inorgânicas das superfícies.",
+        "É a limpeza dos sanitários.",
+        "É a limpeza do teto e parede."
+      ]
+    }
+  ]
+}
