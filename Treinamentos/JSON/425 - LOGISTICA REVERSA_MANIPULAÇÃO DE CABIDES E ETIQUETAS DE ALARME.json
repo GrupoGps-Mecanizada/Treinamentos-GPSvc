@@ -1,0 +1,52 @@
+{
+  "treinamento": "LOGISTICA REVERSA_MANIPULAÇÃO DE CABIDES E ETIQUETAS DE ALARME",
+  "id": 425,
+  "idChecklist": 318,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual o peso padrão para caixa de etiqueta e pino?",
+      "opcoes": [
+        "9.1 kg e 1.5 kg.",
+        "9.1 kg e 1.6 kg.",
+        "6.1 kg e 1.9 kg.",
+        "7.1 kg e 1.5 kg."
+      ]
+    },
+    {
+      "pergunta": "4) Qual a capacidade da caixa de cabide por modelo?",
+      "opcoes": [
+        "A26 = 600 peças; A33 = 650 Peças; A43 = 300 peças; V17 = 500 peças; V26 = 500 peças; V34,5 = 250. peças.",
+        "A26 = 600 peças; A38 = 450 Peças; A43 = 300 peças; V17 = 900 peças; V26 = 800 peças; V34,5 = 650 peças.",
+        "A26 = 600 peças; A33 = 450 Peças; A43 = 300 peças; V17 = 500 peças; V27 = 400 peças; V34,5 = 350 peças",
+        "A26 = 600 peças; A33 = 450 Peças; A43 = 300 peças; V17 = 500 peças; V26 = 400 peças; V34,5 = 350 peças."
+      ]
+    },
+    {
+      "pergunta": "3) Na manipulação de cabides, o que é utilizado para amarrá-los?",
+      "opcoes": [
+        "Fitilho.",
+        "Linha.",
+        "Barbante.",
+        "Elástico."
+      ]
+    },
+    {
+      "pergunta": "2) Quais os 2 grupos de cabides manipulados atualmente?",
+      "opcoes": [
+        "Grupo A e X.",
+        "Grupo A e U.",
+        "Grupo A e V.",
+        "Grupo U e A."
+      ]
+    },
+    {
+      "pergunta": "1) A logística reversa é um conjunto de:",
+      "opcoes": [
+        "Pessoas.",
+        "Processos.",
+        "Procedimentos.",
+        "Atividades."
+      ]
+    }
+  ]
+}
