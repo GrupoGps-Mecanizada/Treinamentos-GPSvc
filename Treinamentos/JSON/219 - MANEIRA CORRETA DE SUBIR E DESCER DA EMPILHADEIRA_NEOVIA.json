@@ -1,0 +1,52 @@
+{
+  "treinamento": "MANEIRA CORRETA DE SUBIR E DESCER DA EMPILHADEIRA_NEOVIA",
+  "id": 219,
+  "idChecklist": 131,
+  "perguntas": [
+    {
+      "pergunta": "5) Após desligar o equipamento, você deve:",
+      "opcoes": [
+        "Sair e deixar o equipamento no local.",
+        "Remover a chave e descer.",
+        "Abaixar as lanças.",
+        "Posicionar o volante para frente, liberando espaço para movimentação e soltar o cinto de segurança e então remover a chave."
+      ]
+    },
+    {
+      "pergunta": "4) No treinamento orientamos descer da empilhadeira com três pontos de apoio. Quais são eles?",
+      "opcoes": [
+        "Segurar no pega mão, colocar o pé no chão e segurar no apoio do banco.",
+        "Segurar no pega mão, colocar o pé na base de apoio do equipamento e segurar no apoio do banco e descer.",
+        "Segurar no apoio do banco, colocar o pé na base de apoio e pular.",
+        "Segurar no pega mão, colocar a mão na base de apoio do equipamento e segurar no apoio do banco."
+      ]
+    },
+    {
+      "pergunta": "3) Após subir na empilhadeira você deve:",
+      "opcoes": [
+        "Ajustar o volante e prender o cinto.",
+        "Sair com a empilhadeira para a fábrica.",
+        "Prender o cinto e levantar lanças.",
+        "Tirar o capacete e óculos."
+      ]
+    },
+    {
+      "pergunta": "2) No treinamento orientamos subir a empilhadeira com três pontos de apoio. Quais são eles?",
+      "opcoes": [
+        "Segurar no pega mão, colocar o pé no chão e segurar no apoio do banco.",
+        "Segurar no pega mão, colocar o pé na base de apoio do equipamento e segurar no apoio do banco.",
+        "Segurar no apoio do banco, colocar o pé na base de apoio e pular.",
+        "Segurar no pega mão, colocar a mão na base de apoio do equipamento e segurar no apoio do banco."
+      ]
+    },
+    {
+      "pergunta": "1) Seja no procedimento de subir ou descer da empilhadeira, observamos que o equipamento deve estar:",
+      "opcoes": [
+        "Equipamento ligado no meio da fábrica.",
+        "Equipamento desligado no meio da fábrica.",
+        "Equipamento ligado e estacionado em local seguro.",
+        "Equipamento desligado e estacionado em local seguro."
+      ]
+    }
+  ]
+}
