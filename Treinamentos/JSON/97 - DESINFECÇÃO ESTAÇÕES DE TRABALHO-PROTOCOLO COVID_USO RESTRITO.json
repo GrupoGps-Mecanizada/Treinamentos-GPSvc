@@ -1,0 +1,52 @@
+{
+  "treinamento": "DESINFECÇÃO ESTAÇÕES DE TRABALHO-PROTOCOLO COVID_USO RESTRITO",
+  "id": 97,
+  "idChecklist": 71,
+  "perguntas": [
+    {
+      "pergunta": "5) É importante como ponto de atenção na desinfecção das estações de trabalho – protocolo COVID?",
+      "opcoes": [
+        "Ao abordar o usuário dono da estação de trabalho seja cordial.",
+        "Caso algum usuário não libere a limpeza, anote o número da estação e informe à supervisão.",
+        "Realizar a desinfeção somente nas mesas ocupadas por usuários, as mesas vazias não precisam ser limpas.",
+        "Todas as alternativas anteriores estão corretas."
+      ]
+    },
+    {
+      "pergunta": "4) Qual a rotina e periodicidade de realização da desinfecção das estações de trabalho – protocolo COVID?",
+      "opcoes": [
+        "Realizar 1 vez no período da manhã e 1 vez no período da tarde.",
+        "Realizar 3 vezes no período da manhã e repetir 3 vezes no período da tarde.",
+        "Realizar somente 2 vezes no período da manhã.",
+        "Realizar somente 2 vezes no período da tarde."
+      ]
+    },
+    {
+      "pergunta": "3) Quais são os materiais de limpeza utilizados na desinfecção das estações de trabalho – protocolo COVID?",
+      "opcoes": [
+        "Pano de microfibra verde e luva azul.",
+        "Pano de microfibra azul e fibra verde.",
+        "Pano de Microfibra verde e luvas verdes.",
+        "Pano descartável e fibra verde."
+      ]
+    },
+    {
+      "pergunta": "2) Qual o tipo produto químico deve ser utilizado na desinfecção das estações de trabalho – protocolo COVID?",
+      "opcoes": [
+        "Desinfetante.",
+        "Hipoclorito.",
+        "Detergente Amoniacal.",
+        "Restaurador."
+      ]
+    },
+    {
+      "pergunta": "1) O que é Desinfecção?",
+      "opcoes": [
+        "É o processo de lavação do piso.",
+        "É o processo de limpeza pesada.",
+        "É a limpeza dos sanitários.",
+        "É um processo para eliminação e redução de microrganismos nas superfícies."
+      ]
+    }
+  ]
+}
