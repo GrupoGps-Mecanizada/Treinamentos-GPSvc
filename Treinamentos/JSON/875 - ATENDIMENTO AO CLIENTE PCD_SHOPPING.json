@@ -1,0 +1,52 @@
+{
+  "treinamento": "ATENDIMENTO AO CLIENTE PCD_SHOPPING",
+  "id": 875,
+  "idChecklist": 646,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL DAS CARACTERÍSTICAS VOCÊ PRECISARÁ PARA LIDAR COM UM DEFICIENTE COM PARALISIA CEREBRAL?",
+      "opcoes": [
+        "PENA.",
+        "AGILIDADE.",
+        "PACIÊNCIA.",
+        "FALTA DE ATENÇÃO."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL DEVE SER A CONDUTA DE QUEM ACOMPANHA UM DEFICIENTE VISUAL?",
+      "opcoes": [
+        "PEGAR NA MÃO E CONDUZI-LO ATÉ ONDE PRECISAR.",
+        "DAR O BRAÇO E EMITIR COMANDO DE VOZ.",
+        "DAR A INSTRUÇÃO E FICAR OBSERVANDO.",
+        "NENHUMA DAS ALTERNATIVAS ANTERIORES."
+      ]
+    },
+    {
+      "pergunta": "3) ONDE OS CÃES-GUIAS NÃO PODEM ENTRAR?",
+      "opcoes": [
+        "ESCOLAS.",
+        "SHOPPING.",
+        "HOSPITAIS.",
+        "SUPERMERCADOS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL MATERIAL DE CARGA PODE SER USADO PARA SE COMUNICAR COM PESSOAS SURDAS E/OU MUDAS?",
+      "opcoes": [
+        "CELULAR.",
+        "APITO.",
+        "LANTERNA.",
+        "PAPEL E CANETA."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL TERMO CORRETO PARA NOS REFERIRMOS A PESSOAS COM DEFICIÊNCIA?",
+      "opcoes": [
+        "PEC.",
+        "PCD.",
+        "PID.",
+        "PNE."
+      ]
+    }
+  ]
+}
