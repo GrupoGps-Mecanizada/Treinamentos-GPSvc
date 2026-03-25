@@ -1,0 +1,52 @@
+{
+  "treinamento": "5 PORQUÊS - MÓDULO I_ENGENHARIA",
+  "id": 1227,
+  "idChecklist": 993,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAIS SÃO OS RESULTADOS ALCANÇADOS APÓS A INTERVENÇÃO NA EQUIPE DE MANUTENÇÃO?",
+      "opcoes": [
+        "AUMENTO DOS CUSTOS DE MANUTENÇÃO.",
+        "AUMENTO DO BACKLOG.",
+        "DESENGAJAMENTO DA EQUIPE NA RESOLUÇÃO DO PROBLEMA.",
+        "NEUTRALIZAÇÃO DA CAUSA RAIZ DO PROBLEMA E REDUÇÃO DO BACKLOG."
+      ]
+    },
+    {
+      "pergunta": "4) QUAIS SÃO OS PROBLEMAS IDENTIFICADOS NA SITUAÇÃO INICIAL DA EQUIPE DE MANUTENÇÃO?",
+      "opcoes": [
+        "ALTO ÍNDICE DE PRODUTIVIDADE.",
+        "BAIXO CONSUMO DE MATERIAIS.",
+        "FALHAS CRÔNICAS E PERDA PREMATURA DE EQUIPAMENTOS.",
+        "REDUÇÃO DO BACKLOG."
+      ]
+    },
+    {
+      "pergunta": "3) QUANDO A TÉCNICA DOS 5 PORQUÊS FOI DESENVOLVIDA?",
+      "opcoes": [
+        "1975.",
+        "1990.",
+        "1970.",
+        "1985."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE É BACKLOG?",
+      "opcoes": [
+        "LISTA DE TAREFAS PENDENTES.",
+        "REGISTRO DE PROBLEMAS.",
+        "CRONOGRAMA DE ATIVIDADES.",
+        "RELATÓRIO DE PROGRESSO."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL EMPRESA DESENVOLVEU O MÉTODO DOS 5 PORQUÊS?",
+      "opcoes": [
+        "FORD.",
+        "TOYOTA.",
+        "GENERAL MOTORS.",
+        "VOLKSWAGEN."
+      ]
+    }
+  ]
+}
