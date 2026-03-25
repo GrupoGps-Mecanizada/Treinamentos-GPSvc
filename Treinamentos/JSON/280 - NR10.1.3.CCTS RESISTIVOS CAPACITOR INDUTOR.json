@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR10.1.3.CCTS RESISTIVOS CAPACITOR INDUTOR",
+  "id": 280,
+  "idChecklist": 192,
+  "perguntas": [
+    {
+      "pergunta": "5) Como fica a corrente elétrica em circuitos capacitivos em relação a tensão?",
+      "opcoes": [
+        "Alinhada com a tensão.",
+        "Adiantada em relação a tensão.",
+        "Atrasada em relação a tensão.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) Qual componente armazena energia na forma de campo magnético?",
+      "opcoes": [
+        "Resistor.",
+        "Capacitor.",
+        "Indutor.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "3) Qual componente armazena cargas elétricas num campo elétrico?",
+      "opcoes": [
+        "Indutor.",
+        "Capacitor.",
+        "Resistor.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) Qual a resistência total equivalente para um circuito com dois resistores, R1 e R2, em paralelo?",
+      "opcoes": [
+        "R1 x R2",
+        "R1 / R2",
+        "(R1 x R2) / (R1 + R2)",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "1) Qual a resistência total equivalente para um circuito com dois resistores, R1 e R2, em série?",
+      "opcoes": [
+        "R1 x R2",
+        "R1 / R2",
+        "R1 + R2",
+        "Nenhuma das alternativas."
+      ]
+    }
+  ]
+}
