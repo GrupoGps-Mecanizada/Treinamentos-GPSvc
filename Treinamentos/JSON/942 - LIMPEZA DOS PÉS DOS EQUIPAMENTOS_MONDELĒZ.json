@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA DOS PÉS DOS EQUIPAMENTOS_MONDELĒZ",
+  "id": 942,
+  "idChecklist": 719,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL É A COR DO PANO QUE POSSO UTILIZAR NA LIMPEZA DOS PÉS DE EQUIPAMENTOS?",
+      "opcoes": [
+        "VERDE.",
+        "AZUL.",
+        "PRETO.",
+        "VERMELHO."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL PRODUTO DEVE SER APLICADO PARA GARANTIR A SANITIZAÇÃO DOS PÉS DOS EQUIPAMENTOS DEPOIS DA LIMPEZA?",
+      "opcoes": [
+        "DETERGENTE CLORADO.",
+        "DIVOSAN.",
+        "DETERGENTE NEUTRO.",
+        "SABONETE LÍQUIDO."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É A ALTERNATIVA INCORRETA SOBRE A IMPORTÂNCIA DA LIMPEZA DOS PÉS DOS EQUIPAMENTOS?",
+      "opcoes": [
+        "EVITAR O ACÚMULO DE SUJIDADE.",
+        "EVITAR O ACÚMULO DE RESPINGOS DA PRODUÇÃO DAS FÁBRICAS.",
+        "EVITAR O ACÚMULO DE POEIRA.",
+        "NÃO É NOSSA RESPONSABILIDADE A LIMPEZA DOS PÉS DOS EQUIPAMENTOS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS SÃO AS LUVAS QUE DEVEM SER UTILIZADAS NA LIMPEZA DOS PÉS DOS EQUIPAMENTOS?",
+      "opcoes": [
+        "LUVA LATEX LARANJA E LUVA ANTICORTE.",
+        "LUVA LATEX AZUL E LUVA ANTICORTE.",
+        "LUVA LATEX AMARELA E LUVA ANTICORTE.",
+        "LUVA LATEX VERDE E LUVA ANTICORTE."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL A COR DO KIT DE MATERIAIS QUE DEVE SER UTILIZADO NA LIMPEZA DOS PÉS DE EQUIPAMENTOS?",
+      "opcoes": [
+        "VERMELHO.",
+        "AZUL.",
+        "PRETO.",
+        "VERDE."
+      ]
+    }
+  ]
+}
