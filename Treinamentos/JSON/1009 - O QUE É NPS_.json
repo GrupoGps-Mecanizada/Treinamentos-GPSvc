@@ -1,0 +1,52 @@
+{
+  "treinamento": "O QUE É NPS?",
+  "id": 1009,
+  "idChecklist": 783,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL É O OBJETIVO DA LIDERANÇA AO ACOMPANHAR AS RECOMENDAÇÕES DOS CLIENTES NA METODOLOGIA NPS?",
+      "opcoes": [
+        "AUMENTAR O NÚMERO DE DETRATORES",
+        "MANTER O STATUS QUO DA EMPRESA",
+        "GARANTIR O PROCESSO CONTÍNUO DE MELHORIA",
+        "IGNORAR AS OPINIÕES DOS CLIENTES"
+      ]
+    },
+    {
+      "pergunta": "4) O QUE É CALCULADO PARA OBTER O ÍNDICE NPS DE UMA EMPRESA?",
+      "opcoes": [
+        "A MÉDIA DAS RESPOSTAS DOS CLIENTES.",
+        "O PERCENTUAL DE PROMOTOR MENOS O PERCENTUAL DE DETRATOR.",
+        "A SOMA DAS NOTAS DADAS PELOS CLIENTES.",
+        "O NÚMERO TOTAL DE RESPOSTAS OBTIDAS."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE REPRESENTA A ESCALA 9 OU 10 NA METODOLOGIA NPS?",
+      "opcoes": [
+        "CLIENTES SATISFEITOS QUE RECOMENDAM A EMPRESA.",
+        "CLIENTES PASSIVAMENTE SATISFEITOS.",
+        "CLIENTES INSATISFEITOS.",
+        "CLIENTES QUE NÃO TÊM OPINIÃO SOBRE A EMPRESA."
+      ]
+    },
+    {
+      "pergunta": "2) NA ESCALA DE 0 A 10 DA NPS, QUAIS CLIENTES SÃO CONSIDERADOS DETRATORES?",
+      "opcoes": [
+        "NOTAS DE 0 A 6.",
+        "NOTAS DE 7 OU 8.",
+        "NOTAS DE 9 OU 10.",
+        "TODAS AS ANTERIORES."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O OBJETIVO PRINCIPAL DA NPS (NET PROMOTER SCORE)?",
+      "opcoes": [
+        "MEDIR A RECEITA DA EMPRESA.",
+        "AVALIAR A EFICIÊNCIA OPERACIONAL.",
+        "MENSURAR A SATISFAÇÃO E LEALDADE DOS CLIENTES.",
+        "ANALISAR O DESEMPENHO FINANCEIRO."
+      ]
+    }
+  ]
+}
