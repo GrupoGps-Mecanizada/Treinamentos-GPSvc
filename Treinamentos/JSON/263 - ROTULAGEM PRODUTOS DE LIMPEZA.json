@@ -1,0 +1,52 @@
+{
+  "treinamento": "ROTULAGEM PRODUTOS DE LIMPEZA",
+  "id": 263,
+  "idChecklist": 175,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual órgão determina as regras de rotulagem para produtos saneantes?",
+      "opcoes": [
+        "ANATEL.",
+        "TOP SERVICE.",
+        "ANVISA.",
+        "ANTT."
+      ]
+    },
+    {
+      "pergunta": "4) Quais informações devem constar no rótulo do frasco de 1 litro de um produto diluído?",
+      "opcoes": [
+        "Nome do produto, nome do operador, setor, lote, data da diluição e matrícula do operador.",
+        "Nome do produto, nome do operador, setor, lote, data de validade e matrícula do operador.",
+        "Apenas a data de validade do fabricante.",
+        "Nome do produto, nome do operador, setor, lote, diluição, data da diluição e data de validade."
+      ]
+    },
+    {
+      "pergunta": "3) Quanto ao saneante Multibac BP, após diluído em um frasco de 1 litro, a validade do frasco será:",
+      "opcoes": [
+        "7 dias, contando após o dia da diluição.",
+        "30 dias, contando com o dia da diluição.",
+        "7 dias, contando com o dia da diluição.",
+        "30 dias, contando após o dia da diluição."
+      ]
+    },
+    {
+      "pergunta": "2) Um frasco original do produto Gel Eco Clean foi aberto em 20/11/2020. Qual será a validade de sua etiqueta após aberto?",
+      "opcoes": [
+        "A validade será de 6 meses a contar da data de abertura do frasco.",
+        "A validade de 1 ano a contar da data de abertura do frasco.",
+        "A validade especificada pelo fabricante.",
+        "A validade de 30 dias a contar da data de abertura do frasco."
+      ]
+    },
+    {
+      "pergunta": "1) Devemos ter um controle rigoroso sobre a validade dos produtos saneantes, visando manter o máximo de eficácia do produto. Para realizar o controle de validade utilizamos:",
+      "opcoes": [
+        "Técnicas de diluição.",
+        "Técnicas de rotulagem.",
+        "Técnicas de segurança do trabalho.",
+        "Técnicas de higienização avançadas."
+      ]
+    }
+  ]
+}
