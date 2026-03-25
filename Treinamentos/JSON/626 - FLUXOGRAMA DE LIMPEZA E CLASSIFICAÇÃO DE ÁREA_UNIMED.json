@@ -1,0 +1,52 @@
+{
+  "treinamento": "FLUXOGRAMA DE LIMPEZA E CLASSIFICAÇÃO DE ÁREA_UNIMED",
+  "id": 626,
+  "idChecklist": 412,
+  "perguntas": [
+    {
+      "pergunta": "5) Conforme o fluxograma, para limpeza de tetos e paredes, qual item abaixo não se enquadra?",
+      "opcoes": [
+        "Umedecer o pano branco grande com Multibac BP.",
+        "Lavar a parede.",
+        "Enxaguar o pano na água do balde cinza de superfícies.",
+        "Esfregar a fibra azul na parede até que fique limpa."
+      ]
+    },
+    {
+      "pergunta": "4) Qual o critério para classificar uma área semicrítica?",
+      "opcoes": [
+        "Ambiente com risco aumentado de transmissão de microrganismo.",
+        "Ambiente com risco baixo de transmissibilidade.",
+        "Ambiente não ocupado por pacientes.",
+        "Nenhuma das alternativas está correta."
+      ]
+    },
+    {
+      "pergunta": "3) Qual o ambiente com risco aumentado de transmissão de microrganismos?",
+      "opcoes": [
+        "Área semicrítica.",
+        "Área não crítica.",
+        "Área perigosa.",
+        "Área crítica."
+      ]
+    },
+    {
+      "pergunta": "2) Qual o objetivo da classificação das áreas dos serviços de saúde?",
+      "opcoes": [
+        "Orientar os pacientes sobre os riscos de infecção na sala de espera.",
+        "Orientar para que os processos de limpeza e desinfecção sejam adequados aos riscos do local.",
+        "Agilizar o atendimento na recepção.",
+        "Fiscalizar os serviços de limpeza e desinfecção."
+      ]
+    },
+    {
+      "pergunta": "1) Assinale a alternativa incorreta quanto ao fluxograma de trabalho:",
+      "opcoes": [
+        "Ajuda a controlar os horários dos funcionários.",
+        "Mapeia as boas práticas na gestão de processos.",
+        "Qualquer Colaborador consegue entender o fluxo das tarefas.",
+        "Agiliza as ações e procedimentos."
+      ]
+    }
+  ]
+}
