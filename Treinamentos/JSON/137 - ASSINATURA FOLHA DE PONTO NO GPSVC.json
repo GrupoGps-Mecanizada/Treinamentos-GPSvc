@@ -1,0 +1,52 @@
+{
+  "treinamento": "ASSINATURA FOLHA DE PONTO NO GPSVC",
+  "id": 137,
+  "idChecklist": 77,
+  "perguntas": [
+    {
+      "pergunta": "5) Para ter todas as funcionalidades do aplicativo, devo manter atualizado qual versão? Assinale a opção CORRETA:",
+      "opcoes": [
+        "Sempre manter a primeira versão.",
+        "Manter qualquer uma das versões.",
+        "Não é necessário manter nenhuma versão.",
+        "Sempre manter atualizada a última versão."
+      ]
+    },
+    {
+      "pergunta": "4) O processo de assinar folhas ponto via aplicativo GPSvc existe desde:",
+      "opcoes": [
+        "Competência 01/2017.",
+        "Competência 09/2021.",
+        "Desde a fundação do Grupo GPS.",
+        "Competência 04/2020."
+      ]
+    },
+    {
+      "pergunta": "3) Referente as folhas assinadas no aplicativo GPSvc, assinale a alternativa CORRETA:",
+      "opcoes": [
+        "Uma cópia da folha ponto assinada é enviada ao e-mail assim que o processo é realizado no aplicativo.",
+        "Não recebo nenhuma cópia da folha ponto assinada.",
+        "A folha ponto é descartada assim que assinada no aplicativo.",
+        "Somente o supervisor tem acesso as folhas ponto assinadas."
+      ]
+    },
+    {
+      "pergunta": "2) De acordo com o treinamento, para confirmar a assinatura do ponto é necessário:",
+      "opcoes": [
+        "Colocar apenas a digital para liberar a senha no aplicativo.",
+        "Tirar uma foto para validar o reconhecimento facial.",
+        "Digitar o Token enviado para o e-mail ou SMS e a senha do aplicativo GPSvc.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "1) Baseado no treinamento, selecione a alternativa VERDADEIRA:",
+      "opcoes": [
+        "Para assinar a folha ponto, preciso acessar o GPSvc na aba \"Ponto\" e em seguida na aba de \"Horários de Trabalho\".",
+        "Para assinar a folha ponto, preciso acessar o GPSVc na aba \"Ponto\" e em seguida na aba de \"Pontos Registrados\".",
+        "Para assinar a folha ponto, preciso acessar o GPSVc na aba \"Ponto\" e em seguida na aba de \"Folhas Pendentes\".",
+        "Para assinar a folha ponto, preciso acessar o GPSVc na aba \"Ponto\" e em seguida na aba de \"Registrar Ponto\"."
+      ]
+    }
+  ]
+}
