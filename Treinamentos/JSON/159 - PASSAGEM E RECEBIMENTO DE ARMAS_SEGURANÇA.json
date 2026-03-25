@@ -1,0 +1,52 @@
+{
+  "treinamento": "PASSAGEM E RECEBIMENTO DE ARMAS_SEGURANÇA",
+  "id": 159,
+  "idChecklist": 85,
+  "perguntas": [
+    {
+      "pergunta": "5) Onde devemos guardar o armamento e colete balístico?",
+      "opcoes": [
+        "Em cima da mesa da portaria.",
+        "Na gaveta da recepção.",
+        "No cofre.",
+        "Com pessoas não autorizadas."
+      ]
+    },
+    {
+      "pergunta": "4) Na passagem de serviço, o que devemos observar nas munições para certificar que são originais?",
+      "opcoes": [
+        "O fabricante brasileiro BVC.",
+        "A espoleta amarela com marca \"V\" e fabricante brasileiro CBC.",
+        "A espoleta verde com marca \"A\".",
+        "A espoleta preta com marca \"Y\" e fabricante brasileiro CCB."
+      ]
+    },
+    {
+      "pergunta": "3) Quem está recebendo o serviço e a arma de fogo, deve:",
+      "opcoes": [
+        "Receber a arma com o cano apontado para o chão, estar uniformizado, com colete balístico e realizar a conferência das munições.",
+        "Receber a arma com o cano apontado para o chão, estar à paisana, sem colete balístico e realizar a conferência das munições.",
+        "Receber a arma com o cano apontado em sua direção, estar uniformizado, sem colete balístico e realizar a conferência das munições.",
+        "Receber a arma com o cano apontado em sua direção, estar uniformizado, com colete balístico e não realizar a conferência das munições."
+      ]
+    },
+    {
+      "pergunta": "2) Quem está passando serviço e entregando a arma de fogo, deve:",
+      "opcoes": [
+        "Colocar o dedo no gatilho com o cano voltado para baixo e desmuniciar a arma.",
+        "Colocar o cano em direção ao colega, desmuniciar a arma e não colocar o dedo no gatilho.",
+        "Manter sempre o dedo indicador longe do gatilho, desmuniciar a arma, manter o revólver aberto desmuniciado e com o cano voltado para o chão.",
+        "Manter o cano voltado para o chão, deixar o dedo no gatilho e desmuniciar a arma."
+      ]
+    },
+    {
+      "pergunta": "1) Por que é essencial aplicar os devidos cuidados na passagem do armamento?",
+      "opcoes": [
+        "Para evitar incidentes e acidentes.",
+        "Para evitar cobrança da liderança.",
+        "Para evitar cobrança do Cliente.",
+        "Para evitar excesso de confiança."
+      ]
+    }
+  ]
+}
