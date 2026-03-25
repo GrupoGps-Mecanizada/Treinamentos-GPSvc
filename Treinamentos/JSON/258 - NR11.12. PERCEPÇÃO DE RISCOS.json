@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR11.12. PERCEPÇÃO DE RISCOS",
+  "id": 258,
+  "idChecklist": 170,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais perguntas devem ser feitas antes de iniciar qualquer tarefa?",
+      "opcoes": [
+        "Nunca faço qualquer pergunta no trabalho.",
+        "Quais os \"Riscos que encontrei nesse local?\" e \"Quais as medidas de segurança devo adotar?\"",
+        "Apenas: Quais os riscos encontrei nesse local?",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "4) Quais são os 7 inimigos da percepção de riscos?",
+      "opcoes": [
+        "Colisão, fogo, água, trabalhar sentado, andar na faixa de pedestre, utilizar EPI, higienizar as mãos.",
+        "Pressa, autoconfiança, falta de habilitação, falha no isolamento homem máquina, desrespeitar os locais de trânsito, desrespeitar os limites e sem condições físicas e emocionais.",
+        "Não é importante saber os 7 inimigos da percepção de riscos.",
+        "Falta de habilitação, falha no isolamento, desrespeitar os locais, desrespeitar os limites, apenas."
+      ]
+    },
+    {
+      "pergunta": "3) Baseado no treinamento, qual a definição de comportamento seguro?",
+      "opcoes": [
+        "Não há definição de comportamento seguro.",
+        "É o ato de agir apenas se for chamado.",
+        "É entendido como a atitude impulsiva que uma pessoa toma para sanar os riscos que ela identificou no seu ambiente.",
+        "Uma vez consciente dos riscos, adota todas as medidas preventivas necessárias para proteger a si, aos colegas e ao meio ambiente."
+      ]
+    },
+    {
+      "pergunta": "2) Qual a definição de percepção de riscos?",
+      "opcoes": [
+        "Andar sem olhar por onde passa; pois acidentes é um acaso.",
+        "É o ato de tomar consciência por meio dos sentidos de algum perigo iminente tomando a decisão adequada para evitá-lo.",
+        "É o ato de tomar contato com um perigo por meio dos sentidos, interpretar essa informação e entender que acidentes só acontecem com pessoas azaradas.",
+        "É o ato de tomar contato com o perigo."
+      ]
+    },
+    {
+      "pergunta": "1) Qual a maneira mais eficiente de se evitar acidentes?",
+      "opcoes": [
+        "Ter percepção de riscos como um comportamento seguro.",
+        "Operar empilhadeira ou veículos sem habilitação.",
+        "Não seguir as normas de segurança.",
+        "Não há uma forma eficiente para se evitar acidentes."
+      ]
+    }
+  ]
+}
