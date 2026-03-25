@@ -1,0 +1,52 @@
+{
+  "treinamento": "KIT DE CRISE_REGIONAL GOIÁS",
+  "id": 605,
+  "idChecklist": 391,
+  "perguntas": [
+    {
+      "pergunta": "5) Com qual equipe o kit crise fica guardado?",
+      "opcoes": [
+        "Vigilância.",
+        "Brigada.",
+        "Portaria.",
+        "Serviços Gerais."
+      ]
+    },
+    {
+      "pergunta": "4) Quando passo uma informação incorreta ou incompleta, o que pode acontecer?",
+      "opcoes": [
+        "Desaparecimento da ocorrência.",
+        "Agravamento da ocorrência.",
+        "Resolução da ocorrência.",
+        "Nada acontece."
+      ]
+    },
+    {
+      "pergunta": "3) É considerado ocorrência comum:",
+      "opcoes": [
+        "Ocorrência de grande proporção.",
+        "Ocorrência de média.",
+        "Ocorrência de pequena proporção.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "2) Dentre os tipos de ocorrências, qual exemplo não é uma crise?",
+      "opcoes": [
+        "Disparo de alarme.",
+        "Alagamento.",
+        "Explosão.",
+        "Morte."
+      ]
+    },
+    {
+      "pergunta": "1) Qual das opções abaixo não é uma ocorrência?",
+      "opcoes": [
+        "Emergência.",
+        "Crise.",
+        "Ocorrência comum.",
+        "Urgência."
+      ]
+    }
+  ]
+}
