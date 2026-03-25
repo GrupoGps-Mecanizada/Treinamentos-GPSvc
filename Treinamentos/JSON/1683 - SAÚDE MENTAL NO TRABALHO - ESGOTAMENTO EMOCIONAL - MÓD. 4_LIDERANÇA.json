@@ -1,0 +1,52 @@
+{
+  "treinamento": "SAÚDE MENTAL NO TRABALHO - ESGOTAMENTO EMOCIONAL - MÓD. 4_LIDERANÇA",
+  "id": 1683,
+  "idChecklist": 1381,
+  "perguntas": [
+    {
+      "pergunta": "5) O ESGOTAMENTO EMOCIONAL, INDICA QUE:",
+      "opcoes": [
+        "QUE OS LIMITES INTERNOS FORAM ULTRAPASSADOS.",
+        "QUE O CORPO PRECISA DE MAIS SONO.",
+        "QUE A CARGA FÍSICA ESTÁ ELEVADA.",
+        "QUE A ROTINA ESTÁ EQUILIBRADA."
+      ]
+    },
+    {
+      "pergunta": "4) DE ACORDO COM O TREINAMENTO, UMA ESTRATÉGIA QUE O LÍDER PODE ADOTAR É:",
+      "opcoes": [
+        "REFORÇAR METAS E PRAZOS RÍGIDOS.",
+        "EVITAR DIÁLOGOS SOBRE EMOÇÕES.",
+        "REDUZIR O CONTATO COM A EQUIPE.",
+        "ESTIMULAR PAUSAS E EQUILÍBRIO ENTRE TRABALHO E DESCANSO."
+      ]
+    },
+    {
+      "pergunta": "3) ENTRE AS CAUSAS DO ESGOTAMENTO EMOCIONAL ESTÃO:",
+      "opcoes": [
+        "AUSÊNCIA DE TAREFAS EMOCIONAIS.",
+        "CONFLITOS INTERPESSOAIS E PREOCUPAÇÃO EXCESSIVA.",
+        "DIMINUIÇÃO DE DEMANDAS AFETIVAS.",
+        "FALTA DE OPORTUNIDADES DE LAZER."
+      ]
+    },
+    {
+      "pergunta": "2) UM DOS SINTOMAS DO ESGOTAMENTO EMOCIONAL É:",
+      "opcoes": [
+        "AUMENTO DE FOCO E MOTIVAÇÃO.",
+        "INTERESSE EXCESSIVO POR ATIVIDADES.",
+        "TRISTEZA, IRRITABILIDADE E APATIA.",
+        "HUMOR ESTÁVEL E POSITIVO."
+      ]
+    },
+    {
+      "pergunta": "1) O ESGOTAMENTO EMOCIONAL ESTÁ LIGADO A:",
+      "opcoes": [
+        "EXCESSO DE DEMANDAS AFETIVAS.",
+        "FALTA DE ENERGIA FÍSICA.",
+        "SOMENTE PROBLEMAS FINANCEIROS.",
+        "APENAS POUCAS HORAS DE SONO."
+      ]
+    }
+  ]
+}
