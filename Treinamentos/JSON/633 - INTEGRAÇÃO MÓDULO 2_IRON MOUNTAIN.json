@@ -1,0 +1,52 @@
+{
+  "treinamento": "INTEGRAÇÃO MÓDULO 2_IRON MOUNTAIN",
+  "id": 633,
+  "idChecklist": 419,
+  "perguntas": [
+    {
+      "pergunta": "5) O que não faz parte do código de Ética da Iron Mountain?",
+      "opcoes": [
+        "Comportamentos ameaçadores, hostis ou violentos.",
+        "Proteção de informações proprietárias e confidenciais.",
+        "Cumprimento das leis antissuborno.",
+        "Evitar fraudes."
+      ]
+    },
+    {
+      "pergunta": "4) Para sua segurança o que não é permitido?",
+      "opcoes": [
+        "Usar seu celular no administrativo.",
+        "Usar o uniforme adequado.",
+        "Falar com pessoas de outros setores.",
+        "Fumar, usar celulares, exercer atividades sem uniforme adequado."
+      ]
+    },
+    {
+      "pergunta": "3) Quais são os nossos serviços?",
+      "opcoes": [
+        "Apenas Transformação Digital.",
+        "Apenas Armazenamento Seguro e Logística.",
+        "Armazenamento Seguro e Logística, Destruição Segura e Transformação Digital.",
+        "Armazenamento Inseguro e Logística, Destruição Segura e Transformação Digital."
+      ]
+    },
+    {
+      "pergunta": "2) Quais são nossos maiores ativos?",
+      "opcoes": [
+        "Gerenciamento de pessoas.",
+        "Pessoas, Clientes e Negócios.",
+        "Negócios de automação.",
+        "Clientes focados em transporte."
+      ]
+    },
+    {
+      "pergunta": "1) Qual é o propósito da Iron Mountain?",
+      "opcoes": [
+        "Focar nas áreas sociais e expansão.",
+        "Apenas proteger o Cliente.",
+        "Expandir de maneira inovadora os negócios do parceiro.",
+        "Ser o parceiro mais confiável."
+      ]
+    }
+  ]
+}
