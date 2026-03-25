@@ -1,0 +1,52 @@
+{
+  "treinamento": "JUNHO LARANJA - CONSCIENTIZAÇÃO SOBRE A ANEMIA E LEUCEMIA",
+  "id": 1462,
+  "idChecklist": 1210,
+  "perguntas": [
+    {
+      "pergunta": "5) DE ACORDO COM OS DADOS APRESENTADOS, QUANTOS CASOS DE LEUCEMIA SÃO DIAGNOSTICADOS ANUALMENTE NO BRASIL?",
+      "opcoes": [
+        "CERCA DE 100 MIL CASOS.",
+        "MAIS DE 50 MIL CASOS.",
+        "APROXIMADAMENTE 20 MIL CASOS.",
+        "CERCA DE 10 MIL CASOS."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL É A PRINCIPAL FORMA DE PREVENIR A ANEMIA?",
+      "opcoes": [
+        "TER UMA ALIMENTAÇÃO EQUILIBRADA E RICA EM FERRO.",
+        "TOMAR SUPLEMENTOS DE VITAMINA C DIARIAMENTE.",
+        "EVITAR A EXPOSIÇÃO À RADIAÇÃO.",
+        "PRATICAR EXERCÍCIOS INTENSOS REGULARMENTE."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É O TIPO DE CÉLULA DO SANGUE AFETADO DIRETAMENTE PELA LEUCEMIA?",
+      "opcoes": [
+        "HEMOGLOBINA.",
+        "PLAQUETAS.",
+        "GLÓBULOS BRANCOS.",
+        "GLÓBULOS VERMELHOS."
+      ]
+    },
+    {
+      "pergunta": "2) ENTRE OS SINTOMAS ABAIXO, QUAL DELES SE ENCAIXA NA CONDIÇÃO DA ANEMIA?",
+      "opcoes": [
+        "SUORES NOTURNOS E PERDA DE PESO.",
+        "HEMATOMAS E INFECÇÕES CONSTANTES.",
+        "FEBRE ALTA E DOR DE GARGANTA.",
+        "FADIGA CONSTANTE E PALIDEZ NA PELE."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE CARACTERIZA A ANEMIA?",
+      "opcoes": [
+        "A PRODUÇÃO EXCESSIVA DE GLÓBULOS BRANCOS.",
+        "A REDUÇÃO DOS GLÓBULOS VERMELHOS OU DA HEMOGLOBINA.",
+        "A PRESENÇA DE CÉLULAS CANCERÍGENAS NO SANGUE.",
+        "A DEFICIÊNCIA DE VITAMINA C NO ORGANISMO."
+      ]
+    }
+  ]
+}
