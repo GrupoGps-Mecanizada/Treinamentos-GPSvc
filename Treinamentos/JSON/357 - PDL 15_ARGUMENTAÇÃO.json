@@ -1,0 +1,52 @@
+{
+  "treinamento": "PDL 15_ARGUMENTAÇÃO",
+  "id": 357,
+  "idChecklist": 255,
+  "perguntas": [
+    {
+      "pergunta": "5) Podemos dizer que, ouvir os outros é muito importante por várias razões, mas principalmente:",
+      "opcoes": [
+        "Para termos argumentos para uma discussão.",
+        "Para entender o que a outra pessoa realmente pensa e por que ela acha isso.",
+        "Para saber se ela está realmente falando a verdade.",
+        "Por respeito ao próximo."
+      ]
+    },
+    {
+      "pergunta": "4) Vimos que algumas discussões são naturais de acontecer quando mantido o respeito, pois as emoções podem ser afloradas. Nesta situação se alguém te ofender, qual a melhor conduta?",
+      "opcoes": [
+        "Mantenha o diálogo e mostre que você está acima disso.",
+        "Demonstre respeito.",
+        "Seja você um ponto de equilíbrio.",
+        "Todas as alternativas."
+      ]
+    },
+    {
+      "pergunta": "3) A qual dica se refere o texto: “às vezes é melhor esfriar a cabeça antes de terminar o assunto e rever os argumentos, principalmente se for uma discussão sobre uma situação ou um assunto importante”.",
+      "opcoes": [
+        "Admita quando o outro argumento é melhor que o seu.",
+        "Se precisar termine mais tarde.",
+        "Seja educado.",
+        "Seja um bom ouvinte."
+      ]
+    },
+    {
+      "pergunta": "2) De acordo com o treinamento, independente da importância da argumentação, a orientação básica para manter um argumento é:",
+      "opcoes": [
+        "Ter razão.",
+        "Tom de voz e posicionamento.",
+        "Educação e respeito.",
+        "Fazer valer seu ponto de vista."
+      ]
+    },
+    {
+      "pergunta": "1) Com base no treinamento, a argumentação é uma competência fundamental para um líder, pois:",
+      "opcoes": [
+        "Pois fechamos melhores negócios na base da discussão.",
+        "Pois quem não grita, nunca sai na frente.",
+        "Pois estamos o tempo todo falando com Clientes, Colaboradores, Parceiros de trabalho e até mesmo com nossos amigos e familiares.",
+        "Pois quanto mais argumentamos, mais razão nós teremos."
+      ]
+    }
+  ]
+}
