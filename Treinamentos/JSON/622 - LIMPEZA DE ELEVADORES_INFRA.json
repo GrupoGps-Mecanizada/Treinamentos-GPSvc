@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA DE ELEVADORES_INFRA",
+  "id": 622,
+  "idChecklist": 408,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual alternativa INCORRETA sobre a limpeza do elevador?",
+      "opcoes": [
+        "Quando houver tapete, passar aspirador e retirá-lo antes de passar o mop plano de piso.",
+        "Posso realizar a limpeza do elevador com ele em movimento e com outros usuários dentro do elevador.",
+        "Para limpeza do espelho, primeiro, passar o pano de microfibra ou descartável seco, em seguida com movimentos de sentido único.",
+        "O uso do produto profissional abrilhantador de inox é feito após a limpeza com detergente neutro. É necessário verificar com sua liderança se é utilizado na sua unidade."
+      ]
+    },
+    {
+      "pergunta": "4) Assinale a alternativa CORRETA sobre a limpeza da parede do elevador:",
+      "opcoes": [
+        "Sempre limpamos as paredes, sendo os botões algo que não limpamos diariamente, por ser uma área pouco contaminada.",
+        "Devemos ter atenção para a limpeza dos botões de acionamento, por ser uma área de alta contaminação. E se necessário, finalizar aplicando o produto abrilhantador para inox, em sentido único.",
+        "Se houver manchas ou adesivos pode se utilizar o fibraço ou fibra verde na limpeza da parede do elevador.",
+        "O viés do inox existe para sinalizar que não precisa realizar a passada do pano em sentido único, mas em zigue-zague."
+      ]
+    },
+    {
+      "pergunta": "3) O que NÃO deve ser feito na limpeza do teto?",
+      "opcoes": [
+        "Para limpeza de hora em hora e diária, utilizar o espanador eletrostático.",
+        "Pelo menos uma vez por semana, utilizar o suporte limpa tudo com pano de microfibra ou descartável umedecido com produto químico.",
+        "Na limpeza do teto do elevador retirar as placas e não é necessário solicitar o apoio da equipe de manutenção do local.",
+        "Pode ser utilizado o “Suporte Limpa Tudo” para limpeza do teto."
+      ]
+    },
+    {
+      "pergunta": "2) SOBRE A LIMPEZA DO AÇO INOX, É INCORRETO AFIRMAR:",
+      "opcoes": [
+        "NÃO EXISTE UM PADRÃO DE LIMPEZA.",
+        "EXISTE UM DESENHO DO INOX CHAMADO VIÉS.",
+        "A LIMPEZA DO INOX DEVE SEGUIR O SENTIDO DO VIÉS, QUE PODE SER VERTICAL OU HORIZONTAL.",
+        "NÃO PODEM SER USADOS OBJETOS PONTIAGUDOS OU ABRASIVOS PARA A LIMPEZA OU RETIRADA DE MANCHAR E ADESIVOS DA PAREDE DE AÇO INOX."
+      ]
+    },
+    {
+      "pergunta": "1) Assinale a alternativa INCORRETA com relação à rotina da limpeza de elevador:",
+      "opcoes": [
+        "Escolher o horário de menor fluxo de pessoas para realizar a limpeza, por exemplo: turno da noite.",
+        "Não é necessário utilizar a placa de sinalização para interditar para a limpeza.",
+        "Padronizar o andar específico em que o elevador ficará parada para realização da limpeza.",
+        "Intensificar a limpeza de elevadores de serviço devido a movimentação de produtos, cargas e pessoas."
+      ]
+    }
+  ]
+}
