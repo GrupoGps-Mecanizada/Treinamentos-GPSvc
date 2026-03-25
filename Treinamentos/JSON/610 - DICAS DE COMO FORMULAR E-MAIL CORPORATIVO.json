@@ -1,0 +1,52 @@
+{
+  "treinamento": "DICAS DE COMO FORMULAR E-MAIL CORPORATIVO",
+  "id": 610,
+  "idChecklist": 396,
+  "perguntas": [
+    {
+      "pergunta": "5) Assinale abaixo a opção que mostre APENAS erros gramaticais que devemos tomar cuidado ao escrever um e-mail:",
+      "opcoes": [
+        "Erros de digitação, erros de sinalização e erros de concordância.",
+        "Repetição de palavras, erro de destinatário, erros de concordância e de pontuação.",
+        "Repetição de palavras, erros de digitação, erros de concordância, erros de pontuação e uso de gírias.",
+        "Não devemos tomar cuidado com a gramática."
+      ]
+    },
+    {
+      "pergunta": "4) Por que devemos sempre pensar para quem estamos escrevendo o e-mail?",
+      "opcoes": [
+        "Para adequar o entendimento do assunto do seu e-mail.",
+        "Para adequar a formatação do seu e-mail e o assunto abordado.",
+        "Para limitar a extenção do seu e-mail.",
+        "Para adequar a escrita de acordo com o destinatário e com o assunto abordado."
+      ]
+    },
+    {
+      "pergunta": "3) Devemos buscar aproveitar que tipo de gatilho para escrever os e-mails comerciais?",
+      "opcoes": [
+        "Gatinhos pessoais.",
+        "Gatilhos mentais.",
+        "Gatilhos profissionais.",
+        "Gatilhos emocionais."
+      ]
+    },
+    {
+      "pergunta": "2) Assinale abaixo um exemplo de frase cordial que podemos usar no ínicio do nosso e-mail:",
+      "opcoes": [
+        "“Bom dia, tudo bem?”.",
+        "“Fico à disposição”.",
+        "“Bom dia, abraços”.",
+        "Não devemos usa nenhuma frase cordial."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o primeiro passo para chamar atenção do destinatário para o seu e-mail?",
+      "opcoes": [
+        "Ser assertivo no campo do destinatário.",
+        "Ser assertivo no campo do assunto.",
+        "Ser assertivo no primeiro parágrafo do e-mail.",
+        "Ser assertivo na assinatura do e-mail."
+      ]
+    }
+  ]
+}
