@@ -1,0 +1,52 @@
+{
+  "treinamento": "O QUE É PGR E PCMSO?",
+  "id": 338,
+  "idChecklist": 237,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual o significado de PCMSO?",
+      "opcoes": [
+        "Plano de ação de Saúde.",
+        "Programa de Controle Médico de Saúde Ocupacional.",
+        "Documento médico da empresa.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) Qual o significado de PGR?",
+      "opcoes": [
+        "Programa de Gerenciamento de Riscos.",
+        "Procedimento de controle de perdas.",
+        "Planejamento de riscos ocupacionais.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) Cite os exames que a empresa deve providenciar conforme o PCMSO:",
+      "opcoes": [
+        "Entrada na empresa.",
+        "Audiometria.",
+        "Admissionais, periódicos, de retorno ao trabalho, mudança de função e demissionais.",
+        "Todas as alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) Qual o objetivo do ASO?",
+      "opcoes": [
+        "Somente consulta de rotina.",
+        "Admissional.",
+        "Avalia o desempenho de trabalho.",
+        "Atestar se o funcionário está apto para exercer suas atividades."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o significado de ASO?",
+      "opcoes": [
+        "Avaliação do Sistema de Saúde.",
+        "Programa de Gerenciamento de Riscos.",
+        "Atestado de Saúde Ocupacional.",
+        "Nenhuma das alternativas."
+      ]
+    }
+  ]
+}
