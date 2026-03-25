@@ -1,0 +1,52 @@
+{
+  "treinamento": "MOVIMENTAÇÃO INTERNA DE PRODUTOS_LOGÍSTICA",
+  "id": 185,
+  "idChecklist": 105,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual a importância da movimentação interna?",
+      "opcoes": [
+        "Não tem importância, pois é apenas um processo básico.",
+        "É importante pois gargalos nesta etapa podem prejudicar a logística como um todo.",
+        "É a base da logística, pode ser feita por qualquer pessoa e não precisa de processos.",
+        "É importante, mas pode ser feita com qualquer tipo de equipamento."
+      ]
+    },
+    {
+      "pergunta": "4) O que é movimentação interna?",
+      "opcoes": [
+        "É a entrega no consumidor final.",
+        "É o movimento de produtos dentro de uma área.",
+        "É a limpeza e organização do armazém.",
+        "É colocar os materiais em qualquer lugar dentro do armazém."
+      ]
+    },
+    {
+      "pergunta": "3) Por que devemos ter uma boa comunicação interna?",
+      "opcoes": [
+        "Por que é bom conversar.",
+        "Por que todos devem estar cientes do processo e do que acontece na operação.",
+        "Não é necessário por que cada um deve cuidar do seu processo.",
+        "Por que é bom para comentar sobre a operação no intervalo com os colegas."
+      ]
+    },
+    {
+      "pergunta": "2) Como ter uma boa movimentação interna de produtos?",
+      "opcoes": [
+        "Faça sempre do jeito que achar melhor, sem seguir os processos.",
+        "Não se preocupe com a limpeza e organização do armazém.",
+        "Definindo o fluxo de informações.",
+        "Não tenha cuidado com os equipamentos utilizados."
+      ]
+    },
+    {
+      "pergunta": "1) O que uma má movimentação interna pode causar?",
+      "opcoes": [
+        "Ganhos para a empresa.",
+        "Equipe produtiva.",
+        "Aumento nas avarias.",
+        "Controle de estoque bem definido."
+      ]
+    }
+  ]
+}
