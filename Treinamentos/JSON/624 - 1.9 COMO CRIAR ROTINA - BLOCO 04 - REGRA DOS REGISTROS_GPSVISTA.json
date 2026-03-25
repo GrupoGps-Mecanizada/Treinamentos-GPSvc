@@ -1,0 +1,52 @@
+{
+  "treinamento": "1.9 COMO CRIAR ROTINA - BLOCO 04 - REGRA DOS REGISTROS_GPSVISTA",
+  "id": 624,
+  "idChecklist": 410,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais os erros podem impedir o cadastro da rotina?",
+      "opcoes": [
+        "Não preencher os campos obrigatórios.",
+        "A Rotina não gera erro.",
+        "Não flegar todas as opções disponíveis.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "4) Qual a opção neste bloco determina a cerca virtual do contrato no aplicativo?",
+      "opcoes": [
+        "Validação do “Qr Code” e “Geolocalização”.",
+        "Raio.",
+        "Latitude.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Qual o critério para poder pausar e abortar as tarefas no aplicativo?",
+      "opcoes": [
+        "Definir no checklist essa opção.",
+        "c.",
+        "Flegar a opção de pausar e abortar tarefas.",
+        "Não há nenhum critério para pausar e abortar tarefas no Vista."
+      ]
+    },
+    {
+      "pergunta": "2) Qual é o objetivo de definir as regras dos registros?",
+      "opcoes": [
+        "Definir quais os campos estarão disponíveis no aplicativo.",
+        "Definir “Geolocalização”.",
+        "Definir as evidências da rotina (assinatura, foto, áudio, comentário etc.).",
+        "Todas as alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "1) Neste bloco, quais os dados devem ser preenchidos?",
+      "opcoes": [
+        "Nome da rotina, intervalo das tarefas, local e intervalo de repetição.",
+        "Prazo, duração e checklist.",
+        "Cargo, função e Colaborador.",
+        "Regras dos registros."
+      ]
+    }
+  ]
+}
