@@ -1,0 +1,52 @@
+{
+  "treinamento": "TRABALHOS A QUENTE_RENAULT",
+  "id": 295,
+  "idChecklist": 208,
+  "perguntas": [
+    {
+      "pergunta": "5) Onde preferencialmente os trabalhos a quente devem ser realizados?",
+      "opcoes": [
+        "Em ambientes controlados e separados com fluxo de pessoas autorizadas.",
+        "Onde for preciso.",
+        "Qualquer lugar, porque trabalhos a quente são seguros.",
+        "Lugares com muitos extintores."
+      ]
+    },
+    {
+      "pergunta": "4) Quem pode realizar trabalhos a quente?",
+      "opcoes": [
+        "Quem estiver disponível.",
+        "Qualquer pessoa com registro em carteira.",
+        "Profissional treinado e capacitado para a função.",
+        "Quem chegar primeiro."
+      ]
+    },
+    {
+      "pergunta": "3) Quando posso realizar um trabalho a quente?",
+      "opcoes": [
+        "Quando eu quiser.",
+        "Quando toda a área estiver segura, inspecionada e livre de combustíveis.",
+        "Não precisa de inspeções e nem vistorias faço quando quiser.",
+        "Sempre que meu superior solicitar, mesmo sem análise de risco."
+      ]
+    },
+    {
+      "pergunta": "2) O que fazer antes dos trabalhos a quente?",
+      "opcoes": [
+        "Lavar bem as mãos.",
+        "Trocar de roupa.",
+        "Verificar se a área está livre de materiais combustíveis e produtos inflamáveis.",
+        "Começar direto, não precisa fazer nada."
+      ]
+    },
+    {
+      "pergunta": "1) Qual desses itens estão relacionados com trabalhos a quente?",
+      "opcoes": [
+        "Trabalhos de pintura em forno.",
+        "Trabalhos com lixadeira, máquina de solda e maçaricos.",
+        "Trabalhos de limpeza em dutos.",
+        "Trabalhos de corte com tesoura pneumática."
+      ]
+    }
+  ]
+}
