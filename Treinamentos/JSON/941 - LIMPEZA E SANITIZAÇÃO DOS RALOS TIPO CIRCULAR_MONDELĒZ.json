@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA E SANITIZAÇÃO DOS RALOS TIPO CIRCULAR_MONDELĒZ",
+  "id": 941,
+  "idChecklist": 718,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAIS SÃO OS EPI’S OBRIGATÓRIOS PARA LIMPEZA DO RALO?",
+      "opcoes": [
+        "ÓCULOS DE SEGURANÇA, PROTETOR AURICULAR TIPO CONCHA, MANGOTE, JOELHEIRA E LUVA DE CORTE POR BAIXO DA LUVA DE LÁTEX LARANJA.",
+        "ÓCULOS DE SEGURANÇA, PROTETOR AURICULAR TIPO CONCHA, MANGOTE E JOELHEIRA.",
+        "ÓCULOS DE SEGURANÇA, PROTETOR AURICULAR TIPO CONCHA E LUVA DE LÁTEX LARANJA.",
+        "ÓCULOS DE SEGURANÇA E LUVA DE LÁTEX LARANJA."
+      ]
+    },
+    {
+      "pergunta": "4) POR ONDE SE DEVE INICIAR A LIMPEZA DO RALO CIRCULAR?",
+      "opcoes": [
+        "CORPO DO RALO.",
+        "PROTETOR DO RALO.",
+        "PARTE INTERNA DA ESTRUTURA DO RALO.",
+        "TAMPA DO RALO."
+      ]
+    },
+    {
+      "pergunta": "3) APÓS FINALIZAR A LIMPEZA DO RALO CIRCULAR, QUANTOS MINUTOS DEVEMOS DEIXAR OS UTENSÍLIOS IMERSOS EM DIVOSAN G5 1%?",
+      "opcoes": [
+        "10 MINUTOS.",
+        "20 MINUTOS.",
+        "25 MINUTOS.",
+        "30 MINUTOS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL É A COR DA LUVA DE LÁTEX EXCLUSIVA PARA LIMPEZA DE RALOS?",
+      "opcoes": [
+        "COR LARANJA.",
+        "COR AMARELA.",
+        "COR VEMELHA.",
+        "COR PRETA."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É A COR PADRÃO DOS MATERIAIS EXCLUSIVOS PARA LIMPEZA DE RALOS?",
+      "opcoes": [
+        "COR LARANJA.",
+        "COR AMARELA.",
+        "COR VERMELHA.",
+        "COR PRETA."
+      ]
+    }
+  ]
+}
