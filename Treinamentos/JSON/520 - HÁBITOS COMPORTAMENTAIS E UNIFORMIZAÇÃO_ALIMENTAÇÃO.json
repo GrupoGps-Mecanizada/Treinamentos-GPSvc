@@ -1,0 +1,52 @@
+{
+  "treinamento": "HÁBITOS COMPORTAMENTAIS E UNIFORMIZAÇÃO_ALIMENTAÇÃO",
+  "id": 520,
+  "idChecklist": 323,
+  "perguntas": [
+    {
+      "pergunta": "5) Com relação ao Uniforme, é correto dizer:",
+      "opcoes": [
+        "É necessário trocar o uniforme diariamente e não sentar no chão.",
+        "É necessário manter aventais plásticos na área de cocção.",
+        "Para Coordenadores é permitido o uso de adornos de pequenos tamanhos.",
+        "Nos armários, os sapatos permanecem junto às roupas."
+      ]
+    },
+    {
+      "pergunta": "4) São proibidos em Serviços de Alimentação:",
+      "opcoes": [
+        "Usar papel toalha para proteger o espirro e a tosse.",
+        "Degustar os alimentos, pequenas porções com as mãos.",
+        "Acionar lixeiras com pedal de inox, apenas se houver pedal de plástico resistente.",
+        "Falar sobre os alimentos e enxugar o suor com pano."
+      ]
+    },
+    {
+      "pergunta": "3) A contaminação cruzada ocorre quando:",
+      "opcoes": [
+        "Microrganismos de uma área são levados para outra área através das mãos.",
+        "Usamos água filtrada e praticamos a higiene corretamente.",
+        "Monitoramos as temperaturas e identificamos que estão adequadas.",
+        "Microrganismos de uma área são levados para a mesma área."
+      ]
+    },
+    {
+      "pergunta": "2) Perfume, cabelo e parasitas, são exemplos de contaminação, respectivamente:",
+      "opcoes": [
+        "Físico, biológico e químico.",
+        "Biológico, físico e biológico.",
+        "Químico, físico e biológico.",
+        "Químico, biológico e físico."
+      ]
+    },
+    {
+      "pergunta": "1) O que significa Boas Práticas de alimentação?",
+      "opcoes": [
+        "São regras de higiene para todas as pessoas envolvidas com a produção de alimentos.",
+        "Quando praticamos algo do bem.",
+        "Remove as sujidades.",
+        "Aumentar a ação do detergente."
+      ]
+    }
+  ]
+}
