@@ -1,0 +1,52 @@
+{
+  "treinamento": "CUIDADOS COM EQUIPAMENTOS_ELECTROLUX SC INBOUND",
+  "id": 648,
+  "idChecklist": 434,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual a importância de a máquina estar em boas condições de trabalho?",
+      "opcoes": [
+        "Para evitar que pare na linha de produção e atrasar minhas atividades.",
+        "Não há importância alguma.",
+        "Evitar acidentes ou futuros problemas ergonômicos, ausência de equipamentos na operação e elevados custos de manutenção corretiva.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "4) Qual a importância de fazer a regulagem do banco ao iniciar as atividades?",
+      "opcoes": [
+        "Para se sentir mais confortável e mais disposto no trabalho.",
+        "Para facilitar que os pés se aproximem dos comandos de pedais.",
+        "Para que sua postura sempre esteja de forma ergonômica, afim de evitar danos à saúde.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "3) Quando for encontrado resíduos sobre o equipamento, o que devemos fazer?",
+      "opcoes": [
+        "Jogar no lixo mais próximo.",
+        "Jogar em local onde ninguém esteja olhando .",
+        "Realizar o descarte nos contentores de coleta seletiva adequados.",
+        "Realizar os descartes na área do CRI ( Central de Resíduos Industriais)."
+      ]
+    },
+    {
+      "pergunta": "2) Antes de realizarmos qualquer manobra, o que devemos fazer?",
+      "opcoes": [
+        "Observe se o local está adequado, evitando avarias na estrutura do rebocador ou empilhadeira. Tais como, quebras de farol e retrovisores, amassamento ou riscos na funilaria da máquina.",
+        "Realizar a manobra e verificar depois.",
+        "Observe se o local está adequado para realizar manobras, mesmo não estando, preciso continuar para que não afete a linha de produção.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "1) Baseado no treinamento, assinale a alternativa VERDADEIRA:",
+      "opcoes": [
+        "A limpeza do equipamento deve ser realizada somente quando estiver muito sujo.",
+        "A limpeza do equipamento deve ser realizada diariamente antes de iniciar as atividades.",
+        "Não é necessário realizar a limpeza do equipamento.",
+        "Realizar a limpeza do equipamento somente quando a liderança solicitar"
+      ]
+    }
+  ]
+}
