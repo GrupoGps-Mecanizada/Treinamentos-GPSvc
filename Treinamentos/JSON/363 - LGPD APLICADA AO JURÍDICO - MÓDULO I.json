@@ -1,0 +1,52 @@
+{
+  "treinamento": "LGPD APLICADA AO JURÍDICO - MÓDULO I",
+  "id": 363,
+  "idChecklist": 261,
+  "perguntas": [
+    {
+      "pergunta": "5) O que são as bases legais da LGPD?",
+      "opcoes": [
+        "Hipóteses em que é permitido o tratamento de dados pessoais",
+        "Fundamentos da lei",
+        "Sanções",
+        "Os princípios da lei"
+      ]
+    },
+    {
+      "pergunta": "4) Assinale a opção que NÃO contempla um princípio da LGPD",
+      "opcoes": [
+        "Finalidade",
+        "Livre acesso",
+        "Transparência",
+        "Insegurança"
+      ]
+    },
+    {
+      "pergunta": "3) Controlador é:",
+      "opcoes": [
+        "Pessoa natural ou jurídica, de direito público ou privado",
+        "Pessoa natural, de direito privado",
+        "Pessoa jurídica, de direito público",
+        "Pessoa jurídica, de direito privado"
+      ]
+    },
+    {
+      "pergunta": "2) Tratamento de dados é:",
+      "opcoes": [
+        "Somente operações de acesso",
+        "Toda a operação realizada com dados pessoais",
+        "A coleta, produção e classificação de dados somente",
+        "Somente a utilização dos dados"
+      ]
+    },
+    {
+      "pergunta": "1) A LGPD protege quais tipos de dados?",
+      "opcoes": [
+        "Dados pessoais armazenados em arquivos físicos",
+        "Dados de empresas, como CNPJ",
+        "Dados pessoais, físicos e digitais, em qualquer ambiente",
+        "Nenhuma das alternativas"
+      ]
+    }
+  ]
+}
