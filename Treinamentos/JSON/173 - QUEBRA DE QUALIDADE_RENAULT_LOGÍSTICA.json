@@ -1,0 +1,52 @@
+{
+  "treinamento": "QUEBRA DE QUALIDADE_RENAULT_LOGÍSTICA",
+  "id": 173,
+  "idChecklist": 93,
+  "perguntas": [
+    {
+      "pergunta": "5) Como podemos evitar a Quebra de Qualidade?",
+      "opcoes": [
+        "Apenas com STR,  Peça Padrão e organização do posto de combustível.",
+        "Apenas com Lista de Treinamento, Instrução de Trabalho e Peça OK.",
+        "Apenas com a Instrução de Trabalho.",
+        "Com STR, Treinamento, IT, Peça Padrão, Peças de entrada e saída nas demarcações corretas e organização do posto de trabalho."
+      ]
+    },
+    {
+      "pergunta": "4) O que significa \"Cartão Amarelo\" na Renault?",
+      "opcoes": [
+        "Retoque de Peça, é possível retrabalhar a peça e liberar o veículo novamente para o cliente.",
+        "Retoque de Peça, é possível retrabalhar a peça e liberar o veículo novamente para viajar.",
+        "Retoque de Peça, não é possível retrabalhar a peça e liberar o veículo novamente para o cliente.",
+        "Reparo de Peça, é possível retrabalhar a peça e liberar o veículo novamente para o cliente."
+      ]
+    },
+    {
+      "pergunta": "3) De acordo com o treinamento, quanto mais tarde o defeito da peça for encontrado, maior...?",
+      "opcoes": [
+        "O ganho.",
+        "O tempo.",
+        "O carro.",
+        "O prejuízo."
+      ]
+    },
+    {
+      "pergunta": "2) Qual é a sequência do fluxo para identificar a Quebra de Qualidade?",
+      "opcoes": [
+        "RT (In Haus), Fornecedor, Logística, Estoque, Linha de Produção, Inspeção Final.",
+        "Fornecedor, RT (In Haus), Logística, Estoque, Linha de Produção, Inspeção Final.",
+        "Fornecedor, Logística, RT (In Haus), Estoque, Linha de Produção, Inspeção Final.",
+        "Linha de Produção, Fornecedor, Logística, RT (In Haus), Estoque, Inspeção Final."
+      ]
+    },
+    {
+      "pergunta": "1) Quando acontece a Quebra de Qualidade?",
+      "opcoes": [
+        "Quando é mal retrabalhada, mal inspecionada, mal movimentada, mal estocada, ou mal montada no veículo.",
+        "Quando é mal retrabalhada, mal interpretada, mal movimentada, mal estocada ou mal montada no veículo.",
+        "Quando é mal retrabalhada, mal inspecionada, mal levantada, mal estocada ou mal montada no veículo.",
+        "Quando é mal retrabalhada, mal inspecionada, mal movimentada, mal estocada ou mal montada na moto."
+      ]
+    }
+  ]
+}
