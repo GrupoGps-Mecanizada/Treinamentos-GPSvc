@@ -1,0 +1,52 @@
+{
+  "treinamento": "BOOMERANG",
+  "id": 58,
+  "idChecklist": 33,
+  "perguntas": [
+    {
+      "pergunta": "5) Gestos cordiais e atitudes simpáticas geram retornos positivos. Por quê?",
+      "opcoes": [
+        "Porque gentileza gera gentileza, as boas atitudes são contagiantes.",
+        "Porque é uma obrigação para o atendimento.",
+        "Porque é uma regra do procedimento de trabalho.",
+        "Porque a afirmação é falsa, atitudes simpáticas geram retornos negativos."
+      ]
+    },
+    {
+      "pergunta": "4) O que é o efeito boomerang?",
+      "opcoes": [
+        "É quando um está acima na conversa e o outro está abaixo.",
+        "É quando eu falo e passo a bola para o outro.",
+        "É quando as atitudes que eu tenho geram no outro a mesma atitude.",
+        "É quando um fala o outro espera a sua vez de falar."
+      ]
+    },
+    {
+      "pergunta": "3) Qual é o melhor caminho para aprimorarmos nossas atitudes nos relacionamentos?",
+      "opcoes": [
+        "Reclamar da atitude das pessoas e criticá-las.",
+        "Reparar nas nossas próprias atitudes e melhorá-las.",
+        "Reclamar das dificuldades no trabalho.",
+        "Reparar nos defeitos dos colegas."
+      ]
+    },
+    {
+      "pergunta": "2) Por que quando tratamos bem uma pessoal ela tende a nos tratar bem também?",
+      "opcoes": [
+        "Porque tratar os outros como somos tratados é um instinto do ser humano.",
+        "Porque tratar os outros como somos tratados é um ato ocasional.",
+        "Porque tratar os outros como somos tratados é uma forma de exclusão.",
+        "Porque tratar os outros como somos tratados é uma necessidade."
+      ]
+    },
+    {
+      "pergunta": "1) Baseado no treinamento escolha a alternativa VERDADEIRA:",
+      "opcoes": [
+        "As boas atitudes não ajudam no meu trabalho.",
+        "Semblante emburrado gera sorrisos.",
+        "Tratar bem uma pessoa gera a tendência que ela nos trate da mesma forma.",
+        "Mau humor gera alegria."
+      ]
+    }
+  ]
+}
