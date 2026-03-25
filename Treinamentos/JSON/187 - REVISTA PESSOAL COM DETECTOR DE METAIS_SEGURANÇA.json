@@ -1,0 +1,52 @@
+{
+  "treinamento": "REVISTA PESSOAL COM DETECTOR DE METAIS_SEGURANÇA",
+  "id": 187,
+  "idChecklist": 107,
+  "perguntas": [
+    {
+      "pergunta": "5) Se acionar o DMM?",
+      "opcoes": [
+        "Começar a revista de baixo para cima.",
+        "Começar a revista novamente.",
+        "Solicitar que o objeto seja retirado do bolço e continuar a revista de onde parou.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) Para mulher que estiver de saia ou vestido, como é realizado?",
+      "opcoes": [
+        "Não é necessário realizar.",
+        "É realizado de costas.",
+        "É realizado em ziguezague na posição frontal e de costas na pernas, SEM passar o DMM entre as pernas.",
+        "É realizado apenas na posição frontal."
+      ]
+    },
+    {
+      "pergunta": "3) Como é realizada a inspeção?",
+      "opcoes": [
+        "De qualquer lado e jeito.",
+        "Do pés à cabeça.",
+        "Do ombro para baixo.",
+        "Contornando por fora, começando do lado direito contornado a cabeça, passando pelo corpo, inclusive passando o DMM entre as pernas, contornando todo o seu corpo terminando no mesmo lado onde começou."
+      ]
+    },
+    {
+      "pergunta": "2) Qual a distância correta do bastão e do inspecionado?",
+      "opcoes": [
+        "Uma distância entre 2,5 cm e 5,0 cm aproximadamente do inspecionado.",
+        "Uma distância entre 5,5 cm e 6,0 cm aproximadamente do inspecionado.",
+        "Não é necessário distância.",
+        "N/A."
+      ]
+    },
+    {
+      "pergunta": "1) Qual posicionamento o inspecionado deve se posicionar?",
+      "opcoes": [
+        "De frente com os braços fechados.",
+        "Com os braços abertos e erguidos elevados a 90º do seu corpo.",
+        "Sentado.",
+        "De frente com os braços para o alto."
+      ]
+    }
+  ]
+}
