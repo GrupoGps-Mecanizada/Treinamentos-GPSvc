@@ -1,0 +1,52 @@
+{
+  "treinamento": "SMIN-IT-GSU-040 -ATENDIMENTO DE CONTINGÊNCIA_GRU AIRPORT",
+  "id": 1440,
+  "idChecklist": 1188,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE O STATUS VERDE DO MATERIAL SIGNIFICA?",
+      "opcoes": [
+        "ITEM CANCELADO.",
+        "ITEM DE ALERTA.",
+        "ITEM DISPONÍVEL.",
+        "ITEM SEMELHANTE."
+      ]
+    },
+    {
+      "pergunta": "4) COMPLETE A AFIRMAÇÃO A SEGUIR. \"ESTANDO O MATERIAL DISPONÍVEL, O EXECUTANTE DO ATENDIMENTO LOCALIZA, SEPARA E __________________?",
+      "opcoes": [
+        "ENTREGA AO COLABORADOR.",
+        "ENTREGA AO FORNECEDOR.",
+        "ENTREGA AO CLIENTE.",
+        "ENTREGA AO USUÁRIO."
+      ]
+    },
+    {
+      "pergunta": "3) O USUÁRIO DEVERÁ PREENCHER TODOS OS CAMPOS DE QUAL FORMULÁRIO?",
+      "opcoes": [
+        "SMIN-FO-GSU-057.",
+        "SMIN-FO-GSU-058.",
+        "SMIN-FO-GSU-059.",
+        "SMIN-FO-GSU-060."
+      ]
+    },
+    {
+      "pergunta": "2) ASSINALE A OPÇÃO CORRETA. SE A LOCAÇÃO E O SALDO NÃO ATENDEREM À NECESSIDADE DA ORDEM DE TRANSPORTE (OT) O SOLICITANTE PRECISA:",
+      "opcoes": [
+        "SER INFORMADO DE IMEDIATO.",
+        "SER INFORMADO MAIS TARDE.",
+        "SER INFORMADO OUTRO DIA.",
+        "NÃO PRECISA SER INFORMADO."
+      ]
+    },
+    {
+      "pergunta": "1) AO PREENCHER OS CAMPOS DE DEPÓSITO NA TELA 3, DEVE-SE PREENCHER QUAIS CAMPOS?",
+      "opcoes": [
+        "AVALIADOR E RECEBEDOR.",
+        "RECEBEDOR E TIPO DE AVALIAÇÃO.",
+        "TIPO DE AVALIAÇÃO E AVALIADOR.",
+        "AVALIADOR E CAUSADOR."
+      ]
+    }
+  ]
+}
