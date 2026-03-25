@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA DE ESTEIRAS - MÓDULO II_ENGENHARIA",
+  "id": 1524,
+  "idChecklist": 1264,
+  "perguntas": [
+    {
+      "pergunta": "5) QUANDO A MANTA FILTRANTE DEVE SER REINSTALADA?",
+      "opcoes": [
+        "ANTES DE SECAR COMPLETAMENTE.",
+        "APÓS SECAR TOTALMENTE À SOMBRA.",
+        "DURANTE A LAVAGEM.",
+        "NENHUMA DAS ALTERNATIVAS ACIMA."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL É O PROCEDIMENTO CORRETO AO ENCONTRAR UM ROLETE FORA DE POSIÇÃO?",
+      "opcoes": [
+        "REMOVER O SENSOR IMEDIATAMENTE.",
+        "USAR PRODUTO QUÍMICO FORTE.",
+        "REPOSICIONAR O ROLETE E VERIFICAR O SENSOR.",
+        "IGNORAR, SE ESTIVER GIRANDO."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE PODE OCORRER SE OS SENSORES DOS ROLETES ESTIVEREM SUJOS?",
+      "opcoes": [
+        "AUMENTO DA VELOCIDADE DA ESTEIRA.",
+        "MELHOR DESEMPENHO DOS ROLETES.",
+        "ECONOMIA DE ENERGIA.",
+        "FALHAS NA DETECÇÃO E PARADAS INDESEJADAS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL ITEM É UTILIZADO PARA VEDAR FRESTAS ENTRE AS CHAPAS DE TRANSIÇÃO?",
+      "opcoes": [
+        "COLA INDUSTRIAL.",
+        "FITA ADESIVA.",
+        "SILICONE.",
+        "PANO ÚMIDO."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O OBJETIVO DA LIMPEZA DA MANTA FILTRANTE?",
+      "opcoes": [
+        "MELHORAR A APARÊNCIA DO EQUIPAMENTO.",
+        "EVITAR O USO DE SABÃO NEUTRO.",
+        "GARANTIR A PASSAGEM DE AR SEM OBSTRUÇÕES.",
+        "IMPEDIR O USO DE FITA ADESIVA."
+      ]
+    }
+  ]
+}
