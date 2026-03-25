@@ -1,0 +1,52 @@
+{
+  "treinamento": "RECEBIMENTO_LC",
+  "id": 540,
+  "idChecklist": 342,
+  "perguntas": [
+    {
+      "pergunta": "5 – Precisamos verificar o rótulo do alimento no recebimento?",
+      "opcoes": [
+        "Não.",
+        "Sim, principalmente a validade.",
+        "Só quando o fornecedor pedir.",
+        "De vez em quando."
+      ]
+    },
+    {
+      "pergunta": "4 – Devemos pesar os alimentos no recebimento?",
+      "opcoes": [
+        "De vez em quando.",
+        "Não.",
+        "Sim.",
+        "Quando o fornecer solicitar."
+      ]
+    },
+    {
+      "pergunta": "3 – Quando devemos preencher a planilha de perecíveis?",
+      "opcoes": [
+        "Em alguns recebimentos apenas.",
+        "Em todos recebimentos.",
+        "Só no recebimento de frango.",
+        "Só no recebimento de carne."
+      ]
+    },
+    {
+      "pergunta": "2 – Como colocar o termômetro para aferir a temperatura dos alimentos?",
+      "opcoes": [
+        "Colocar entre as peças sem perfurar o alimento.",
+        "Perfurar o alimento com o termômetro.",
+        "Colocar ao lado do alimento.",
+        "Não há necessidade de aferir a temperatura."
+      ]
+    },
+    {
+      "pergunta": "1 – Onde posso receber os perecíveis?",
+      "opcoes": [
+        "No pallet ou bancada.",
+        "No piso.",
+        "Em cima do Freezer.",
+        "Em qualquer lugar."
+      ]
+    }
+  ]
+}
