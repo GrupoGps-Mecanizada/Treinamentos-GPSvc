@@ -1,0 +1,52 @@
+{
+  "treinamento": "O QUE É UMA ALIMENTAÇÃO SAUDÁVEL_ALIMENTAÇÃO SAUDÁVEL",
+  "id": 601,
+  "idChecklist": 387,
+  "perguntas": [
+    {
+      "pergunta": "5) Sobre as substâncias “estranhas” que podem conter nos alimentos ultraprocessados, alguns exemplos deles são:",
+      "opcoes": [
+        "Carvão e petróleo.",
+        "Pedras e sujeiras.",
+        "Açúcar e óleo.",
+        "Lactose e glúten."
+      ]
+    },
+    {
+      "pergunta": "4) Por que devemos evitar alimentos ultraprocessados?",
+      "opcoes": [
+        "Porque contém muito açúcar.",
+        "Porque são alimentos difíceis de cozinhar.",
+        "Porque o gosto é ruim.",
+        "Porque eles são nutricionalmente desbalanceados, favorecem o consumo excessivo de calorias e contém substâncias \"estranhas\"."
+      ]
+    },
+    {
+      "pergunta": "3) Alguns exemplos de alimentos minimamente processados são:",
+      "opcoes": [
+        "Arroz, feijão e carne.",
+        "Frutas e legumes.",
+        "Salgadinho e bala.",
+        "Sorvete e bolacha."
+      ]
+    },
+    {
+      "pergunta": "2) Selecione abaixo a alternativa que mostre apenas exemplos de alimentos in natura.",
+      "opcoes": [
+        "Danone, leite e queijo.",
+        "Arroz e feijão.",
+        "Carne e ovo.",
+        "Frutas, legumes e verduras."
+      ]
+    },
+    {
+      "pergunta": "1) Por que nossa alimentação precisa ser diversificada?",
+      "opcoes": [
+        "Para não enjoarmos do gosto.",
+        "Para suprir as necessidades diárias de nutrientes.",
+        "Para que as compras durem até o final do mês.",
+        "Para que nosso prato fique colorido."
+      ]
+    }
+  ]
+}
