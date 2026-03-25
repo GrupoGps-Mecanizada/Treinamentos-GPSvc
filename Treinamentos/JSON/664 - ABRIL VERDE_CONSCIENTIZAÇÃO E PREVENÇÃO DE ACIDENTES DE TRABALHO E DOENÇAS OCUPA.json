@@ -1,0 +1,52 @@
+{
+  "treinamento": "ABRIL VERDE_CONSCIENTIZAÇÃO E PREVENÇÃO DE ACIDENTES DE TRABALHO E DOENÇAS OCUPACIONAIS",
+  "id": 664,
+  "idChecklist": 450,
+  "perguntas": [
+    {
+      "pergunta": "5) Assinale abaixo a alternativa correta sobre as 10 regras de valorização a vida:",
+      "opcoes": [
+        "Utilização de EPI’s em todas as tarefas desempenhadas, adequados aos riscos e precauções avaliada.",
+        "Garantimos aos Colaboradores direito a recusa de tarefas inseguras que possam gerar perdas de SSMA.",
+        "Comunicamos, investigamos e tratamos todos os eventos de SSMA em tempo hábil, evitando futuras ocorrências.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "4) Assinale abaixo a alternativa correta sobre as premissas da política de QSSMA:",
+      "opcoes": [
+        "Promover condições de trabalho adequadas aos requisitos de segurança, saúde e meio ambiente, salvaguardando a integridade física e a saúde dos seus Colaboradores.",
+        "Servir aos Clientes com inovação e produtividade.",
+        "Manter compromisso contínuo em eliminar perigos e reduzir os riscos de SSO com foco na prevenção de lesões e doenças ocupacionais.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) Qual NR fala que todo trabalhador pode e deve se recusar ou interromper suas atividades quando exposto a situação de RISCO à sua Segurança e Saúde?",
+      "opcoes": [
+        "NR 01.",
+        "NR 10.",
+        "NR 11.",
+        "NR 12."
+      ]
+    },
+    {
+      "pergunta": "2) Qual o objetivo da campanha?",
+      "opcoes": [
+        "Falar sobre NR´S.",
+        "Reduzir os acidentes de trabalho e os agravos à saúde do trabalhador.",
+        "Falar sobre programas de controle médico.",
+        "Todas as alternativas estão incorretas."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o mês de conscientização sobre a prevenção de doenças do trabalho e doenças ocupacionais?",
+      "opcoes": [
+        "Janeiro.",
+        "Abril.",
+        "Fevereiro.",
+        "Março."
+      ]
+    }
+  ]
+}
