@@ -1,0 +1,52 @@
+{
+  "treinamento": "CONCEITO DE CSR_RENAULT",
+  "id": 522,
+  "idChecklist": 325,
+  "perguntas": [
+    {
+      "pergunta": "5) O que acontece se não for respeitada uma Característica de Segurança (CS)?",
+      "opcoes": [
+        "Pode afetar o bom funcionamento de um veículo/componente colocando em risco a segurança do seu utilizador e/ou pessoas próximas.",
+        "Pode afetar o bom funcionamento do setor em questão.",
+        "Pode afetar a visualização da não conformidade da peça.",
+        "Pode dificultar a visualização"
+      ]
+    },
+    {
+      "pergunta": "4) Caso a peça seja considerada CSR, o que devo fazer?",
+      "opcoes": [
+        "Virar a placa de frente à operação e realizar a inspeção/retrabalho com muita cautela.",
+        "Realizar a inspeção/retrabalho com muita cautela.",
+        "Virar a placa de frente à operação.",
+        "Retirar a placa do painel."
+      ]
+    },
+    {
+      "pergunta": "3) Como sabemos se a peça é CSR?",
+      "opcoes": [
+        "Verificando a peça padrão.",
+        "Verificando na STR.",
+        "Verificando no painel de Gestão à Vista.",
+        "Verificando com o colega."
+      ]
+    },
+    {
+      "pergunta": "2) Onde encontramos a placa CSR?",
+      "opcoes": [
+        "No canto inferior esquerdo do painel da bancada.",
+        "No canto superior esquerdo do painel da bancada.",
+        "Embaixo da bancada.",
+        "No canto do setor."
+      ]
+    },
+    {
+      "pergunta": "1) O que significa a sigla CSR?",
+      "opcoes": [
+        "Característica de Suposição Regulamentar.",
+        "Característica de Suplência e Regulamentação.",
+        "Característica de Segurança e Regulamentação.",
+        "Característica de Segurança e Registro."
+      ]
+    }
+  ]
+}
