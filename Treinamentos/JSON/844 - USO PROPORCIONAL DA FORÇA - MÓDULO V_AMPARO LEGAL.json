@@ -1,0 +1,52 @@
+{
+  "treinamento": "USO PROPORCIONAL DA FORÇA - MÓDULO V_AMPARO LEGAL",
+  "id": 844,
+  "idChecklist": 617,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE É ESTRITO CUMPRIMENTO DO DEVER LEGAL?",
+      "opcoes": [
+        "É O ESTADO DE NECESSIDADE A PRÁTICA DE UMA AÇÃO REALIZADA PARA SALVAR ALGO OU ALGUÉM DE PERIGO ATUAL.",
+        "É  A SITUAÇÃO EM QUE ALGUÉM CUMPRE EM DEVER IMPOSTO PELA LEI.",
+        "É A LEI CONDICIONADA À REGULARIDADE DO EXERCÍCIO.",
+        "NENHUMA DAS ALTERNATIVAS ACIMA."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE É IMPRUDÊNCIA?",
+      "opcoes": [
+        "FALTA DE HABILIDADE OU EXPERIÊNCIA.",
+        "SIGNIFICA AGIR SEM TER O DEVIDO CUIDADO, SENDO DESLEIXADO OU DESATENTO.",
+        "AGIR SEM CAUTELA E SEM PENSAR NAS CONSEQUÊNCIAS.",
+        "NENHUMA DAS ALTERNATIVAS ACIMA."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL CRIME É RESULTADO PELA NEGLIGÊNCIA, IMPERÍCIA OU IMPRUDÊNCIA?",
+      "opcoes": [
+        "CRIME COM FACA.",
+        "CRIME COMETIDO PELA NECESSIDADE.",
+        "CRIME DOLOSO.",
+        "CRIME CULPOSO."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE É CRIME CULPOSO?",
+      "opcoes": [
+        "CRIME COMETIDO SEM INTENSÃO, EMBORA HAJA CULPA.",
+        "CRIME COMETIDO COM A INTENSÃO PELO RESULTADO.",
+        "CRIME PREMEDITADO.",
+        "CRIME ANALISADO E CALCULADO."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE É CRIME DOLOSO?",
+      "opcoes": [
+        "CRIME COMETIDO SEM INTENSÃO PELO RESULTADO.",
+        "CRIME COMETIDO COM A INTENSÃO PELO RESULTADO.",
+        "CRIME POR LEGÍTIMA DEFESA.",
+        "CRIME PRECIPITADO."
+      ]
+    }
+  ]
+}
