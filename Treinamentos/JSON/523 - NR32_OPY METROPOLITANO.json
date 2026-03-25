@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR32_OPY METROPOLITANO",
+  "id": 523,
+  "idChecklist": 326,
+  "perguntas": [
+    {
+      "pergunta": "5) A Norma Regulamentadora nº 32 considera “Agentes Biológicos” todos os seguintes, EXCETO:",
+      "opcoes": [
+        "Culturas de células.",
+        "Névoas.",
+        "Príons.",
+        "Parasitas."
+      ]
+    },
+    {
+      "pergunta": "4) De acordo com a NR 32, quais são os riscos vinculados ao trabalho?",
+      "opcoes": [
+        "Físico/Químico.",
+        "Biológico.",
+        "Ergonômico.",
+        "Todos as opções acima."
+      ]
+    },
+    {
+      "pergunta": "3) Para evitarmos riscos por acidente, é necessário seguirmos algumas dicas. Sinalize abaixo a dica que está INCORRETA.",
+      "opcoes": [
+        "Devemos criar protocolos operacionais padrão.",
+        "Não devemos usar equipamentos de proteção individual.",
+        "Devemos descartar apropriadamente os materiais.",
+        "Temos que adotar uma educação continuada."
+      ]
+    },
+    {
+      "pergunta": "2) O que é Higiene pessoal?",
+      "opcoes": [
+        "A higiene pessoal é o cuidado com o meio ambiente. Ela não se refere só a tomar banho e escovar os dentes para evitar o mau hálito, cuidar do corpo e de sua limpeza, é também zelar pela saúde.",
+        "A higiene pessoal é todo cuidado corporal. Ela não se refere só a tomar banho e escovar os dentes para evitar o mau hálito, cuidar do corpo e de sua limpeza, é também zelar pela saúde.",
+        "Higiene pessoal refere-se apenas ao ato de tomar banho regularmente.",
+        "A higiene pessoal é o cuidado corporal com outra pessoa. Zelando pelo seu corpo e saúde."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o principal objetivo da Norma Regulamentadora NR-32 para os profissionais de saúde?",
+      "opcoes": [
+        "Estabelecer a obrigatoriedade da elaboração e implementação, por parte dos empregadores que admitam trabalhadores como empregados, visando à preservação da saúde e da integridade dos trabalhadores.",
+        "Estabelecer diretrizes para implementação de medidas de proteção à segurança e à saúde de quem trabalha na área da saúde e daqueles que exercem atividades de promoção e assistência à saúde em geral.",
+        "Regular a proteção obrigatória contra acidentes e doenças profissionais, facilitar os primeiros socorros e alcançar as melhores condições possíveis de segurança e saúde aos trabalhadores.",
+        "Estabelecer os preceitos a serem observados na organização e no ambiente de trabalho, de forma a tornar compatível o planejamento e o desenvolvimento das atividades de trabalho."
+      ]
+    }
+  ]
+}
