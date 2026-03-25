@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR 11. PONTE ROLANTE_BRASMETAL",
+  "id": 424,
+  "idChecklist": 317,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual é o tempo estabelecido pela norma e descrito no treinamento para inspeção dos equipamentos certificados por um técnico competente?",
+      "opcoes": [
+        "A cada três anos",
+        "A cada doze meses",
+        "A cada seis meses",
+        "Não necessita de inspeção"
+      ]
+    },
+    {
+      "pergunta": "4) O que NÃO se deve utilizar na amarração de cargas com cabos de aço e correntes?",
+      "opcoes": [
+        "Materiais em gaiolas devidamente fixados e amarrados",
+        "Materiais com cantos vivos ou em altas temperaturas, para cargas com superfícies lisas ou escorregadias",
+        "Cabos de aço, correntes cintas e laços sintéticos",
+        "Tipos de materiais seguros para a transição de carga entre ponte rolante"
+      ]
+    },
+    {
+      "pergunta": "3) Quais são as causas mais comuns de acidentes com pontes rolantes?",
+      "opcoes": [
+        "Quedas de cargas ou componentes, colisões entre equipamentos ou objetos, falhas mecânicas, como: Cabo de aço rompido e sujos, botoeira com defeito, roldanas corroídas abrasivamente e falha Humana",
+        "Usar a ponte rolante para realizar trabalhos com elevação de carga, transportar materiais e insumos com a devida amarração e proteção",
+        "Realizar todos os procedimentos de inspeção diariamente e comunicar qualquer situação e risco no equipamento",
+        "Operar de forma adequada com carga suspensa com segurança e todos os EPIs conforme descrição nos postos de trabalho e treinamento"
+      ]
+    },
+    {
+      "pergunta": "2) Qual o objetivo deste treinamento?",
+      "opcoes": [
+        "Capacitar Colaboradores com o conhecimento técnico para manutenção do equipamento, com carga horária de 50 horas",
+        "Treinar Colaboradores com o objetivo de realizar qualquer tipo de manutenção e operação da empilhadeira, guindaste menos ponte rolante",
+        "Ensinar: Conceitos de segurança no trabalho, conhecimentos sobre o funcionamento e manutenção da Ponte Rolante, técnicas de correto manuseio da máquina e possibilitar noções sobre a legislação",
+        "Ensinar conceitos para aprimorar o funcionário sobre a legislação sobre maquinas e equipamentos, assim podendo realizar qualquer tipo de manutenção no equipamento"
+      ]
+    },
+    {
+      "pergunta": "1) Qual é a definição da NR11?",
+      "opcoes": [
+        "Movimentação, armazenagem, manuseio de materiais e transporte de pessoas",
+        "Transporte, movimentação, armazenagem e manuseio de materiais",
+        "Manuseio de materiais e transporte de pessoas e transporte de carros",
+        "Transporte de pessoas, transporte de carros e armazenagem"
+      ]
+    }
+  ]
+}
