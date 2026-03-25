@@ -1,0 +1,52 @@
+{
+  "treinamento": "REGRAS PARA ACESSO AO ALMOXARIFADO DE PROJETOS_APERAM",
+  "id": 634,
+  "idChecklist": 420,
+  "perguntas": [
+    {
+      "pergunta": "5) Em locais onde não há iluminação de emergência é obrigatório o porte de qual item?",
+      "opcoes": [
+        "Lanterna.",
+        "Lamparina.",
+        "Celular.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) Quanto ao uso de dispositivos de comunicação, marque a opção INCORRETA.",
+      "opcoes": [
+        "Nunca ande e use dispositivos de comunicação.",
+        "Posso fotografar o local.",
+        "Posso ler ou enviar mensagens, só preciso estar em um local seguro.",
+        "Posso utilizar o dispositivo de comunicação."
+      ]
+    },
+    {
+      "pergunta": "3) O que se deve fazer em uma situação de Emergência?",
+      "opcoes": [
+        "Permaneça na área e aguarde o socorro.",
+        "Correr e causar pânico.",
+        "Ligar para o supervisor.",
+        "Abandone a área e siga pela rota de fuga, conforme sinalização do local e orientações de evacuação."
+      ]
+    },
+    {
+      "pergunta": "2) Quem pode Acessar o Galpão do Almoxarifado de Projetos da Aperam?",
+      "opcoes": [
+        "Qualquer Colaborador.",
+        "Colaboradores com autorização e acompanhamento pelos responsáveis do local.",
+        "Somente fornecedores.",
+        "O local não pode ser acessado por pessoas."
+      ]
+    },
+    {
+      "pergunta": "1) Para trânsito interno do Galpão do Almoxarifado de Projetos é obrigatório o uso de quais EPI’s?",
+      "opcoes": [
+        "Capacete com jugular, óculos de segurança, fone de ouvido.",
+        "Capacete com jugular, óculos de segurança, protetor auricular, perneira e sapato.",
+        "Capacete com jugular, óculos de segurança, protetor auricular, perneira e botina de segurança), além dos EPI’s específicos na sinalização presente na área.",
+        "Nenhuma das alternativas."
+      ]
+    }
+  ]
+}
