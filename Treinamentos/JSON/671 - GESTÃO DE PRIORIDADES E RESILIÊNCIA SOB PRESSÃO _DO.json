@@ -1,0 +1,52 @@
+{
+  "treinamento": "GESTÃO DE PRIORIDADES E RESILIÊNCIA SOB PRESSÃO _DO",
+  "id": 671,
+  "idChecklist": 457,
+  "perguntas": [
+    {
+      "pergunta": "5) O que é fundamental para manter a resiliência sob pressão?",
+      "opcoes": [
+        "A prática de atividades físicas.",
+        "A meditação.",
+        "A busca por hobbies que nos proporcionem prazer.",
+        "Cuidar da nossa saúde mental e física."
+      ]
+    },
+    {
+      "pergunta": "4) Qual é a estratégia para criar um plano de ação?",
+      "opcoes": [
+        "Definir limites de tempo para cada tarefa.",
+        "Praticar atividades físicas.",
+        "Criar um calendário.",
+        "Estabelecer metas claras."
+      ]
+    },
+    {
+      "pergunta": "3) Qual é a importância de estabelecer metas claras?",
+      "opcoes": [
+        "Evitar distrações.",
+        "Avaliar a importância de cada tarefa.",
+        "Visualizar as tarefas a serem realizadas e estabelecer uma ordem de prioridade.",
+        "Manter o foco no objetivo final."
+      ]
+    },
+    {
+      "pergunta": "2) O que é resiliência sob pressão?",
+      "opcoes": [
+        "A capacidade de se adaptar e manter a calma em situações de alta demanda.",
+        "A habilidade de determinar quais tarefas são mais importantes e urgentes em um determinado momento.",
+        "A prática de atividades físicas, meditação e a busca por hobbies que nos proporcionem prazer.",
+        "A definição de limites de tempo para cada tarefa."
+      ]
+    },
+    {
+      "pergunta": "1) Qual é a definição de gestão de prioridades?",
+      "opcoes": [
+        "A capacidade de se adaptar e manter a calma em situações de alta demanda.",
+        "A habilidade de determinar quais tarefas são mais importantes e urgentes em um determinado momento.",
+        "A prática de atividades físicas, meditação e a busca por hobbies que nos proporcionem prazer.",
+        "A definição de limites de tempo para cada tarefa."
+      ]
+    }
+  ]
+}
