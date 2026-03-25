@@ -1,0 +1,52 @@
+{
+  "treinamento": "DESENVOLVIMENTO DE LIDERANÇA ÁGIL_DO",
+  "id": 665,
+  "idChecklist": 451,
+  "perguntas": [
+    {
+      "pergunta": "5) O que é liderança ágil?",
+      "opcoes": [
+        "Uma abordagem que se baseia na adaptação constante e na colaboração para enfrentar desafios e promover inovação.",
+        "Uma abordagem que ignora as mudanças e os desafios do mundo empresarial.",
+        "Uma abordagem que valoriza a rigidez nas decisões e processos.",
+        "Uma abordagem que valoriza a individualidade e a independência."
+      ]
+    },
+    {
+      "pergunta": "4) Qual é a importância da colaboração na liderança ágil?",
+      "opcoes": [
+        "Não é importante, pois o líder deve tomar todas as decisões sozinho.",
+        "Permite que os líderes ouçam diferentes perspectivas e ideias.",
+        "Torna as decisões mais arriscadas e menos informadas.",
+        "Desencoraja a criatividade e a inovação."
+      ]
+    },
+    {
+      "pergunta": "3) Qual é uma das principais estratégias para desenvolver a liderança ágil?",
+      "opcoes": [
+        "Ignorar o uso de dados e confiar na intuição.",
+        "Trabalhar sozinho e evitar a colaboração.",
+        "Coletar e analisar dados para entender o impacto das mudanças.",
+        "Adotar uma abordagem inflexível e não ajustar a estratégia de acordo com os resultados obtidos."
+      ]
+    },
+    {
+      "pergunta": "2) O que significa assumir riscos?",
+      "opcoes": [
+        "Tomar decisões imprudentes.",
+        "Ignorar possíveis consequências negativas.",
+        "Analisar cuidadosamente as opções disponíveis e avaliar os possíveis resultados.",
+        "Delegar a responsabilidade de lidar com os riscos para os Colaboradores."
+      ]
+    },
+    {
+      "pergunta": "1) O que significa antecipar o impacto da mudança?",
+      "opcoes": [
+        "Estar ciente das mudanças que ocorreram no passado.",
+        "Avaliar como as mudanças podem afetar a organização, processos, pessoas e Clientes.",
+        "Ignorar as possíveis consequências das mudanças.",
+        "Delegar a responsabilidade de lidar com as mudanças para os Colaboradores."
+      ]
+    }
+  ]
+}
