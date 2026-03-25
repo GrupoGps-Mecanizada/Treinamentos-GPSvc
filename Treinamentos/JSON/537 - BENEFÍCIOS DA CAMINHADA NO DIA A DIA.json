@@ -1,0 +1,52 @@
+{
+  "treinamento": "BENEFÍCIOS DA CAMINHADA NO DIA A DIA",
+  "id": 537,
+  "idChecklist": 339,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual o número de passos acumulados recomendado por dia?",
+      "opcoes": [
+        "5.000 passos ou mais.",
+        "9.000 passos ou mais.",
+        "10.000 passos ou mais.",
+        "Não há um número recomendado."
+      ]
+    },
+    {
+      "pergunta": "4) Caso não consiga realizar 30 minutos seguidos de caminhada, como pode dividir o tempo?",
+      "opcoes": [
+        "10 minutos, 3 vezes ao dia.",
+        "15 minutos, 2 vezes ao dia.",
+        "Uma única vez de 10 minutos.",
+        "Não posso realizar pequenas sessões."
+      ]
+    },
+    {
+      "pergunta": "3) Em qual período do dia podemos realizar a caminhada?",
+      "opcoes": [
+        "Apenas a noite, por causa do sol.",
+        "Só no período da manhã.",
+        "A qualquer hora do dia.",
+        "A tarde, para ajudar a suar mais."
+      ]
+    },
+    {
+      "pergunta": "2) A caminhada pode causar vários benefícios para a nossa saúde, alguns deles são:",
+      "opcoes": [
+        "Melhora a função cardíaca, melhora a qualidade do sono e reduz o estresse.",
+        "Melhora nossa visão e olfato.",
+        "Contribui para o ganho de peso.",
+        "Ajuda no raciocínio lógico e na leitura."
+      ]
+    },
+    {
+      "pergunta": "1) Quantos minutos de caminhada por dia já serve para beneficiar nossa saúde?",
+      "opcoes": [
+        "10 minutos.",
+        "30 minutos.",
+        "50 minutos.",
+        "45 minutos."
+      ]
+    }
+  ]
+}
