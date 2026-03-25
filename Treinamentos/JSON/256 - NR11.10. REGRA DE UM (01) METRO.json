@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR11.10. REGRA DE UM (01) METRO",
+  "id": 256,
+  "idChecklist": 168,
+  "perguntas": [
+    {
+      "pergunta": "5) O que fazer quando o auditor ou líder se aproxima da máquina sem se atentar a regra?",
+      "opcoes": [
+        "Não posicionar a máquina em local seguro, não desligar o equipamento e realizar uma abordagem comportamental de maneira educada informando a regra de segurança.",
+        "Posicionar a máquina em local seguro, desligar o equipamento e realizar uma abordagem comportamental de maneira educada informando a regra de segurança.",
+        "Paro e deixo a máquina ligada no mesmo lugar, escuto o líder e sigo para não parar a linha.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) Complete: Devido ao ritmo de auditorias e inspeções internas de atividades de operação de empilhadeiras...",
+      "opcoes": [
+        "E de circulação de pedestres se instaurou esta regra, devido à preocupação e cuidado com as pessoas que atuam em nossas operações, tornando-as mais seguras para todos.",
+        "Não se instaurou esta regra, devido à preocupação e cuidado com as pessoas que atuam em nossas operações, tornando-as mais seguras para todos os Colaboradores e visitantes.",
+        "E de circulação de pedestres se instaurou esta regra, devido ao pouco cuidado com as pessoas que atuam em nossas operações, tornando-as menos seguras para todos.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "3) Qual o objetivo da regra de um (01) metro?",
+      "opcoes": [
+        "É reduzir a probabilidade de ocorrência de acidente envolvendo empilhadeiras e pedestres nas operações da In-Haus, não estabelecendo uma distância mínima entre pedestres e equipamentos.",
+        "É reduzir a probabilidade de ocorrência de acidente envolvendo empilhadeiras e pedestres nas operações da In-Haus, estabelecendo uma distância mínima entre pedestres e equipamentos.",
+        "É reduzir a probabilidade de ocorrência de acidente envolvendo empilhadeiras e pedestres nas operações da In-Haus, ou seja: PREVENIR ACIDENTES MATERIAIS!",
+        "Todas as alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) O que devo fazer ao observar que um pedestre se aproxima do equipamento?",
+      "opcoes": [
+        "O Operador de empilhadeira e/ ou rebocador deverá observar, posicionar o equipamento em local adequado e não desligar a máquina.",
+        "O Operador de empilhadeira e/ ou rebocador deverá observar, posicionar o equipamento em local adequado e desligar a máquina para recepcionar a pessoa que se aproxima.",
+        "Somente parar o equipamento em local seguro, não havendo a necessidade de desligar o mesmo, pois estou no controle e decido os comandos da máquina.",
+        "Todas as alternativas."
+      ]
+    },
+    {
+      "pergunta": "1) Do que se trata a Regra de um (01) metro?",
+      "opcoes": [
+        "A regra é uma determinação interna para manter distanciamento de pessoas que transitam, fiscalizam e coordenam atividades de máquinas de movimentação de cargas evitando contato máquina vs homem.",
+        "A regra é uma determinação interna da empresa para não manter o distanciamento de pessoas que transitam as atividades de máquinas de movimentação para evitar a proximidade de máquina vs homem.",
+        "É a Norma Regulamentadora que dispõe sobre o afastamento de pessoas de empilhadeira.",
+        "Todas as alternativas."
+      ]
+    }
+  ]
+}
