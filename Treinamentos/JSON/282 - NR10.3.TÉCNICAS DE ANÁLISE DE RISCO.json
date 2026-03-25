@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR10.3.TÉCNICAS DE ANÁLISE DE RISCO",
+  "id": 282,
+  "idChecklist": 194,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais efeitos ocorrem nos trabalhadores com exposição a agentes com grau alto de efeitos à saúde?",
+      "opcoes": [
+        "Efeitos nocivos (adversos) subclínicos, leves, reversíveis, ou não irritante de pele e mucosas: ou sem evidência de carcinogenicidade, teratogenicidade ou mutagenicidade.",
+        "Efeitos adversos reversíveis moderados que não deixam sequelas, ou levemente irritante de pele e mucosas; ou carcinogênico; teratogênico ou mutagênico confirmado somente para animais.",
+        "Efeitos adversos irreversíveis que conduzem a incapacidade de exercer atividades na função, mas não impedem a continuidade da vida.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) Quando ocorre o grau baixo de exposição ao risco ocupacional?",
+      "opcoes": [
+        "Em condições normais de trabalho, o contato dos trabalhadores com o agente durante a execução das atividades é praticamente inexistente ou o Tempo estimado por jornada é menor que 0,5h.",
+        "Em condições normais de trabalho, o contato dos trabalhadores com o agente é frequente e a níveis altos.",
+        "Em condições normais de trabalho, o contato dos trabalhadores com o agente é frequente e a níveis muito altos.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "3) Qual a ferramenta de análise de risco mais utilizada?",
+      "opcoes": [
+        "Checklist de perigos.",
+        "Lista de riscos.",
+        "Análise preliminar de riscos.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) Como é chamada a combinação da probabilidade de ocorrência de um evento perigoso ou exposição com a gravidade (severidade) da lesão ou doença que poder ser causada pelo evento ou exposição?",
+      "opcoes": [
+        "Risco.",
+        "Perigo.",
+        "Ambos.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "1) Como é chamada a fonte, situação ou ato com potencial de provocar danos em seres humanos (lesão ou doença, ou uma combinação destas)?",
+      "opcoes": [
+        "Risco.",
+        "Perigo.",
+        "Ambos.",
+        "Nenhuma das alternativas."
+      ]
+    }
+  ]
+}
