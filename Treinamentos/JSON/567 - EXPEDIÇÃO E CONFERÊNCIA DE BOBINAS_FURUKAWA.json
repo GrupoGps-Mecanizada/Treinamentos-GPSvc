@@ -1,0 +1,52 @@
+{
+  "treinamento": "EXPEDIÇÃO E CONFERÊNCIA DE BOBINAS_FURUKAWA",
+  "id": 567,
+  "idChecklist": 368,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual a importância em passar a carga de bobinas por duas conferências?",
+      "opcoes": [
+        "Evitar enviar produto incorreto.",
+        "Evitar retrabalho.",
+        "Garantir a confiabilidade do Cliente.",
+        "Todas as alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "4) Qual é o objetivo da Conferência visual nas bobinas?",
+      "opcoes": [
+        "Identificar a quantidade de bobinas.",
+        "Identificar o número gravado no cabo.",
+        "Identificar ripas quebradas, mofadas, pregos soltos, etc.",
+        "Identificar qual transportadora irá realizar o transporte."
+      ]
+    },
+    {
+      "pergunta": "3) Quem pode realizar o carregamento das bobinas no caminhão?",
+      "opcoes": [
+        "Assistente Administrativo.",
+        "Motorista.",
+        "Conferente.",
+        "Operador de Empilhadeira."
+      ]
+    },
+    {
+      "pergunta": "2) Quem solicita os produtos diretamente para a LOGHIS, via sistema?",
+      "opcoes": [
+        "Furukawa.",
+        "Cliente final.",
+        "In Haus.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "1) O que é expedição e conferência de bobinas?",
+      "opcoes": [
+        "Armazenar a bobina em porta pallets.",
+        "Envolver a bobina em Stretch.",
+        "Realizar a separação, etiquetar, conferir as ripas da bobina e carregar o produto.",
+        "Realizar a cobertura da Bobina com ripas de madeira."
+      ]
+    }
+  ]
+}
