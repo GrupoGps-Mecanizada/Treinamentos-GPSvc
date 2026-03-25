@@ -1,0 +1,52 @@
+{
+  "treinamento": "DILUIÇÃO DE PRODUTOS QUÍMICOS_INFRA",
+  "id": 136,
+  "idChecklist": 76,
+  "perguntas": [
+    {
+      "pergunta": "5) Um produto químico quando diluído de forma incorreta pode:",
+      "opcoes": [
+        "Danificar a superfície.",
+        "Manchar superfície.",
+        "Causar danos à saúde.",
+        "Todas alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "4) Escolha a alternativa abaixo que está ERRADA sobre a Diluição de Produtos Químicos",
+      "opcoes": [
+        "É uma prática com impactos positivo ao meio ambiente.",
+        "É econômico, pois um galão de produto químico profissional concentrado rende muito mais se comparado à produtos químicos de linha doméstica.",
+        "É obrigatório que todos produtos químicos tenham FISPQ.",
+        "Ao diluir, não precisa usar EPIs."
+      ]
+    },
+    {
+      "pergunta": "3) O que podemos encontrar no documento FISPQ (Ficha de Informação e Segurança de Produtos Químicos)?",
+      "opcoes": [
+        "Forma correta de utilização do produto.",
+        "Quais EPIs são utilizados para manusear os produtos.",
+        "Todos os cuidados, soluções e precauções com produtos químicos.",
+        "Todas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "2) Para que serve a Tabela de Diluição?",
+      "opcoes": [
+        "Para organizar o DML.",
+        "Para saber quais EPIs usar.",
+        "Para saber a proporção correta de diluição específica de cada produto.",
+        "Para colar na embalagem do produto diluído."
+      ]
+    },
+    {
+      "pergunta": "1) Em qual processo de diluição de produtos químicos utilizamos a válvula pump?",
+      "opcoes": [
+        "No processo de diluição automática.",
+        "No processo de diluição manual.",
+        "Não é utilizada.",
+        "Ao higienizar um galão."
+      ]
+    }
+  ]
+}
