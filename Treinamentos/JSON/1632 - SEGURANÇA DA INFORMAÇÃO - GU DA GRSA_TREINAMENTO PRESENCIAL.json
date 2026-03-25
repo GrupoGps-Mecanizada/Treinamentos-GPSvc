@@ -1,0 +1,52 @@
+{
+  "treinamento": "SEGURANÇA DA INFORMAÇÃO - GU DA GRSA_TREINAMENTO PRESENCIAL",
+  "id": 1632,
+  "idChecklist": 1335,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAIS SÃO AS FORMAS DE INFECÇÃO DE VÍRUS?",
+      "opcoes": [
+        "E-MAILS DUVIDOSOS.",
+        "MÍDIA REMOVÍVEL INFECTADA.",
+        "OUVIR MÚSICA NO YOUTUBE.",
+        "A E B ESTÃO CORRETAS."
+      ]
+    },
+    {
+      "pergunta": "4)  O QUE A FALTA DE MONITORAMENTO NO AMBIENTE DE TRABALHO PODE NOS GERAR?",
+      "opcoes": [
+        "DIFICULDADE NA LOCALIZAÇÃO DE AMEAÇAS.",
+        "DEMORA NA RESOLUÇÃO DE CRISES.",
+        "PODE FAZER COM QUE OS INCIDENTES NÃO SEJAM DETECTADOS E TRATADOS A TEMPO.",
+        "NENHUMA DAS ALTERNATIVAS ANTERIORES."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL CONTROLE NOS AUXILIA NA LOCALIZAÇÃO DE VULNERABILIDADES E AMEAÇAS?",
+      "opcoes": [
+        "MONITORAMENTO.",
+        "USO ACEITÁVEL DE REDE.",
+        "GESTÃO DE PRIVILÉGIO DE USUÁRIO.",
+        "NENHUMA DAS ALTERNATIVAS ANTERIORES."
+      ]
+    },
+    {
+      "pergunta": "2) O TRABALHO EM HOME-OFFICE NECESSITA DE ACESSO A REDE DA EMPRESA, SENDO ASSIM QUAL FERRAMENTA USAMOS PARA CONSEGUIR ESSE ACESSO?",
+      "opcoes": [
+        "SWITCH.",
+        "FIREWALL.",
+        "VPN.",
+        "ROTEADORES."
+      ]
+    },
+    {
+      "pergunta": "1) QUAIS SÃO OS 3 PRINCIPAIS PILARES DA SEGURANÇA DA INFORMAÇÃO?",
+      "opcoes": [
+        "INTEGRIDADE, DISPONIBILIDADE E MONITORAMENTO.",
+        "CONFIDENCIALIDADE, INTEGRIDADE E DISPONIBILIDADE.",
+        "CREDIBILIDADE, INTEGRIDADE E MONITORAMENTO.",
+        "CONFIDENCIALIDADE, MONITORAMENTO E VPNS."
+      ]
+    }
+  ]
+}
