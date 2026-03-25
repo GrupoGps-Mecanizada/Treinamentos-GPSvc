@@ -1,0 +1,52 @@
+{
+  "treinamento": "CINCO PASSOS PARA O ACESSO_ALPHAVILLE POA",
+  "id": 1464,
+  "idChecklist": 1212,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE DEVE SER FEITO EM CASO DE DÚVIDAS DURANTE O ACESSO?",
+      "opcoes": [
+        "LIBERAR O ACESSO SEM VERIFICAÇÃO.",
+        "CONSULTAR O LÍDER IMEDIATAMENTE.",
+        "CONSULTAR OUTROS VISITANTES.",
+        "IGNORAR A DÚVIDA E SEGUIR O PROTOCOLO PADRÃO."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL COR DO PRISMA É USADA PARA IDENTIFICAÇÃO DE \"PRESTADOR CASA\"?",
+      "opcoes": [
+        "ROXO.",
+        "AMARELO.",
+        "AZUL.",
+        "VERDE."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL SISTEMA É UTILIZADO PARA CADASTRAR VISITANTES SEM LIBERAÇÃO PRÉVIA?",
+      "opcoes": [
+        "WINSPECTOR.",
+        "MYVILLAGE.",
+        "PLANILHA DE EXCEL.",
+        "APLICATIVO DE MENSAGENS."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE DEVE SER FEITO SE O VISITANTE NÃO POSSUIR CADASTRO NO MYVILLAGE?",
+      "opcoes": [
+        "NEGAR O ACESSO IMEDIATAMENTE.",
+        "IGNORAR E LIBERAR O ACESSO SEM REGISTRO.",
+        "LIGAR PARA A UNIDADE VISITADA PARA CONFIRMAÇÃO.",
+        "SOLICITAR QUE RETORNE MAIS TARDE."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É A VELOCIDADE MÁXIMA PERMITIDA NAS DEPENDÊNCIAS DO CONDOMÍNIO?",
+      "opcoes": [
+        "30 KM/H.",
+        "40 KM/H.",
+        "20 KM/H.",
+        "15 KM/H."
+      ]
+    }
+  ]
+}
