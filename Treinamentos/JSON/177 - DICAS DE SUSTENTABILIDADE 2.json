@@ -1,0 +1,52 @@
+{
+  "treinamento": "DICAS DE SUSTENTABILIDADE 2",
+  "id": 177,
+  "idChecklist": 97,
+  "perguntas": [
+    {
+      "pergunta": "5) Assinale uma dica correta sobre redução, reutilização e reciclagem.",
+      "opcoes": [
+        "No trabalho reutilize espaços de folhas já usadas como rascunho e separe os materiais recicláveis.",
+        "Quando trocar pneus velhos do carro, traga o antigo para sua casa e descarte em qualquer rua.",
+        "Compre produtos com embalagens individuais, quanto mais embalagens menos lixo.",
+        "Sempre use sacola plástica, pois é melhor do que sacolas de pano."
+      ]
+    },
+    {
+      "pergunta": "4) O que significa os 3 R's?",
+      "opcoes": [
+        "Reduzir, Reutilizar e Revisar.",
+        "Reduzir, Revisar e Reciclar.",
+        "Reduzir, Respeitar e Retificar.",
+        "Reduzir, Reutilizar e Reciclar."
+      ]
+    },
+    {
+      "pergunta": "3) Qual opção abaixo reflete um hábito mais sustentável de transporte?",
+      "opcoes": [
+        "Para distâncias maiores dê preferência ao transporte coletivo, principalmente trem e o metrô, que não emitem gases tóxicos.",
+        "Use o carro em horário de pico, isso ajuda a economia de combustível.",
+        "Sempre ande com ar condicionado do carro ligado a todo e qualquer momento, essa constância ajuda na economia.",
+        "Nada, pois meus hábitos não influenciam o meio ambiente."
+      ]
+    },
+    {
+      "pergunta": "2) Qual o principal responsável pela poluição emitida no país?",
+      "opcoes": [
+        "A máquina de lavar é a maior responsável por poluição.",
+        "Os veículos são responsáveis por 70% do total da poluição emitida no país.",
+        "Trem é o maior responsável por poluição.",
+        "A bicicleta é o que mais provoca poluição na sociedade."
+      ]
+    },
+    {
+      "pergunta": "1) O que é Sustentabilidade?",
+      "opcoes": [
+        "É um termo usado pra definir as ações que visam suprir as nossas necessidades atuais, mas sem comprometer o futuro das próximas gerações. Uso consciente.",
+        "Termo da moda sem aplicação real para o dia a dia das pessoas.",
+        "Um movimento que visa distribuir igualmente alimentação a todas as pessoas como forma de sustentar o planeta.",
+        "Um grupo político de boas ações com a natureza."
+      ]
+    }
+  ]
+}
