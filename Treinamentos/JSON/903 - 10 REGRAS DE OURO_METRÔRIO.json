@@ -1,0 +1,52 @@
+{
+  "treinamento": "10 REGRAS DE OURO_METRÔRIO",
+  "id": 903,
+  "idChecklist": 679,
+  "perguntas": [
+    {
+      "pergunta": "5) EM QUE MOMENTO EU POSSO ULTRAPASSAR A FAIXA AMARELA DA PLATAFORMA?",
+      "opcoes": [
+        "A QUALQUER MOMENTO.",
+        "QUANDO EU FOR RECOLHER ALGUMA SUJIDADE.",
+        "QUANDO O MEU COLEGA DE TRABALHO SOLICITAR.",
+        "QUANDO FOR AUTORIZADO PELA SEGURANÇA PATRIMONIAL."
+      ]
+    },
+    {
+      "pergunta": "4) EM CASO DE RISCO GRAVE E IMINENTE O QUE DEVO FAZER?",
+      "opcoes": [
+        "EXECUTAR A ATIVIDADE.",
+        "IGNORAR O RISCO.",
+        "NÃO EXECUTAR A ATIVIDADE E ABRIR A RECUSA DE TAREFA.",
+        "PEDIR AO MEU COLEGA PARA FAZER A ATIVIDADE."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE NÃO É PERMITIDO AO CAMINHAR PELAS ESTAÇÕES?",
+      "opcoes": [
+        "FALAR COM OS CLIENTES.",
+        "O USO DE FONE DE OUVIDO OU DISPOSITIVOS PARA LEITURA/ESCRITA.",
+        "RETIRAR O LIXO CAÍDO NO CHÃO.",
+        "FALAR COM OS COLEGAS DE TRABALHO."
+      ]
+    },
+    {
+      "pergunta": "2)  QUANDO EU NÃO POSSO UTILIZAR O MEU CELULAR OU QUALQUER OUTRO DISPOSITIVO QUE DESVIE A MINHA ATENÇÃO?",
+      "opcoes": [
+        "AO SUBIR OU DESCER ESCADAS.",
+        "AO UTILIZAR O GPSI.",
+        "AO PEGAR O ELEVADOR.",
+        "NO REFEITÓRIO."
+      ]
+    },
+    {
+      "pergunta": "1) QUANDO PODEMOS REALIZAR NOSSAS ATIVIDADES NO METRÔ?",
+      "opcoes": [
+        "QUANDO ESTIVER APTO(A) PELO EXAME DE SAÚDE.",
+        "QUANDO ESTIVER HABILITADO(A).",
+        "QUANDO ESTIVER TREINADO(A) E AUTORIZADO(A).",
+        "TODAS AS RESPOSTAS ACIMA."
+      ]
+    }
+  ]
+}
