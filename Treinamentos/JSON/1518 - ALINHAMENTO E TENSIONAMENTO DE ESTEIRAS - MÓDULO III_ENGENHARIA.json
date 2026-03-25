@@ -1,0 +1,52 @@
+{
+  "treinamento": "ALINHAMENTO E TENSIONAMENTO DE ESTEIRAS - MÓDULO III_ENGENHARIA",
+  "id": 1518,
+  "idChecklist": 1258,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL É A FUNÇÃO DAS MARCAS DE REFERÊNCIA DURANTE OS PROCEDIMENTOS?",
+      "opcoes": [
+        "INDICAR O LOCAL DE INSTALAÇÃO DOS EPI'S.",
+        "MARCAR OS PONTOS DE SOLDA.",
+        "ACOMPANHAR O DESLOCAMENTO DA CORREIA.",
+        "IDENTIFICAR OS PARAFUSOS DE FIXAÇÃO."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL COMPONENTE DA ESTEIRA É UTILIZADO PARA REALIZAR O AJUSTE FINO DA POSIÇÃO DA CORREIA DURANTE O ALINHAMENTO?",
+      "opcoes": [
+        "MARTELO.",
+        "PARAFUSO DE AJUSTE.",
+        "ALICATE.",
+        "CHAVE DE FENDA."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE DEVE SER FEITO APÓS O ALINHAMENTO DA CORREIA?",
+      "opcoes": [
+        "SOLTAR OS PARAFUSOS NOVAMENTE.",
+        "REINSTALAR AS PROTEÇÕES LATERAIS.",
+        "FAZER NOVA MARCA DE REFERÊNCIA.",
+        "REAPERTAR OS PARAFUSOS E TESTAR A ESTEIRA."
+      ]
+    },
+    {
+      "pergunta": "2) POR QUE É IMPORTANTE REALIZAR AJUSTES SIMÉTRICOS DURANTE O TENSIONAMENTO DA CORREIA?",
+      "opcoes": [
+        "PARA MANTER O ALINHAMENTO CORRETO DA CORREIA.",
+        "PARA FACILITAR A DESMONTAGEM DA ESTEIRA.",
+        "PARA EVITAR O USO DE EPI'S.",
+        "PARA REDUZIR O TEMPO DE OPERAÇÃO."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O PRIMEIRO PASSO ANTES DE INICIAR A REMOÇÃO DAS PROTEÇÕES LATERAIS DA ESTEIRA?",
+      "opcoes": [
+        "SOLTAR OS PARAFUSOS DE FIXAÇÃO.",
+        "FAZER UMA MARCA DE REFERÊNCIA.",
+        "DESLIGAR A ESTEIRA DA FONTE DE ENERGIA.",
+        "AJUSTAR A CORREIA."
+      ]
+    }
+  ]
+}
