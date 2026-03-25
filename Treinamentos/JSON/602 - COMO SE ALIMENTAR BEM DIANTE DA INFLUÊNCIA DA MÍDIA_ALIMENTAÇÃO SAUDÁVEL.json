@@ -1,0 +1,52 @@
+{
+  "treinamento": "COMO SE ALIMENTAR BEM DIANTE DA INFLUÊNCIA DA MÍDIA_ALIMENTAÇÃO SAUDÁVEL",
+  "id": 602,
+  "idChecklist": 388,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual material devemos considerar como fonte confiável para informações sobre alimentação?",
+      "opcoes": [
+        "Guia alimentar para população mundial.",
+        "Guia alimentar para a população brasileira.",
+        "Guia de dietas brasileiras.",
+        "Guia de receitas brasileiras."
+      ]
+    },
+    {
+      "pergunta": "4) Qual é a função da publicidade?",
+      "opcoes": [
+        "Educar.",
+        "Informar.",
+        "Aumentar as vendas dos produtos.",
+        "Todas as alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) As publicidades de alimentos ultraprocessados atinge na maioria das vezes qual faixa etária?",
+      "opcoes": [
+        "Crianças e adolescentes.",
+        "Idosos.",
+        "Bebês.",
+        "Adultos e adolescentes."
+      ]
+    },
+    {
+      "pergunta": "2) Com o que a alimentação saudável é confundida?",
+      "opcoes": [
+        "Com regular a quantidade de comida.",
+        "Com comer apenas frutas e legumes.",
+        "Com eliminar frituras das refeições.",
+        "Com dietas para emagrecer."
+      ]
+    },
+    {
+      "pergunta": "1) O que a mídia costuma ignorar nas propagandas de superalimentos?",
+      "opcoes": [
+        "O Preço dos alimentos.",
+        "A importância de variar e combinar alimentos.",
+        "O valor de calorias do alimento.",
+        "A quantidade de alimento que deve ser ingerida."
+      ]
+    }
+  ]
+}
