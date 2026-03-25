@@ -1,0 +1,52 @@
+{
+  "treinamento": "MAIO AMARELO - SEGURANÇA NO TRÂNSITO",
+  "id": 1430,
+  "idChecklist": 1181,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL É UMA MEDIDA SIMPLES QUE PODE REDUZIR EM ATÉ 50% O RISCO DE MORTE EM CASO DE ACIDENTE DE TRÂNSITO?",
+      "opcoes": [
+        "USO DO CINTO DE SEGURANÇA.",
+        "USO DO CELULAR AO VOLANTE.",
+        "DIRIGIR MUITO ABAIXO DA VELOCIDADE INDICADA.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "4) SEGUNDO OS DADOS, QUANTAS PESSOAS MORREM EM ACIDENTES DE TRÂNSITO EM MÉDIA POR ANO NO BRASIL?",
+      "opcoes": [
+        "CERCA DE 10 MIL.",
+        "MAIS DE 50 MIL.",
+        "MAIS DE 30 MIL.",
+        "MENOS DE 5 MIL."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É O SIGNIFICADO DA COR AMARELA PARA O MOVIMENTO MAIO AMARELO?",
+      "opcoes": [
+        "INDICA PERIGO.",
+        "REPRESENTA PAZ.",
+        "SINALIZA ÁREAS DE ESTACIONAMENTO.",
+        "SIMBOLIZA ATENÇÃO E ADVERTÊNCIA NO TRÂNSITO."
+      ]
+    },
+    {
+      "pergunta": "2) QUANDO A ONU DECRETOU A DÉCADA DE AÇÃO PARA SEGURANÇA NO TRÂNSITO, QUE INSPIROU A CRIAÇÃO DO MAIO AMARELO?",
+      "opcoes": [
+        "2005.",
+        "2011.",
+        "2015.",
+        "2020."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O OBJETIVO PRINCIPAL DO MOVIMENTO MAIO AMARELO?",
+      "opcoes": [
+        "CELEBRAR FESTIVIDADES NO MÊS DE MAIO.",
+        "CONSCIENTIZAR SOBRE SEGURANÇA NO TRÂNSITO.",
+        "PROMOVER EVENTOS ESPORTIVOS.",
+        "INCENTIVAR O CONSUMO DE ALIMENTOS SAUDÁVEIS."
+      ]
+    }
+  ]
+}
