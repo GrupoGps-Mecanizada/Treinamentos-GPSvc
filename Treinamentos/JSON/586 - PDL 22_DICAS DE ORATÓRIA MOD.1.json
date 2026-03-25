@@ -1,0 +1,52 @@
+{
+  "treinamento": "PDL 22_DICAS DE ORATÓRIA MOD.1",
+  "id": 586,
+  "idChecklist": 374,
+  "perguntas": [
+    {
+      "pergunta": "5) Com base no treinamento, querer aprender a falar em público é uma opção e:",
+      "opcoes": [
+        "Um grande desafio que deve partir de você.",
+        "É para pessoas mais desinibidas.",
+        "É para quem busca cargos de liderança.",
+        "É um grande desafio para persuadir pessoas."
+      ]
+    },
+    {
+      "pergunta": "4) Conforme o treinamento, existem técnicas para uma oratória eficiente, mas:",
+      "opcoes": [
+        "Uma delas é fazer o público rir, o que dificulta o processo.",
+        "Ela vai servir apenas para quem já tem o dom da oratória.",
+        "Querer aprender a falar em público é uma opção e um grande desafio que deve partir de você.",
+        "Você não pode ser tímido."
+      ]
+    },
+    {
+      "pergunta": "3) De acordo com o treinamento, oratória é:",
+      "opcoes": [
+        "Um talento que já nasce com o indivíduo.",
+        "Uma habilidade que apenas as pessoas que já sabem falar em público podem desenvolver.",
+        "Uma capacidade que depende muito da imagem pessoal.",
+        "A capacidade de falar em público de forma determinada e estruturada."
+      ]
+    },
+    {
+      "pergunta": "2) De acordo com o treinamento sobre imagem e apresentação pessoal, o que é mais importante?",
+      "opcoes": [
+        "Qual a cor da roupa que você irá vestir em cada ocasião.",
+        "Qual a mensagem que você quer passar.",
+        "Que a sua roupa valorize o seu conhecimento.",
+        "Que a sua roupa demonstre seriedade."
+      ]
+    },
+    {
+      "pergunta": "1) Com base no treinamento, o objetivo principal de um bom orador é:",
+      "opcoes": [
+        "Informar, ensinar, entreter e influenciar.",
+        "Informar e prender a atenção do público.",
+        "Informar e ser um bom contador de histórias.",
+        "Informar e ter autoconfiança."
+      ]
+    }
+  ]
+}
