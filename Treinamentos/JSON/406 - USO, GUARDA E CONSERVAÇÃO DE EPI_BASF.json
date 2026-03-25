@@ -1,0 +1,52 @@
+{
+  "treinamento": "USO, GUARDA E CONSERVAÇÃO DE EPI_BASF",
+  "id": 406,
+  "idChecklist": 299,
+  "perguntas": [
+    {
+      "pergunta": "5) Como deve ser feita a higienização do protetor auricular?",
+      "opcoes": [
+        "Limpar com papel toalha e álcool em gel.",
+        "Limpar com pano e solvente.",
+        "Lavagem com sabão neutro disponível nos lavabos e vestiários.",
+        "Todas as respostas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "4) Quem deve higienizar os EPIs?",
+      "opcoes": [
+        "Deve solicitar ao técnico de segurança.",
+        "Deve solicitar ao cliente.",
+        "Deve solicitar ao Supervisor operacional.",
+        "O Colaborador deverá higienizar seu Equipamento de proteção Individual para retirar sujidades do dia a dia para conservá-lo."
+      ]
+    },
+    {
+      "pergunta": "3) O que o Colaborador deve fazer caso o seu EPI fique danificado ou seja extraviado?",
+      "opcoes": [
+        "Deve solicitar um novo EPI ao cliente.",
+        "Não deve fazer nada, pois o supervisor poderá aplicar uma advertência.",
+        "Deve deixar como está, pois não haverá problemas de utilizar desta forma.",
+        "O Colaborador deve comunicar e solicitar a troca do EPI danificado ao supervisor operacional ou ao técnico de segurança."
+      ]
+    },
+    {
+      "pergunta": "2) Quem deve fornecer os EPIs para o Colaborador executar as atividades de trabalho?",
+      "opcoes": [
+        "Cada Colaborador deve comprar o seu EPI.",
+        "Os EPIs devem ser fornecidos pela empresa.",
+        "Os EPIs devem ser fornecidos pelo cliente.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o objetivo de utilizar o EPI durante o dia a dia de trabalho?",
+      "opcoes": [
+        "Deixar o Colaborador mais elegante.",
+        "Somente uma forma de poder cobrar os Colaboradores a utilizarem os equipamentos da empresa.",
+        "Proteger a saúde e a segurança física do trabalhador em situações onde as demais Medidas de Controle de Risco não forem suficientes.",
+        "Nenhuma das alternativas."
+      ]
+    }
+  ]
+}
