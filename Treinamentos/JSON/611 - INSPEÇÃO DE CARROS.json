@@ -1,0 +1,52 @@
+{
+  "treinamento": "INSPEÇÃO DE CARROS",
+  "id": 611,
+  "idChecklist": 397,
+  "perguntas": [
+    {
+      "pergunta": "5) Em caso de uso do carro da empresa, você deve fazer a checagem em qual periodicidade?",
+      "opcoes": [
+        "A cada 15 dias.",
+        "Um dia sim e outro não.",
+        "Todos os dias.",
+        "Uma vez por mês"
+      ]
+    },
+    {
+      "pergunta": "4) Assinale abaixo a alternativa que contém alguns dos itens internos que você deve verificar no carro:",
+      "opcoes": [
+        "Extintor, freios, instrumentos do painel, buzina, cinto de segurança e o ponteiro de gasolina.",
+        "Freios, porta-luvas, buzina e extintor.",
+        "GPS, instrumentos do painel, cinto de segurança e freios.",
+        "Extintor, freios, instrumentos do painel e tapetes."
+      ]
+    },
+    {
+      "pergunta": "3) O que devemos verificar nos pneus?",
+      "opcoes": [
+        "O seu tamanho e sua integridade.",
+        "A sua integridade e calibragem.",
+        "Sua cor e calibragem.",
+        "A sua integridade e seu formato."
+      ]
+    },
+    {
+      "pergunta": "2) Quais são os níveis que devemos verificar no carro?",
+      "opcoes": [
+        "Nível do ar condicionado e do perfume do carro.",
+        "Nível do pneu e dos bancos.",
+        "Nível de óleo do motor e água do radiador.",
+        "Não preciso verificar nenhum nível."
+      ]
+    },
+    {
+      "pergunta": "1) O que o veículo sempre deve ter?",
+      "opcoes": [
+        "Chave de roda, triângulo e estepe.",
+        "Balas, carregador e garrafa de água.",
+        "GPS, perfume e ar-condicionado.",
+        "GPS, chave de roda, triângulo e suporte de celular."
+      ]
+    }
+  ]
+}
