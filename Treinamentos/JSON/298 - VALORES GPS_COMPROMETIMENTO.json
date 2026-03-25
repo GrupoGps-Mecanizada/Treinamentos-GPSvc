@@ -1,0 +1,52 @@
+{
+  "treinamento": "VALORES GPS_COMPROMETIMENTO",
+  "id": 298,
+  "idChecklist": 210,
+  "perguntas": [
+    {
+      "pergunta": "5) O que fazer quando houver situação de indisposição?",
+      "opcoes": [
+        "Não tenha nenhuma atitude, nestes casos é melhor não ter envolvimento.",
+        "Quando houver indisposição, não seja um agente apaziguador, para que não se prolongue a insatisfação.",
+        "Quando houver indisposição, seja você um agente apaziguador, para que não se prolongue a insatisfação.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "4) Porque a Colaboração é essencial?",
+      "opcoes": [
+        "Pois nem sempre as demandas são desenvolvidas por você, as vezes será necessário seguir de acordo com uma demanda criada pela equipe e a colaboração se torna essencial.",
+        "Pois tem dias que estamos exaltados e recusar ajudar é essencial para evitar conflitos.",
+        "Pois nem sempre as demandas são desenvolvidas por você, mas não é necessário seguir de acordo com uma demanda criada pela equipe, e a colaboração se torna essencial.",
+        "Para minimizar a indisposição da equipe."
+      ]
+    },
+    {
+      "pergunta": "3) O que significa assumir responsabilidade?",
+      "opcoes": [
+        "Significa que você precisa assumir todas as demandas.",
+        "Significa que você precisa focar mais que o necessário em suas atividades.",
+        "Significa realizar apenas as prioridades.",
+        "Significa que se você se comprometer em realizar uma atividade deve cumprir com sua palavra, assumindo com seu acordo."
+      ]
+    },
+    {
+      "pergunta": "2) Quais são os comportamentos que auxiliam no Comprometimento?",
+      "opcoes": [
+        "Capacidade de assumir responsabilidade, manter o foco na solução de problemas, mas não é necessário identificar problemas futuros.",
+        "Capacidade de assumir responsabilidade, manter o foco na solução de problemas, identificar problemas futuros e garantir a entrega do trabalho.",
+        "Estar atento já soluciona os problemas.",
+        "Criar situações problemáticas."
+      ]
+    },
+    {
+      "pergunta": "1) O que é Comprometimento?",
+      "opcoes": [
+        "É planejar atividades no processo diário.",
+        "É ser eficiente no trabalho.",
+        "É a capacidade de se doar em função de determinada situação ou compromisso.",
+        "Nenhuma das alternativas acima."
+      ]
+    }
+  ]
+}
