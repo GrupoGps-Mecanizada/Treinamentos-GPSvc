@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR11.4. PRINCÍPIO DE FUNCIONAMENTO DE REBOQUE",
+  "id": 250,
+  "idChecklist": 162,
+  "perguntas": [
+    {
+      "pergunta": "5) O que devo fazer ao estacionar o veículo?",
+      "opcoes": [
+        "Posso estacionar em qualquer lugar mesmo que seja saída de emergência e hidrantes.",
+        "Estacionar o veículo em local permitido, obrigatoriamente será necessário o acionamento do freio estacionário.",
+        "Posso estacionar em aclives e declives.",
+        "Estacionar o veículo em local não permitido, obrigatoriamente será necessário o acionamento do freio estacionário."
+      ]
+    },
+    {
+      "pergunta": "4) Como posso operar o veículo?",
+      "opcoes": [
+        "O veículo não pode ser operado em outra posição a não ser do assento do Operador.",
+        "Com as mãos sujas de graxa.",
+        "Com o braço para fora do veículo.",
+        "Todas as alternativas."
+      ]
+    },
+    {
+      "pergunta": "3) Como deverá estar o rebocador antes de dar a partida?",
+      "opcoes": [
+        "Limpo.",
+        "Bem pintado e sem arranhões.",
+        "Antes de dar a partida, todos os controles e alarmes devem ser verificados. Em caso de defeito ou avaria, a máquina só poderá ser usada após o conserto.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) O que é rebocador?",
+      "opcoes": [
+        "É uma empilhadeira modificada.",
+        "É uma máquina que eleva materiais e carga.",
+        "É uma máquina que transporta pessoas.",
+        "É um veículo de grande utilidade, pois substitui, com vantagens, talhas, pontes rolantes, mono vias e também o próprio homem, pois realiza tarefas que ocupariam vários homens."
+      ]
+    },
+    {
+      "pergunta": "1) Qual é a função do rebocador?",
+      "opcoes": [
+        "Elevar cargas.",
+        "Carregar cargas e pessoas.",
+        "A função do rebocador é direcionar cargas que impossibilitam o trabalho manual pela quantidade de materiais ou peso, dependendo do tipo de produto.",
+        "Todas as alternativas."
+      ]
+    }
+  ]
+}
