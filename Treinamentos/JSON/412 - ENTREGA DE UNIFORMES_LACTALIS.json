@@ -1,0 +1,52 @@
+{
+  "treinamento": "ENTREGA DE UNIFORMES_LACTALIS",
+  "id": 412,
+  "idChecklist": 305,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais adornos podem ser utilizados durante a atividade?",
+      "opcoes": [
+        "Aliança.",
+        "Relógio e brinco.",
+        "Não é permitido uso de adornos.",
+        "Pulseira."
+      ]
+    },
+    {
+      "pergunta": "4) Uniformes de cor laranja são entregues para quais funcionários?",
+      "opcoes": [
+        "Todos.",
+        "Funcionários aptos a realizar atividades de NR10.",
+        "Não devem ser entregues.",
+        "Portaria."
+      ]
+    },
+    {
+      "pergunta": "3) Os uniformes devem ser separados de acordo com",
+      "opcoes": [
+        "Corres e tamanhos.",
+        "Tipo de costura.",
+        "Masculino ou feminino.",
+        "Bermudas e calças."
+      ]
+    },
+    {
+      "pergunta": "2) Onde devem ser guardados os dispositivos de transporte de uniformes?",
+      "opcoes": [
+        "Do lado externo.",
+        "Dentro do vestiário.",
+        "No depósito da lavanderia.",
+        "Na área de lazer."
+      ]
+    },
+    {
+      "pergunta": "1) Qual a cor do uniforme deve ser utilizada?",
+      "opcoes": [
+        "Azul.",
+        "Amarelo.",
+        "Verde.",
+        "Branco."
+      ]
+    }
+  ]
+}
