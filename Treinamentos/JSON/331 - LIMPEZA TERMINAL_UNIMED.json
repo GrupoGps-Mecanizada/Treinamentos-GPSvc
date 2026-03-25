@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA TERMINAL_UNIMED",
+  "id": 331,
+  "idChecklist": 230,
+  "perguntas": [
+    {
+      "pergunta": "5) Na execução da limpeza em vasos sanitários e mictórios, é correto",
+      "opcoes": [
+        "Utilizar fibra verde e cortar uma das pontas",
+        "Utilizar fibra branca",
+        "Utilizar fibra azul e cortar uma das pontas",
+        "Utilizar fibra verde."
+      ]
+    },
+    {
+      "pergunta": "4) Qual dos itens abaixo não é utilizado em uma limpeza terminal em pisos de banheiros?",
+      "opcoes": [
+        "Balde azul para piso",
+        "Multibac BP",
+        "Rodo",
+        "Fibra azul"
+      ]
+    },
+    {
+      "pergunta": "3) Por onde devemos iniciar uma limpeza terminal?",
+      "opcoes": [
+        "Pelo piso",
+        "Pelas paredes",
+        "Pelo teto",
+        "Pelo banheiro"
+      ]
+    },
+    {
+      "pergunta": "2) Qual é a limpeza mais completa, incluindo todas as superfícies horizontais e verticais?",
+      "opcoes": [
+        "Limpeza imediata",
+        "Limpeza terminal",
+        "Desinfecção",
+        "Limpeza concorrente"
+      ]
+    },
+    {
+      "pergunta": "1) Qual a técnica empregada para a limpeza de paredes?",
+      "opcoes": [
+        "De cima para baixo",
+        "De baixo para cima",
+        "Da direita para a esquerda",
+        "Da esquerda para a direita"
+      ]
+    }
+  ]
+}
