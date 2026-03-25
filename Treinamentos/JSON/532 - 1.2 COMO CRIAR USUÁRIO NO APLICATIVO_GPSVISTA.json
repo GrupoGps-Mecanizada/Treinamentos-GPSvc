@@ -1,0 +1,52 @@
+{
+  "treinamento": "1.2 COMO CRIAR USUÁRIO NO APLICATIVO_GPSVISTA",
+  "id": 532,
+  "idChecklist": 334,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais os erros podem impedir o cadastro no Portal do GPS Vista?",
+      "opcoes": [
+        "Não colocar os dados iguais ao cadastro do Microsiga.",
+        "Não colocar a senha seguindo os critérios informados.",
+        "Não concordar com os termos e condições.",
+        "Todas as alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "4) Ao se cadastrar pelo APP, qual será a o login de acesso?",
+      "opcoes": [
+        "Somente E-mail.",
+        "CPF.",
+        "Matrícula.",
+        "Nome Completo."
+      ]
+    },
+    {
+      "pergunta": "3) Qual o critério para o cadastro de senha?",
+      "opcoes": [
+        "Apenas letras e números.",
+        "Números.",
+        "Não há nenhum critério para cadastro.",
+        "Deve conter letras, Caracteres especial e Números."
+      ]
+    },
+    {
+      "pergunta": "2) Qual a melhor forma de criar o login dos executores da ponta?",
+      "opcoes": [
+        "Pelo aplicativo, pois dessa forma é só acessar com o CPF e senha.",
+        "Pela Web, pois assim todos tem acesso.",
+        "Pela Web, assim eles podem acessar por e-mail também.",
+        "Nenhuma das opções anteriores."
+      ]
+    },
+    {
+      "pergunta": "1) Quais os dados necessários para realizar o cadastro no Aplicativo?",
+      "opcoes": [
+        "Nome, E-mail e Data de Nascimento.",
+        "Matrícula e Senha.",
+        "Nome Completo, CPF, Nome da Mãe, Data de Admissão e Senha.",
+        "E-mail e Senha."
+      ]
+    }
+  ]
+}
