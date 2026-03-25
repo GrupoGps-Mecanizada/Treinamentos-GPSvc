@@ -1,0 +1,52 @@
+{
+  "treinamento": "CAMPANHA DE SAÚDE - AIDS_BC2",
+  "id": 990,
+  "idChecklist": 765,
+  "perguntas": [
+    {
+      "pergunta": "5) ASSINALE A ALTERNATIVA CORRETA SOBRE A CURA DA AIDS:",
+      "opcoes": [
+        "TEM CURA.",
+        "NÃO TEM CURA, MAS TEM TRATAMENTO.",
+        "NÃO TEM CURA, NEM TRATAMENTO.",
+        "NÃO TEM TRATAMENTO."
+      ]
+    },
+    {
+      "pergunta": "4) QUAIS SÃO AS FORMAS DE PREVENÇÃO?",
+      "opcoes": [
+        "NÃO É POSSÍVEL PREVENIR.",
+        "NÃO TER CONTATO COM AS PESSOAS.",
+        "NÃO COMPARTILHAR BANHEIROS.",
+        "O USO DE PRESERVATIVO (CAMISINHA), COQUETÉIS RETROVIRAIS PARA A MULHER SOROPOSITIVA GRÁVIDA, FALAR E ALERTAR AS PESSOAS SOBRE O ASSUNTO."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É O SIGNIFICADO DA SIGLA HIV?",
+      "opcoes": [
+        "VÍRUS DA IMUNODEFICIÊNCIA HUMANA.",
+        "SÍNDROME ADQUIRIDA PELO VÍRUS.",
+        "SÍNDROME DA IMUNODEFICIÊNCIA ADQUIRIDA.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS SÃO ALGUMAS DAS FORMAS DE TRANSMISSÃO?",
+      "opcoes": [
+        "RELAÇÃO SEXUAL SEM PROTEÇÃO, COMPARTILHAMENTO DE AGULHAS NO USO DE DROGAS INJETÁVEIS E TRANSFUSÕES DE SANGUE DE UMA PESSOA INFECTADA PARA UMA SADIA.",
+        "CONTATO SOCIAL COM PESSOAS SOROPOSITIVAS.",
+        "COMPARTILHAMENTO DE BANHEIROS.",
+        "COMPARTILHAMENTO DE ASSENTOS E TALHERES."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O SIGNIFICADO DA SIGLA AIDS?",
+      "opcoes": [
+        "VÍRUS DA IMUNODEFICIÊNCIA ADQUIRIDA.",
+        "SÍNDROME ADQUIRIDA PELO VÍRUS.",
+        "SÍNDROME DA IMUNODEFICIÊNCIA ADQUIRIDA.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    }
+  ]
+}
