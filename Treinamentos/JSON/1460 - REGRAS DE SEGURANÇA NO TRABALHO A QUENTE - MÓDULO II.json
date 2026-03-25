@@ -1,0 +1,52 @@
+{
+  "treinamento": "REGRAS DE SEGURANÇA NO TRABALHO A QUENTE - MÓDULO II",
+  "id": 1460,
+  "idChecklist": 1208,
+  "perguntas": [
+    {
+      "pergunta": "5) ALÉM DE INTERRUPÇÕES DE ATIVIDADES INSEGURAS, O QUE MAIS FAZ PARTE DA FUNÇÃO DO OBSERVADOR DE TRABALHO A QUENTE?",
+      "opcoes": [
+        "OPERAR OS EQUIPAMENTOS DE SOLDAGEM.",
+        "AJUSTAR A ALTURA DO EXAUSTOR DURANTE A ATIVIDADE.",
+        "MANTER O CILINDRO DE GÁS RESFRIADO.",
+        "MONITORAR A CABANA E CONTER FAGULHAS PROJETADAS."
+      ]
+    },
+    {
+      "pergunta": "4) COMO DEVE SER FEITA A FIXAÇÃO DOS CILINDROS DE GÁS?",
+      "opcoes": [
+        "FIXADOS E COM CAPACETES DE SEGURANÇA ADEQUADOS.",
+        "APENAS ENCOSTADOS EM UMA PAREDE.",
+        "POSICIONADOS EM QUALQUER SUPERFÍCIE PLANA.",
+        "AMARRADOS COM CORDAS LEVES."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É A FREQUÊNCIA MÍNIMA RECOMENDADA PARA INSPEÇÃO DOS EXAUSTORES?",
+      "opcoes": [
+        "DIÁRIA.",
+        "SEMESTRAL.",
+        "ANUAL.",
+        "SEMPRE QUE FOR UTILIZADO."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE DEVE SER EVITADO AO POSICIONAR O DUTO DE SAÍDA DO EXAUSTOR?",
+      "opcoes": [
+        "DEIXÁ-LO EXPOSTO AO SOL.",
+        "DIRECIONÁ-LO PARA UMA ÁREA COM VENTILAÇÃO.",
+        "COLOCÁ-LO EM LOCAIS COM CIRCULAÇÃO DE PESSOAS.",
+        "MANTÊ-LO PRÓXIMO À FONTE DE CALOR."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É UM DOS BENEFÍCIOS DO USO CORRETO DOS EXAUSTORES NO TRABALHO A QUENTE?",
+      "opcoes": [
+        "AUMENTAR A TEMPERATURA DO AMBIENTE.",
+        "REDUZIR A EXPOSIÇÃO A FUMOS METÁLICOS.",
+        "DIMINUIR O CONSUMO DE GÁS DOS CILINDROS.",
+        "EVITAR O DESGASTE DOS EQUIPAMENTOS."
+      ]
+    }
+  ]
+}
