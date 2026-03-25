@@ -1,0 +1,52 @@
+{
+  "treinamento": "PDL2_RELACIONAMENTO COM O CLIENTE",
+  "id": 81,
+  "idChecklist": 54,
+  "perguntas": [
+    {
+      "pergunta": "5) De acordo com o treinamento, reconhecer falhas é:",
+      "opcoes": [
+        "Fraqueza.",
+        "Necessário.",
+        "Coisa de empresa pequena.",
+        "Má gestão."
+      ]
+    },
+    {
+      "pergunta": "4) De acordo com o treinamento, devemos encarar a crítica do cliente:",
+      "opcoes": [
+        "Como uma oportunidade de crescimento.",
+        "Como um sinal vermelho.",
+        "Como um ultimato.",
+        "Como uma implicância."
+      ]
+    },
+    {
+      "pergunta": "3) São boas práticas e dicas simples, para um bom relacionamento com o cliente:",
+      "opcoes": [
+        "Pratique sua oratória e sua imagem pessoal.",
+        "Pratique a Empatia e Seja um Bom Ouvinte.",
+        "Pratique boas práticas de investimento.",
+        "Pratique a renovação do contrato."
+      ]
+    },
+    {
+      "pergunta": "2) Baseado no treinamento, são fatores que podem prejudicar o relacionamento com cliente:",
+      "opcoes": [
+        "Má negociação de preço.",
+        "Má interpretação dos e-mails do cliente.",
+        "Má organização das reuniões remotas.",
+        "Má recepção, demora no atendimento, insistência/teimosia."
+      ]
+    },
+    {
+      "pergunta": "1) De acordo com o treinamento, o que torna a sua empresa essencial para o Cliente?",
+      "opcoes": [
+        "Um bom investimento.",
+        "Uma mudança radical.",
+        "Um bom relacionamento.",
+        "Um bom líder."
+      ]
+    }
+  ]
+}
