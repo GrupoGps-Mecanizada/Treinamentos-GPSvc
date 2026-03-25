@@ -1,0 +1,52 @@
+{
+  "treinamento": "REGRAS DE CONDUTA DE SEGURANÇA_ELECTROLUX",
+  "id": 210,
+  "idChecklist": 123,
+  "perguntas": [
+    {
+      "pergunta": "5) O que fazer em caso de incidentes e/ou acidentes?",
+      "opcoes": [
+        "Comunicar apenas a liderança.",
+        "Não comunicar ninguém.",
+        "É obrigatório a comunicação de imediato da liderança e da segurança do trabalho.",
+        "Ir embora sem comunicar ninguém."
+      ]
+    },
+    {
+      "pergunta": "4) Quando devemos utilizar o corrimão?",
+      "opcoes": [
+        "Sempre que subir na empilhadeira.",
+        "Nunca devemos utilizar.",
+        "Sempre que subir e/ou descer escadas.",
+        "Nenhuma alternativa."
+      ]
+    },
+    {
+      "pergunta": "3) Em qual local podemos utilizar o celular para ligações e mensagens?",
+      "opcoes": [
+        "Nenhum local.",
+        "Apenas em local seguro.",
+        "Ao acessar a área fabril.",
+        "Em todos os locais da área fabril."
+      ]
+    },
+    {
+      "pergunta": "2) Quando os EPI's devem ser utilizados?",
+      "opcoes": [
+        "Quando estivermos fora da área fabril.",
+        "Os EPI's devem ser utilizados sempre que acessar a área fabril.",
+        "Durante o horário das refeições.",
+        "Todas as alternativas."
+      ]
+    },
+    {
+      "pergunta": "1) Em qual ambiente as regras de conduta de segurança são aplicas?",
+      "opcoes": [
+        "Do trabalho.",
+        "Artificial.",
+        "Circulação.",
+        "Em casa."
+      ]
+    }
+  ]
+}
