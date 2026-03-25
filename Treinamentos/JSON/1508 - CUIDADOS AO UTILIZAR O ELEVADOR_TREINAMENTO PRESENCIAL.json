@@ -1,0 +1,52 @@
+{
+  "treinamento": "CUIDADOS AO UTILIZAR O ELEVADOR_TREINAMENTO PRESENCIAL",
+  "id": 1508,
+  "idChecklist": 1248,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE VOCÊ NUNCA DEVE FAZER EM CASO DE EMERGÊNCIA?",
+      "opcoes": [
+        "USAR A ESCADA.",
+        "FICAR CALMO.",
+        "SEGUIR AS ORIENTAÇÕES DE SEGURANÇA.",
+        "USAR O ELEVADOR."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE VOCÊ DEVE FAZER SE O ELEVADOR PARAR?",
+      "opcoes": [
+        "APERTAR O BOTÃO DE EMERGÊNCIA E ESPERAR AJUDA.",
+        "TENTAR SAIR FORÇANDO A PORTA.",
+        "GRITAR PARA CHAMAR ATENÇÃO.",
+        "PULAR ATÉ O ELEVADOR FUNCIONAR."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE FAZER SE O ELEVADOR ESTIVER COM MUITO PESO?",
+      "opcoes": [
+        "COLOCAR MAIS COISAS E TORCER PARA QUE FUNCIONE.",
+        "FAZER MAIS VIAGENS COM MENOS PESO.",
+        "PULAR PARA BALANCEAR.",
+        "CHAMAR ALGUÉM PARA AJUDAR A EMPURRAR."
+      ]
+    },
+    {
+      "pergunta": "2) COMO VOCÊ DEVE ENTRAR E SAIR DO ELEVADOR?",
+      "opcoes": [
+        "COM PRESSA E SEM OLHAR.",
+        "PULANDO.",
+        "COM ATENÇÃO E DEVAGAR.",
+        "EMPURRANDO OS COLEGAS."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE VOCÊ DEVE FAZER AO ESPERAR O ELEVADOR?",
+      "opcoes": [
+        "FORÇAR A PORTA PARA ABRIR LOGO.",
+        "ESPERAR A PORTA ABRIR COMPLETAMENTE.",
+        "ENTRAR CORRENDO ANTES QUE A PORTA FECHE.",
+        "APERTAR O BOTÃO VÁRIAS VEZES."
+      ]
+    }
+  ]
+}
