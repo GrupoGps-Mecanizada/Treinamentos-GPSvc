@@ -1,0 +1,52 @@
+{
+  "treinamento": "DESCARREGAMENTO DE BOBINAS VAZIAS_FURUKAWA",
+  "id": 738,
+  "idChecklist": 518,
+  "perguntas": [
+    {
+      "pergunta": "5)   \n\nQUEM REALIZA A ABERTURA DA LONA LATERAL DO CAMINHÃO “SÍDER”? ",
+      "opcoes": [
+        "MOTORISTA. ",
+        "ASSISTENTE ADMINISTRATIVO.",
+        "CONFERENTE.",
+        "OPERADOR CONFERENTE."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL É OBJETIVO DESTE TREINAMENTO? ",
+      "opcoes": [
+        "REALIZAR ARMAZENAMENTO DE MATÉRIA PRIMA DENTRO DO ALMOXARIFADO CENTRAL.",
+        "TEM COMO OBJETIVO INSTRUIR A REALIZAR O DESCARREGAMENTO DE BOBINAS VAZIAS.",
+        "CONFERÊNCIA DE BOBINAS EM ESTOQUE.  ",
+        "ENVIAR E-MAIL DE COBRANÇA A TRANSPORTADORA DA OPERAÇÃO."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL EQUIPAMENTO É UTILIZADO NESTA OPERAÇÃO? ",
+      "opcoes": [
+        "EMPILHADEIRA. ",
+        "PREGADOR PNEUMÁTICO.",
+        "PALETEIRA.",
+        "NENHUMA DAS OPÇÕES ACIMA."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS EPI’S SÃO UTILIZADOS NESTE PROCEDIMENTO? ",
+      "opcoes": [
+        "LUVA PU, PROTETOR FACIAL E CALÇADO DE SEGURANÇA.",
+        "LUVA DE VAQUETA, PROTETOR FACIAL, CALÇADO DE SEGURANÇA E PROTETOR AURICULAR.",
+        "PROTETOR AURICULAR, LUVA PU E CALÇADO DE SEGURANÇA.",
+        "PROTETOR AURICULAR, ÓCULOS DE SEGURANÇA E CALÇADO DE SEGURANÇA.  "
+      ]
+    },
+    {
+      "pergunta": "1) OS PRODUTOS DESCARREGADOS DEVEM SER ALOCADOS EM QUAL LOCAL? ",
+      "opcoes": [
+        "DIRETAMENTE NO PORTA PALLET.",
+        "LOCAIS DEFINIDOS DE ACORDO COM SEU MATERIAL.",
+        "PORTA DA DOCA.",
+        "NENHUMA DAS ALTERNATIVAS ACIMA."
+      ]
+    }
+  ]
+}
