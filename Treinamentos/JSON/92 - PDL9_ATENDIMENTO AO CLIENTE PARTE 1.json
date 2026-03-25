@@ -1,0 +1,52 @@
+{
+  "treinamento": "PDL9_ATENDIMENTO AO CLIENTE PARTE 1",
+  "id": 92,
+  "idChecklist": 65,
+  "perguntas": [
+    {
+      "pergunta": "5) A missão da nossa empresa reforça o nosso desejo em servir e atender o Cliente. Qual a nossa missão?",
+      "opcoes": [
+        "Todos servindo com orgulho essa missão que é atender o Cliente",
+        "Todos servindo com orgulho e nobreza, nos tornando dedicados aos nossos Clientes",
+        "Todos servindo com alegria, tornando os nossos Clientes mais felizes",
+        "Todos servindo com orgulho e dedicação, nos tornando essenciais aos nossos Clientes"
+      ]
+    },
+    {
+      "pergunta": "4) Baseado no treinamento \"gerar valor\" é:",
+      "opcoes": [
+        "Buscar sempre o sucesso do Cliente",
+        "Expor sempre, observar e desejar o sucesso do Cliente",
+        "Observar e criticar os processos atuais sem propor inovações",
+        "Criticar todos os processos do Cliente"
+      ]
+    },
+    {
+      "pergunta": "3) Baseado no treinamento quando falamos em \"assumir responsabilidades\" podemos dizer que:",
+      "opcoes": [
+        "Reconhecer os erros e apresentar solução é importante mas melhor ainda é cumprir com o que foi combinado",
+        "Pedir desculpas para o cliente e protelar o máximo as informações",
+        "Usar da malandragem e não assumir as responsabilidades",
+        "Cumprir uma vez ou outra o combinado"
+      ]
+    },
+    {
+      "pergunta": "2) Baseado no treinamento, qual empresa consegue ter sucesso sem realizar um bom atendimento ao cliente?",
+      "opcoes": [
+        "Nenhuma, pois o cliente é a razão de ser de uma empresa",
+        "Depende da empresa e contar com a sorte",
+        "Algumas conseguem e outras não",
+        "Todas, porque o cliente não necessita de um bom atendimento"
+      ]
+    },
+    {
+      "pergunta": "1) Baseado no treinamento, uma boa prática de atendimento ao Cliente é:",
+      "opcoes": [
+        "Deixar o Cliente confortável e saber escutar",
+        "Deixar o Cliente em dúvida e escutar quando houver necessidade",
+        "Deixar o Cliente sem orientações",
+        "Deixar o Cliente confortável porém não escutá-lo"
+      ]
+    }
+  ]
+}
