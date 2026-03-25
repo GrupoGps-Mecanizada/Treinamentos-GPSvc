@@ -1,0 +1,52 @@
+{
+  "treinamento": "ELEMENTOS BÁSICOS NA DIREÇÃO DEFENSIVA",
+  "id": 642,
+  "idChecklist": 428,
+  "perguntas": [
+    {
+      "pergunta": "5) Por que o veículo motorizado que circula em vias terrestres é o que mais exige a atenção do condutor?",
+      "opcoes": [
+        "Porque um trem ou avião conta com aparelhos e auxiliares que podem ajudar nessa tarefa.",
+        "Porque o veículo que circula na via é menor do que os demais veículos.",
+        "Porque o veículo que circula em vias, pode atingir a velocidade acima de 100km/h.",
+        "Porque o veículo que circula em vias, não deve atingir a velocidade acima de 100km/h."
+      ]
+    },
+    {
+      "pergunta": "4) Qual a melhor maneira de adquirir conhecimento sobre as leis de trânsito?",
+      "opcoes": [
+        "Dirigir dentro da velocidade permitida da via, para evitar ganhar multas.",
+        "O Código de trânsito brasileiro é o seu maior aliado na busca desse conhecimento.",
+        "Buscar informações de trânsito, com motoristas mais antigos.",
+        "Ultrapassar o sinal vermelho, olhando para os lados para evitar acidentes."
+      ]
+    },
+    {
+      "pergunta": "3) O que é necessário para você se tornar um condutor defensivo?",
+      "opcoes": [
+        "Dirigir falando ao telefone.",
+        "Dirigir com a validade da CNH em dia.",
+        "Manter o IPVA do veículo em dia.",
+        "Fazer uso dos elementos básicos da direção defensiva."
+      ]
+    },
+    {
+      "pergunta": "2) Como desenvolver a habilidade na direção de um veículo?",
+      "opcoes": [
+        "A habilidade se desenvolve por meio de aprendizado e prática.",
+        "A habilidade se desenvolve na autoescola.",
+        "A habilidade é desenvolvida após 5 anos de experiência no volante.",
+        "A habilidade é desenvolvida após 10 anos de experiência no volante."
+      ]
+    },
+    {
+      "pergunta": "1) Quais dos itens abaixo, fazem parte dos elementos básicos na Direção Defensiva?",
+      "opcoes": [
+        "Conhecimento, Agilidade, Decisão e Atenção.",
+        "Agilidade, Falta de Atenção, Decisão, Conhecimento e Habilidade.",
+        "Conhecimento, Atenção, Previsão, Decisão e Habilidade.",
+        "Previsão, Atenção, Decisão, Conhecimento e Pressa."
+      ]
+    }
+  ]
+}
