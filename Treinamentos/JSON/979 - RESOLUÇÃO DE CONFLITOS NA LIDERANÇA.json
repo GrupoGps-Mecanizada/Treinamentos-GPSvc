@@ -1,0 +1,52 @@
+{
+  "treinamento": "RESOLUÇÃO DE CONFLITOS NA LIDERANÇA",
+  "id": 979,
+  "idChecklist": 754,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL É A ESTRATÉGIA DE RESOLUÇÃO DE CONFLITOS EM QUE AS PARTES DISCUTEM O CONFLITO DE FORMA ABERTA E HONESTA?",
+      "opcoes": [
+        "ACOMODAÇÃO.",
+        "COMPROMISSO.",
+        "CONFRONTAÇÃO.",
+        "ARBITRAGEM."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL É A ESTRATÉGIA DE RESOLUÇÃO DE CONFLITOS EM QUE AS PARTES ENCONTRAM UMA SOLUÇÃO QUE ATENDA PARCIALMENTE AOS INTERESSES DE AMBAS?",
+      "opcoes": [
+        "ACOMODAÇÃO.",
+        "COMPROMISSO.",
+        "CONFRONTAÇÃO.",
+        "ARBITRAGEM."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É A ESTRATÉGIA DE RESOLUÇÃO DE CONFLITOS EM QUE UMA DAS PARTES CEDE À OUTRA?",
+      "opcoes": [
+        "ACOMODAÇÃO.",
+        "COMPROMISSO.",
+        "CONFRONTAÇÃO.",
+        "ARBITRAGEM."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS SÃO OS DOIS TIPOS PRINCIPAIS DE CONFLITOS?",
+      "opcoes": [
+        "CONFLITOS DE PERSONALIDADE E CONFLITOS DE VALORES.",
+        "CONFLITOS DE RELACIONAMENTO E CONFLITOS DE TAREFAS.",
+        "CONFLITOS INTERPESSOAIS E INTRAPESSOAIS.",
+        "CONFLITOS DE RECURSOS E CONFLITOS DE METAS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É A DEFINIÇÃO DE CONFLITO?",
+      "opcoes": [
+        "UMA DIVERGÊNCIA DE OPINIÕES OU INTERESSES QUE PODE LEVAR A UMA DISPUTA OU CONFRONTO.",
+        "UMA SITUAÇÃO EM QUE DUAS OU MAIS PESSOAS NÃO ESTÃO DE ACORDO.",
+        "UMA SITUAÇÃO EM QUE UMA PESSOA ESTÁ EM DESACORDO COM OUTRA.",
+        "UMA SITUAÇÃO EM QUE UMA PESSOA NÃO ESTÁ DE ACORDO COM ELA MESMA."
+      ]
+    }
+  ]
+}
