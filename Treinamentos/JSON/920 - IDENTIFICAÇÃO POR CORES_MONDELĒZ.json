@@ -1,0 +1,52 @@
+{
+  "treinamento": "IDENTIFICAÇÃO POR CORES_MONDELĒZ",
+  "id": 920,
+  "idChecklist": 696,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL É A COR DO KIT UTILIZADO NA LIMPEZA DE ÁREAS ADMINISTRATIVAS?",
+      "opcoes": [
+        "VERMELHO.",
+        "AZUL.",
+        "AMARELO.",
+        "VERDE."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL É A COR DO KIT UTILIZADO NA LIMPEZA DE PAREDES E PORTAS?",
+      "opcoes": [
+        "VERMELHO.",
+        "AMARELO.",
+        "PRETO.",
+        "AZUL."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É A COR DO KIT UTILIZADO NA LIMPEZA DE PISOS?",
+      "opcoes": [
+        "AMARELO.",
+        "AZUL.",
+        "PRETO.",
+        "VERDE."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL É A COR DO KIT UTILIZADO NA LIMPEZA DE RALOS?",
+      "opcoes": [
+        "VERMELHO.",
+        "AZUL.",
+        "AMARELO.",
+        "VERDE."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É A COR DO KIT UTILIZADO NA LIMPEZA DE SANITÁRIOS OU VESTIÁRIOS?",
+      "opcoes": [
+        "VERMELHO.",
+        "AZUL.",
+        "PRETO.",
+        "VERDE."
+      ]
+    }
+  ]
+}
