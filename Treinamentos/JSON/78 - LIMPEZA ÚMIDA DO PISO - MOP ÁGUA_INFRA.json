@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA ÚMIDA DO PISO - MOP ÁGUA_INFRA",
+  "id": 78,
+  "idChecklist": 51,
+  "perguntas": [
+    {
+      "pergunta": "5 – Após finalizar a limpeza úmida do piso com o mop água, o que devo fazer?",
+      "opcoes": [
+        "Posso armazenar o balde espremedor sem esvaziar as divisórias.​",
+        "Esvaziar as divisórias abrindo o dreno em frente a um ralo, lavar o balde e lavar o refil de mop água.​",
+        "Esvaziar o balde e guardar com o refil mop água sujo.​",
+        "Deixar o refil de mop água de molho na água suja do balde."
+      ]
+    },
+    {
+      "pergunta": "4 – O balde do sistema mop água tem duas divisórias, qual a solução devemos utilizar em cada divisória?​",
+      "opcoes": [
+        "Deve ser colocado produto químico nas duas divisórias.​",
+        "Deve ser colocado água limpa nas duas divisórias.​",
+        "A primeira divisória se utiliza com produto químico e a segunda divisória com água limpa.​",
+        "Deve ser colocado água limpa na primeira divisória e a outra fica seca armazenar o líquido retirado do refil sujo."
+      ]
+    },
+    {
+      "pergunta": "3 – Qual o cuidado ao realizar a limpeza úmida do piso com mop água?",
+      "opcoes": [
+        "Sempre utilizar a luva de borracha para manusear o mop água.​",
+        "Bloquear totalmente o local, impedindo a passagem de pessoas.",
+        "Não utilizar o espremedor.​",
+        "Reaproveitar a agua suja em vários ambientes diferentes."
+      ]
+    },
+    {
+      "pergunta": "2 – Na limpeza úmida do piso com mop água é obrigatório utilizar?​",
+      "opcoes": [
+        "Rodo de alumínio.​",
+        "Pano de algodão.",
+        "Balde verde.",
+        "A placa de sinalização de piso molhado."
+      ]
+    },
+    {
+      "pergunta": "1 – A utilização do pano de chão para limpeza úmida é um fator de risco?​",
+      "opcoes": [
+        "Não, pode ser utilizado porque é muito prático.​",
+        "Sim, devido o contato das mãos com diversas contaminações presentes no piso, desperdício de água e postura inadequada.",
+        "Não, pode ser utilizado em qualquer tipo de piso.​",
+        "Não, porque não é necessário utilizar luvas na limpeza."
+      ]
+    }
+  ]
+}
