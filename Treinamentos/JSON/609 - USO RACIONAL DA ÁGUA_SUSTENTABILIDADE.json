@@ -1,0 +1,52 @@
+{
+  "treinamento": "USO RACIONAL DA ÁGUA_SUSTENTABILIDADE",
+  "id": 609,
+  "idChecklist": 395,
+  "perguntas": [
+    {
+      "pergunta": "5) Não podemos mudar a atitude das pessoas, mas podemos mudar:",
+      "opcoes": [
+        "A nossa vida.",
+        "O pensamento das pessoas.",
+        "A nossa percepção sobre as situações.",
+        "A nossa relação com as pessoas."
+      ]
+    },
+    {
+      "pergunta": "4) Devemos utilizar a máquina de lavar roupa e louça apenas quando:",
+      "opcoes": [
+        "Tiver roupa e louça suficiente para ocupar a capacidade total das máquinas.",
+        "Tiver roupa e louça suficiente para ocupar a metade da capacidade das máquinas.",
+        "Quando estiver frio, para lavar manualmente.",
+        "Viverciar situações chatas no trabalho."
+      ]
+    },
+    {
+      "pergunta": "3) Qual o tempo ideial de banho para economizar água?",
+      "opcoes": [
+        "De 10 a 15 minutos no máximo.",
+        "De 5 a 10 minutos no máximo.",
+        "De 15 a 30 minutos no máximo.",
+        "5 minutos no máximo."
+      ]
+    },
+    {
+      "pergunta": "2) Quantos litros de água disperdiçamos ao não fechar a torneira enquanto escovamos os dentes?",
+      "opcoes": [
+        "20 litros.",
+        "5 litros.",
+        "25 litros.",
+        "40 litros."
+      ]
+    },
+    {
+      "pergunta": "1) Qual a porcentagem do volume de água da Terra próprio para consumo?",
+      "opcoes": [
+        "Apenas 1%.",
+        "Apenas 70%.",
+        "Apenas 5%.",
+        "Apenas 10%."
+      ]
+    }
+  ]
+}
