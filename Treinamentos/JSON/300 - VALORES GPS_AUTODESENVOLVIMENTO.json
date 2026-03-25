@@ -1,0 +1,52 @@
+{
+  "treinamento": "VALORES GPS_AUTODESENVOLVIMENTO",
+  "id": 300,
+  "idChecklist": 209,
+  "perguntas": [
+    {
+      "pergunta": "5) No final do seu processo, qual comportamento vai garantir no seu sucesso?",
+      "opcoes": [
+        "Celebrar as suas fontes de poder e não se concentrar nos pontos fracos.",
+        "Celebrar as suas fontes de poder e se concentrar nos pontos fracos.",
+        "Celebrar a vida independente do resultado.",
+        "Desistir quando encontrar dificuldades."
+      ]
+    },
+    {
+      "pergunta": "4) Além da prática, qual é o outro conceito importante para o Autodesenvolvimento?",
+      "opcoes": [
+        "Atenção.",
+        "Protagonismo.",
+        "Iniciativa.",
+        "Paciência."
+      ]
+    },
+    {
+      "pergunta": "3) Por qual motivo a prática é tão importante?",
+      "opcoes": [
+        "Pois a prática é a única parte importante no processo.",
+        "Pois não é necessário ter o conceito.",
+        "Pois só o conceito é eficiente.",
+        "Pois só o conceito não é eficiente."
+      ]
+    },
+    {
+      "pergunta": "2) Qual é o princípio para se autodesenvolver?",
+      "opcoes": [
+        "Ir atrás, se esforçar e ter paciência.",
+        "Esperar as coisas acontecerem por si só.",
+        "Observar o desenvolvimento das outras pessoas.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "1) Quando falamos de Autodesenvolvimento, ao que estamos nos referindo?",
+      "opcoes": [
+        "Se trata de um ambiente conhecido por todos.",
+        "De um futuro incerto.",
+        "A capacidade de ser responsável pela sua própria evolução.",
+        "De quem vai construir destinos."
+      ]
+    }
+  ]
+}
