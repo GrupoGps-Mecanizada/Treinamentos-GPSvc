@@ -1,0 +1,52 @@
+{
+  "treinamento": "NORMAS DE SEGURANÇA PARA OPERADORES_ELECTROLUX",
+  "id": 399,
+  "idChecklist": 292,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual colaborador é habilitado para operar empilhadeira?",
+      "opcoes": [
+        "Qualquer colaborador acima de 18 anos.",
+        "Colaboradores que estejam treinados e autorizados pela empresa e com crachá de habitação.",
+        "Somente Colaboradores que possua curso técnico.",
+        "Apenas Colaboradores com mínimo de 2 anos de experiência na empresa."
+      ]
+    },
+    {
+      "pergunta": "4) Qual afirmação abaixo sobre movimentação de pallet está CORRETA?",
+      "opcoes": [
+        "Pode movimentar produtos com mais de 2 níveis de altura quando estiver corrido.",
+        "Sempre movimentar produtos no garfo com velocidade acima de 20km/h.",
+        "Não movimentar produtos na empilhadeira com torre elevada.",
+        "Pode movimentar produtos acima da capacidade da empilhadeira, somente em velocidade baixa."
+      ]
+    },
+    {
+      "pergunta": "3) Quando utilizar os EPI’s?",
+      "opcoes": [
+        "Quando ver o técnico de segurança.",
+        "Somente em auditorias internas.",
+        "Assim que estiver dentro da fábrica e antes de iniciar suas atividades.",
+        "Somente quando os demais Colaboradores estiverem usando."
+      ]
+    },
+    {
+      "pergunta": "2) Qual procedimento seguir em cruzamentos de via com homem/máquina?",
+      "opcoes": [
+        "Certifique-se que o operador ou pedestre esteja lhe vendo, lhe dê sinal e pare.",
+        "Passar pela frente da empilhadeira sem dar sinal.",
+        "Dar um aviso com as mãos e seguir sem parar pela via.",
+        "Contar com a sorte do operador lhe ver."
+      ]
+    },
+    {
+      "pergunta": "1) Quando deve-se fazer o checklist?",
+      "opcoes": [
+        "Somente aos finais de semana.",
+        "Somente quando houver necessidade.",
+        "Somente no final de cada turno.",
+        "No início e término de cada turno."
+      ]
+    }
+  ]
+}
