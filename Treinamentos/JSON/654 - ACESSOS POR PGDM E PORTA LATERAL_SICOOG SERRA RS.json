@@ -1,0 +1,52 @@
+{
+  "treinamento": "ACESSOS POR PGDM E PORTA LATERAL_SICOOG SERRA RS",
+  "id": 654,
+  "idChecklist": 440,
+  "perguntas": [
+    {
+      "pergunta": "5) Por onde os acompanhantes das Pessoas com Deficiência devem acessar a Unidade de Atendimento?",
+      "opcoes": [
+        "Pela porta lateral de acesso.",
+        "Pela PGDM;",
+        "Não poderá acessar a unidade.",
+        "Pelo estacionamento."
+      ]
+    },
+    {
+      "pergunta": "4) O vigilante deve realizar o teste de funcionamento e sensibilidade da PGDM com qual periodicidade?",
+      "opcoes": [
+        "Diariamente.",
+        "Semanalmente.",
+        "Quinzenalmente.",
+        "Mensalmente."
+      ]
+    },
+    {
+      "pergunta": "3) Quando a pessoa que foi retida pelo detector de metais alegar não estar portando objetos metálicos e ainda ocorrer o travamento automático da porta, como deve ser o seu ingresso na unidade?",
+      "opcoes": [
+        "Seu ingresso deve ser quando o vigilante ficar com vontade.",
+        "Seu ingresso será liberado com a autorização da gerência.",
+        "Seu ingresso nunca mais será liberado.",
+        "Seu ingresso será liberado apenas com a autorização do supervisor."
+      ]
+    },
+    {
+      "pergunta": "2) Quando houver a retenção de pessoas, femininas ou masculinas, possuidoras de bolsas, o Vigilante deve:",
+      "opcoes": [
+        "O Vigilante deve solicitar a bolsa e manuseá-la para revista.",
+        "O Vigilante deve solicitar para observar o interior de sua bolsa através do vidro e após pegar a bolsa para guardar em um armário.",
+        "O Vigilante deve solicitar para observar o interior de sua bolsa através do vidro, mas não pode em hipótese alguma manusear a bolsa.",
+        "O Vigilante deve solicitar a bolsa e guardar sob sua posse."
+      ]
+    },
+    {
+      "pergunta": "1) Quando houver travamento automático da porta giratória o Vigilante deverá:",
+      "opcoes": [
+        "O Vigilante deverá liberar a entrada da pessoa sem questionamento.",
+        "O Vigilante educadamente, deverá solicitar para pessoa que estiver ingressando na Unidade de Atendimento para que esta se desfaça de todos os objetos metálicos, utilizando o passa volumes.",
+        "O Vigilante irá acionar o Gerente da unidade.",
+        "O Vigilante liberará a pessoa pela porta de acesso lateral."
+      ]
+    }
+  ]
+}
