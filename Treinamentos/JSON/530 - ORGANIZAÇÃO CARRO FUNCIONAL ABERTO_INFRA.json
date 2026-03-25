@@ -1,0 +1,52 @@
+{
+  "treinamento": "ORGANIZAÇÃO CARRO FUNCIONAL ABERTO_INFRA",
+  "id": 530,
+  "idChecklist": 332,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais materiais devem ser armazenados na prateleira intermediária?",
+      "opcoes": [
+        "Borrifadores, balde azul, sacos de lixo.",
+        "Fibra verde inteira, escova lavatina e balde amarelo.",
+        "Fibra verde cortada com o kit amarelo.",
+        "Materiais descartáveis para reposição e abastecimento, como: papel higiênico, papel toalha, sabonete líquido, álcool gel e materiais limpos."
+      ]
+    },
+    {
+      "pergunta": "4) Quais são os materiais que compõem o kit amarelo?",
+      "opcoes": [
+        "Fibra branca, pano de microfibra amarelo, luvas amarelas e balde amarelo.",
+        "Fibra verde cortada e luvas amarelas, balde verde.",
+        "Fibra branca, escova manual, escova lavatina, balde azul.",
+        "Fibra verde inteira, balde azul, pano de microfibra azul."
+      ]
+    },
+    {
+      "pergunta": "3) Quais são os materiais que compõem o kit azul?",
+      "opcoes": [
+        "Fibra branca, escova lavatina, pano de microfibra verde, balde verde.",
+        "Fibra azul, balde de 4 litros azul, luva azul, pano de microfibra azul, fibra verde cortada e escova manual dentro da caneca transparente.",
+        "Fibra verde inteira, luvas verdes e pano de microfibra azul.",
+        "Fibra branca dentro da caneca transparente, pano de microfibra azul e sacos plásticos de lixo."
+      ]
+    },
+    {
+      "pergunta": "2) Quais materiais devem ser armazenados na prateleira inferior?",
+      "opcoes": [
+        "O kit azul que é de limpeza de sanitários.",
+        "Os descartáveis para reposição.",
+        "Fibra verde inteira, escova lavatina, balde amarelo com refis e panos de microfibra sujos.",
+        "Os EPIs e EPCs."
+      ]
+    },
+    {
+      "pergunta": "1) Qual alternativa está INCORRRETA sobre Carros Funcionais?",
+      "opcoes": [
+        "O carro funcional possui divisões de área limpa e área suja para armazenamento e organização dos materiais, com o objetivo de evitar contaminação cruzada.",
+        "O carro funcional foi desenvolvido para otimizar a produtividade das atividades de limpeza e conservação.",
+        "O carro funcional serve de apoio no transporte dos materiais e cabos.",
+        "O carro funcional deve ficar parado, não pode ser movimentado para não prejudicar o trânsito de pessoas."
+      ]
+    }
+  ]
+}
