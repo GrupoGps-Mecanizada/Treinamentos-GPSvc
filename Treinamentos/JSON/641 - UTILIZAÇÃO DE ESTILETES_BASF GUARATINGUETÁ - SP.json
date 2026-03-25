@@ -1,0 +1,52 @@
+{
+  "treinamento": "UTILIZAÇÃO DE ESTILETES_BASF GUARATINGUETÁ - SP",
+  "id": 641,
+  "idChecklist": 427,
+  "perguntas": [
+    {
+      "pergunta": "5) Para quais atividades NÃO se deve utilizar o estilete?",
+      "opcoes": [
+        "Abertura de fardos de embalagens plásticas.",
+        "Abertura de caixas para retrabalho.",
+        "Regular uma máquina, apertando ou afrouxando um parafuso.",
+        "Abertura de caixas de rótulos."
+      ]
+    },
+    {
+      "pergunta": "4) Quais os EPIs devem ser utilizados ao manusear os estiletes?",
+      "opcoes": [
+        "Somente luvas resistentes à corte nas duas mãos.",
+        "Capacete com jugular.",
+        "Óculos de proteção + Protetor auricular.",
+        "Todas as alterativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) Quais são os estiletes que podem ser utilizados para execução das suas atividades?",
+      "opcoes": [
+        "Qualquer estilete pode ser utilizado.",
+        "Somente estilete tipo bico de pato, homologado pelo Cliente.",
+        "Somente estilete tipo retrátil, homologado pelo Cliente.",
+        "Estiletes tipo bico de pato e retrátil, homologados pelo Cliente."
+      ]
+    },
+    {
+      "pergunta": "2) Quem deve fornecer os estiletes para o Colaborador executar as atividades de trabalho?",
+      "opcoes": [
+        "Cada Colaborador deve comprar o seu estilete.",
+        "Os estiletes devem ser fornecidos pela empresa.",
+        "Os estiletes devem ser fornecidos pelo Cliente.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o objetivo de utilizar o estilete durante o dia a dia de trabalho?",
+      "opcoes": [
+        "Utilizar para uso pessoal, se precisar levar a ferramenta para a minha casa.",
+        "Utilizar apenas para abrir caixas.",
+        "Em qualquer atividade que for necessário o uso do estilete.",
+        "Nenhuma das alternativas."
+      ]
+    }
+  ]
+}
