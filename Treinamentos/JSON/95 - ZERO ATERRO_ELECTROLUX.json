@@ -1,0 +1,52 @@
+{
+  "treinamento": "ZERO ATERRO_ELECTROLUX",
+  "id": 95,
+  "idChecklist": 69,
+  "perguntas": [
+    {
+      "pergunta": "5) Como é possível contribuir para o Programa Zero Aterro?",
+      "opcoes": [
+        "Praticando o correto descarte dos resíduos e respeitando a coleta seletiva.",
+        "Descartando resíduos misturados.",
+        "Descartando os resíduos nas lixeiras mais próximas.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) Onde são encontrados os indicadores do Programa Zero Aterro?",
+      "opcoes": [
+        "Murais da entrada da fábrica, quadros dos times, refeitório, aplicativo.",
+        "Apenas no aplicativo.",
+        "Nenhuma das alternativas.",
+        "No site da empresa."
+      ]
+    },
+    {
+      "pergunta": "3) Quais são os indicadores do Programa Zero Aterro?",
+      "opcoes": [
+        "Consumo de água.",
+        "Consumo de energia.",
+        "Aterro e Reaproveitamento energético.",
+        "CAF e SAF."
+      ]
+    },
+    {
+      "pergunta": "2) Qual é a principal ferramenta do Programa Zero Aterro?",
+      "opcoes": [
+        "Coleta Seletiva.",
+        "5’S.",
+        "Investigação de Acidentes.",
+        "PDCA."
+      ]
+    },
+    {
+      "pergunta": "1) O Zero Aterro é:",
+      "opcoes": [
+        "Um programa global para redução de consumo de água.",
+        "Um programa global para melhorar a Gestão de Resíduos.",
+        "Um programa local para reduzir emissões.",
+        "Um programa exclusivo da empresa."
+      ]
+    }
+  ]
+}
