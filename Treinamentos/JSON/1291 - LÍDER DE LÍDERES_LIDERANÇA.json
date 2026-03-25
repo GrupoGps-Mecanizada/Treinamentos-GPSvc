@@ -1,0 +1,52 @@
+{
+  "treinamento": "LÍDER DE LÍDERES_LIDERANÇA",
+  "id": 1291,
+  "idChecklist": 1055,
+  "perguntas": [
+    {
+      "pergunta": "5) SEGUNDO DANIEL GOLEMAN, QUAL HABILIDADE É CRUCIAL PARA LÍDERES DE LÍDERES?",
+      "opcoes": [
+        "INTELIGÊNCIA EMOCIONAL.",
+        "FORÇA FÍSICA.",
+        "RIGOR FINANCEIRO.",
+        "AUTORITARISMO."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL SÉRIE APRESENTA O PERSONAGEM JOSIAH BARTLET COMO UM EXEMPLO DE LÍDER DE LÍDERES?",
+      "opcoes": [
+        "GAME OF THRONES.",
+        "BREAKING BAD.",
+        "THE WEST WING.",
+        "HOUSE OF CARDS."
+      ]
+    },
+    {
+      "pergunta": "3) BASEADO NO TREINAMENTO, QUAL É A PRINCIPAL MENSAGEM DO LIVRO \"O MONGE E O EXECUTIVO\"?",
+      "opcoes": [
+        "LIDERANÇA ATRAVÉS DO AUTORITARISMO.",
+        "IMPORTÂNCIA DE SERVIR PARA LIDERAR.",
+        "NECESSIDADE DE FOCO EXCLUSIVO NOS LUCROS.",
+        "EVITAR A COMUNICAÇÃO COM A EQUIPE."
+      ]
+    },
+    {
+      "pergunta": "2) COM BASE NO TREINAMENTO, NO FILME \"INVICTUS\", COMO NELSON MANDELA EXEMPLIFICA A LIDERANÇA DE LÍDERES?",
+      "opcoes": [
+        "ATRAVÉS DE POLÍTICAS SEVERAS.",
+        "ISOLANDO-SE DO POVO.",
+        "DESISTINDO FRENTE AOS DESAFIOS.",
+        "INSPIRANDO E UNIFICANDO UM PAÍS ATRAVÉS DO ESPORTE."
+      ]
+    },
+    {
+      "pergunta": "1) DE ACORDO COM O TREINAMENTO, O PAPEL DE UM LÍDER DE LÍDERES É DISTINTO E DESAFIADOR. ASSINALE UMA CARACTERÍSTICA ESSENCIAL PARA UM LÍDER DE LÍDERES:",
+      "opcoes": [
+        "CAPACIDADE DE MICROGERENCIAMENTO.",
+        "VISÃO ESTRATÉGICA.",
+        "FOCO APENAS EM RESULTADOS.",
+        "ISOLAMENTO DOS LÍDERES."
+      ]
+    }
+  ]
+}
