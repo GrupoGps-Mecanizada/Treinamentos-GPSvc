@@ -1,0 +1,52 @@
+{
+  "treinamento": "DIA DO ZELADOR",
+  "id": 957,
+  "idChecklist": 734,
+  "perguntas": [
+    {
+      "pergunta": "5) DE ACORDO COM O TREINAMENTO, SEM OS ZELADORES, COMO NOSSOS ESPAÇOS DE TRABALHO SERIAM?",
+      "opcoes": [
+        "MENOS CONFORTÁVEIS, MENOS SEGUROS E MENOS ACOLHEDORES.",
+        "MENOS CONFORTÁVEIS E MENOS SEGUROS.",
+        "MAIS DESCONFORTÁVEIS, MAS IGUALMENTE SEGUROS.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "4) COMO A PRESENÇA DOS ZELADORES É DESCRITA NO TEXTO?",
+      "opcoes": [
+        "DESNECESSÁRIA.",
+        "INDIFERENTE.",
+        "SÍMBOLO DE CONFIANÇA E PRONTIDÃO.",
+        "PERTURBADORA."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE OS ZELADORES FAZEM EM RESPOSTA ÀS NECESSIDADES EMERGENTES?",
+      "opcoes": [
+        "IGNORAM AS DEMANDAS.",
+        "IDENTIFICAM RAPIDAMENTE AS NECESSIDADES.",
+        "ENCAMINHAM AS SOLICITAÇÕES PARA OUTROS DEPARTAMENTOS",
+        "AGUARDAM ORDENS SUPERIORES PARA AGIR."
+      ]
+    },
+    {
+      "pergunta": "2) ALÉM DA LIMPEZA, QUAL É A OUTRA RESPONSABILIDADE DESTACADA DOS ZELADORES?",
+      "opcoes": [
+        "MANUTENÇÃO DE EQUIPAMENTOS ELÉTRICOS.",
+        "PREPARAÇÃO DE REFEIÇÕES.",
+        "ATENDIMENTO TELEFÔNICO.",
+        "IDENTIFICAÇÃO DE NECESSIDADES EMERGENTES."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É A DATA EM QUE CELEBRAMOS O DIA DO ZELADOR?",
+      "opcoes": [
+        "11 DE MARÇO.",
+        "11 DE FEVEREIRO.",
+        "11 DE ABRIL.",
+        "11 DE JANEIRO."
+      ]
+    }
+  ]
+}
