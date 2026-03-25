@@ -1,0 +1,52 @@
+{
+  "treinamento": "CABINE PRIMÁRIA - PARTE 5 - MÓDULO IV_ENGENHARIA",
+  "id": 1135,
+  "idChecklist": 908,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL É A FINALIDADE DOS TRANSFORMADORES PARA INSTRUMENTOS?",
+      "opcoes": [
+        "REFRIGERAÇÃO DOS ENROLAMENTOS.",
+        "PROTEÇÃO CONTRA SOBRECARGAS NA REDE ELÉTRICA.",
+        "AUMENTAR A TENSÃO DA REDE ELÉTRICA.",
+        "ALIMENTAR OS APARELHOS DE MEDIÇÃO E PROTEÇÃO."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE UM RELÉ DE TEMPERATURA FAZ EM UM TRANSFORMADOR TRIFÁSICO A SECO EM RESINA?",
+      "opcoes": [
+        "MONITORA A TEMPERATURA DOS ENROLAMENTOS.",
+        "AUMENTA A CIRCULAÇÃO DO AR NOS RADIADORES.",
+        "MEDE A TENSÃO E A CORRENTE DA REDE.",
+        "PROTEGE CONTRA CURTOS-CIRCUITOS NA REDE ELÉTRICA."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É O SISTEMA DE REFRIGERAÇÃO UTILIZADO EM TRANSFORMADORES ONDE EXISTEM VENTILADORES FIXOS NOS RADIADORES?",
+      "opcoes": [
+        "REFRIGERAÇÃO À ÁGUA (OFWF).",
+        "VENTILAÇÃO FORÇADA (ONAF).",
+        "CIRCULAÇÃO FORÇADA DO ÓLEO (OFAF).",
+        "REFRIGERAÇÃO NATURAL (ONAN)."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS SÃO OS MATERIAIS MAIS EMPREGADOS NA CONSTRUÇÃO DAS BUCHAS OU ISOLADORES?",
+      "opcoes": [
+        "METAL E PLÁSTICO.",
+        "FERRO E AÇO.",
+        "PORCELANA E VIDRO.",
+        "BORRACHA E SILICONE."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É A FUNÇÃO BÁSICA DAS BUCHAS OU ISOLADORES NOS EQUIPAMENTOS ELÉTRICOS?",
+      "opcoes": [
+        "AUMENTAR A CIRCULAÇÃO DO AR NOS RADIADORES.",
+        "PROPORCIONAR UM ISOLAMENTO ELÉTRICO.",
+        "MEDIR A TEMPERATURA DO TRANSFORMADOR.",
+        "ALIMENTAR OS APARELHOS DE MEDIÇÃO."
+      ]
+    }
+  ]
+}
