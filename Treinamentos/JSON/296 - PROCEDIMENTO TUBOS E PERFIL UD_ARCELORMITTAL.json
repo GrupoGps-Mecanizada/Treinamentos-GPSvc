@@ -1,0 +1,52 @@
+{
+  "treinamento": "PROCEDIMENTO TUBOS E PERFIL UD_ARCELORMITTAL",
+  "id": 296,
+  "idChecklist": 207,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais dessas encaixa em regras gerais de segurança?",
+      "opcoes": [
+        "Anomalias não reportar ao líder.",
+        "Realizar checklist a cada turno.",
+        "Duas pessoas podem controlar a ponte juntas.",
+        "Controles devem ser testados semanalmente."
+      ]
+    },
+    {
+      "pergunta": "4) Qual questão abaixo se encaixa na regra geral de segurança?",
+      "opcoes": [
+        "Não é necessário checar a tensão da linga.",
+        "Deixar a carga suspensa no ar.",
+        "Trabalhar sob uma carga suspensa.",
+        "Nunca levante a carga mais do que o necessário."
+      ]
+    },
+    {
+      "pergunta": "3) Para operar a ponte rolante é obrigatório:",
+      "opcoes": [
+        "Ser autorizado e capacitado.",
+        "Não é preciso utilizar EPI's.",
+        "Não é preciso ter ASO em dia.",
+        "Não é preciso ter certificado de Operador de Ponte rolante."
+      ]
+    },
+    {
+      "pergunta": "2) Quando o veículo chegar no pátio, deve-se:",
+      "opcoes": [
+        "Travar as rodas do veículo.",
+        "Solicitar ao motorista que deixe o veículo ligado.",
+        "Deixar a chave no veículo.",
+        "Deixar a chave com o motorista."
+      ]
+    },
+    {
+      "pergunta": "1) Quais itens abaixo fazem parte do padrão de identificações básicas dos materiais?",
+      "opcoes": [
+        "Nome do produto.",
+        "Código do material do SAP.",
+        "Bitola ou dimensões.",
+        "Todas as alternativas anteriores."
+      ]
+    }
+  ]
+}
