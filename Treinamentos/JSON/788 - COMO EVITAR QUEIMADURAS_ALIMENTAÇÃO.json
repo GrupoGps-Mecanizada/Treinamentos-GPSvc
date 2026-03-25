@@ -1,0 +1,52 @@
+{
+  "treinamento": "COMO EVITAR QUEIMADURAS_ALIMENTAÇÃO",
+  "id": 788,
+  "idChecklist": 567,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE NOS AJUDA A NOS MANTER SEGUROS NO AMBIENTE DE TRABALHO?",
+      "opcoes": [
+        "IGNORAR PROCEDIMENTOS DE SEGURANÇA.",
+        "NÃO USAR OS EPI’S.",
+        "USAR OS EPI’S APROPRIADOS E SEMPRE PARTICIPAR DOS TREINAMENTOS.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "4) QUANDO UTILIZAR MÁQUINA DE LAVAR PRATOS, QUAL EPI DEVO USAR?",
+      "opcoes": [
+        "NÃO DEVO USAR NENHUM EPI.",
+        "LUVAS DESCARTÁVEIS.",
+        "LUVAS TÉRMICAS, POIS, O PRATO SAI EXTREMAMENTE QUENTE DA MÁQUINA.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "3) QUANDO O FORNO ESTIVER QUENTE, O QUE DEVO FAZER?",
+      "opcoes": [
+        "MANTER DISTÂNCIA ATÉ O TEMPO DE RETIRAR OS ALIMENTOS DELE.",
+        "TRABALHAR BEM PRÓXIMO.",
+        "IR REALIZAR OUTRA ATIVIDADE EM OUTRO LOCAL.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS EPI’S DEVEMOS USAR PARA EVITAR QUEIMADURAS?",
+      "opcoes": [
+        "AVENTAL DE PVC E LUVA LATÉX.",
+        "AVENTAL, MANGOTE E LUVA TÉRMICA.",
+        "NÃO É NECESSÁRIO NENHUM EPI.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É UM DOS RISCOS QUE DEVEMOS TER MAIS ATENÇÃO?",
+      "opcoes": [
+        "QUEDA DE MESMO NÍVEL.",
+        "QUEIMADURAS.",
+        "RADIAÇÃO IONIZANTE.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    }
+  ]
+}
