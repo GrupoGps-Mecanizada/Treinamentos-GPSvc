@@ -1,0 +1,52 @@
+{
+  "treinamento": "RECOLHIMENTO DE CARRINHOS DE BAGAGEM",
+  "id": 561,
+  "idChecklist": 363,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais EPIs são necessários para a atividade de coleta de carrinhos?",
+      "opcoes": [
+        "Luva amarela, pano de microfibra e sapato de segurança.",
+        "Luva multitato, balde e sapato de segurança.",
+        "Luva multitato, colete refletivo e sapato de segurança.",
+        "Luva Azul, colete refletivo e sapato de segurança."
+      ]
+    },
+    {
+      "pergunta": "4) Qual a capacidade máxima para realizar a atividade de coleta de carrinhos sozinho sem rebocador?",
+      "opcoes": [
+        "15 unidades.",
+        "7 unidades.",
+        "10 unidades.",
+        "13 unidades."
+      ]
+    },
+    {
+      "pergunta": "3) Qual a capacidade máxima do rebocador?",
+      "opcoes": [
+        "20 unidades.",
+        "10 unidades.",
+        "15 unidades.",
+        "25 unidades."
+      ]
+    },
+    {
+      "pergunta": "2) Quando utilizado o rebocador, qual item serve de auxílio para a atividade?",
+      "opcoes": [
+        "Corda.",
+        "Um colega.",
+        "Pano microfibra.",
+        "Espanador Eletrostático."
+      ]
+    },
+    {
+      "pergunta": "1) Em quais locais deve ser realizado o abastecimento de carrinhos?",
+      "opcoes": [
+        "Em qualquer lugar do aeroporto.",
+        "Em áreas demarcadas.",
+        "No desembarque doméstico.",
+        "No embarque doméstico."
+      ]
+    }
+  ]
+}
