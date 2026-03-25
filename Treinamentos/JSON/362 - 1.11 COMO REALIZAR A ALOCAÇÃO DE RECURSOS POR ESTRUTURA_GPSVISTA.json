@@ -1,0 +1,52 @@
+{
+  "treinamento": "1.11 COMO REALIZAR A ALOCAÇÃO DE RECURSOS POR ESTRUTURA_GPSVISTA",
+  "id": 362,
+  "idChecklist": 260,
+  "perguntas": [
+    {
+      "pergunta": "5) É possível escolher mais de um recurso por local?",
+      "opcoes": [
+        "Sim.",
+        "Não.",
+        "Depende do local.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "4) Para alocar os recursos em estrutura é necessário que:",
+      "opcoes": [
+        "Coloquem os CPF dos Colaboradores dentro da rotina.",
+        "Que as rotinas estejam atribuídas a um cargo.",
+        "Que as rotinas estejam inativas.",
+        "Busque os nomes dentro da aba de recursos."
+      ]
+    },
+    {
+      "pergunta": "3) A Lista de recursos que aparecem são de quais locais?",
+      "opcoes": [
+        "Somente os Colaboradores do CR escolhido.",
+        "Todos os Colaboradores do Grupo GPS.",
+        "Somente os líderes de cada Contrato.",
+        "Somente os cargos."
+      ]
+    },
+    {
+      "pergunta": "2) Qual o ícone possibilita o cadastro de recursos em estrutura?",
+      "opcoes": [
+        "O ícone de Lápis.",
+        "O Botão de “Play”.",
+        "O ícone de “Recurso”.",
+        "O botão de “+”."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o objetivo de alocar recursos direto pelos níveis de estrutura?",
+      "opcoes": [
+        "Informar que somente os recursos selecionados receberão as tarefas no App.",
+        "Cadastrar os Colaboradores.",
+        "Desativar os demais Colaboradores.",
+        "Bloquear os Colaboradores que não foram selecionados."
+      ]
+    }
+  ]
+}
