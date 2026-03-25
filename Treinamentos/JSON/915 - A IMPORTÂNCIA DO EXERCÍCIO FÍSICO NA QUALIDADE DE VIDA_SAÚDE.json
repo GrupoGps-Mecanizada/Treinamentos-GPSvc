@@ -1,0 +1,52 @@
+{
+  "treinamento": "A IMPORTÂNCIA DO EXERCÍCIO FÍSICO NA QUALIDADE DE VIDA_SAÚDE",
+  "id": 915,
+  "idChecklist": 691,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAIS SÃO OS BENEFÍCIOS QUE A PRÁTICA DA MUSCULAÇÃO PODE TRAZER À NOSSA SAÚDE?",
+      "opcoes": [
+        "A PELE FICA MAIS HIDRATADA.",
+        "AJUDA NO CRESCIMENTO.",
+        "DIMINUI AS RUGAS.",
+        "CONTRIBUI COM O AUMENTO DOS MÚSCULOS, FORÇA E NO TRATAMENTO DE DOENÇAS."
+      ]
+    },
+    {
+      "pergunta": "4) ASSINALE A ALTERNATIVA CORRETA. PARA A CAMINHADA SER UTILIZADA COMO EXERCÍCIO, ELA DEVE SER:",
+      "opcoes": [
+        "LENTA.",
+        "MUITO LENTA.",
+        "MUITO ACELERADA, QUASE UMA CORRIDA.",
+        "ACELERADA/RÁPIDA."
+      ]
+    },
+    {
+      "pergunta": "3)  PARA TERMOS UM SONO DE QUALIDADE DEVEMOS DORMIR QUANTAS HORAS?",
+      "opcoes": [
+        "DE 7:00 A 8:00 HRS.",
+        "DE 6:00 A 7:00 HRS.",
+        "DE 8:00 A 10:00 HRS.",
+        "DE 9:00 A 10:00 HRS."
+      ]
+    },
+    {
+      "pergunta": "2)  O QUE É QUALIDADE DE VIDA?",
+      "opcoes": [
+        "QUALIDADE DE VIDA É VIVER COM SAÚDE.",
+        "QUALIDADE DE VIDA É DORMIR BEM.",
+        "QUALIDADE DE VIDA É FAZER EXERCÍCIOS.",
+        "QUALIDADE DE VIDA É O BEM-ESTAR FÍSICO, MENTAL E SOCIAL."
+      ]
+    },
+    {
+      "pergunta": "1) PARA CONTRIBUIR COM NOSSA SAÚDE, QUANTOS QUILÔMETROS DEVEMOS CAMINHAR POR SEMANA?",
+      "opcoes": [
+        "ENTRE 10 KM A 15KM.",
+        "ENTRE 8 KM A 10 KM.",
+        "ENTRE 15 KM A 24 KM.",
+        "ENTRE 24 KM A 30 KM."
+      ]
+    }
+  ]
+}
