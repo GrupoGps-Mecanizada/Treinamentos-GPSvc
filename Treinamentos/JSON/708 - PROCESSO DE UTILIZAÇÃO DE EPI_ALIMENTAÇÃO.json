@@ -1,0 +1,52 @@
+{
+  "treinamento": "PROCESSO DE UTILIZAÇÃO DE EPI_ALIMENTAÇÃO",
+  "id": 708,
+  "idChecklist": 492,
+  "perguntas": [
+    {
+      "pergunta": "5)  PARA TAREFAS DE CORTE PRECISAMOS USAR QUAIS EPI’S? ",
+      "opcoes": [
+        "LUVA DE MALHA DE AÇO OU 4 FIOS DE CORTE.",
+        "LUVA, MANGOTE E AVENTAL FORRADO PARA ALTA TEMPERATURA.",
+        "JAPONA DE NYLON COM CAPUZ E LUVA TÉRMICA BAIXA TEMPERATURA.",
+        "TODAS AS ALTERNATIVAS.\r\n"
+      ]
+    },
+    {
+      "pergunta": "4) PARA TAREFAS DE HIGIENIZAÇÃO PRECISAMOS USAR QUAIS EPI’S? ",
+      "opcoes": [
+        "LUVA, MANGOTE E AVENTAL FORRADO PARA ALTA TEMPERATURA.",
+        "LUVA DESCARTÁVEL.",
+        "CALÇADO DE SEGURANÇA OU BOTA DE PVC, LUVA DE LÁTEX, AVENTAL IMPERMEÁVEL E ÓCULOS DE SEGURANÇA.",
+        "CALÇADO DE SEGURANÇA OU BOTA DE PVC, LUVA DE LÁTEX, AVENTAL IMPERMEÁVEL E ÓCULOS DE SEGURANÇA."
+      ]
+    },
+    {
+      "pergunta": "3) PARA TAREFAS DENTRO DA CÂMARA FRIA PRECISAMOS USAR QUAIS EPI’S? \n\n ",
+      "opcoes": [
+        "JAPONA DE NYLON COM CAPUZ E LUVA TÉRMICA BAIXA TEMPERATURA.",
+        "LUVA DE BORRACHA.",
+        "LUVA DE AÇO.",
+        "LUVAS DESCARTÁVEIS. "
+      ]
+    },
+    {
+      "pergunta": "2) PARA TAREFAS DE COCÇÃO PRECISAMOS USAR QUAIS EPI’S? ",
+      "opcoes": [
+        "LUVA E AVENTAL DE PLÁSTICO.",
+        "LUVA, MANGOTE E AVENTAL FORRADO PARA ALTA TEMPERATURA.",
+        "APENAS ÓCULOS DE SEGURANÇA.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE É ESSENCIAL PARA REALIZAR NOSSAS ATIVIDADES NA COZINHA? ",
+      "opcoes": [
+        "NADA, JÁ TEMOS TUDO QUE PRECISAMOS NA COZINHA.",
+        "FOGÃO E FORNOS.",
+        "UNIFORME.",
+        "EPI’S APROPRIADOS PARA A ATIVIDADE."
+      ]
+    }
+  ]
+}
