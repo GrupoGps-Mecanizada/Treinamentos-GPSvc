@@ -1,0 +1,52 @@
+{
+  "treinamento": "PRESENTEÍSMO_BURGER KING",
+  "id": 1160,
+  "idChecklist": 929,
+  "perguntas": [
+    {
+      "pergunta": "5) APÓS CONCLUIR SUA JORNADA DE TRABALHO, QUAL É A OPÇÃO QUE VOCÊ DEVE SELECIONAR NO APLICATIVO GPSA?",
+      "opcoes": [
+        "\"ABORTAR\".",
+        "\"ÁREA DE TRABALHO\".",
+        "\"TAREFAS\".",
+        "\"SAÍDA\"."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE DEVO FAZER CASO INICIE UMA TAREFA POR ENGANO NO GPSVISTA?",
+      "opcoes": [
+        "CLIQUE EM  “ABORTAR”.",
+        "FECHE O APLICATIVO DE IMEDIATO.",
+        "É OBRIGATÓRIO REALIZAR A TAREFA.",
+        "CLIQUE EM \"CONCLUIR\"."
+      ]
+    },
+    {
+      "pergunta": "3) COMO SABER QUE TODAS AS ALTERNATIVAS ESTÃO RESPONDIDAS NO GPSVISTA?",
+      "opcoes": [
+        "CLICANDO NA ALTERNATIVA.",
+        "QUANDO TODAS ESTIVEREM SELECIONADAS EM AZUL.",
+        "NÃO É POSSÍVEL SABER DESSA INFORMAÇÃO.",
+        "QUANDO ESTIVEREM SELECIONADAS EM VERDE."
+      ]
+    },
+    {
+      "pergunta": "2) ONDE DEVO CLICAR AO TERMINAR UMA TAREFA NO GPSVISTA?",
+      "opcoes": [
+        "CLICAR EM “CONCLUIR”.",
+        "CLICAR EM “ABORTAR”.",
+        "APENAS FECHAR O APLICATIVO .",
+        "NÃO CLICAR EM NADA."
+      ]
+    },
+    {
+      "pergunta": "1) PARA ACESSAR O APLICATIVO GPSVISTA É CORRETO AFIRMAR QUE:",
+      "opcoes": [
+        "DEVO INSERIR APENAS O \"CPF\".",
+        "DEVO INSERIR \"RG\" E \"SENHA\".",
+        "DEVO INSERIR \"CPF\", \"SENHA\", E CLICAR EM \"ENTRAR\".",
+        "DEVO INSERIR COLOCAR A SENHA."
+      ]
+    }
+  ]
+}
