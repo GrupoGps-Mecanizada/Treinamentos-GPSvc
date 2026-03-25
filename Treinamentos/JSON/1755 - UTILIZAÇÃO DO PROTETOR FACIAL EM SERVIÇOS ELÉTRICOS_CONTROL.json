@@ -1,0 +1,52 @@
+{
+  "treinamento": "UTILIZAÇÃO DO PROTETOR FACIAL EM SERVIÇOS ELÉTRICOS_CONTROL",
+  "id": 1755,
+  "idChecklist": 1446,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL MATERIAL COMPÕE O VISOR DO PROTETOR FACIAL?",
+      "opcoes": [
+        "POLICARBONATO, RESISTENTE A IMPACTOS E RADIAÇÕES.",
+        "VIDRO COMUM.",
+        "ACRÍLICO.",
+        "ALUMÍNIO TRANSPARENTE."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL O RISCO DO USO INCORRETO OU DA NÃO UTILIZAÇÃO DO PROTETOR FACIAL?",
+      "opcoes": [
+        "APENAS DESCONFORTO.",
+        "MULTA ADMINISTRATIVA.",
+        "APENAS REDUÇÃO DE PRODUTIVIDADE.",
+        "LESÕES GRAVES OU FATAIS."
+      ]
+    },
+    {
+      "pergunta": "3) COMO DEVE SER UTILIZADO O PROTETOR FACIAL?",
+      "opcoes": [
+        "ISOLADAMENTE.",
+        "APENAS NO PESCOÇO.",
+        "ACOPLADO AO CAPACETE, COM A VISEIRA ABAIXADA E ÓCULOS DE PROTEÇÃO POR BAIXO.",
+        "SEM NECESSIDADE DE CAPACETE."
+      ]
+    },
+    {
+      "pergunta": "2) O PROTETOR FACIAL É APROVADO PARA RISCOS DE SOLDAGEM E FOGO REPENTINO?",
+      "opcoes": [
+        "SIM, PARA TODOS OS RISCOS.",
+        "NÃO, NÃO É APROVADO PARA ESSES RISCOS.",
+        "APENAS PARA SOLDAGEM.",
+        "APENAS PARA FOGO REPENTINO."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL A FUNÇÃO DO PROTETOR FACIAL EM SERVIÇOS ELÉTRICOS?",
+      "opcoes": [
+        "SOMENTE ESTÉTICA.",
+        "APENAS CONTRA POEIRA.",
+        "PROTEÇÃO DA FACE E OLHOS CONTRA ARCO ELÉTRICO E IMPACTOS.",
+        "PROTEGER SOMENTE O CAPACETE."
+      ]
+    }
+  ]
+}
