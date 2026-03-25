@@ -1,0 +1,52 @@
+{
+  "treinamento": "IT - FERRAMENTA PDS: CAMINHADA COMPORTAMENTAL DE SEGURANÇA (CCSMA)_ENGENHARIA",
+  "id": 960,
+  "idChecklist": 737,
+  "perguntas": [
+    {
+      "pergunta": "5) EM QUE SITUAÇÃO A FERRAMENTA CCSMA NÃO SE APLICA?",
+      "opcoes": [
+        "QUANDO NÃO HÁ UMA LIDERANÇA FIXA NO CONTRATO.",
+        "EM TODOS OS CONTRATOS.",
+        "EM TODOS OS CONTRATOS COM METAS PREDEFINIDAS.",
+        "QUANDO NÃO HÁ MEMBROS DO SESMT PRESENTES."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL É A META MENSAL PARA A REALIZAÇÃO DE CCSMAS PELOS GERENTES, COORDENADORES, SUPERVISORES, ENCARREGADOS E LÍDERES DE OPERAÇÃO?",
+      "opcoes": [
+        "2 POR MÊS.",
+        "5 POR SEMANA.",
+        "10 POR MÊS.",
+        "1 POR SEMANA."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE É CONCEDIDO AOS COLABORADORES SE A ABORDAGEM DA CCSMA REVELAR UM BOM DESEMPENHO DE SEGURANÇA E MEIO AMBIENTE?",
+      "opcoes": [
+        "UM DIA DE FOLGA.",
+        "UM BÔNUS EM DINHEIRO.",
+        "UM \"CARTÃO VERDE\" DE MÉRITO.",
+        "UMA PROMOÇÃO."
+      ]
+    },
+    {
+      "pergunta": "2) COMO É DEFINIDA A ABORDAGEM DA CCSMA JUNTO AOS COLABORADORES?",
+      "opcoes": [
+        "DE ACORDO COM UM PLANO RÍGIDO PREDEFINIDO.",
+        "COM BASE NAS POLÍTICAS DO PDS.",
+        "USANDO UM SENSO DE URGÊNCIA.",
+        "DE ACORDO COM AS POLÍTICAS DA EMPRESA."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O PRINCIPAL OBJETIVO DA CAMINHADA COMPORTAMENTAL DE SEGURANÇA E MEIO AMBIENTE (CCSMA)?",
+      "opcoes": [
+        "IDENTIFICAR E MITIGAR RISCOS FINANCEIROS.",
+        "IDENTIFICAR E MITIGAR RISCOS DE ACIDENTES E IMPACTOS AMBIENTAIS.",
+        "AVALIAR O DESEMPENHO DE MARKETING.",
+        "IDENTIFICAR E MITIGAR RISCOS DE MARKETING."
+      ]
+    }
+  ]
+}
