@@ -1,0 +1,52 @@
+{
+  "treinamento": "FÁBRICA VISUAL_ELECTROLUX",
+  "id": 239,
+  "idChecklist": 151,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual a finalidade do Andon?",
+      "opcoes": [
+        "Dispositivo de controle visual na área de produção com informações ou status em tempo real. Pode ser usado como controle de estoques, alertas de manutenção, controle de produção e outros.",
+        "Não ser usado como controle de estoques, alertas de manutenção, controle de produção, abastecimento.",
+        "O Andon é utilizado para iluminar as máquinas.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "4) Qual a finalidade das cores nos uniformes?",
+      "opcoes": [
+        "Os uniformes servem para localizarmos pessoas chaves dentro do processo, sem a necessidade de perguntar e procurar.",
+        "O uniforme só serve para levar advertência caso não utilize.",
+        "As cores em uniformes só atrapalham a localização de pessoas chaves dentro do processo.",
+        "Todas as alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) Marque a opção CORRETA de exemplos de gerenciamento visual.",
+      "opcoes": [
+        "Placas de Identificação de times, ruas e  flow rack de materiais.",
+        "Placas de segurança, Quadro do time, Standard Work, Matriz de Habilidade e cores em uniformes.",
+        "Andon e demarcações em pisos conforme padrão E.M.S.",
+        "Todas as alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "2) Qual o objetivo do gerenciamento visual?",
+      "opcoes": [
+        "Tem o objetivo de confundir os membros das equipes quando os processos estão funcionando de forma satisfatória.",
+        "Transmitir informações importantes de segurança, de forma rápida e simples para todos e permite que os membros da equipe percebam quando os processos estão funcionando de forma satisfatória ou não.",
+        "O gerenciamento visual tem por objetivo poluir visualmente a fábrica.",
+        "Todas as alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "1) O que é gerenciamento visual?",
+      "opcoes": [
+        "É uma técnica que só atrapalha a realização das atividades na fábrica.",
+        "A gestão visual, ou controle visual, é uma técnica bastante utilizada pelo Lean para fazer com que a situação atual de um processo seja rapidamente entendida.",
+        "A gestão visual, ou controle visual, é uma técnica bastante utilizada pelo Lean para fazer com que o Técnico de Segurança ou Liderança apliquem advertências.",
+        "O controle visual só serve para levar não conformidade em dia de auditoria."
+      ]
+    }
+  ]
+}
