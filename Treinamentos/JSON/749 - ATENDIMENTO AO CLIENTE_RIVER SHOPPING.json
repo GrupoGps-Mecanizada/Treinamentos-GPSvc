@@ -1,0 +1,52 @@
+{
+  "treinamento": "ATENDIMENTO AO CLIENTE_RIVER SHOPPING",
+  "id": 749,
+  "idChecklist": 531,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL CONDUTA PODE LEVAR A PERDER UM CLIENTE? ",
+      "opcoes": [
+        "PREÇO ALTO.",
+        "ATENDIMENTO INEFICIENTE.",
+        "QUALIDADE RUIM DO PRODUTO.",
+        "FALTA DE MERCADORIA."
+      ]
+    },
+    {
+      "pergunta": "4) EM SITUAÇÕES DIFÍCEIS, DEVEMOS MANTER: ",
+      "opcoes": [
+        "CONTROLE EMOCIONAL.",
+        "GÍRIAS E APELIDOS.",
+        "VOCABULÁRIO ADEQUADO.",
+        "EXPRESSÕES DE INSEGURANÇA."
+      ]
+    },
+    {
+      "pergunta": "3) NÃO É CONSIDERADO UMA BOA PRÁTICA DE ATENDIMENTO:  ",
+      "opcoes": [
+        "EDUCAÇÃO.",
+        "EMPATIA.",
+        "VOCABULÁRIO INADEQUADO.",
+        "DISPONIBILIDADE PARA ATENDER."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE É CONSIDERADO VOCABULÁRIO INADEQUADO? ",
+      "opcoes": [
+        "GÍRIAS, PORTUGUÊS FORMAL E CÓDIGO Q.",
+        "PORTUGUÊS FORMAL, GÍRIAS E APELIDOS.",
+        "APELIDOS, CÓDIGO Q E PORTUGUÊS FORMAL.",
+        "CÓDIGO Q, GÍRIAS E APELIDOS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL DAS ALTERNATIVAS ABAIXO NÃO É UM PONTO PARA UM BOM ATENDIMENTO? ",
+      "opcoes": [
+        "QUALIDADE.",
+        "EFICIÊNCIA.",
+        "EXCELÊNCIA.",
+        "EFICÁCIA."
+      ]
+    }
+  ]
+}
