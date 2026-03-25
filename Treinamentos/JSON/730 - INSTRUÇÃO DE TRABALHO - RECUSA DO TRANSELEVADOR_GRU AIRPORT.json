@@ -1,0 +1,52 @@
+{
+  "treinamento": "INSTRUÇÃO DE TRABALHO - RECUSA DO TRANSELEVADOR_GRU AIRPORT",
+  "id": 730,
+  "idChecklist": 514,
+  "perguntas": [
+    {
+      "pergunta": "5)O Colaborador deve verificar para que possa imprimir as etiquetas com a numeração correta, quantas etiquetas devem ser impressas para cada numeração?",
+      "opcoes": [
+        "Para TE 02 e para TZ 04.",
+        "Para TE 04 e para TZ 02.",
+        "Para TE 02 e para TZ 02.",
+        "Para TE 04 e para TZ 04."
+      ]
+    },
+    {
+      "pergunta": "4) Quantos tipos de caixas temos no TZ e qual o peso devemos considerar para armazenar no TZ?",
+      "opcoes": [
+        "Temos 02 tipos de caixa para acomodar as cargas com valor menor a 25 kg.",
+        "Temos 03 tipos de caixa para acomodar as cargas com valor menor a 23 kg.",
+        "Temos 02 tipos de caixa para acomodar as cargas com valor menor a 23 kg.",
+        "Temos 02 tipos de caixa para acomodar as cargas com valor menor a 15 kg."
+      ]
+    },
+    {
+      "pergunta": "3) Assinale a alternativa CORRETA com o passo a passo para tratar a recusa do \"TE\" sistemicamente:",
+      "opcoes": [
+        "Clicar no botão importação/Rejeição do transelevado/ Escanear o local de saída IMTERJ01/ Verificar o motivo da rejeição/Rearmazenar transelevador.",
+        "Clicar no botão importação/Escanear a PCG da carga/Escanear o local de saída IMTERJ01/ Verificar o motivo da rejeição/Rearmazenar transelevador.",
+        "Clicar no botão importação/Rejeição do transelevador/escanear a PCG da carga/Escanear o local de saída IMTERJ01/Verificar o motivo da rejeição/Rearmazenar transelevador.",
+        "Clicar no botão importação/Rejeição do transelevador/Escanear a PCG da carga/Verificar o motivo da rejeição/Rearmazenar transelevador."
+      ]
+    },
+    {
+      "pergunta": "2) Assinale a alternativa CORRETA, quanto ao direcionamento da carga TE para outro setor (VR, CL ou VT):",
+      "opcoes": [
+        "Somente é permitido ir para outro armazém quando não for caixa batida.",
+        "Somente é permitido ir para outro armazém quando a altura exceder o permitido (1,80m), quando o peso exceder o permitido (1000kg) e não for caixa batida.",
+        "Somente é permitido ir para outro armazém quando a altura exceder o permitido (1,80m).",
+        "Somente é permitido ir para outro armazém quando o peso exceder o permitido (1000kg) e não for caixa batida."
+      ]
+    },
+    {
+      "pergunta": "1) Caso haja problemas com a máquina relacionados à esteira, você comunicar a equipe da empresa terceira que cuida da manutenção do transelevador em qual ramal?",
+      "opcoes": [
+        "5878.",
+        "6878.",
+        "5926.",
+        "6828."
+      ]
+    }
+  ]
+}
