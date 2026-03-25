@@ -1,0 +1,52 @@
+{
+  "treinamento": "BAIXA DE MATERIAIS NO SISTEMA WFM_TLSV (PR) LIGGA",
+  "id": 1437,
+  "idChecklist": 1185,
+  "perguntas": [
+    {
+      "pergunta": "5) NO EXEMPLO DO PROCEDIMENTO, QUAL AÇÃO DEVE SER REALIZADA APÓS SELECIONAR O MODELO DA CAIXA DE EMENDA ÓPTICA?",
+      "opcoes": [
+        "REGISTRAR A QUANTIDADE UTILIZADA.",
+        "EXCLUIR O ITEM DO INVENTÁRIO.",
+        "FINALIZAR A ATIVIDADE IMEDIATAMENTE.",
+        "TODAS AS ALTERNATIVAS ACIMA."
+      ]
+    },
+    {
+      "pergunta": "4) APÓS ADICIONAR UM MATERIAL AO INVENTÁRIO, QUAL AÇÃO DEVE SER FEITA ANTES DE FINALIZAR A ATIVIDADE?",
+      "opcoes": [
+        "TOMAR CAFÉ PARA ESTAR MAIS DISPOSTO.",
+        "REINICIAR O SISTEMA.",
+        "CLICAR EM \"ADICIONAR E INSTALAR TIPO DE INVENTÁRIO\".",
+        "EDITAR O NOME DO MATERIAL."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL DESSAS OPÇÕES NÃO É UM TIPO DE MATERIAL SUGERIDO PELO SISTEMA?",
+      "opcoes": [
+        "CABO ÓPTICO.",
+        "PROTETOR DE EMENDA.",
+        "FIBRA DE CARBONO.",
+        "CAIXAS DE EMENDA."
+      ]
+    },
+    {
+      "pergunta": "2) ONDE DEVE-SE CLICAR APÓS SELECIONAR A ATIVIDADE EM EXECUÇÃO?",
+      "opcoes": [
+        "NOS TRÊS PONTOS NO TOPO DA TELA.",
+        "EM \"CONFIGURAÇÕES\".",
+        "EM \"HISTÓRICO\".",
+        "TODAS AS ALTERNATIVAS ACIMA."
+      ]
+    },
+    {
+      "pergunta": "1) NO SISTEMA WFM, QUAL É O PRIMEIRO PASSO PARA ADICIONAR UM ITEM AO INVENTÁRIO?",
+      "opcoes": [
+        "FINALIZAR A ATIVIDADE.",
+        "ESCOLHER O TIPO DE MATERIAL.",
+        "SELECIONAR A ATIVIDADE EM EXECUÇÃO.",
+        "NENHUMA DAS ALTERNATIVAS ACIMA."
+      ]
+    }
+  ]
+}
