@@ -1,0 +1,52 @@
+{
+  "treinamento": "COMO UTILIZAR PRATELEIRA DE INOX DE FORMA SEGURA - ALIMENTAÇÃO_TREINAMENTO PRESENCIAL",
+  "id": 1391,
+  "idChecklist": 1147,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE VOCÊ FAZ SE ALGO QUEBRAR NA PRATELEIRA?",
+      "opcoes": [
+        "PEGA OS PEDAÇOS COM AS MÃOS.",
+        "USA UMA VASSOURA E PÁ PARA RECOLHER OS CACOS.",
+        "DEIXA NO CHÃO PARA OUTRA PESSOA LIMPAR.",
+        "EMPURRA OS CACOS PARA O CANTO DA PRATELEIRA."
+      ]
+    },
+    {
+      "pergunta": "4) COMO VOCÊ DEVE MANUSEAR MERCADORIAS PARA EVITAR MACHUCAR OS DEDOS?",
+      "opcoes": [
+        "DEIXAR ESPAÇO ENTRE OS PRODUTOS.",
+        "EMPILHAR TUDO APERTADO.",
+        "COLOCAR PRODUTOS SEM OLHAR.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE PODE ACONTECER SE VOCÊ EMPILHAR OS PRODUTOS DE QUALQUER JEITO?",
+      "opcoes": [
+        "NADA VAI ACONTECER.",
+        "A PRATELEIRA VAI FICAR MAIS ORGANIZADA.",
+        "FICA MAIS FÁCIL PEGAR OS PRODUTOS.",
+        "SEUS DEDOS PODEM FICAR PRESOS E VOCÊ SE MACHUCAR."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE PODE ACONTECER SE VOCÊ SOBRECARREGAR AS PRATELEIRAS?",
+      "opcoes": [
+        "AS PRATELEIRAS FICAM MAIS ORGANIZADAS.",
+        "NADA, ELAS SÃO FORTES O SUFICIENTE.",
+        "ELAS PODEM ENTORTAR OU QUEBRAR, CAUSANDO ACIDENTES.",
+        "OS PRODUTOS VÃO SE MISTURAR."
+      ]
+    },
+    {
+      "pergunta": "1)  O QUE VOCÊ DEVE FAZER ANTES DE MEXER NAS PRATELEIRAS DE INOX?",
+      "opcoes": [
+        "VER SE TEM REBARBAS, OLHANDO COM ATENÇÃO.",
+        "SENTIR COM AS MÃOS SE TEM ALGO AFIADO.",
+        "SÓ MEXER SE TIVER UMA FACA.",
+        "IGNORAR E USAR DIRETO."
+      ]
+    }
+  ]
+}
