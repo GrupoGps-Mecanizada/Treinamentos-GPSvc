@@ -1,0 +1,52 @@
+{
+  "treinamento": "CASE RISCO REPUTACIONAL SUPERMERCADO_SEGURANÇA",
+  "id": 53,
+  "idChecklist": 67,
+  "perguntas": [
+    {
+      "pergunta": "5) Caso você não esteja bem, o que deve fazer?",
+      "opcoes": [
+        "Abandonar o posto, sem comunicar ninguém.",
+        "Procurar o meu líder imediatamente e conversar com ele.",
+        "Não ir ao trabalho e não comunicar a ausência.",
+        "Não falar com ninguém sobre o que está acontecendo até \"estourar\"."
+      ]
+    },
+    {
+      "pergunta": "4) O que você pode fazer para evitar os erros citados no case?",
+      "opcoes": [
+        "Reciclar meus conceitos sobre diversidade, gestão de conflitos e uso progressivo da força.",
+        "Lidar com a sorte do dia, controlar o meu humor no trabalho e conhecer a legislação.",
+        "Aguardar acontecer pra ver no que vai dar, torcer para ter um plantão tranquilo e saber gerir conflitos.",
+        "Ser intolerante para evitar problemas, esperar que as pessoas sejam sempre gentis e conhecer sobre uso progressivo da força."
+      ]
+    },
+    {
+      "pergunta": "3) Baseado no treinamento, assinale a alternativa CORRETA:",
+      "opcoes": [
+        "Minhas atitudes não interferem no trabalho do meu colega, muito menos na imagem do meu Cliente.",
+        "Como profissional de segurança já sou testado todos os dias e por este motivo não preciso me capacitar.",
+        "Não preciso de capacitação prática, pois já sei lidar com todos os tipos de situações adversas.",
+        "Temos que preservar as nossas vidas e dos nossos Clientes sem jamais ferir os direitos do outro, praticar qualquer tipo de discriminação, racismo ou violência."
+      ]
+    },
+    {
+      "pergunta": "2) O case que estudamos confirma uma grande inversão de valores e como consequência ocorreram diversas perdas, quais foram as perdas citadas no DDS?",
+      "opcoes": [
+        "Perda da vida humana, valores morais, reputação, família e perda da atividade.",
+        "Perda da dignidade, liberdade, reputação, perda de autoridade e vida humana.",
+        "Perda da vida humana, liberdade, reputação, perda da atividade e do contrato.",
+        "Perda de autoridade, liberdade, integridade física, reputação e do contrato."
+      ]
+    },
+    {
+      "pergunta": "1) Qual é a PRINCIPAL responsabilidade de um profissional de segurança?",
+      "opcoes": [
+        "Proteger a VIDA.",
+        "Ser simpático e cordial no trabalho.",
+        "Proteger apenas patrimônio.",
+        "Ser arrogante e objetivo nas respostas."
+      ]
+    }
+  ]
+}
