@@ -1,0 +1,52 @@
+{
+  "treinamento": "INSTRUÇÃO DE TRABALHO - FÁRMACO E PERECÍVEIS_GRU AIRPORT",
+  "id": 868,
+  "idChecklist": 639,
+  "perguntas": [
+    {
+      "pergunta": "5) CARGAS PEA GAIOLAS NAS CÂMARAS 13 E 16 PARA CONTINGÊNCIA DEVEM SER ARMAZENADAS EM QUAL TEMPERATURA?",
+      "opcoes": [
+        "(+18ºC À 0ºC).",
+        "(+2ºC À +8ºC).",
+        "(-18ºC À 0ºC).",
+        "(-2ºC À -8ºC)."
+      ]
+    },
+    {
+      "pergunta": "4) ASSINALE ABAIXO A ALTERNATIVA CORRETA. SÓ É PERMITIDO ACESSAR A CÂMARA APÓS REALIZAR A MEDIÇÃO DE CO2 E O NÍVEL DEVE ESTAR ATÉ:",
+      "opcoes": [
+        "8.000 PPM.",
+        "9.000 PPM.",
+        "9.500 PPM.",
+        "9.750 PPM."
+      ]
+    },
+    {
+      "pergunta": "3) EMPILHADEIRAS RETRÁTEIS REALIZAM MOVIMENTAÇÕES DIRETA PARA AS CÂMARAS IMC01 E PS1, PARA DEMAIS CÂMARAS, AS CARGAS SÃO DIRECIONADAS PARA QUAL POSIÇÃO?",
+      "opcoes": [
+        "BUFFER_DTA.",
+        "BUFFER_DI.",
+        "BUFFER_CA.",
+        "BUFFER_CF."
+      ]
+    },
+    {
+      "pergunta": "2) ONDE SE ENCONTRA A TABELA SHC IATA X CCT?",
+      "opcoes": [
+        "NA INSTRUÇÃO DE TRABALHO FÁRMACO E PERECÍVEIS.",
+        "NA INSTRUÇÃO DE TRABALHO REMOTOS.",
+        "NA INSTRUÇÃO DE TRABALHO GESTÃO DE DOCAS.",
+        "NA INSTRUÇÃO DE TRABALHO ESTACIONAMENTO."
+      ]
+    },
+    {
+      "pergunta": "1) SE O AUXILIAR IDENTIFICAR VISUALMENTE QUE NO PALETE AÉREO CONTÉM CARGAS FÁRMACO, O QUE DEVERÁ FAZER?",
+      "opcoes": [
+        "NÃO PRECISARÁ REALIZAR IDENTIFICAÇÕES.",
+        "DEVERÁ AVISAR O AOC PARA QUE SEJA RECEBIDO COM PRIORIDADE.",
+        "DEVERÁ SEGUIR COM O PROCESSO NATURALMENTE.",
+        "DEVERÁ ACIONAR A RECEITA."
+      ]
+    }
+  ]
+}
