@@ -1,0 +1,52 @@
+{
+  "treinamento": "CUIDADOS AO PREPARAR SOPA QUENTE NO LIQUIDIFICADOR - ALIMENTAÇÃO_TREINAMENTO PRESENCIAL",
+  "id": 1467,
+  "idChecklist": 1215,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE FAZER SE VOCÊ VIR UM COLEGA USANDO FITA FILME OU SEM PROTEÇÃO NO LIQUIDIFICADOR?",
+      "opcoes": [
+        "AJUDAR ELE A CONTINUAR ASSIM.",
+        "ESPERAR PARA VER SE ELE SE QUEIMA.",
+        "NÃO FALAR NADA.",
+        "AVISAR IMEDIATAMENTE QUE É PERIGOSO."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE VOCÊ DEVE USAR PARA SE PROTEGER AO DESPEJAR A SOPA DO COPO DO LIQUIDIFICADOR?",
+      "opcoes": [
+        "EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL (EX.: LUVA TÉRMICA).",
+        "FITA FILME NAS MÃOS.",
+        "UM PANO MOLHADO.",
+        "NENHUMA DAS OÇÕES ACIMA."
+      ]
+    },
+    {
+      "pergunta": "3) POR QUE VOCÊ NÃO DEVE ENCHER O COPO DO LIQUIDIFICADOR ATÉ O TOPO?",
+      "opcoes": [
+        "PORQUE ELE FUNCIONA MELHOR ASSIM.",
+        "PARA EVITAR QUE A SOPA QUENTE TRANSBORDE E CAUSE QUEIMADURAS.",
+        "PARA O LIQUIDIFICADOR NÃO QUEBRAR.",
+        "PARA NÃO GASTAR MUITA ENERGIA."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE VOCÊ DEVE FAZER ANTES DE ABRIR A TAMPA DO LIQUIDIFICADOR?",
+      "opcoes": [
+        "ABRIR ENQUANTO ELE ESTÁ FUNCIONANDO.",
+        "ESPERAR A SOPA ESFRIAR.",
+        "DESLIGAR O LIQUIDIFICADOR PRIMEIRO.",
+        "SEGURAR COM AS MÃOS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É A FORMA CORRETA DE TAMPAR O COPO DO LIQUIDIFICADOR AO PREPARAR SOPA QUENTE?",
+      "opcoes": [
+        "USAR A TAMPA ORIGINAL.",
+        "USAR FITA FILME.",
+        "COLOCAR UM PANO POR CIMA.",
+        "DEIXAR ABERTO."
+      ]
+    }
+  ]
+}
