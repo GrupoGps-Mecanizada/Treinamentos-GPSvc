@@ -1,0 +1,52 @@
+{
+  "treinamento": "LGPD APLICADA AO JURÍDICO - MÓDULO II",
+  "id": 364,
+  "idChecklist": 262,
+  "perguntas": [
+    {
+      "pergunta": "5) Quem trata dados em nome do Controlador?",
+      "opcoes": [
+        "O DPO",
+        "A ANPD",
+        "O Operador",
+        "O titular dos dados"
+      ]
+    },
+    {
+      "pergunta": "4) Aquele que tem a obrigação legal de tratar dados é",
+      "opcoes": [
+        "O seu líder",
+        "O CEO",
+        "O Controlador",
+        "O Operador"
+      ]
+    },
+    {
+      "pergunta": "3) Quando duas partes controlam o tratamento de dados elas são",
+      "opcoes": [
+        "Controladores independentes",
+        "Controlador e operador",
+        "Controlador e titular",
+        "ANPD e Operador"
+      ]
+    },
+    {
+      "pergunta": "2) Aquele que controla o tratamento de dados é",
+      "opcoes": [
+        "O CEO da GPS",
+        "O DPO",
+        "o Controlador",
+        "O Operador"
+      ]
+    },
+    {
+      "pergunta": "1) Quem são os agentes de tratamento da LGPD?",
+      "opcoes": [
+        "Controlador e Operador",
+        "Operador e DPO",
+        "Controlador e seu líder",
+        "Operador e ANPD"
+      ]
+    }
+  ]
+}
