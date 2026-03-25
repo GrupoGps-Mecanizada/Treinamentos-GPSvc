@@ -1,0 +1,52 @@
+{
+  "treinamento": "CUIDADO ATIVO GENUÍNO_DDS2.SIPAT_REGIONAL AL",
+  "id": 223,
+  "idChecklist": 135,
+  "perguntas": [
+    {
+      "pergunta": "5) Segurança do Trabalho é quando pensamos no bem estar de quem?",
+      "opcoes": [
+        "Atmosfera.",
+        "Mobiliários.",
+        "Produtos.",
+        "Pessoas."
+      ]
+    },
+    {
+      "pergunta": "4) De que forma praticamos o Cuidado Ativo Genuíno nas nossas atividades?",
+      "opcoes": [
+        "Conversando com os colegas de forma aberta e respeitosa. Cuidando de todos e deixando os outros cuidar de nós também.",
+        "Não conversando com os colegas e não aceitando ser cuidado, você é auto suficiente e não precisa da ajuda de ninguém.",
+        "Fazendo brincadeiras com os colegas durante a realização das suas atividades.",
+        "Contando a nossa liderança tudo que nossos colegas fazem de errado."
+      ]
+    },
+    {
+      "pergunta": "3) Quando um colega vier lhe dar uma sugestão de melhoria na realização da sua tarefa, como devemos reagir?",
+      "opcoes": [
+        "Rude, até porque você não pediu a opinião de ninguém.",
+        "Precisamos estar sempre abertos a receber sugestões e com isso criaremos um ambiente de trabalho mais seguro.",
+        "Precisamos fazer nossas atividades sem se preocupar com as opiniões de outros, mesmo que seja para o nosso crescimento.",
+        "Não ouvir o colega, você já sabe de tudo e não precisa de sugestões de melhoria."
+      ]
+    },
+    {
+      "pergunta": "2) Uma das melhores formas de incentivar o cuidado ativo genuíno é através de?",
+      "opcoes": [
+        "Timidez.",
+        "Diálogo.",
+        "Brincadeiras.",
+        "Inveja."
+      ]
+    },
+    {
+      "pergunta": "1) Qual das alternativas melhor explica o que é o \"Cuidado Ativo Genuíno\"?",
+      "opcoes": [
+        "É uma das maneiras mais eficazes para alcançar grandes crescimento econômico na empresa.",
+        "Consiste na organização do trabalho focada na produtividade.",
+        "Consiste em cuidar de si mesmo, cuidar do outro e deixar-se cuidar pelo outro.",
+        "É uma maneira eficaz de alcançar grandes índices de acidentes."
+      ]
+    }
+  ]
+}
