@@ -1,0 +1,52 @@
+{
+  "treinamento": "1.7 COMO CRIAR ROTINA - BLOCO 02 - CONFIGURAÇÕES DAS TAREFA_GPSVISTA",
+  "id": 623,
+  "idChecklist": 409,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais os campos obrigatórios em configuração de tarefas?",
+      "opcoes": [
+        "Não preencher os campos de duração, prazo e criticidade de escalonamento.",
+        "O prazo.",
+        "Não flegar a opção de fixar duração.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "4) O cadastro de Checklist é obrigatório?",
+      "opcoes": [
+        "Não, você pode apenas selecionar na rotina opções de evidência.",
+        "Sim, se não houver checklist não é possível salvar a rotina.",
+        "Sim, não pode gerar tarefas sem o procedimento.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Quais são as criticidades de escalonamento?",
+      "opcoes": [
+        "Crítica e Intermediária.",
+        "Emergencial.",
+        "Crítica, Regular e Baixa.",
+        "Não há nenhuma criticidade disponível no Vista."
+      ]
+    },
+    {
+      "pergunta": "2) Qual é o tempo que determina a criticidade do escalonamento?",
+      "opcoes": [
+        "O tempo de duração.",
+        "Intervalo, recorrência, no período e tipo de intervalo.",
+        "O Prazo.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "1) Neste bloco, quais os dados devem ser preenchidos?",
+      "opcoes": [
+        "Cargo, função e Colaborador.",
+        "Prazo, duração, checklist, materiais, qualificações e contatos.",
+        "Regras dos Registros.",
+        "Todas as alternativas anteriores."
+      ]
+    }
+  ]
+}
