@@ -1,0 +1,52 @@
+{
+  "treinamento": "PRISMA WEB E PRISMA MOBILE - FECHAMENTO DE \"OS\" OFFLINE",
+  "id": 1656,
+  "idChecklist": 1357,
+  "perguntas": [
+    {
+      "pergunta": "5) CASO NÃO SEJA POSSÍVEL CONCLUIR TODAS AS OS'S BAIXADAS, QUAL AÇÃO DEVE SER TOMADA?",
+      "opcoes": [
+        "REINICIAR O CELULAR.",
+        "CLICAR EM “LIMPAR RESERVA DE OS”.",
+        "ENVIAR RELATÓRIO MANUAL.",
+        "EXCLUIR O APLICATIVO."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE DEVE SER FEITO APÓS CONCLUIR O PREENCHIMENTO OFFLINE DA OS?",
+      "opcoes": [
+        "APAGAR OS DADOS DA OS.",
+        "REINICIAR O APLICATIVO.",
+        "LIGAR A INTERNET PARA SINCRONIZAR.",
+        "ENVIAR E-MAIL AO SUPORTE."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL ESTADO DEVE SER SELECIONADO PARA INICIAR A EXECUÇÃO DA OS?",
+      "opcoes": [
+        "10 – ABERTA.",
+        "20 – EM ANÁLISE.",
+        "40 – EM EXECUÇÃO.",
+        "60 – CONCLUÍDO."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE INDICA QUE UMA OS ESTÁ DISPONÍVEL PARA PREENCHIMENTO OFFLINE?",
+      "opcoes": [
+        "ÍCONE DE BANDEIRA.",
+        "MENSAGEM DE SINCRONIZAÇÃO.",
+        "ÍCONE DA NUVEM.",
+        "ESTADO “60 – CONCLUÍDO”."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O PRIMEIRO PASSO PARA REALIZAR O FECHAMENTO DE UMA OS EM MODO OFFLINE NO PRISMA MOBILE?",
+      "opcoes": [
+        "DESLIGAR OS DADOS MÓVEIS E WI-FI.",
+        "CLICAR EM “OS’S PENDENTES” COM A INTERNET ATIVA.",
+        "TIRAR UMA FOTO DO SERVIÇO INICIAL.",
+        "SINCRONIZAR OS DADOS COM A INTERNET."
+      ]
+    }
+  ]
+}
