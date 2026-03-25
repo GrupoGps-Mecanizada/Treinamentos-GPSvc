@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR10.7 E 8.EPC E EPI",
+  "id": 285,
+  "idChecklist": 197,
+  "perguntas": [
+    {
+      "pergunta": "5) Assinale um exemplo de EPC:",
+      "opcoes": [
+        "Capacete de segurança.",
+        "Luva de segurança.",
+        "Tapete isolante.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "4) Qual item da NR10 proíbe o uso de adornos pessoais nos trabalhos com instalações elétricas ou em suas proximidades?",
+      "opcoes": [
+        "10.2.9.3",
+        "10.4.3.1",
+        "10.5.1",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Qual o modelo de capacete para risco elétrico?",
+      "opcoes": [
+        "Tipo I.",
+        "Tipo III.",
+        "Classe B.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "2) Qual a norma regulamentadora sobre Equipamento de Proteção Individual?",
+      "opcoes": [
+        "NR 1.",
+        "NR 10.",
+        "NR 6.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "1) Como é classificado o sistema, e meio fixo ou móvel de abrangência coletiva, destinado a preservar a integridade física e a saúde dos trabalhadores, usuários e terceiros?",
+      "opcoes": [
+        "Equipamento de Proteção Individual.",
+        "Equipamento de Proteção Coletiva.",
+        "Equipamento de Proteção Mista.",
+        "Nenhuma das anteriores."
+      ]
+    }
+  ]
+}
