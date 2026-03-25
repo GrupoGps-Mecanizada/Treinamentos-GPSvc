@@ -1,0 +1,52 @@
+{
+  "treinamento": "UTILIZAÇÃO DE EPI_BRASKEM",
+  "id": 1583,
+  "idChecklist": 1285,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE É EXIGIDO PARA O CORTE DE GRAMA EM TALUDES COM APOIO E ANCORAGEM?",
+      "opcoes": [
+        "NR35 – TRABALHO EM ALTURA.",
+        "APENAS CAPACETE COM JUGULAR.",
+        "CURSO DE NR10.",
+        "CRACHÁ COM FOTO ATUALIZADA."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL QUALIFICAÇÃO É OBRIGATÓRIA PARA SERVIÇOS PRÓXIMOS A PAINÉIS ELÉTRICOS?",
+      "opcoes": [
+        "NR35.",
+        "NR33.",
+        "NR10 POR APROXIMAÇÃO.",
+        "NR20."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL EPI É OBRIGATÓRIO APENAS NA ÁREA Q2 E NÃO NA ÁREA UNPOL?",
+      "opcoes": [
+        "ÓCULOS DE AMPLA VISÃO.",
+        "LUVA DE PROTEÇÃO.",
+        "MÁSCARA DE FUGA.",
+        "BOTINA COM BIQUEIRA."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL CAPACETE DEVE SER USADO POR COLABORADORES EM CONTRATO DE EXPERIÊNCIA (MENOS DE 90 DIAS)?",
+      "opcoes": [
+        "BRANCO.",
+        "VERDE.",
+        "LARANJA.",
+        "AZUL."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O PRINCIPAL OBJETIVO DO USO CORRETO DE EPIS NAS ÁREAS INDUSTRIAIS?",
+      "opcoes": [
+        "REDUZIR O TEMPO DE TRABALHO.",
+        "GARANTIR A SEGURANÇA E PREVENIR ACIDENTES.",
+        "IDENTIFICAR OS COLABORADORES POR SETOR.",
+        "CONTROLAR A PRODUÇÃO DIÁRIA."
+      ]
+    }
+  ]
+}
