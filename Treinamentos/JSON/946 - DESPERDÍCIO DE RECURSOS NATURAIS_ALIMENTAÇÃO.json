@@ -1,0 +1,52 @@
+{
+  "treinamento": "DESPERDÍCIO DE RECURSOS NATURAIS_ALIMENTAÇÃO",
+  "id": 946,
+  "idChecklist": 723,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL É O RECURSO NATURAL MAIS IMPORTANTE?",
+      "opcoes": [
+        "ÁGUA.",
+        "AR.",
+        "ENERGIA.",
+        "ÁRVORE."
+      ]
+    },
+    {
+      "pergunta": "4) COMO COMBATER OS DESPERDÍCIOS DOS RECURSOS NATURAIS?",
+      "opcoes": [
+        "DEIXANDO A TORNEIRA LIGADA.",
+        "DEIXANDO A LUZ DA CASA LIGADA SEM NINGUÉM.",
+        "JOGAR O LIXO NA RUA E ATEAR FOGO.",
+        "FECHANDO A TORNEIRA, DESLIGANDO AS LUZES E DESCARTANDO O LIXO NO LOCAL CORRETO."
+      ]
+    },
+    {
+      "pergunta": "3) QUANTOS LITROS DE ÁGUA SÃO DESPERDIÇADOS COM A TORNEIRA LIGADA?",
+      "opcoes": [
+        "40 LITROS.",
+        "80 LITROS.",
+        "46 LITROS.",
+        "30 LITROS."
+      ]
+    },
+    {
+      "pergunta": "2) DAS OPÇÕES ABAIXO, QUAIS SÃO RECURSOS NATURAIS?",
+      "opcoes": [
+        "PNEU, CARRO E CASA.",
+        "ÁGUA, OXIGÊNIO, ENERGIA SOLAR, FLORESTA E ANIMAIS.",
+        "FERRO, PLÁSTICO E COMIDA.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O BENEFÍCIO DA ENERGIA SOLAR?",
+      "opcoes": [
+        "ENERGIA LIMPA, SILENCIOSA E NÃO POLUI.",
+        "GASTA MUITO E PODE PEGAR FOGO FÁCIL.",
+        "ENERGIA LIMPA, BARULHENTA E NÃO POLUI.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    }
+  ]
+}
