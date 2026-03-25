@@ -1,0 +1,52 @@
+{
+  "treinamento": "SGI 1 - CERTIFICAÇÕES E POLÍTICA DE GESTÃO INTEGRADA",
+  "id": 892,
+  "idChecklist": 665,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAIS AS PRINCIPAIS ETAPAS DO PROCESSO DE CERTIFICAÇÃO?",
+      "opcoes": [
+        "SOLICITAÇÃO DE AUDITORIA DE CERTIFICAÇÃO E APLICAÇÃO DE TREINAMENTO.",
+        "IMPLANTAÇÃO DOS REQUISITOS DA ISO E EMISSÃO DE CERTIFICADO.",
+        "TREINAMENTO, EXECUÇÃO DAS ATIVIDADES, APLICAÇÃO DE TESTES E EMISSÃO DE CERTIFICADO.",
+        "IMPLEMENTAÇÃO DOS REQUISITOS DA ISO, EXECUÇÃO DE AUDITORIA INTERNA OU PRELIMINAR, CONTRATAÇÃO DA CERTIFICADORA, AUDITORIA DE CERTIFICAÇÃO E EMISSÃO DO CERTIFICADO."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE TRATA A ISO 55001?",
+      "opcoes": [
+        "GESTÃO DE ATIVOS.",
+        "GESTÃO DE CRISES.",
+        "GESTÃO DE COMPLIANCE",
+        "GESTÃO FINANCEIRA."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE TRATA A ISO 45001?",
+      "opcoes": [
+        "GESTÃO DA SEGURANÇA DA INFORMAÇÃO.",
+        "GESTÃO DA SEGURANÇA E SAÚDE OCUPACIONAL (GSSO).",
+        "GESTÃO AMBIENTAL.",
+        "GESTÃO DO DESEMPENHO ENERGÉTICO DAS ORGANIZAÇÕES."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE TRATA A ISO 9001?",
+      "opcoes": [
+        "GESTÃO DE COMBATE AO SUBORNO.",
+        "GESTÃO AMBIENTAL.",
+        "GESTÃO DE PROCESSOS.",
+        "GESTÃO DE RESULTADOS LABORATORIAIS PRECISOS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAIS SÃO AS CERTIFICAÇÕES QUE A IN-HAUS POSSUÍ?",
+      "opcoes": [
+        "ISO 9001:2015 – ISO 55001 – ISO 45001.",
+        "ISO 5502 – ISO 71000 – ISO 14001.",
+        "ISO 57000 – ISO 11000 – ISO 12001.",
+        "ISO 9001:2015 – ISO 5501 – ISO 48001."
+      ]
+    }
+  ]
+}
