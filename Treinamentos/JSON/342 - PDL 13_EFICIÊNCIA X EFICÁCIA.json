@@ -1,0 +1,52 @@
+{
+  "treinamento": "PDL 13_EFICIÊNCIA X EFICÁCIA",
+  "id": 342,
+  "idChecklist": 241,
+  "perguntas": [
+    {
+      "pergunta": "5) Com base no treinamento, é uma habilidade de um Colaborador eficiente:",
+      "opcoes": [
+        "Produzir seguindo as regras à risca, com a economia de recursos como tempo e insumos.",
+        "Produzir uma quantidade maior do que foi demandada, no tempo e prazo normal.",
+        "Produzir coisas novas com os mesmos processos.",
+        "Seguir regras, desde que seja reconhecido."
+      ]
+    },
+    {
+      "pergunta": "4) Podemos dizer que um pensamento disruptivo, significa:",
+      "opcoes": [
+        "Pensar “fora da caixa” e sonhar em trabalhar em outra empresa.",
+        "Pensar que não é preciso controlar recursos sempre que realiza uma tarefa.",
+        "Pensar “fora da caixa”, questionar e se perguntar se pode fazer as coisas de outra forma.",
+        "Pensar em fazer tudo da forma que sempre foi feito."
+      ]
+    },
+    {
+      "pergunta": "3) De acordo com o treinamento, são características de um Colaborador eficaz:",
+      "opcoes": [
+        "Fazer o possível com poucos recursos.",
+        "Fazer o time segui-lo e admirá-lo.",
+        "Fazer as coisas certas, sem deixar de lado um pensamento questionador, disruptivo.",
+        "Realizar as atividades com economia de recursos como tempo, materiais, insumos, dinheiro."
+      ]
+    },
+    {
+      "pergunta": "2) No treinamento, vimos que eficaz é aquele que causa o resultado inicialmente pretendido:",
+      "opcoes": [
+        "Independente de ultrapassar o tempo estabelecido para realização da tarefa.",
+        "Sempre conforme as regras.",
+        "Independente da aprovação dos superiores.",
+        "Independente da maneira padrão de fazer."
+      ]
+    },
+    {
+      "pergunta": "1) Com base no treinamento, eficiente é:",
+      "opcoes": [
+        "Aquele que funciona produzindo o efeito esperado, que tem um desempenho além das expectativas.",
+        "Aquele que funciona produzindo o efeito esperado, que tem um desempenho conforme as normas.",
+        "Aquele que não respeita regras para entregar uma tarefa.",
+        "Aquele que funciona produzindo e entregando em tempo hábil."
+      ]
+    }
+  ]
+}
