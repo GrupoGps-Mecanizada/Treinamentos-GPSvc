@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR11.9. PONTOS CEGOS DA EMPILHADEIRA E REBOQUE",
+  "id": 255,
+  "idChecklist": 167,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais são os pontos cegos 7 e 8?",
+      "opcoes": [
+        "Estrutura traseira da cabine.",
+        "Estrutura dianteira da cabine.",
+        "Estrutura da torre.",
+        "Estrutura dianteira e espelho retrovisor esquerdo."
+      ]
+    },
+    {
+      "pergunta": "4) Quais são os pontos cegos 1 e 2?",
+      "opcoes": [
+        "Estrutura da torre.",
+        "Estrutura dianteira e espelho retrovisor direito.",
+        "Estrutura dianteira e espelho retrovisor esquerdo.",
+        "B e C."
+      ]
+    },
+    {
+      "pergunta": "3) Quantos pontos cegos existem na empilhadeira?",
+      "opcoes": [
+        "07",
+        "06",
+        "09",
+        "08"
+      ]
+    },
+    {
+      "pergunta": "2) De acordo com o treinamento o que são os pontos cegos das empilhadeiras?",
+      "opcoes": [
+        "São situações seguras no ambiente de trabalho.",
+        "Ponto cego é uma obstrução parcial ou total no campo de visão de um indivíduo qualquer e estão presentes em quase todos os ambientes de circulação de pessoas e veículos.",
+        "São situações que não oferece risco de acidente no ambiente de trabalho.",
+        "Ponto cego é uma obstrução parcial ou total no campo de visão de um indivíduo qualquer e que não estão presentes em quase todos os ambientes de circulação de pessoas e veículos."
+      ]
+    },
+    {
+      "pergunta": "1) Quando devo utilizar a buzina?",
+      "opcoes": [
+        "Nas saídas e entradas onde existe armazenamento de materiais, assim como também nos cruzamentos externos e internos do ambiente de trabalho.",
+        "Não devo utilizar a buzina no ambiente de trabalho.",
+        "Somente na hora do preenchimento do checklist.",
+        "Todas as alternativas estão corretas."
+      ]
+    }
+  ]
+}
