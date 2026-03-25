@@ -1,0 +1,52 @@
+{
+  "treinamento": "DIFERENÇA ENTRE PORTEIRO E VIGILANTE",
+  "id": 1720,
+  "idChecklist": 1414,
+  "perguntas": [
+    {
+      "pergunta": "5) ASSINALE A ALTERNATIVA CORRETA. CONTRATAR COLABORADORES NÃO HABILITADOS PARA EXERCEREM A FUNÇÃO DE VIGILANTE, COMO PORTEIROS, CONTROLADORES DE ACESSO E VIGIAS PODE RESULTAR EM:",
+      "opcoes": [
+        "PROCESSOS TRABALHISTAS POR DESVIO DE FUNÇÃO OU ADICIONAL DE PERICULOSIDADE.",
+        "MULTAS PESADAS.",
+        "RESPONSABILIZAÇÃO CIVIL E CRIMINAL.",
+        "TODAS AS ALTERNATIVAS ACIMA."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL A IDADE MÍNIMA PARA SER VIGILANTE NO BRASIL?",
+      "opcoes": [
+        "21.",
+        "20.",
+        "22.",
+        "18."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL A LEI QUE REGULAMENTA A ATIVIDADE DE SEGURANÇA PRIVADA NO BRASIL?",
+      "opcoes": [
+        "LEI Nº 7.102/1983.",
+        "LEI Nº 14.967/2024.",
+        "LEI Nº 10.826/2023.",
+        "LEI Nº 12.740/2012."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL DAS ALTERNATIVAS ABAIXO NÃO FAZ PARTE DAS FUNÇÕES DO VIGILANTE?",
+      "opcoes": [
+        "PORTE DE ARMA EM TEMPO INTEGRAL.",
+        "ESTAR PRONTO PARA INTERVIR EM SITUAÇÕES DE RISCO.",
+        "TER FORMAÇÃO OBRIGATÓRIA E SER REGISTRADO NA POLÍCIA FEDERAL.",
+        "REALIZAR REVISTA PRIVADA EM VEÍCULOS, MOCHILAS E VOLUMES, SEMPRE DENTRO DOS LIMITES LEGAIS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É A FUNÇÃO DO PORTEIRO?",
+      "opcoes": [
+        "ATUAR NA PROTEÇÃO DE PESSOAS, PATRIMÔNIO E REPUTAÇÃO.",
+        "REALIZAR RONDAS INTERNAS E PERIMETRAL.",
+        "ATUAR NO CONTROLE DE ACESSO E NA ORGANIZAÇÃO DO FLUXO.",
+        "ATUAR NA CONTENÇÃO DE PESSOAS, QUANDO NECESSÁRIO."
+      ]
+    }
+  ]
+}
