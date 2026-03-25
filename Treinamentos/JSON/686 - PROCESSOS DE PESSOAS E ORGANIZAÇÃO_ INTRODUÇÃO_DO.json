@@ -1,0 +1,52 @@
+{
+  "treinamento": "PROCESSOS DE PESSOAS E ORGANIZAÇÃO: INTRODUÇÃO_DO",
+  "id": 686,
+  "idChecklist": 472,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual é uma das principais responsabilidades dos gestores em relação à movimentação de recursos humanos?",
+      "opcoes": [
+        "Reduzir os custos de produção.",
+        "Aumentar o número de funcionários.",
+        "Aumentar a satisfação dos Clientes.",
+        "Movimentar efetivamente o pessoal para ajudar a organização a atingir seus objetivos estratégicos."
+      ]
+    },
+    {
+      "pergunta": "4) O que pode ser feito caso não seja possível visualizar algum item no sistema de MRH?",
+      "opcoes": [
+        "Aguardar até que o item fique disponível.",
+        "Entrar em contato com o RH da empresa.",
+        "Solicitar a customização de acesso junto à área de Sistemas.",
+        "Acessar o Portal GPS em outro dispositivo."
+      ]
+    },
+    {
+      "pergunta": "3) Quais são os temas abordados nesse treinamento de MRH?",
+      "opcoes": [
+        "Treinamento, Feedback, Admissão e Rescisão.",
+        "Admissão, Rescisão, Solicitação de Férias e Gestão de Pessoas.",
+        "Férias, Rescisão, Admissão e Movimentação Interna.",
+        "Férias, Movimentação Interna, Treinamento e Licença Médica."
+      ]
+    },
+    {
+      "pergunta": "2) Como acessar o sistema de MRH?",
+      "opcoes": [
+        "Através do Portal GPS, na aba de Sistemas, selecionando a opção de Gestão de Pessoas e depois em MRH.",
+        "Através do Portal GPS, na aba de Treinamentos, selecionando a opção de Movimentações de Recursos Humanos.",
+        "Através do Portal GPS, na aba de Funcionários, selecionando a opção de Movimentação Interna.",
+        "Através do Portal GPS, na aba de RH, selecionando a opção de Solicitação de Férias."
+      ]
+    },
+    {
+      "pergunta": "1) Qual das seguintes ações é um processo obrigatório de Movimentações de Recursos Humanos?",
+      "opcoes": [
+        "Treinamento.",
+        "Feedback.",
+        "Rescisão.",
+        "Licença médica."
+      ]
+    }
+  ]
+}
