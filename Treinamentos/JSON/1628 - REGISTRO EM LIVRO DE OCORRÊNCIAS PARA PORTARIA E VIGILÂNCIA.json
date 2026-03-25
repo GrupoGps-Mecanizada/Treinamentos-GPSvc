@@ -1,0 +1,52 @@
+{
+  "treinamento": "REGISTRO EM LIVRO DE OCORRÊNCIAS PARA PORTARIA E VIGILÂNCIA",
+  "id": 1628,
+  "idChecklist": 1331,
+  "perguntas": [
+    {
+      "pergunta": "5) O que deve ser evitado ao realizar um Registro no Livro de Ocorrências?",
+      "opcoes": [
+        "Uso de linguagem formal e respeitosa.",
+        "Registro com rasuras ou comentários pessoais.",
+        "Clareza e objetividade.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "4) Qual linguagem deve ser adotada em um Registro no Livro de Ocorrências?",
+      "opcoes": [
+        "Devemos evitar termos vagos como “mais ou menos”, “parecia”, “acho que”.",
+        "Usar sempre terceira pessoa.",
+        "Descrever de forma cronológica, quando envolver sequência de fatos.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) Qual a Estrutura recomendada para um Registro eficaz no Livro de Ocorrências?",
+      "opcoes": [
+        "Data e hora exata, Identificação do vigilante, Local, Descrição do ocorrido, providências tomadas e Assinatura.",
+        "Não colocar a data e hora exata, Identificação do vigilante, Local, Descrição do ocorrido, providências tomadas e Assinatura.",
+        "Apenas data e hora.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "2) Sobre clareza e objetividade no Registro no Livro de Ocorrências, podemos afirmar que:",
+      "opcoes": [
+        "Podemos emitir opiniões pessoais, gírias ou abreviações sem sentido.",
+        "Devemos evitar opiniões pessoais, gírias ou abreviações sem sentido.",
+        "Evitar usar frases curtas, diretas e sem rodeios.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "1) Sobre o Registro no Livro de Ocorrências, é correto afirmar que:",
+      "opcoes": [
+        "Não é um documento oficial e não pode ser utilizado como prova em auditorias, fiscalizações ou até mesmo em processos jurídicos.",
+        "É um documento oficial e pode ser utilizado como prova em auditorias, fiscalizações ou até mesmo em processos jurídicos.",
+        "É um documento oficial e só pode ser utilizado como prova em auditorias.",
+        "Todas as alternativas estão corretas."
+      ]
+    }
+  ]
+}
