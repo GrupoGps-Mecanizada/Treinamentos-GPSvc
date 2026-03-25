@@ -1,0 +1,52 @@
+{
+  "treinamento": "MANUTENÇÃO DE ROLAMENTOS E MANCAIS_ENGENHARIA",
+  "id": 1503,
+  "idChecklist": 1246,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE DEVE SER FEITO EM CASO DE DÚVIDA DURANTE O PROCEDIMENTO DE MANUTENÇÃO?",
+      "opcoes": [
+        "INTERROMPER A ATIVIDADE E BUSCAR ORIENTAÇÃO DO SUPERIOR.",
+        "CONTINUAR O PROCEDIMENTO COM CAUTELA.",
+        "IGNORAR O PROBLEMA E FINALIZAR RAPIDAMENTE.",
+        "TROCAR O ROLAMENTO IMEDIATAMENTE."
+      ]
+    },
+    {
+      "pergunta": "4) DURANTE A ROTINA DE LUBRIFICAÇÃO, QUAL TIPO DE GRAXA É RECOMENDADO?",
+      "opcoes": [
+        "GRAXA AZUL À BASE DE LÍTIO.",
+        "ÓLEO MINERAL.",
+        "GRAXA BRANCA À BASE DE SÓDIO.",
+        "GRAXA VERMELHA À BASE DE CÁLCIO."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL TIPO DE ROLAMENTO POSSUI VEDAÇÃO NOS DOIS LADOS?",
+      "opcoes": [
+        "ZZ.",
+        "2RS.",
+        "UCF.",
+        "UCFL."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE UM SOM METÁLICO DURANTE A INSPEÇÃO AUDITIVA PODE INDICAR?",
+      "opcoes": [
+        "PISTA DO ROLAMENTO SUJA.",
+        "FALTA DE ENERGIA ELÉTRICA.",
+        "ROLAMENTO NOVO E BEM INSTALADO.",
+        "FOLGA OU FALTA DE LUBRIFICAÇÃO."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL O PRINCIPAL OBJETIVO DO TREINAMENTO SOBRE ROLAMENTOS E MANCAIS?",
+      "opcoes": [
+        "AUMENTAR A PRODUÇÃO DAS MÁQUINAS.",
+        "CAPACITAR TÉCNICOS PARA MONTAGEM DE MOTORES.",
+        "CAPACITAR TÉCNICOS NA MANUTENÇÃO CORRETA DE ROLAMENTOS E MANCAIS.",
+        "REDUZIR O USO DE GRAXA NAS MÁQUINAS."
+      ]
+    }
+  ]
+}
