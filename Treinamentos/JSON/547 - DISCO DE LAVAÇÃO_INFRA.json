@@ -1,0 +1,52 @@
+{
+  "treinamento": "DISCO DE LAVAÇÃO_INFRA",
+  "id": 547,
+  "idChecklist": 349,
+  "perguntas": [
+    {
+      "pergunta": "5) Selecione abaixo a alternativa INCORRETA sobre disco verde.",
+      "opcoes": [
+        "Indicado para limpeza semanal e retirar as camadas mais superficiais de sujidade do piso.",
+        "Deve ser utilizado com cuidado para não danificar as camadas de cera.",
+        "Por ter nos tamanhos de 350mm e 510mm é utilizado tanto em enceradeiras e lavadoras automáticas.",
+        "Recomendado para pisos do tipo vinílicos, Paviflex, granito e cerâmico."
+      ]
+    },
+    {
+      "pergunta": "4) Sobre Lavação do Piso, podemos afirmar que:",
+      "opcoes": [
+        "É uma atividade realizada com discos que são de alta abrasividade.",
+        "É um procedimento que não utiliza em momento algum as polidoras ou lavadoras automáticas.",
+        "Na lavação do piso o objetivo é realizar a limpeza das sujidades mais superficiais.",
+        "Na lavação do piso é possível utilizar o disco verde para fazer remoção da cera."
+      ]
+    },
+    {
+      "pergunta": "3) Qual alternativa está INCORRETA sobre o disco vermelho?",
+      "opcoes": [
+        "Utilizado em pisos mais frágeis como porcelanato, manta vinílica e pintura epóxi.",
+        "ndicado para limpeza diária sem a remoção de camadas de acabamento.",
+        "Não é recomendado para prolongar e renovar o brilho do piso.",
+        "Utilizado nos tamanhos 350mm e 450mm em enceradeiras e lavadoras automáticas."
+      ]
+    },
+    {
+      "pergunta": "2) Em quais equipamentos os discos podem ser acoplados?",
+      "opcoes": [
+        "Enceradeiras, lavadoras automáticas e polidoras, variando de acordo com o tamanho do disco.",
+        "Mop Plano de Piso.",
+        "Enceradeiras, lavadoras automáticas e polidoras, independentemente do tamanho do disco.",
+        "Não são acoplados a nenhum tipo de equipamento."
+      ]
+    },
+    {
+      "pergunta": "1) O que são discos de tratamento?",
+      "opcoes": [
+        "São componentes utilizados para diluição de produtos químicos.",
+        "Materias utilizados na limpeza de diferentes tipos piso.",
+        "Tipos diferentes de produtos químicos utilizados nas superfícies.",
+        "Tipos de panos de microfibra no formato de um disco."
+      ]
+    }
+  ]
+}
