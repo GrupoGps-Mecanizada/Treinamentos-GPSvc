@@ -1,0 +1,52 @@
+{
+  "treinamento": "RECEPÇÃO MÓDULO I_CONDOMÍNIOS ",
+  "id": 742,
+  "idChecklist": 522,
+  "perguntas": [
+    {
+      "pergunta": "5) O que é imprescindível em relação a cultura de segurança?",
+      "opcoes": [
+        "Perceber o que está acontecendo e reportar anormalidades.",
+        "Ter atenção ao seu redor e entender/perguntar.",
+        "Comunicação assertiva.",
+        "Todas as alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) O que é a cultura de segurança?",
+      "opcoes": [
+        "A cultura de segurança se baseia em bloquear o acesso ao máximo de pessoas possíveis.",
+        "A cultura de segurança se baseia na atenção e na percepção. Significa que se uma recepcionista já conhece o Cliente, pode liberar acesso sem novo registro.",
+        "A cultura de segurança se baseia na atenção com aquelas situações que envolvem os vigilantes.",
+        "A cultura de segurança se baseia na atenção e na percepção. É ter senso de observação, cuidado e zelo, devido à responsabilidade que é ser a linha de frente no nosso Cliente."
+      ]
+    },
+    {
+      "pergunta": "3) De acordo com o treinamento, o que é essencial na hora de recepcionar?",
+      "opcoes": [
+        "Sempre agradecer: mulheres e homens dizem “obrigado”.",
+        "Boa comunicação, linguagem adequada, postura profissional e corporal e explicar os procedimentos de forma clara/pausada.",
+        "Tratar todos de forma cordial, dando mais atenção a alguém que você tenha mais contato.",
+        "Evitar o bom humor."
+      ]
+    },
+    {
+      "pergunta": "2) Com base no treinamento, o que a cultura de recepcionar prioriza?",
+      "opcoes": [
+        "Prioriza proporcionar o atendimento rápido para os condôminos, já os visitantes e prestadores de serviços devem aguardar.",
+        "Prioriza atender bem quem tiver mais pressa.",
+        "Prioriza proporcionar uma experiência agradável, solicita e colaborativa para todos.",
+        "Visa proporcionar uma experiência de atendimento relâmpago."
+      ]
+    },
+    {
+      "pergunta": "1) Assinale a alternativa CORRETA sobre a missão do profissional recepcionista:",
+      "opcoes": [
+        "Recepcionar, orientar, receber e encaminhar pessoas, responder as dúvidas, contribuir para o fluxo produtivo dos condôminos, visitantes e prestadores de serviço.",
+        "Receber e orientar que as pessoas devem tirar suas dúvidas com os vigilantes.",
+        "Receber e chamar o supervisor para fazer o primeiro atendimento.",
+        "Recepcionar e encaminhar pessoas somente quando receber reclamações."
+      ]
+    }
+  ]
+}
