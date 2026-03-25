@@ -1,0 +1,52 @@
+{
+  "treinamento": "RELATÓRIOS_GPS360",
+  "id": 1231,
+  "idChecklist": 997,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL FUNÇÃO PERMITE VOLTAR AO RELATÓRIO COMPLETO, SEM NENHUM CRITÉRIO DEFINIDO?",
+      "opcoes": [
+        "FUNÇÃO DINÂMICA.",
+        "FUNÇÃO FILTROS.",
+        "FUNÇÃO DATAS.",
+        "FUNÇÃO LIMPAR FILTROS."
+      ]
+    },
+    {
+      "pergunta": "4) ONDE É POSSÍVEL ACESSAR O PRONTUÁRIO DIGITAL DOS COLABORADORES NO RELATÓRIO DE TREINAMENTOS?",
+      "opcoes": [
+        "DASHBOARD DE NPS.",
+        "NO MODELO ANALÍTICO DO DASHBOARD, CLIQUE NO COLABORADOR PARA ACESSAR O CARD.",
+        "RELATÓRIO GPS VISTA VISITAS.",
+        "CAMPO TAREFAS."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE É DESTACADO NO RELATÓRIO DE SSMA DO GPS360?",
+      "opcoes": [
+        "VOLUME DE TAREFAS REALIZADAS NO MÊS.",
+        "PERCENTUAL DE TAREFAS REALIZADAS DENTRO DO PRAZO.",
+        "OCORRÊNCIAS COMO ACIDENTES DE TRAJETO E NO AMBIENTE DE TRABALHO.",
+        "SATISFAÇÃO E LEALDADE DO CLIENTE."
+      ]
+    },
+    {
+      "pergunta": "2)  O QUE O RELATÓRIO DE NPS DO GPS360 MENSURA?",
+      "opcoes": [
+        "SATISFAÇÃO E LEALDADE DO CLIENTE.",
+        "TAXA DE FREQUÊNCIA DAS OCORRÊNCIAS.",
+        "VOLUME DE VISITAS REALIZADAS NOS CONTRATOS.",
+        "PERCENTUAL DE TAREFAS REALIZADAS DENTRO DO PRAZO."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL DOS SEGUINTES RELATÓRIOS DO GPS360 PROPORCIONA INFORMAÇÕES SOBRE A TAXA DE ROTATIVIDADE DOS COLABORADORES?",
+      "opcoes": [
+        "RELATÓRIO DE TURNOVER.",
+        "RELATÓRIO DE TREINAMENTOS.",
+        "RELATÓRIO DE ABSENTEÍSMO.",
+        "RELATÓRIO NPS."
+      ]
+    }
+  ]
+}
