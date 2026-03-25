@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA TERMINAL DE SANITÁRIOS_INFRA",
+  "id": 271,
+  "idChecklist": 183,
+  "perguntas": [
+    {
+      "pergunta": "5) Marque a alternativa CORRETA: Qual a cor do kit utilizado na limpeza de sanitários (balde, pano de microfibra, fibra e luvas)?",
+      "opcoes": [
+        "Kit de cor amarela.",
+        "Kit de cor vermelha.",
+        "Kit de cor azul.",
+        "Kit de cor laranja."
+      ]
+    },
+    {
+      "pergunta": "4) Quanto a ordem de limpeza terminal da pia e superfícies do sanitário, marque a alternativa com a ordem CORRETA.",
+      "opcoes": [
+        "1º espelhos, 2º suportes de descartáveis, 3º torneira, 4º pia, 5º portas e divisórias de boxes de sanitários.",
+        "1º piso, 2º torneira, 3º parede, 4º suportes, 5º pia.",
+        "1º piso, 2º espelhos, 3º limpar a parede, 4º torneiras.",
+        "1º teto, 2º piso, 3º espelhos, 4º pia, 5º suportes de papel toalha, não limpar os de sabonete."
+      ]
+    },
+    {
+      "pergunta": "3) Qual alternativa está ERRADA sobre a etapa de limpeza do vaso sanitário?",
+      "opcoes": [
+        "Para limpeza do vaso, utilizar luvas azuis, fibra verde cortada para área externa, escova lavatina para área interna do vaso sanitário.",
+        "Na parte interna do vaso sanitário, limpar o fundo usando a fibra verde cortada.",
+        "Acionar a descarga ao finalizar a limpeza interna do vaso, após limpar o botão de acionamento.",
+        "Secar a parte externa do vaso sanitário com o auxílio do pano de microfibra azul."
+      ]
+    },
+    {
+      "pergunta": "2) Marque a alternativa CORRETA sobre a limpeza da parede na higiene terminal de sanitário:",
+      "opcoes": [
+        "Limpar a parede somente se houver sujidade.",
+        "Utilizar suporte limpa tudo (LT) e fibra verde inteira.",
+        "Realizar a limpeza de baixo para cima com auxílio do LT e a fibra verde.",
+        "Usar o óculos de segurança, LT, fibra azul e realizar a limpeza do teto em sentido único de dentro para fora."
+      ]
+    },
+    {
+      "pergunta": "1) O que é limpeza terminal de sanitários?",
+      "opcoes": [
+        "É o procedimento de limpeza completa envolvendo teto, parede, espelho, pia, vaso sanitário e piso. Realizado com frequência semanal.",
+        "É a limpeza realizada com detergente por todo o piso do sanitário.",
+        "É a higienização feita sem periodicidade.",
+        "É a limpeza somente do vaso sanitário."
+      ]
+    }
+  ]
+}
