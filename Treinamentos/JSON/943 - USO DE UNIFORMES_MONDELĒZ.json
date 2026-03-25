@@ -1,0 +1,52 @@
+{
+  "treinamento": "USO DE UNIFORMES_MONDELĒZ",
+  "id": 943,
+  "idChecklist": 720,
+  "perguntas": [
+    {
+      "pergunta": "5)  MARQUE A ALTERNATIVA INCORRETA SOBRE O USO DOS UNIFORMES?",
+      "opcoes": [
+        "É IMPORTANTE UTILIZAR O UNIFORME PARA PREVENÇÃO DE CONTAMINAÇÃO E MANUTENÇÃO DOS PADRÕES DE LIMPEZA.",
+        "TODOS OS UNIFORMES TERÃO A LETRA Q, TANTO NA CAMISA COMO NA CALÇA.",
+        "POSSO UTILIZAR O MESMO UNIFORME POR MAIS DE UM DIA, CASO ESQUEÇA DE LAVAR EM CASA.",
+        "LAVAR O UNIFORME SEPARADAMENTE DE OUTRAS ROUPAS PARA EVITAR A CONTAMINAÇÃO CRUZADA."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL É A COR DA LETRA \"Q\" NO UNIFORME QUE DEVE SER UTILIZADO NA SEXTA-FEIRA E SÁBADO?",
+      "opcoes": [
+        "Q NA COR VERDE.",
+        "Q NA COR AMARELA.",
+        "Q NA COR AZUL.",
+        "Q NA COR ROXA/LILÁS."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É A COR DA LETRA \"Q\" NO UNIFORME QUE DEVE SER UTILIZADO NA QUARTA-FEIRA E QUINTA-FEIRA?",
+      "opcoes": [
+        "Q NA COR VERDE.",
+        "Q NA COR AMARELA.",
+        "Q NA COR CINZA.",
+        "Q NA COR ROXA/LILÁS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL É A COR DA LETRA \"Q\" NO UNIFORME QUE DEVE SER UTILIZADO NO DOMINGO?",
+      "opcoes": [
+        "Q NA COR CINZA.",
+        "Q NA COR VERDE.",
+        "Q NA COR AMARELA.",
+        "Q NA COR AZUL."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É A COR DA LETRA \"Q\" NO UNIFORME QUE DEVE SER UTILIZADO NA SEGUNDA-FEIRA E TERÇA-FEIRA?",
+      "opcoes": [
+        "Q NA COR CINZA.",
+        "Q NA COR VERDE.",
+        "Q NA COR ROXA/LILÁS.",
+        "Q NA COR AMARELA."
+      ]
+    }
+  ]
+}
