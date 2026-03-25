@@ -1,0 +1,52 @@
+{
+  "treinamento": "CAMPANHA MEU TREINAMENTO NO GPSVC_LOGÍSTICA",
+  "id": 156,
+  "idChecklist": 83,
+  "perguntas": [
+    {
+      "pergunta": "5) Do que se trata a campanha \"Meu treinamento no GPSvc\"?",
+      "opcoes": [
+        "Uma campanha destinada apenas a Gerentes e coordenadores.",
+        "Uma campanha de contratação de mão de obra.",
+        "Uma campanha que tem como objetivo limitar o acesso aos treinamentos.",
+        "Uma campanha que permite que o colaborador elabore um vídeo de treinamento e concorra a um prêmio, compartilhando seu conhecimento sobre o assunto."
+      ]
+    },
+    {
+      "pergunta": "4) Assinale a alternativa correta sobre o equipamentos sonoros?",
+      "opcoes": [
+        "A buzina melhora a segurança se for utilizada adequadamente, pois ela funciona como um alerta que pode evitar acidentes e alertar terceiros.",
+        "A buzina pode ser usada sem critérios, pois não tem grandes impactos.",
+        "A buzina serve tanto como alerta de segurança como também para cumprimentar colegas que estão passando na área.",
+        "A buzina deve ser usada com mais frequência em ambientes fechados."
+      ]
+    },
+    {
+      "pergunta": "3) Qual o documento que precisa ter com o condutor da empilhadeira?",
+      "opcoes": [
+        "A identificação do operador com nome, função e foto e sempre em local visível.",
+        "Apenas o crachá da empresa com nome e matrícula.",
+        "É necessário o cartão de vacinas da 1° e 2° dose de prevenção ao covid.",
+        "É opcional qualquer identificação."
+      ]
+    },
+    {
+      "pergunta": "2) Quais são os principais equipamentos luminosos que precisam ser verificados antes de operar a empilhadeira?",
+      "opcoes": [
+        "Faróis, Giroflex e Luzes de freio e de ré.",
+        "Faróis e pisca alerta.",
+        "Luzes de freio e lanternas laterais.",
+        "Giroflex e faroletes."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o principal objetivo de verificar os itens de segurança antes de operar a empilhadeira?",
+      "opcoes": [
+        "Garantir a segurança do operador, de outros colaboradores e também melhorar o uso do equipamento.",
+        "Garantir que o produto não foi danificado com você.",
+        "Garantir que a empilhadeira não precisa de manutenção.",
+        "Garantir que a empilhadeira funcione na sua capacidade máxima."
+      ]
+    }
+  ]
+}
