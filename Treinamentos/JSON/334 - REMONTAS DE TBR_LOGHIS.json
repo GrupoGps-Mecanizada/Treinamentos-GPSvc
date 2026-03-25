@@ -1,0 +1,52 @@
+{
+  "treinamento": "REMONTAS DE TBR_LOGHIS",
+  "id": 334,
+  "idChecklist": 233,
+  "perguntas": [
+    {
+      "pergunta": "5) Para que serve a Cumeeira?",
+      "opcoes": [
+        "Deixar a remonta bonita.",
+        "Evitar aglomeração de água no topo da remonta.",
+        "Revestir a base.",
+        "Alocar mais pneus."
+      ]
+    },
+    {
+      "pergunta": "4) O que é necessário para revestir o solo e cobrir as remontas?",
+      "opcoes": [
+        "Lonas e Plásticos específicos para a atividade.",
+        "Folhas e Plantas.",
+        "Lonas velhas e pedaços de plásticos.",
+        "Papéis e outros materiais."
+      ]
+    },
+    {
+      "pergunta": "3) O Primeiro nível é composto por quantos pneus?",
+      "opcoes": [
+        "6 torres de 5 Pneus.",
+        "3 torres de 8 Pneus.",
+        "5 torres de 7 Pneus.",
+        "4 torres de 6 pneus."
+      ]
+    },
+    {
+      "pergunta": "2) Onde é possível realizar essas remontas?",
+      "opcoes": [
+        "Nas Células.",
+        "Nas áreas internas e externas do armazém.",
+        "Na esteira.",
+        "No Box."
+      ]
+    },
+    {
+      "pergunta": "1) O que são remontas?",
+      "opcoes": [
+        "Canudos de pneus nos corredores do armazém.",
+        "Pneus espalhados por toda parte.",
+        "Paletes alocados na área externa.",
+        "Agrupamentos de pneus em pilhas de quantidades e posições específicas."
+      ]
+    }
+  ]
+}
