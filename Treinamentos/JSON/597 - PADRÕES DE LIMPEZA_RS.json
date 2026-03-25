@@ -1,0 +1,52 @@
+{
+  "treinamento": "PADRÕES DE LIMPEZA_RS",
+  "id": 597,
+  "idChecklist": 384,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais princípios básicos devemos seguir nos banheiros durante a limpeza dos sanitários, mictórios e pias?",
+      "opcoes": [
+        "Limpeza da pia, área interna e externa.",
+        "Limpeza dos acentos, área interna e externa.",
+        "Limpeza das áreas internas e depois externas.",
+        "Limpeza das áreas externas e depois internas."
+      ]
+    },
+    {
+      "pergunta": "4) Quais princípios básicos devemos seguir durante a limpeza?",
+      "opcoes": [
+        "Limpeza de cima para baixo.",
+        "Limpeza de baixo para cima.",
+        "Não importa de onde começamos, será limpo de qualquer forma.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "3) Ao realizar a limpeza nas áreas administrativas/saguão, qual KIT deve ser utilizado?",
+      "opcoes": [
+        "Luvas e panos verdes.",
+        "Luvas e panos azuis.",
+        "Luvas e panos amarelos.",
+        "Luvas e panos amarelos e azuis."
+      ]
+    },
+    {
+      "pergunta": "2) Ao realizar a limpeza nos banheiros, qual KIT de limpeza deve ser utilizado?",
+      "opcoes": [
+        "Luvas e panos amarelos.",
+        "Luvas e panos azuis.",
+        "Luvas e panos verdes.",
+        "Luvas e panos amarelos e azuis."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o objetivo de utilizar corretamente os EPI’s e materiais?",
+      "opcoes": [
+        "Os EPI’s não são importantes, mas facilitam o processo para a conclusão de forma rápida.",
+        "Ajuda na diminuição de riscos e danos aumentando a possibilidade de contaminação.",
+        "Padronizar os processos, diminuindo os riscos de acidentes e contaminações no ambiente de trabalho.",
+        "Todas as alternativas."
+      ]
+    }
+  ]
+}
