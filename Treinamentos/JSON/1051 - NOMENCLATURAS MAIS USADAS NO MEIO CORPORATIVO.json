@@ -1,0 +1,52 @@
+{
+  "treinamento": "NOMENCLATURAS MAIS USADAS NO MEIO CORPORATIVO",
+  "id": 1051,
+  "idChecklist": 825,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL É A FUNÇÃO DO \"BRIEFING\"?",
+      "opcoes": [
+        "A) RESUMIR UM PROJETO.",
+        "B) REALIZAR CHAMADAS DE VÍDEO.",
+        "C) FAZER NETWORKING.",
+        "D) PROPORCIONAR FEEDBACK POSITIVO."
+      ]
+    },
+    {
+      "pergunta": "4) EM QUAL CONTEXTO É COMUM UTILIZAR O TERMO \"CALL\"?",
+      "opcoes": [
+        "A) EM DOCUMENTO DE RESUMO.",
+        "B) EM REDE DE CONTATO.",
+        "C) EM CHAMADA DE VÍDEO.",
+        "D) EM ORÇAMENTOS."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE REPRESENTA O TERMO \"NETWORK\"?",
+      "opcoes": [
+        "A) DOCUMENTO DE RESUMO.",
+        "B) REDE DE CONTATOS.",
+        "C) CHAMADA DE VÍDEO.",
+        "D) PLANEJAMENTO ESTRATÉGICO."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL É A DEFINIÇÃO DE \"FEEDBACK\"?",
+      "opcoes": [
+        "A) DOCUMENTO DE RESUMO.",
+        "B) CHAMADA DE VÍDEO.",
+        "C) RETORNO SOBRE O DESEMPENHO, COMO CRÍTICA CONSTRUTIVA E NEGATIVA.",
+        "D) REDE DE CONTATOS."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE SIGNIFICA A PALAVRA \"BUDGET\" NO CONTEXTO EMPRESARIAL?",
+      "opcoes": [
+        "A) PLANEJAMENTO ESTRATÉGICO.",
+        "B) ORÇAMENTO.",
+        "C) FEEDBACK.",
+        "D) NETWORKING."
+      ]
+    }
+  ]
+}
