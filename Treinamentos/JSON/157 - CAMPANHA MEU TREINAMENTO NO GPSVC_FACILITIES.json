@@ -1,0 +1,52 @@
+{
+  "treinamento": "CAMPANHA MEU TREINAMENTO NO GPSVC_FACILITIES",
+  "id": 157,
+  "idChecklist": 82,
+  "perguntas": [
+    {
+      "pergunta": "5) Do que se trata a campanha \"Meu treinamento no GPSvc\"?",
+      "opcoes": [
+        "Uma campanha destinada apenas a Gerentes e coordenadores.",
+        "Uma campanha de contratação de mão de obra.",
+        "Uma campanha que tem como objetivo limitar o acesso aos treinamentos.",
+        "Uma campanha que permite que o colaborador elabore um vídeo de treinamento e concorra a um prêmio, compartilhando seu conhecimento sobre o assunto."
+      ]
+    },
+    {
+      "pergunta": "4) Quando você deve utilizar as luvas?",
+      "opcoes": [
+        "Quando eu achar que devo, sem nenhuma orientação.",
+        "Ao manusear equipamentos e materiais, ao realizar limpeza e desinfecção de superfícies/ ambientes e no manuseio de material sujo e contaminado.",
+        "Apenas para manuseio de material sujo e contaminado.",
+        "Apenas no contato com produtos químicos."
+      ]
+    },
+    {
+      "pergunta": "3) Referente aos cuidados essenciais na utilização das luvas, é correto afirmar que:",
+      "opcoes": [
+        "Ao utilizar luvas, escolha a que melhor se ajusta as mãos, pois luvas grandes ou folgadas, prejudicam o tato e a efetividade, favorecendo a um acidente.",
+        "Se a luva rasgar ou furar pode continuar usando sem precisar trocar.",
+        "Pode guardar a luva suja e sem higienização.",
+        "Não precisa de nenhum cuidado com as luvas."
+      ]
+    },
+    {
+      "pergunta": "2) A luva é mais que um acessório, ela é:",
+      "opcoes": [
+        "Um apetrecho sem necessidade de uso.",
+        "Uma ferramenta para evitar COVID.",
+        "Um equipamento de proteção individual pois protege o colaborador.",
+        "Um utensílio para ficar no carrinho funcional ou no bolso do meu uniforme."
+      ]
+    },
+    {
+      "pergunta": "1) Baseado no treinamento, qual o objetivo principal de usar a luva?",
+      "opcoes": [
+        "Para proteger as mãos de machucados ou lesões.",
+        "Para proteger as mãos de produtos químicos, ressecamento e poeira.",
+        "Para proteger as mãos de acidentes, pois a luva é um equipamento de proteção individual.",
+        "Todas as alternativas acima estão corretas."
+      ]
+    }
+  ]
+}
