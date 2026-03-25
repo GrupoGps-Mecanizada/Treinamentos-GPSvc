@@ -1,0 +1,52 @@
+{
+  "treinamento": "MOVIMENTAÇÃO DE CARGAS",
+  "id": 1476,
+  "idChecklist": 1224,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL É O LIMITE DE PESO PERMITIDO PARA MOVIMENTAÇÃO MANUAL DE CARGA?",
+      "opcoes": [
+        "15 KG.",
+        "23 KG.",
+        "30 KG.",
+        "50 KG."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL DEVE SER A ATITUDE AO LIDAR COM UMA CARGA MUITO PESADA?",
+      "opcoes": [
+        "DIVIDIR A CARGA EM PARTES MENORES.",
+        "TENTAR LEVANTAR DE QUALQUER FORMA.",
+        "CHUTAR ATÉ O LOCAL DE DESTINO.",
+        "EMPURRAR COM OS PÉS."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É A POSTURA CORRETA PARA LEVANTAR UMA CARGA?",
+      "opcoes": [
+        "FLEXIONAR A COLUNA E MANTER OS PÉS JUNTOS.",
+        "MANTER OS PÉS AFASTADOS, DOBRAR OS JOELHOS E MANTER A CARGA PRÓXIMA AO CORPO.",
+        "SE LEVANTAR COM IMPULSO NAS COSTAS.",
+        "FICAR COM AS PERNAS ESTICADAS E DOBRAR O TRONCO."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE DEVE SER FEITO ANTES DE INICIAR A MOVIMENTAÇÃO DE UMA CARGA?",
+      "opcoes": [
+        "ESTICAR OS BRAÇOS E SE LEVANTAR RAPIDAMENTE.",
+        "AVALIAR APENAS O PESO DA CARGA.",
+        "INICIAR O TRANSPORTE E PARAR CASO SINTA DOR.",
+        "VERIFICAR PESO, FORMA, TAMANHO E PEDIR AJUDA SE NECESSÁRIO."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O PRINCIPAL RISCO DA MOVIMENTAÇÃO INADEQUADA DE CARGAS?",
+      "opcoes": [
+        "DANOS AO UNIFORME.",
+        "CANSAÇO FÍSICO LEVE.",
+        "LESÕES MUSCULOESQUELÉTICAS.",
+        "PERDA DE PRODUTIVIDADE."
+      ]
+    }
+  ]
+}
