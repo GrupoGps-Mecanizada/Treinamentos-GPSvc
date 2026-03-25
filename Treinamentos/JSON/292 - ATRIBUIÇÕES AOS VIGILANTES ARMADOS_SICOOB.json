@@ -1,0 +1,52 @@
+{
+  "treinamento": "ATRIBUIÇÕES AOS VIGILANTES ARMADOS_SICOOB",
+  "id": 292,
+  "idChecklist": 204,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual orientação o vigilante deve passar ao Visitante/Cliente?",
+      "opcoes": [
+        "Orientar a procurar outra pessoa do banco ou do Cliente.",
+        "Orientar a ligar para buscar informações.",
+        "Orientar visitantes com objetividade, mediante identificação.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) O que o vigilante deve fazer em casos de ações suspeitas?",
+      "opcoes": [
+        "Não realizar nenhuma ação.",
+        "Acionar o 190 da PM no caso de ações suspeitas.",
+        "Ligar para o seu líder.",
+        "Sinalizar o Gerente do Banco/e ou cliente."
+      ]
+    },
+    {
+      "pergunta": "3) Um bom vigilante deve ser:",
+      "opcoes": [
+        "Desequilibrado.",
+        "Passional.",
+        "Observador.",
+        "Desonesto."
+      ]
+    },
+    {
+      "pergunta": "2) Qual é uma das maiores responsabilidades de um vigilante com porte de arma?",
+      "opcoes": [
+        "Responsabilizar-se pela guarda de armas de fogo em local adequado.",
+        "Não chegar atrasado no ambiente de trabalho.",
+        "Sempre se comunicar com seu líder.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "1) Toda pessoa gosta de sentir-se valorizada, umas das formas de despertar esse sentimento, trabalhando com o público, é desempenhar um bom atendimento. No atendimento ao público o vigilante deve ser:",
+      "opcoes": [
+        "Ser desrespeitoso.",
+        "Ser educado, ético e manter a postura esperada pela função.",
+        "Ser sorridente.",
+        "Não dar atenção ao visitante."
+      ]
+    }
+  ]
+}
