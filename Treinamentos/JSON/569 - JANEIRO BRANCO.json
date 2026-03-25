@@ -1,0 +1,52 @@
+{
+  "treinamento": "JANEIRO BRANCO",
+  "id": 569,
+  "idChecklist": 370,
+  "perguntas": [
+    {
+      "pergunta": "5) Segundo a OMS (Organização Mundial de Saúde) qual é a definição de saúde?",
+      "opcoes": [
+        "É quando estamos nos sentindo bem.",
+        "Saúde é um estado de completo bem-estar físico, mental e social, e não apenas a ausência de doença.",
+        "É quando não estamos com nenhum machucado no corpo.",
+        "É quando as pessoas ao nosso redor não enxergam nenhuma anormalidade em nosso físico e/ ou mental."
+      ]
+    },
+    {
+      "pergunta": "4) Por qual motivo a cor branca foi escolhida para representar a campanha Janeiro Branco?",
+      "opcoes": [
+        "Por representar a paz.",
+        "Por mostrar simplicidade.",
+        "Por representar “folhas ou telas em branco” sobre as quais podemos projetar, escrever ou desenhar expectativas, desejos, histórias ou mudanças.",
+        "Por trazer claridade, amplitude e pureza para os ambientes."
+      ]
+    },
+    {
+      "pergunta": "3) O que o Janeiro Branco traz como inspiração?",
+      "opcoes": [
+        "Inspira as pessoas a fazerem reflexões acerca das suas vidas.",
+        "Inspira as pessoas a não fazer nenhum tipo de planejamento.",
+        "Inspira as pessoas a não terem cuidado consigo mesmo.",
+        "Não inspira as pessoas."
+      ]
+    },
+    {
+      "pergunta": "2) Quais cuidados devemos ter no nosso dia a dia para preservarmos a nossa saúde mental?",
+      "opcoes": [
+        "Trabalhar excessivamente para “ocupar a mente”.",
+        "Fazer exercícios físicos, leitura, ações compartilhadas de cuidado, manter ativa uma rede de apoio socioafetiva e etc.",
+        "Não se preocupar com cuidados, afinal a saúde mental não merece atenção.",
+        "Fazer o uso do cigarro, álcool ou outras drogas para lidar com as emoções."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o objetivo da Campanha Janeiro Branco?",
+      "opcoes": [
+        "Traz o tema sobre o Câncer de mama.",
+        "Conscientização sobre a Saúde do homem.",
+        "Conscientização sobre Acidente e Doenças do Trabalho.",
+        "Chamar a atenção da humanidade para as questões e necessidades relacionadas à Saúde Mental e Emocional das pessoas."
+      ]
+    }
+  ]
+}
