@@ -1,0 +1,52 @@
+{
+  "treinamento": "LGPD APLICADA AO JURÍDICO - MÓDULO IV",
+  "id": 366,
+  "idChecklist": 264,
+  "perguntas": [
+    {
+      "pergunta": "5) As demandas de Terceiros relacionadas à LGPD devem ser encaminhadas para",
+      "opcoes": [
+        "Canal de Comunicação, conforme Política de Privacidade",
+        "Área de TI",
+        "CEO",
+        "Nenhuma das anteriores"
+      ]
+    },
+    {
+      "pergunta": "4) Qual a sigla do nome do órgão da administração pública responsável por zelar, implementar e fiscalizar o cumprimento da LGPD?",
+      "opcoes": [
+        "MP",
+        "ANAC",
+        "ANPD",
+        "ANS"
+      ]
+    },
+    {
+      "pergunta": "3) Perguntas do tipo “qual é sua religião?” se referem a",
+      "opcoes": [
+        "Dados Pessoais",
+        "Dados Sensíveis",
+        "Dados Anonimizados",
+        "Dados de criança e adolescente"
+      ]
+    },
+    {
+      "pergunta": "2) Quando “a privacidade se incorpora ao produto e serviço desde a criação” estamos falando sobre",
+      "opcoes": [
+        "Privacy by Design",
+        "Relatório de impacto",
+        "Política de Privacidade",
+        "Consentimento"
+      ]
+    },
+    {
+      "pergunta": "1) Quem é responsável pela proteção da privacidade dos dados pessoais tratados pela empresa?",
+      "opcoes": [
+        "Encarregado de dados",
+        "Todos Colaboradores",
+        "CEO",
+        "Equipe de TI"
+      ]
+    }
+  ]
+}
