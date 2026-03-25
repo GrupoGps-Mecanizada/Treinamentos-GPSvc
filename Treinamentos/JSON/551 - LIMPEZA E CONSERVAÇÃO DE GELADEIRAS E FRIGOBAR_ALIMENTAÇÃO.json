@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA E CONSERVAÇÃO DE GELADEIRAS E FRIGOBAR_ALIMENTAÇÃO",
+  "id": 551,
+  "idChecklist": 353,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual alternativa INCORRETA sobre o processo de limpeza das geladeiras?",
+      "opcoes": [
+        "É necessário limpar a borracha de vedação, com movimento de fricção unidirecional de cima para   baixo.",
+        "Use o balde de 4 litros para jogar água no interior da geladeira e acelerar o degelo.",
+        "Após limpar todas as partes com solução de detergente neutro no pano de microfibra, utilizar um pano de microfibra seco para secagem.",
+        "Se programar de acordo com o cronograma de limpeza da geladeira, para realizar o degelo, o tempo adequado para que ele ocorra naturalmente."
+      ]
+    },
+    {
+      "pergunta": "4) Assinale abaixo a alternativa CORRETA sobre a limpeza da geladeira:",
+      "opcoes": [
+        "Passar pano seco em todas as partes da geladeira para tirar o pó.",
+        "Retirar as prateleiras para limpeza, limpar paredes internas e área externa da geladeira com pano de microfibra e solução de detergente neutro.",
+        "Limpeza da parte externa e retirar as prateleiras para limpeza com a fibra dupla face e detergente clorado.",
+        "É feita somente a limpeza das prateleiras sem retirar da geladeira."
+      ]
+    },
+    {
+      "pergunta": "3) Qual alternativa está INCORRRETA sobre o que deve ser feito antes da limpeza da geladeira?",
+      "opcoes": [
+        "Retirar todos os pertences, alimentos ou garrafas.",
+        "Esperar o degelo, caso haja acúmulo de gelo no refrigerador.",
+        "Não é necessário aguardar o degelo, com o auxílio de um objeto pontiagudo, retirar todo o gelo grudado do interior do refrigerador.",
+        "Desligar da tomada o eletrodoméstico sem utilização de luvas."
+      ]
+    },
+    {
+      "pergunta": "2) Sobre materiais e EPIs, qual a alternativa INCORRETA?",
+      "opcoes": [
+        "São das cores vermelhas em qualquer caso.",
+        "Utiliza-se balde de 4 litros, pano de microfibra ou descartável e luva de látex com auxílio do detergente neutro como produto químico.",
+        "Dependendo da unidade, pode ser utilizado o kit verde.",
+        "Precisa separar mais de um pano, de forma que seja utilizado com produto químico e outro seco para secagem das áreas em que o produto químico foi aplicado."
+      ]
+    },
+    {
+      "pergunta": "1) Assinale a alternativa CORRETA com relação ao uso da geladeira:",
+      "opcoes": [
+        "Utilizada para conservar alimentos na temperatura quente.",
+        "Utilizado em diversos segmentos para conservar o alimento na temperatura fria.",
+        "Facilmente encontrado somente em hospitais.",
+        "Não precisa ser limpa, já que a temperatura fria a mantém sempre limpa."
+      ]
+    }
+  ]
+}
