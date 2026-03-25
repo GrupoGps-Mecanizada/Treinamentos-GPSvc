@@ -1,0 +1,52 @@
+{
+  "treinamento": "YELLOW BELT_GPS VISTA",
+  "id": 232,
+  "idChecklist": 144,
+  "perguntas": [
+    {
+      "pergunta": "5) Além do sistema GPS Vista, é trazido também o conceito de \"Íris\" que é:",
+      "opcoes": [
+        "Semelhante a um SAC (Serviço de Atendimento ao Consumidor), para que as operações possam solicitar suporte ao corporativo do Grupo.",
+        "O espírito de sempre enxergar melhorias para o sistema (Kaizen).",
+        "Instâncias de gerenciamento que deve estar presente em todos os contratos e níveis de gestão, de forma a garantir a qualidade dos serviços e ações em casos de anomalia.",
+        "Relatórios enviados mensalmente às regionais quanto ao desempenho de cada contrato."
+      ]
+    },
+    {
+      "pergunta": "4) Qual das opções abaixo NÃO está contemplada dentro do GPS Vista?",
+      "opcoes": [
+        "Módulo para gestão de estoque.",
+        "Cadastro de clientes e fornecedores dentro da plataforma.",
+        "Integração com sensores (IoT).",
+        "Consulta de holerite e relatórios de RH."
+      ]
+    },
+    {
+      "pergunta": "3) Sobre as funcionalidades do Sistema, qual alternativa é a INCORRETA?",
+      "opcoes": [
+        "Incorpora toda a base de PEC, CR e colaboradores do Grupo, atualizando de forma automática conforme admissões e desligamentos.",
+        "Possui tanto versão Web quanto versão App.",
+        "O GPS Vista é completo, por isso não necessita e nem permite integração com outros sistemas.",
+        "Na realização de uma tarefa, permite também apontar o deslocamento, além de registros como assinatura, áudio e foto."
+      ]
+    },
+    {
+      "pergunta": "2) Quando falamos em \"valor ao cliente\" dentro do Sistema estamos dizendo:",
+      "opcoes": [
+        "Mapear e incorporar ao GPS Vista os serviços que transformam positivamente o local ou o negócio do cliente.",
+        "Definir com precisão o preço que cobramos pelos nossos serviços.",
+        "Relacionar o custo da hora dos nossos colaboradores com o tempo que eles utilizam o Sistema.",
+        "Configurar no GPS Vista aquilo que precisamos fazer no dia-a-dia, mesmo o que o cliente não esteja disposto a pagar."
+      ]
+    },
+    {
+      "pergunta": "1) A respeito do GPS Vista, qual das alternativas é a INCORRETA?",
+      "opcoes": [
+        "Foi construído com base nos princípios de gestão enxuta Lean.",
+        "Desenvolvido internamente pelo Grupo GPS.",
+        "O Grupo GPS tem a proposta de possuir o maior número possível de sistemas para gestão de operação, sendo o GPS Vista um deles.",
+        "Criado com fundamentos de entender o que é valor, eliminar desperdícios, trabalhar conforme a demanda do cliente e melhorar continuamente."
+      ]
+    }
+  ]
+}
