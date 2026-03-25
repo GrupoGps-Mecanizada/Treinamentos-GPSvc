@@ -1,0 +1,52 @@
+{
+  "treinamento": "CONHECENDO O GPSVC",
+  "id": 621,
+  "idChecklist": 407,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual o processo que colabora para a confiabilidade de execução da Matriz de Treinamento?",
+      "opcoes": [
+        "O processo de acompanhamento diário via dashboard.",
+        "A plataforma gera e-mail semanal com o quantitativo gerado.",
+        "A solução não consegue garantir confiabilidade nesse processo.",
+        "O processo de trilha de aprendizagem, que é o serviço de automação que gera na frequência estabelecida o treinamento e acompanhamento no dashboard."
+      ]
+    },
+    {
+      "pergunta": "4) O módulo de treinamento é composto por quais itens?",
+      "opcoes": [
+        "Vídeo, conteúdo teórico, avaliação e assinatura para emissão do certificado, caso seja aprovado por no mínimo 80%.",
+        "Conteúdo teórico.",
+        "Vídeo.",
+        "Apenas a assinatura e emissão do certificado."
+      ]
+    },
+    {
+      "pergunta": "3) Na jornada do Colaborador do Grupo GPS, quais as funcionalidades no GPSvc que minimiza questionamentos sobre salários ou benefícios?",
+      "opcoes": [
+        "O ícone de reclame aqui.",
+        "O ícone de currículo.",
+        "Os ícones de Folha de Pagamento e Benefícios do Colaborador.",
+        "O ícone de “Código de Ética e Conduta”."
+      ]
+    },
+    {
+      "pergunta": "2) Na jornada do Candidato no GPSvc, o RH pode contratar usando qual recurso para seleção de mão de obra local?",
+      "opcoes": [
+        "Recurso de contatos e amigos mais próximos.",
+        "Atráves da geolocalização do Candidato.",
+        "Utilizar redes sociais e rádio da região.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "1) Como é chamada a solução de disparo de notícias relevantes para os usuários do GPSvc?",
+      "opcoes": [
+        "Comunique.",
+        "Fique ligado.",
+        "Feed de notícias GPSvc.",
+        "Fique por dentro."
+      ]
+    }
+  ]
+}
