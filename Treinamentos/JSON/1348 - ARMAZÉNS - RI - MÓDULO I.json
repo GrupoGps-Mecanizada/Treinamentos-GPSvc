@@ -1,0 +1,52 @@
+{
+  "treinamento": "ARMAZÉNS - RI - MÓDULO I",
+  "id": 1348,
+  "idChecklist": 1106,
+  "perguntas": [
+    {
+      "pergunta": "5) EM QUE CONDIÇÕES PODE HAVER PROPAGANDA E PUBLICIDADE NO INTERIOR DO CONDOMÍNIO?",
+      "opcoes": [
+        "A APROVAÇÃO POR EXCEÇÃO, MEDIANTE ANÁLISE DAS CIRCUNSTÂNCIAS, SÓ SERÁ CONCEDIDA POR ESCRITO.",
+        "É PERMITIDO EM QUALQUER MOMENTO QUE O CLIENTE QUISER.",
+        "SÓ É PERMITIDO EM CASO DE URGÊNCIA.",
+        "NENHUMA DAS OPÇÕES ANTERIORES."
+      ]
+    },
+    {
+      "pergunta": "4) EM QUE CONDIÇÕES PODE HAVER LAVAGEM DE VEÍCULOS, CAÇAMBAS, BAÚS E EQUIPAMENTOS?",
+      "opcoes": [
+        "NÃO É PERMITIDO EM HIPÓTESE ALGUMA.",
+        "SÓ É PERMITIDO PARA CAMINHÕES BAÚ.",
+        "SÓ É PERMITIDO EM CASO DE URGÊNCIA.",
+        "SÓ É PERMITIDO QUANDO HÁ LIBERAÇÃO DA ADMINISTRAÇÃO."
+      ]
+    },
+    {
+      "pergunta": "3) EM QUE CONDIÇÕES PODE HAVER VENDA DE BEBIDAS E ALIMENTOS QUE NÃO SEJAM PELO OPERADOR DO RESTAURANTE LOCAL?",
+      "opcoes": [
+        "QUANDO NÃO TIVER NENHUM OPERADOR NO LOCAL.",
+        "SOMENTE QUANDO ALGUM CLIENTE MONTAR UMA CANTINA.",
+        "SOMENTE EM CASO DE EVENTO OU FORNECEDOR AUTORIZADO PELA ADMINISTRAÇÃO.",
+        "NÃO É PERMITIDO."
+      ]
+    },
+    {
+      "pergunta": "2) ATÉ QUAL IDADE NÃO HÁ PERMISSÃO DE ACESSO SEM O ACOMPANHAMENTO DE UM RESPONSÁVEL?",
+      "opcoes": [
+        "MENORES DE 18 ANOS.",
+        "MENORES DE 21 ANOS.",
+        "MENORES DE 10 ANOS.",
+        "MENORES DE 14 ANOS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAIS CONDIÇÕES DE VESTIMENTA SÃO PROIBIDAS AO ACESSO CONDOMÍNIO?",
+      "opcoes": [
+        "VESTIDO LONGO, SALTO ALTO E BONÉ.",
+        "BERMUDA, TÊNIS E CAMISETA.",
+        "SEM CAMISA E DESCALÇO.",
+        "CAMISETA REGATA E CHINELO."
+      ]
+    }
+  ]
+}
