@@ -1,0 +1,52 @@
+{
+  "treinamento": "CUIDADO COM AS MÃOS NO TRABALHO",
+  "id": 163,
+  "idChecklist": 89,
+  "perguntas": [
+    {
+      "pergunta": "5) Se ocorrer algum acidente ou incidente no trabalho, o que deve ser feito?",
+      "opcoes": [
+        "Deve comunicar IMEDIATAMENTE o Líder e Técnico de Segurança.",
+        "Deve correr para o hospital sem avisar ninguém.",
+        "Deve comunicar o grupo do WhatsApp dos amigos de futebol.",
+        "Deve correr para casa."
+      ]
+    },
+    {
+      "pergunta": "4) Por que existem tipos de luvas diferentes para proteção?",
+      "opcoes": [
+        "Porque existe uma luva para cada biotipo de pessoa.",
+        "Porque existem luvas de acordo com cada país.",
+        "Porque para cada tipo de trabalho existe uma luva projetada para proteger de um risco específico e elas podem evitar cortes, queimaduras, abrasões e contato com produtos químicos.",
+        "Porque as luvas são coloridas e devem ser usadas conforme o gosto pessoal de cada pessoa."
+      ]
+    },
+    {
+      "pergunta": "3) De acordo com o treinamento, assinale a alternativa CORRETA:",
+      "opcoes": [
+        "Não é difícil se prevenir de acidentes, na maioria dos casos com atenção e bom senso é possível se prevenir.",
+        "É difícil se prevenir de acidentes, na maioria dos casos eles ocorrem e não posso fazer nada.",
+        "É difícil se prevenir de acidentes, na maioria dos casos eles ocorrem quando estamos indo embora do trabalho.",
+        "É difícil se prevenir de acidentes, na maioria dos casos eles ocorrem no almoço do trabalho."
+      ]
+    },
+    {
+      "pergunta": "2) Quais são as situações mais comuns de acidente com as mãos?",
+      "opcoes": [
+        "Situações mais comuns de lesão ocorrem devido a unhas grandes, uso incorreto de ferramentas e picadas.",
+        "Situações mais comuns de lesão ocorrem com ferramentas de corte, uso incorreto de ferramentas, uso de ferramentas quebradas, uso de joias, contato com áreas quentes, máquinas rotativas e cansaço.",
+        "Situações mais comuns de lesão ocorrem devido ao uso correto da luva.",
+        "Situações mais comuns de lesão ocorrem devido ao cumprimento das normas de segurança."
+      ]
+    },
+    {
+      "pergunta": "1) A MAIORIA dos acidentes acontece por qual motivo?",
+      "opcoes": [
+        "A maioria ocorre por descuido, falta de atenção, tédio e descumprimento das normas de segurança.",
+        "A maioria ocorre por ficar mexendo no celular.",
+        "A maioria ocorre porque o colaborador ficou conversando com outro colega.",
+        "A maioria ocorre porque não tenho treinamento."
+      ]
+    }
+  ]
+}
