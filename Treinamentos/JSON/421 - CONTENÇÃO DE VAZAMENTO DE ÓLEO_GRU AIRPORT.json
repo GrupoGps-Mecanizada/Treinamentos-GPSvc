@@ -1,0 +1,52 @@
+{
+  "treinamento": "CONTENÇÃO DE VAZAMENTO DE ÓLEO_GRU AIRPORT",
+  "id": 421,
+  "idChecklist": 314,
+  "perguntas": [
+    {
+      "pergunta": "5) Em qual contêiner o resíduo deve ser descartado?",
+      "opcoes": [
+        "Contêiner branco",
+        "Contêiner azul",
+        "Contêiner verde",
+        "Contêiner Laranja"
+      ]
+    },
+    {
+      "pergunta": "4) A utilização do Kit de emergência deverá ser utilizada com quais EPIs?",
+      "opcoes": [
+        "Luva nitrílica e Sapato fechado",
+        "Luva nitrílica, óculos (caso necessário), máscara (caso necessário), máscara PFF2 (caso necessário), sapato fechado",
+        "Luva nitrílica apenas",
+        "Não precisa utilizar EPI"
+      ]
+    },
+    {
+      "pergunta": "3) Assinale a alternativa CORRETA. O kit para contenção consiste em:",
+      "opcoes": [
+        "Manta para ser utilizada para grandes vazamentos; Turfa para vazamento em proporções maiores; Saco para resíduo",
+        "Manta para ser utilizada para grandes vazamentos; Turfa para vazamento em proporções maiores; Saco de lixo comum",
+        "Manta para ser utilizada em pequenos vazamentos; Turfa para vazamento em proporções maiores; Saco para resíduo",
+        "Manta para ser utilizada em pequenos vazamentos; Turfa para vazamento de pequenas proporções; Saco para resíduo"
+      ]
+    },
+    {
+      "pergunta": "2) Qual sistema é utilizado para informar, treinar e conscientizar seus Colaboradores sobre a limpeza correta dos porões de embarque?",
+      "opcoes": [
+        "Fluxo de contingência",
+        "Fluxo de desinformação",
+        "Fluxo de informação",
+        "Fluxo de limpeza"
+      ]
+    },
+    {
+      "pergunta": "1) Qual a resolução que estabelece que todo óleo lubrificante usado ou contaminado, terá a destinação ﬁnal de modo que não afete negativamente o meio ambiente e propicie a máxima recuperação dos seus constituintes?",
+      "opcoes": [
+        "A Resolução Conama nº 362, de 23 de junho de 2005",
+        "A Resolução Conama nº 322, de 25 de junho de 2003",
+        "A Resolução Conama nº 321, de 25 de outubro de 2010",
+        "A Resolução Conama nº 321, de 25 de outubro de 2010"
+      ]
+    }
+  ]
+}
