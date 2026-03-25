@@ -1,0 +1,52 @@
+{
+  "treinamento": "INTEGRAÇÃO MÓDULO 1_IRON MOUNTAIN",
+  "id": 632,
+  "idChecklist": 418,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais são os programas de Segurança IMB?",
+      "opcoes": [
+        "Programa de Controle Interno e Qualidade Total.",
+        "Programa de Saúde Ocupacional e Controle de Operações de Risco.",
+        "Programa de Gerenciamento de Riscos e Programa de Controle Médico de Saúde Ocupacional.",
+        "Programa de Gerenciamento de Qualidade e Programa de Controle de Atividades."
+      ]
+    },
+    {
+      "pergunta": "4) Sobre o uso do crachá, é correto afirmar que:",
+      "opcoes": [
+        "É pessoal e intransferível.",
+        "O uso é opcional.",
+        "Pode ser usado apenas dentro do departamento.",
+        "Pode ser compartilhado."
+      ]
+    },
+    {
+      "pergunta": "3) O empilhamento de materiais deve seguir as exigências de qual norma de segurança?",
+      "opcoes": [
+        "NR 35.",
+        "NR 11.",
+        "NR 12.",
+        "NR 10."
+      ]
+    },
+    {
+      "pergunta": "2) De acordo com a conduta pessoal, você deve estar atento as novidades através:",
+      "opcoes": [
+        "Dos boletins mensais.",
+        "Dos e-mails semanais.",
+        "Dos murais de Segurança e RH.",
+        "Apenas pelo RH."
+      ]
+    },
+    {
+      "pergunta": "1) Qual dos itens abaixo é considerado EPC?",
+      "opcoes": [
+        "Luva.",
+        "Cone.",
+        "Botina.",
+        "Óculos."
+      ]
+    }
+  ]
+}
