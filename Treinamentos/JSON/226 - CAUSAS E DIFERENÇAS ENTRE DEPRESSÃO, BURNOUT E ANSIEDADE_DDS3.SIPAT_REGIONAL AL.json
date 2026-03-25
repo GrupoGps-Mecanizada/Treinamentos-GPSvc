@@ -1,0 +1,52 @@
+{
+  "treinamento": "CAUSAS E DIFERENÇAS ENTRE DEPRESSÃO, BURNOUT E ANSIEDADE_DDS3.SIPAT_REGIONAL AL",
+  "id": 226,
+  "idChecklist": 138,
+  "perguntas": [
+    {
+      "pergunta": "5) Assinale a alternativa correta. Toda ansiedade é um transtorno?",
+      "opcoes": [
+        "Não. Ansiedade é normal, inclusive é importante existir planejamento, organização, mas não deve se tornar uma preocupação excessiva de difícil controle.",
+        "Sim. Quem vive pensando só no amanhã e se organiza demais tem transtorno de ansiedade.",
+        "Sim. Quem vive planejando tem transtorno de ansiedade.",
+        "Sim. A ansiedade é um transtorno em qualquer proporção."
+      ]
+    },
+    {
+      "pergunta": "4) Burnout está associado ao trabalho e causa:",
+      "opcoes": [
+        "Suas principais causas são esgotamento, fadiga, tristeza, irritabilidade, frieza e desmotivação com o trabalho.",
+        "Suas principais causas são irritabilidade, tristeza e desmotivação com o trabalho.",
+        "Suas principais causas são cansaço físico e vontade de dormir.",
+        "Suas principais causas são transtorno bipolar, esgotamento e desmotivação geral."
+      ]
+    },
+    {
+      "pergunta": "3) De acordo com o treinamento a Depressão é:",
+      "opcoes": [
+        "É caracterizado principalmente por dificuldades de dormir e sinais de dor pelo corpo.",
+        "É caracterizado principalmente por desejo de comer compulsivamente.",
+        "É caracterizado principalmente por dificuldades na fala e coordenação motora.",
+        "É caracterizado principalmente por longos períodos de tristeza e redução do desejo de realizar atividades."
+      ]
+    },
+    {
+      "pergunta": "2) Através do conteúdo teórico aprendemos que o nome \"Burnout\" pode ser traduzido como?",
+      "opcoes": [
+        "O Burnout vem do latim que significa sentir frio.",
+        "Burnout é uma palavra do idioma inglês e pode ser traduzida como \"queimar para fora\", é basicamente o esgotamento profissional.",
+        "O Burnout é uma doença causada pelo excesso de açúcar no sangue.",
+        "O Burnout vem do inglês que significa queimar para dentro, é basicamente o progresso profissional."
+      ]
+    },
+    {
+      "pergunta": "1) No treinamento foi abordado sobre três questões de saúde, quais foram elas?",
+      "opcoes": [
+        "Fala sobre depressão, rinite e estresse.",
+        "Doenças que são transmitidas sexualmente.",
+        "Depressão, Burnout e Ansiedade.",
+        "Câncer de mama, próstata e pele."
+      ]
+    }
+  ]
+}
