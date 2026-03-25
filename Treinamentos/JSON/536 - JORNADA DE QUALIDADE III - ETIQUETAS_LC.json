@@ -1,0 +1,52 @@
+{
+  "treinamento": "JORNADA DE QUALIDADE III - ETIQUETAS_LC",
+  "id": 536,
+  "idChecklist": 338,
+  "perguntas": [
+    {
+      "pergunta": "5) Para que serve a etiqueta de Descongelamento?",
+      "opcoes": [
+        "Para identificar as carnes bovinas.",
+        "Para controlar o descongelamento dos perecíveis (carnes em geral e massas).",
+        "Para identificar o leite e seus derivados.",
+        "Nenhuma das anteriores"
+      ]
+    },
+    {
+      "pergunta": "4) Para que serve a etiqueta de amostra armazenada?",
+      "opcoes": [
+        "Para controlar o descarte das amostras.",
+        "Para aferir a temperatura das amostras.",
+        "Para controlar a quantidade de amostras.",
+        "Para identificar as amostras."
+      ]
+    },
+    {
+      "pergunta": "3) O que é um produto não conforme?",
+      "opcoes": [
+        "Produto não conforme é o hortifrúti em refrigeração.",
+        "Produto não conforme é a salada temperada.",
+        "É um produto para troca, produto avariado, produto vencido, produto deteriorado e demais produtos não indicado consumo e que precisam de troca do fornecedor.",
+        "Um arroz cozido."
+      ]
+    },
+    {
+      "pergunta": "2) A etiqueta de produto aberto/manipulado, deve ser utilizada em qual situação?",
+      "opcoes": [
+        "Para o queijo que está sem manipular na geladeira.",
+        "Em alimentos que estão semiprontos.",
+        "Para alimentos que foram abertos, porém, ainda estão com sua embalagem original e para produtos prontos para consumo como salada e sobremesa.",
+        "Todas as anteriores."
+      ]
+    },
+    {
+      "pergunta": "1) A etiqueta de rastreabilidade, deve ser utilizada para qual situação?",
+      "opcoes": [
+        "Para produtos que estão na geladeira congelado.",
+        "Para alimentos que foram abertos e que não estão na sua embalagem original.",
+        "Para qualquer produto fechado.",
+        "Nenhuma das anteriores."
+      ]
+    }
+  ]
+}
