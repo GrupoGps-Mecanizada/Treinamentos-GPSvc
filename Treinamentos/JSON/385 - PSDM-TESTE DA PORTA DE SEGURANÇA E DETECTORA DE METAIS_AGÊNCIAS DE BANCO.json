@@ -1,0 +1,52 @@
+{
+  "treinamento": "PSDM-TESTE DA PORTA DE SEGURANÇA E DETECTORA DE METAIS_AGÊNCIAS DE BANCO",
+  "id": 385,
+  "idChecklist": 278,
+  "perguntas": [
+    {
+      "pergunta": "5) Caso a PSDM apresente um mau funcionamento, como devemos proceder?",
+      "opcoes": [
+        "Comunicar a Policia Federal e órgãos de segurança.",
+        "Somente registrar no livro de ocorrência.",
+        "Não comunicar a Gerencia e a Liderança da empresa.",
+        "Comunicar o Gerente da agência, assim como o seu Líder imediato e registrar em livro de ocorrência."
+      ]
+    },
+    {
+      "pergunta": "4) Assinale a alternativa correta que descreve os pontos estratégicos para verificar se os sensores da PSDM estão em bom funcionamento:",
+      "opcoes": [
+        "Arma na linha de membros inferiores do lado direito e esquerdo.",
+        "Arma na linha de membros superiores do lado direito e esquerdo.",
+        "Arma na altura do peito.",
+        "Todas alternativas corretas."
+      ]
+    },
+    {
+      "pergunta": "3) Como devemos manusear o armamento no teste da PSDM?",
+      "opcoes": [
+        "Arma no coldre.",
+        "Arma municiada e aberta.",
+        "Arma desmuniciada e aberta.",
+        "Nenhuma alternativa."
+      ]
+    },
+    {
+      "pergunta": "2) Por que devemos fazer o Teste de PSDM?",
+      "opcoes": [
+        "Para nossa Segurança, dos Funcionários e Clientes.",
+        "Para quem passa pela frente a agência.",
+        "Somente para a nossa segurança.",
+        "Para a pessoa que está na ante sala da agência fique segura."
+      ]
+    },
+    {
+      "pergunta": "1) O que significa a sigla PSDM?",
+      "opcoes": [
+        "Porta de serviços e detectora  de materiais.",
+        "Porta de segurança detectores de mentiras.",
+        "Porta de Segurança detectora de Metais.",
+        "Porta de serviços destinada a entrada de metais."
+      ]
+    }
+  ]
+}
