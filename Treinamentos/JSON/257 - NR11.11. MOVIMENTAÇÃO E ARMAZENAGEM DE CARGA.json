@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR11.11. MOVIMENTAÇÃO E ARMAZENAGEM DE CARGA",
+  "id": 257,
+  "idChecklist": 169,
+  "perguntas": [
+    {
+      "pergunta": "5) Ao aproximar pedestres da carga ou equipamento, o que fazer?",
+      "opcoes": [
+        "Passe a carga por cima de pessoas e permita que as pessoas passem sob os garfos ou permaneçam nas proximidades.",
+        "Não passe a carga por cima de pessoas e não permita que as pessoas passem sob os garfos ou permaneçam nas proximidades.",
+        "Não passe a carga por cima de pessoas e permita que as pessoas passem sob os garfos ou permaneçam nas proximidades.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) Referente a estabilidade: Qual a regra para movimentar uma carga?",
+      "opcoes": [
+        "Não levante cargas instáveis, elas devem ser cuidadosamente arrumadas antes de levantar, ou bem fixadas, depois que estiverem no alto e em movimento, será tarde demais!",
+        "Não levante cargas instáveis, elas não precisam ser arrumadas antes de levantar.",
+        "A e B.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "3) Como deverá estar os garfos da empilhadeira e a carga antes de sua movimentação?",
+      "opcoes": [
+        "Os garfos não precisam ser bem posicionados, pois a carga já compacta com seu peso e não deixa ocorrer tombamentos.",
+        "Os garfos devem ser sempre bem colocados sob a carga. Ao andar, a parte de trás da carga deve estar firmemente localizada contra o guarda-carga e o mastro inclinado para trás.",
+        "Os garfos devem ser sempre bem colocados sob a carga, mas não há necessidade de que seja no comprimento total deles.",
+        "Os garfos devem ser sempre bem colocados sob a carga. Ao andar, a parte de trás da carga deve estar firmemente localizada contra o guarda-carga e o mastro inclinado para frente."
+      ]
+    },
+    {
+      "pergunta": "2) O que devo fazer ao observar um objeto no piso?",
+      "opcoes": [
+        "Não passe por cima de objetos deixados no chão. Desvie do obstáculo e siga o trabalho.",
+        "Não passe por cima de objetos deixados no chão. Pare a empilhadeira coloque os objetos fora da rota e avise o supervisor.",
+        "Passo por cima e aviso o líder para que ele remova o objeto do local.",
+        "Todas as alternativas."
+      ]
+    },
+    {
+      "pergunta": "1) A que distância do piso deverá estar os garfos da empilhadeira durante sua movimentação?",
+      "opcoes": [
+        "Quando uma empilhadeira está movimentando, os seus garfos devem estar a cerca de 10 a 15 cm do chão dependendo das condições do piso.",
+        "Quando uma empilhadeira está movimentando, os seus garfos devem estar a cerca de 15 a 30 cm do chão dependendo das condições do piso.",
+        "Quando uma empilhadeira está movimentando, os seus garfos devem estar a cerca de 100 cm do chão dependendo das condições do piso.",
+        "Quando uma empilhadeira está movimentando, os seus garfos devem estar totalmente apoiados no chão."
+      ]
+    }
+  ]
+}
