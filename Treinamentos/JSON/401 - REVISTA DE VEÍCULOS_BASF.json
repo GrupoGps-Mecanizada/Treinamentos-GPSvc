@@ -1,0 +1,52 @@
+{
+  "treinamento": "REVISTA DE VEÍCULOS_BASF",
+  "id": 401,
+  "idChecklist": 294,
+  "perguntas": [
+    {
+      "pergunta": "5) O Que Significa POP?",
+      "opcoes": [
+        "Procedimento de padronização dos postos.",
+        "Procedimento de ouvidoria padrão.",
+        "Procedimento operacional padrão.",
+        "Procedimento de revistas."
+      ]
+    },
+    {
+      "pergunta": "4) O Que Significa O PROV?",
+      "opcoes": [
+        "Procedimento de revista operacional de veículos.",
+        "Procedimento de resolução operacional de vistorias.",
+        "Procedimento de restrição operacional veicular.",
+        "Procedimento de Revista operacional dos visitantes."
+      ]
+    },
+    {
+      "pergunta": "3) Em caso de divergência durante o PROV, a quem Vigilante se reporta?",
+      "opcoes": [
+        "Chama o funcionário que estiver passando mais próximo.",
+        "Entra em contato com encarregado do condutor.",
+        "Solicita o apoio de seu líder imediato.",
+        "Libera o condutor sem autorização."
+      ]
+    },
+    {
+      "pergunta": "2) Para que serve o PROV?",
+      "opcoes": [
+        "Controlar os visitantes dos terminais.",
+        "Para facilitar a saída dos materiais indevidos sem conferência.",
+        "Utilizado para revista pessoal.",
+        "Utilizado para o controle de entrada e saída de materiais ou equipamentos."
+      ]
+    },
+    {
+      "pergunta": "1) Qual a postura do vigilante no momento da revista?",
+      "opcoes": [
+        "Abrir a porta do veículo.",
+        "Retirar os pertences de dentro do veículo.",
+        "Agir com cordialidade e educação solicitando abertura das portas.",
+        "O Vigilante planilha o condutor e libera sem vistoria."
+      ]
+    }
+  ]
+}
