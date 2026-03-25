@@ -1,0 +1,52 @@
+{
+  "treinamento": "COMO PRIORIZAR TAREFAS",
+  "id": 741,
+  "idChecklist": 521,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual é a técnica de gestão de tempo que é citada no treinamento?",
+      "opcoes": [
+        "Técnica Pomodoro, que ensina a focar em uma tarefa por determinado tempo e tirar 5 minutos de pausa.",
+        "Técnica Pomodoro, que ensina a focar por 5 minutos e tirar um tempo indeterminado de pausa.",
+        "Técnica de respiração, que ensina a se acalmar quando estamos muito agitados com as tarefas.",
+        "Técnica Pomodoro, que ensina a controlar nossa respiração para focar nas tarefas"
+      ]
+    },
+    {
+      "pergunta": "4) O que devemos fazer antes de aceitar novos projetos?",
+      "opcoes": [
+        "Antes de aceitar novos projetos só devemos informar o líder.",
+        "Antes de aceitar novos projetos devemos avaliar se sabemos fazer.",
+        "Antes de aceitar novos projetos devemos avaliar se ele nos ajudará a ganhar visibilidade.",
+        "Antes de aceitar novos projetos devemos avaliar se essa tarefa irá prejudicar nosso planejamento, resultando no atraso de nossas entregas."
+      ]
+    },
+    {
+      "pergunta": "3) Devemos priorizar as tarefas com base na urgência ou na importância?",
+      "opcoes": [
+        "Devemos priorizar as tarefas com base na urgência de entrega.",
+        "Devemos priorizar as tarefas com base na importância em relação aos seus objetivos.",
+        "Devemos priorizar as tarefas com base na importância em relação aos objetivos do colega.",
+        "Devemos priorizar as tarefas com base na urgência no colega."
+      ]
+    },
+    {
+      "pergunta": "2) Qual o primeiro passo no processo de priorização de tarefas?",
+      "opcoes": [
+        "O primeiro passo é excluir as tarefas que você não gosta.",
+        "O primeiro passo é listar toda sua agenda da semana.",
+        "O primeiro passo é listar todas as suas tarefas e identificar as mais importantes.",
+        "O primeiro passo é listar metade das suas tarefas e identificar as menos importantes."
+      ]
+    },
+    {
+      "pergunta": "1) Por que é importante sabermos priorizar nossas tarefas?",
+      "opcoes": [
+        "Para alcançarmos nossas metas e objetivos.",
+        "Para alcançarmos a desordem no nosso trabalho.",
+        "Para atrapalhar nossas metas e objetivos.",
+        "Apenas para alcançarmos uma promoção."
+      ]
+    }
+  ]
+}
