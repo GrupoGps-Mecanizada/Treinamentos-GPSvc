@@ -1,0 +1,52 @@
+{
+  "treinamento": "FISPQ ELÉTRICA_BRADESCO",
+  "id": 662,
+  "idChecklist": 448,
+  "perguntas": [
+    {
+      "pergunta": "5) Com base no treinamento, qual é o assunto tratado na seção 6 da FISPQ?",
+      "opcoes": [
+        "Medidas de controle para derramamento ou vazamento.",
+        "Composição e informação sobre os ingredientes.",
+        "Controle de exposição e Proteção Individual.",
+        "Identificação de perigos."
+      ]
+    },
+    {
+      "pergunta": "4)  No ambiente de trabalho, em um local com grande circulação de pessoas, foi encontrado um frasco de produto químico altamente tóxico.  Nesse caso, o que devemos fazer?",
+      "opcoes": [
+        "Fingir que não o viu.",
+        "Colocá-lo junto com alimentos.",
+        "Aguardar que alguém o pegue.",
+        "Com o equipamento de proteção adequado retirar o produto e armazená-lo em local adequado."
+      ]
+    },
+    {
+      "pergunta": "3) Qual o objetivo dos pictogramas na FISPQ?",
+      "opcoes": [
+        "Os pictogramas não indicam perigos associados à utilização de um produto químico ou mistura perigosa.",
+        "Os pictogramas indicam a composição associada à utilização de um produto químico ou mistura perigosa.",
+        "Os pictogramas indicam a natureza dos perigos associados à utilização de uma substância ou mistura perigosa.",
+        "Os pictogramas não enaltecem as recomendações de prudência na utilização de um produto químico."
+      ]
+    },
+    {
+      "pergunta": "2) O que é FISPQ?",
+      "opcoes": [
+        "É um documento do ministério do trabalho.",
+        "É a Ficha de Informações de Segurança de Produtos Químicos.",
+        "Não é um documento estabelecido pela norma ABNT 14725.",
+        "É um relatório que aborda as opiniões de alguns especialistas sobre os produtos químicos."
+      ]
+    },
+    {
+      "pergunta": "1) Em relação à FISPQ, é correto afirmar que:",
+      "opcoes": [
+        "Fornece informações sobre não proteção à segurança, à saúde e ao meio ambiente.",
+        "É um documento facultativo para a comercialização de produtos químicos.",
+        "Não fornece informações sobre a composição dos produtos químicos.",
+        "Fornece informações sobre proteção à segurança, à saúde e ao meio ambiente."
+      ]
+    }
+  ]
+}
