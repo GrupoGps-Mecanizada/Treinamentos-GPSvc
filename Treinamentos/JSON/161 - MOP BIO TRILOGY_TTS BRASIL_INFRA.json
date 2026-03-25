@@ -1,0 +1,52 @@
+{
+  "treinamento": "MOP BIO TRILOGY_TTS BRASIL_INFRA",
+  "id": 161,
+  "idChecklist": 87,
+  "perguntas": [
+    {
+      "pergunta": "5) O que ESTÁ ERRADO sobre o uso do Mop Bio Trilogy?",
+      "opcoes": [
+        "Ele é um equipamento versátil, pode ser usado para limpeza tanto seca quanto úmida do piso.",
+        "Contém um reservatório externo de 650ml para abastecimento com produto químico diluído.",
+        "A sua base é articulável, possibilitando que se use os dois lados (vermelho e azul) do refil sem precisar desacoplar da base para virar o refil, ele vira com um simples movimento.",
+        "O Mop Bio Trilogy só pode ser utilizado para limpeza seca do piso."
+      ]
+    },
+    {
+      "pergunta": "4) Qual a melhor maneira de utilizar o Mop Bio Trilogy?",
+      "opcoes": [
+        "Com o pano seco, aderido à base do Mop passe de cima para baixo.",
+        "Desgrude o lado azul do lado vermelho do refil para evitar que um molhe o outro caso esteja fazendo limpeza úmida do piso.",
+        "Levante o equipamento a uma certa altura do piso e acione o botão em movimentos de vai e vem.",
+        "Com reservatório abastecido, refil de 2 cores acoplado, posicione o lado vermelho para o piso, acione o botão para que o produto diluído seja aplicado no piso, realize movimentos em forma de 8."
+      ]
+    },
+    {
+      "pergunta": "3) Como deve ser feita a troca do refil do Mop Bio Trilogy?",
+      "opcoes": [
+        "Sempre tocando com a mão na região que não teve contato com a superfície limpa.",
+        "Não é possível trocar o refil, fazer a lavagem acoplado no próprio Bio.",
+        "Puxando levemente e retirando devagar, com cuidado.",
+        "Não há necessidade de abaixar-se, só pressionar as laterais com os pés para abertura, depois acionar os clipes com os pés para fechar."
+      ]
+    },
+    {
+      "pergunta": "2) Qual a importância da placa sinalizadora?",
+      "opcoes": [
+        "Evitar acidentes, pois sinaliza a área que o piso está úmido e escorregadio.",
+        "Não se faz necessário a utilização.",
+        "Para descarte de dejetos.",
+        "Para deixar o ambiente mais bonito."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o cuidado que devemos ter antes de realizar a limpeza úmida do piso?",
+      "opcoes": [
+        "Não é recomendável fazer limpeza úmida em piso algum.",
+        "Limpar uma vez por dia.",
+        "Colocar uma placa sinalizadora no começo e outra ao final da área a ser limpa.",
+        "Não apertar o botão de acionamento do Bio Trilogy."
+      ]
+    }
+  ]
+}
