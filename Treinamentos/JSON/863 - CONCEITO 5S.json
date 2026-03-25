@@ -1,0 +1,52 @@
+{
+  "treinamento": "CONCEITO 5S",
+  "id": 863,
+  "idChecklist": 634,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAIS SÃO OS NOMES ORIGINAIS DA METODOLOGIA 5S?",
+      "opcoes": [
+        "1. SEIRI; 2. SEILON; 3. SEISO; 4. SHITSU; 5. SEIKETSU.",
+        "1. SEIRI; 2. SEITON; 3. SEISO; 4. SEIKETSU; 5. SHITSUKE.",
+        "1. SEIRI; 2. SEITON; 3. SEISO; 4. SEIRON; 5. SHITSUKE.",
+        "1. SEIRI; 2. SEITON; 3. SEISO; 4. SHITSUKE; 5. SEIKETSU."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE REPRESENTA O TERCEIRO CONCEITO DA METODOLOGIA 5S?",
+      "opcoes": [
+        "REPRESENTA A PADRONIZAÇÃO.",
+        "REPRESENTA O BOM SENSO.",
+        "REPRESENTA O SENSO DE ORGANIZAÇÃO.",
+        "REPRESENTA O SENSO DE LIMPEZA."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL EXEMPLO REPRESENTA O SENSO DE UTILIZAÇÃO.",
+      "opcoes": [
+        "CRIAR PLANILHAS E ETIQUETAR OS MATERIAIS.",
+        "DEIXAR NA MESA APENAS O QUE É NECESSÁRIO NO DIA A DIA.",
+        "MANTER A MESA LIMPA.",
+        "ARRUMAR SUA ÁREA DE TRABALHO NO COMPUTADOR."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL É O PRIMEIRO SENSO DO CONCEITO 5S?",
+      "opcoes": [
+        "SEITON - SENSO DE ORGANIZAÇÃO",
+        "SEISO - SENSO DE LIMPEZA",
+        "SEIRI - SENSO DE UTILIZAÇÃO",
+        "SEIKETSU - SENSO DE PADRONIZAÇÃO."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE É 5S?",
+      "opcoes": [
+        "É UMA METODOLOGIA DE GESTÃO QUE VISA MELHORAR A ORGANIZAÇÃO, LIMPEZA E EFICIÊNCIA NO LOCAL DE TRABALHO.",
+        "É UMA METODOLOGIA DE GESTÃO QUE VISA MELHORAR A DESORGANIZAÇÃO, LIMPEZA E EFICIÊNCIA NO LOCAL DE TRABALHO.",
+        "É UMA METODOLOGIA DE GESTÃO QUE VISA MELHORAR APENAS A EFICIÊNCIA NO LOCAL DE TRABALHO.",
+        "NENHUMA DAS ALTERNATIVAS ACIMA."
+      ]
+    }
+  ]
+}
