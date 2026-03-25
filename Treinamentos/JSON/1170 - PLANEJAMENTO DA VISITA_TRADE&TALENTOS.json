@@ -1,0 +1,52 @@
+{
+  "treinamento": "PLANEJAMENTO DA VISITA_TRADE&TALENTOS",
+  "id": 1170,
+  "idChecklist": 938,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAIS SÃO A ETAPAS PARA LIMPAR AS GÔNDOLAS?",
+      "opcoes": [
+        "RETIRE OS PRODUTOS, LIMPE A GÔNDOLA E LIMPE OS PRODUTOS.",
+        "APENAS PASSE O PANO POR CIMA DOS PRODUTOS SEM RETIRAR DA GÔNDOLA.",
+        "NÃO EXISTE ETAPAS, POIS, NÃO É NECESSÁRIO LIMPAR AS GÔNDOLAS.",
+        "LIMPE A GÔNDOLA, LIMPE OS PRODUTOS E RETIRE OS PRODUTOS."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE DEVE SER FEITO PRIMEIRO QUANDO FOR ABASTECER?",
+      "opcoes": [
+        "LIMPAR AS GÔNDOLAS.",
+        "FAZER A FIFO.",
+        "REALIZAR PONTO EXTRA.",
+        "VERIFICAR A DISPONIBILIDADE DOS PRODUTOS NA ÁREA DE VENDA, E DEPOIS BUSCAR O QUE FALTA NO ESTOQUE."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE SIGNIFICA FIFO EM PORTUGUÊS?",
+      "opcoes": [
+        "PRIMEIRO A CHEGAR, PRIMEIRO A SAIR.",
+        "PRIMEIRO A VENCER, PRIMEIRO A FICAR.",
+        "PRIMEIRO A ENTRAR, PRIMEIRO A SAIR.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL É O PASSO QUE DEFINE SEU INÍCIO E O TÉRMINO NA LOJA?",
+      "opcoes": [
+        "CUMPRIMENTAR O ENCARREGADO NA ENTRADA E SE DESPEDIR NO FINAL.",
+        "FAZER O CHECK-IN E CHECK-OUT.",
+        "EXECUTAR UMA GÔNDOLA E TIRAR FOTO DO ANTES E DEPOIS.",
+        "O ENCARREGADO QUE INFORMA O INÍCIO E O TÉRMINO"
+      ]
+    },
+    {
+      "pergunta": "1) O QUE É PLANOGRAMA?",
+      "opcoes": [
+        "É UMA PARTE DO ESTOQUE.",
+        "É UM PONTO EXTRA DIFERENCIADO NO PDV.",
+        "É O DOCUMENTO QUE ORIENTA O POSICIONAMENTO DE UM PRODUTO.",
+        "É UM PLANO DE AÇÃO DO PDV."
+      ]
+    }
+  ]
+}
