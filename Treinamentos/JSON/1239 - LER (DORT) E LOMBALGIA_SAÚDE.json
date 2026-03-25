@@ -1,0 +1,52 @@
+{
+  "treinamento": "LER (DORT) E LOMBALGIA_SAÚDE",
+  "id": 1239,
+  "idChecklist": 1005,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAIS SÃO AS ARTICULAÇÕES MAIS AFETADAS PELA LER OU DORT?",
+      "opcoes": [
+        "OMBRO, COTOVELO E PUNHO.",
+        "PESCOÇO, PUNHO E TORNOZELO.",
+        "OMBRO, QUADRIL E PUNHO.",
+        "OMBRO, JOELHO E PUNHO."
+      ]
+    },
+    {
+      "pergunta": "4) PARA EVITAR QUE UM COLABORADOR SEJA ACOMETIDO POR DORT, É NECESSÁRIO QUE O LOCAL ESTEJA:",
+      "opcoes": [
+        "SEGURO, CONFORTÁVEL, E OS COLABORADORES NÃO PRECISAM DE MAIS NADA.",
+        "INSEGURO E CONFORTÁVEL, OS COLABORADORES ORIENTADOS EM RELAÇÃO A POSTURA",
+        "SEGURO, DESCONFORTÁVEL E OS COLABORADORES DEVEM SER BEM ORIENTADOS EM RELAÇÃO À POSTURA.",
+        "SEGURO, CONFORTÁVEL E OS COLABORADORES DEVEM SER BEM ORIENTADOS EM RELAÇÃO À POSTURA."
+      ]
+    },
+    {
+      "pergunta": "3) QUAIS OS SINTOMAS DA LOMBALGIA?",
+      "opcoes": [
+        "FEBRE.",
+        "DORES NAS COSTAS QUE PODEM IRRADIAR PARA AS PERNAS.",
+        "DOR DE CABEÇA.",
+        "TONTURAS."
+      ]
+    },
+    {
+      "pergunta": "2) ONDE GERALMENTE OCORRE A LER?",
+      "opcoes": [
+        "NO TRABALHO.",
+        "NA ESCOLA.",
+        "NA HORA DO LAZER.",
+        "EM CASA."
+      ]
+    },
+    {
+      "pergunta": "1)  SEGUNDO O MINISTÉRIO DA SAÚDE, QUAIS SÃO OS DISTÚRBIOS QUE MAIS CAUSAM AFASTAMENTO DO TRABALHO?",
+      "opcoes": [
+        "DIARREIA, ENXAQUECA E GRIPE.",
+        "INSÔNIA, DOR DE CABEÇA E CORIZA.",
+        "FEBRE, INDISPOSIÇÃO E TOSSE.",
+        "LOMBALGIA E LER/DORT."
+      ]
+    }
+  ]
+}
