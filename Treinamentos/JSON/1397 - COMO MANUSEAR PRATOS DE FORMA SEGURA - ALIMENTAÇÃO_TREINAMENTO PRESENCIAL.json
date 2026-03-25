@@ -1,0 +1,52 @@
+{
+  "treinamento": "COMO MANUSEAR PRATOS DE FORMA SEGURA - ALIMENTAÇÃO_TREINAMENTO PRESENCIAL",
+  "id": 1397,
+  "idChecklist": 1153,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE DEVEMOS FAZER AO SECAR OS PRATOS?",
+      "opcoes": [
+        "EMPILHAR MUITOS DE UMA VEZ.",
+        "JOGAR NA PIA APÓS SECAR.",
+        "USAR UMA PRATELEIRA/SUPORTE PARA EVITAR QUE ESCORREGUEM.",
+        "SECAR COM UM PANO QUALQUER."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE DEVEMOS FAZER AO RECOLHER PRATOS QUEBRADOS?",
+      "opcoes": [
+        "RECOLHER COM AS MÃOS.",
+        "PEGAR OS PEDAÇOS COM UM PANO.",
+        "DEIXAR PARA OUTRA PESSOA RECOLHER.",
+        "USAR UMA VASSOURA E UMA PÁ."
+      ]
+    },
+    {
+      "pergunta": "3) COMO DEVEMOS SEGURAR OS PRATOS PARA EVITAR ACIDENTES?",
+      "opcoes": [
+        "COM MUITA FORÇA, APERTANDO O CENTRO.",
+        "SEGURANDO PELA BORDA, COM CUIDADO.",
+        "COM UMA MÃO SÓ.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "2) POR QUE NÃO DEVEMOS EMPILHAR MUITOS PRATOS AO MESMO TEMPO?",
+      "opcoes": [
+        "PORQUE ELES PODEM GRUDAR UNS NOS OUTROS.",
+        "PORQUE ELES PODEM CAIR E GERAR MUITO TRABALHO PARA LIMPAR.",
+        "PORQUE ELES PODEM CAIR E CAUSAR ACIDENTES.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE DEVEMOS FAZER ANTES DE USAR UM PRATO?",
+      "opcoes": [
+        "VERIFICAR SE ELE ESTÁ EM BOAS CONDIÇÕES.",
+        "COLOCAR LOGO NA PIA.",
+        "SEGURAR COM UMA MÃO SÓ.",
+        "VERIFICAR SE ELE ESTÁ LIMPO."
+      ]
+    }
+  ]
+}
