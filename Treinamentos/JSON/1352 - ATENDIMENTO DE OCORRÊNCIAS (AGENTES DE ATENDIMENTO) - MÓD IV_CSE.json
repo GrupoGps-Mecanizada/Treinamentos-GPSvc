@@ -1,0 +1,52 @@
+{
+  "treinamento": "ATENDIMENTO DE OCORRÊNCIAS (AGENTES DE ATENDIMENTO) - MÓD IV_CSE",
+  "id": 1352,
+  "idChecklist": 1110,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL ATITUDE AJUDA A FACILITAR O SOCORRO EM EMERGÊNCIAS?",
+      "opcoes": [
+        "PEDIR SILÊNCIO À VÍTIMA.",
+        "DEIXAR A VÍTIMA SOZINHA.",
+        "NÃO CONVERSAR COM A VÍTIMA.",
+        "MANTER A VÍTIMA CONSCIENTE."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE SE DEVE INFORMAR AO LIGAR PARA UMA EMERGÊNCIA?",
+      "opcoes": [
+        "O ENDEREÇO APENAS.",
+        "TIPO DE ACIDENTE E CONDIÇÕES DA VÍTIMA.",
+        "SOMENTE A IDENTIDADE DA VÍTIMA.",
+        "O TIPO DE VEÍCULO USADO."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É O NÚMERO DE TELEFONE DO SAMU EM EMERGÊNCIAS?",
+      "opcoes": [
+        "192.",
+        "193.",
+        "190.",
+        "191."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE DEVE SER EVITADO PARA GARANTIR A SEGURANÇA NO TRÂNSITO?",
+      "opcoes": [
+        "USAR O CINTO DE SEGURANÇA.",
+        "DIRIGIR EM LINHA RETA.",
+        "UTILIZAR O CELULAR ENQUANTO DIRIGE.",
+        "VERIFICAR OS ESPELHOS RETROVISORES."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É UMA PRÁTICA FUNDAMENTAL PARA A DIREÇÃO DEFENSIVA?",
+      "opcoes": [
+        "USAR O CELULAR ENQUANTO DIRIGE.",
+        "EVITAR QUALQUER TIPO DE DISTRAÇÃO AO DIRIGIR.",
+        "CONDUZIR EM ALTA VELOCIDADE.",
+        "BEBER ANTES DE DIRIGIR."
+      ]
+    }
+  ]
+}
