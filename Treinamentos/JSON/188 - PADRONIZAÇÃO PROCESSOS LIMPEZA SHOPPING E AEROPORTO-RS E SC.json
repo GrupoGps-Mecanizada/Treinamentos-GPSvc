@@ -1,0 +1,52 @@
+{
+  "treinamento": "PADRONIZAÇÃO PROCESSOS LIMPEZA SHOPPING E AEROPORTO-RS E SC",
+  "id": 188,
+  "idChecklist": 108,
+  "perguntas": [
+    {
+      "pergunta": "5) Para o recolhimento de lixos das lixeiras no mall/saguão, banheiros e praça de alimentação. Deve-se utilizar:",
+      "opcoes": [
+        "Luva de látex amarela.",
+        "Luva de procedimento ou ranhurada.",
+        "Luva de látex verde.",
+        "Luva de látex azul."
+      ]
+    },
+    {
+      "pergunta": "4) Limpeza dos ambientes do mall/saguão deve-se utilizar:",
+      "opcoes": [
+        "KIT de luvas e panos amarelos.",
+        "KIT de luvas e panos azuis.",
+        "KIT de luvas e panos verdes.",
+        "KIT de luvas e panos amarelos e verdes."
+      ]
+    },
+    {
+      "pergunta": "3) Limpeza em locais com menor contaminação nos banheiros (tetos, paredes, dispenseres, espelhos, torneiras, pias, maçanetas e portas) deve-se utilizar:",
+      "opcoes": [
+        "KIT de luvas e panos amarelos.",
+        "KIT de luvas e panos azuis.",
+        "KIT de luvas e panos verdes.",
+        "KIT de luvas e panos verdes e azuis."
+      ]
+    },
+    {
+      "pergunta": "2) Limpeza em locais com maior contaminação nos banheiros (mictórios, sanitários, lixeiras e piso) deve-se utilizar:",
+      "opcoes": [
+        "KIT de luvas e panos amarelos.",
+        "KIT de luvas e panos azuis.",
+        "KIT de luvas e panos verdes.",
+        "KIT de luvas e panos verdes e azuis."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o objetivo de utilizar corretamente os EPI's e materiais?",
+      "opcoes": [
+        "Os EPI's não são importantes, mas facilitam o processo para a conclusão de forma rápida.",
+        "Ajuda na diminuição de riscos e danos aumentando a possibilidade de contaminação.",
+        "Padronizar os processos diminuindo os riscos de acidentes e contaminações no ambiente de trabalho.",
+        "Todas as alternativas."
+      ]
+    }
+  ]
+}
