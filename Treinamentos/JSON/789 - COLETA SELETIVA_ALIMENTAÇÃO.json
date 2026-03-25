@@ -1,0 +1,52 @@
+{
+  "treinamento": "COLETA SELETIVA_ALIMENTAÇÃO",
+  "id": 789,
+  "idChecklist": 568,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL BENEFÍCIO TEMOS COM A RECICLAGEM?",
+      "opcoes": [
+        "AUMENTA O LIXO NOS ATERROS.",
+        "AUMENTA AS DESPESAS COM TAXAÇÃO DO LIXO.",
+        "REDUZ O VOLUME DO ATERRO SANITÁRIO, MELHORA O MEIO AMBIENTE E GERA EMPREGOS.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE DEVO COLOCAR NO LIXO DE COR MARROM?",
+      "opcoes": [
+        "PAPEL.",
+        "VIDRO.",
+        "RESTOS DE COMIDA.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE DEVO COLOCAR NO LIXO DE COR VERMELHO?",
+      "opcoes": [
+        "PLÁSTICO.",
+        "PAPEL.",
+        "VIDRO.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE DEVO COLOCAR NO LIXO DE COR AZUL?",
+      "opcoes": [
+        "PLÁSTICO.",
+        "PAPEL.",
+        "VIDRO.",
+        "ORGÂNICO."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE É COLETA SELETIVA?",
+      "opcoes": [
+        "CONSISTE NA SEPARAÇÃO DOS RESÍDUOS ORGÂNICOS E INORGÂNICOS QUE TEM DESTINOS DIFERENTES",
+        "MISTURAR TODOS OS RESÍDUOS.",
+        "SEPARA PAPEL E PLÁSTICO.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    }
+  ]
+}
