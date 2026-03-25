@@ -1,0 +1,52 @@
+{
+  "treinamento": "POSTURA E ÉTICA_FRAPORT POA",
+  "id": 549,
+  "idChecklist": 351,
+  "perguntas": [
+    {
+      "pergunta": "5) Como posso ajudar meu colega?",
+      "opcoes": [
+        "Atrapalhando.",
+        "Reclamando.",
+        "Sendo proativo e tendo iniciativa, cooperando nas atividades diárias da equipe.",
+        "Mexendo no celular."
+      ]
+    },
+    {
+      "pergunta": "4) O que deve ser feito caso encontre alguma celebridade?",
+      "opcoes": [
+        "Tirar fotos e postar nas redes sociais.",
+        "Manter a postura e profissionalismo e não tirar fotos ou pedir autógrafos.",
+        "Pedir autógrafo.",
+        "Tirar fotos."
+      ]
+    },
+    {
+      "pergunta": "3) O deve ser feito quando encontrado algum objeto no terminal ou demais áreas?",
+      "opcoes": [
+        "Fingir que não viu.",
+        "Não movimentar o material e não acionar a segurança.",
+        "Abrir o material para ver o que tem dentro.",
+        "Não movimentar o material e acionar a segurança, permanecendo no local até a chegada dos mesmos."
+      ]
+    },
+    {
+      "pergunta": "2) O que deve ser feito quando não se sabe a informação correta a ser passada para passageiros?",
+      "opcoes": [
+        "Orientar que vá até o balcão de informações da Fraport.",
+        "Passar a informação errada.",
+        "Virar as costas e não responder.",
+        "Sair perguntando até que alguém lhe passe a informação correta."
+      ]
+    },
+    {
+      "pergunta": "1) Devo me apresentar para o trabalho usando:",
+      "opcoes": [
+        "omente o sapato de segurança.",
+        "Uniforme completo.",
+        "Somente com a camisa.",
+        "Sem uniforme."
+      ]
+    }
+  ]
+}
