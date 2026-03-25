@@ -1,0 +1,52 @@
+{
+  "treinamento": "MANUAL DA RESPONSA MOD I_BURGER KING",
+  "id": 658,
+  "idChecklist": 444,
+  "perguntas": [
+    {
+      "pergunta": "5) O preconceito e discriminação verbal é muito frequente nos restaurantes. Assinale a alternativa INCORRETA sobre o que fazer nesses casos:",
+      "opcoes": [
+        "Atenda todos os consumidores de forma educada e atenciosa.",
+        "Não duvide da ocorrência relatada.",
+        "Tire fotos e poste nos grupos de WhatsApp do restaurante para seu líder ter conhecimento do acontecido.",
+        "Acione a polícia em casos mais violentos."
+      ]
+    },
+    {
+      "pergunta": "4) As ocorrências dentro dos estacionamentos dos restaurantes devem ser lidadas com controle e calma, qual a melhor orientação a ser feita em possíveis situações de colisões de veículos?",
+      "opcoes": [
+        "Repasse as informações do caso ao seu líder, para que ele solicite o orçamento de ambos os carros.",
+        "Se houver violências, se afaste e veja a situação do veículo.",
+        "Ouça os dois lados, entenda o que aconteceu e instrua a chegarem em um acordo entre si.",
+        "Anote no livro de ocorrências as informações e acione a polícia."
+      ]
+    },
+    {
+      "pergunta": "3) Em situações de entrada de pessoas de rua em vulnerabilidade social, vendendo algum tipo de produto ou alimento, assinale a alternativa com a orientação ideal de como se deve conduzir:",
+      "opcoes": [
+        "Solicite a entrega dos produtos e guarde no estoque para entregar a seu superior.",
+        "Peça que saia do restaurante, caso não atenda ao seu pedido, o instrua a ficar em uma parte do restaurante discreta.",
+        "Chame a polícia imediatamente.",
+        "Solicite a saída, de forma firme, respeitosa e sem nenhum tipo de contato físico."
+      ]
+    },
+    {
+      "pergunta": "2) Durante seu dia a dia, em casos de agressão física, qual a melhor maneira de conduzir a situação?",
+      "opcoes": [
+        "Intervenha entrando no meio dos Clientes envolvidos, segurando o braço um do outro.",
+        "Aparte a briga e peça que todos os envolvidos se afastem da situação.",
+        "Se a situação se agravar, deixe-os até que amenize ou se acalmem sozinhos e chame o SAMU.",
+        "Peça ajuda aos familiares ou amigos para conversar e separar a briga."
+      ]
+    },
+    {
+      "pergunta": "1) Qual a missão e propósito BK?",
+      "opcoes": [
+        "A prioridade é transmitir junto com isso a mais prazerosa experiência de alimentação.",
+        "Transmitir conforto aos Clientes.",
+        "O foco é a experiência de alimentação e melhores localizações dos restaurantes.",
+        "A prioridade é a experiência social, alimentícia e conforto aos nossos Clientes."
+      ]
+    }
+  ]
+}
