@@ -1,0 +1,52 @@
+{
+  "treinamento": "HIGIENE HOSPITALAR_ALBERT EINSTEIN",
+  "id": 948,
+  "idChecklist": 725,
+  "perguntas": [
+    {
+      "pergunta": "5) DEVIDO AO CAMPO MAGNÉTICO, O COLABORADOR QUE TIVER ACESSO À SALA DE RESSONÂNCIA MAGNÉTICA, NÃO PODERÁ ENTRAR COM:",
+      "opcoes": [
+        "PRODUTO QUÍMICO.",
+        "PLÁSTICO.",
+        "QUALQUER OBJETO METÁLICO.",
+        "UTILIZANDO EPI."
+      ]
+    },
+    {
+      "pergunta": "4) A CLASSIFICAÇÃO DOS RESÍDUOS CONSIDERA OS RISCOS POTENCIAIS PARA O MEIO AMBIENTE E A SAÚDE PÚBLICA QUE OS RESÍDUOS PODEM CAUSAR. A CLASSIFICAÇÃO É DÍVIDA EM QUANTOS GRUPOS?",
+      "opcoes": [
+        "EM 2 GRUPOS: A, B.",
+        "EM 3 GRUPOS: A, B, C.",
+        "EM 4 GRUPOS: A, B, C, D.",
+        "EM 5 GRUPOS: A, B, C, D, E."
+      ]
+    },
+    {
+      "pergunta": "3) PODEMOS CLASSIFICAR CADA ÁREA DE CRITICIDADE DO HOSPITAL EM:",
+      "opcoes": [
+        "ÁREA NÃO CRÍTICA.",
+        "ÁREA SEMICRÍTICA.",
+        "ÁREA CRÍTICA.",
+        "TODAS AS ALTERNATIVAS ESTÃO CORRETAS."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE CAUSA INFECÇÃO HOSPITALAR?",
+      "opcoes": [
+        "DETRITOS.",
+        "ACÚMULO DE PÓ.",
+        "MICRORGANISMOS.",
+        "USO DE EPI."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE É LIMPEZA?",
+      "opcoes": [
+        "RETIRADA DE PÓ.",
+        "RETIRADA DE SUJIDADES DAS MOBÍLIAS.",
+        "RETIRADA DE RESÍDUOS DOS LOCAIS.",
+        "REMOÇÃO DE SUJIDADE VISÍVEL, CONSERVAÇÃO DO AMBIENTE E PROMOÇÃO DE CONFORTO AMBIENTAL."
+      ]
+    }
+  ]
+}
