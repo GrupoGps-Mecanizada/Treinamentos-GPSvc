@@ -1,0 +1,52 @@
+{
+  "treinamento": "INTEGRAÇÃO BÁSICA DE SEGURANÇA_ZAFFARI",
+  "id": 341,
+  "idChecklist": 240,
+  "perguntas": [
+    {
+      "pergunta": "5) O uso do smarphone reduz a atenção e a capacidade de percepção do agente. Por esse motivo:",
+      "opcoes": [
+        "O uso é permitido, mas o aparelho deve permanecer no bolso.",
+        "O uso é proibido, então devemos manusear escondido das câmeras.",
+        "O uso é proibido, e o aparelho deve ficar no armário.",
+        "O uso é permitido apenas para ligações."
+      ]
+    },
+    {
+      "pergunta": "4) Qual profissional deve guarnecer as áreas de ALTO RISCO?",
+      "opcoes": [
+        "Apenas ASP.",
+        "Apenas vigilantes.",
+        "Apenas vigias.",
+        "Todas as alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "3) O que consideramos áreas de RISCO ALTO?",
+      "opcoes": [
+        "Joalherias, lotéricas e estacionamento.",
+        "Esteiras rolantes, escadas e agências bancárias.",
+        "Casas de câmbio, pórticos de entrada e joalherias.",
+        "Joalherias, lotéricas e casas de câmbio."
+      ]
+    },
+    {
+      "pergunta": "2) Para comunicar uma ocorrência ou atitude suspeita, devemos utilizar o canal de comunicação adequado e repassar as informações do seguinte modo:",
+      "opcoes": [
+        "Falar o mais rápido possível para não perder tempo.",
+        "Falar de forma pausada e clara, informando primeiramente o local da ocorrência.",
+        "Falar de forma pausada e clara, informando primeiramente as características do suspeito.",
+        "Não é necessário comunicar, apenas manter observação e aguardar."
+      ]
+    },
+    {
+      "pergunta": "1) O que significa a sigla “OCA”?",
+      "opcoes": [
+        "Observar, combater e agir.",
+        "Observar, comunicar e agir.",
+        "Observar, comunicar e aguardar.",
+        "Observar, combater e agir."
+      ]
+    }
+  ]
+}
