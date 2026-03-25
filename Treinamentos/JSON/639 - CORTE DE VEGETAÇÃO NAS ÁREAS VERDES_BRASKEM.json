@@ -1,0 +1,52 @@
+{
+  "treinamento": "CORTE DE VEGETAÇÃO NAS ÁREAS VERDES_BRASKEM",
+  "id": 639,
+  "idChecklist": 425,
+  "perguntas": [
+    {
+      "pergunta": "5) O vídeo fala sobre qual assunto?",
+      "opcoes": [
+        "Roçadeira.",
+        "Atividade em áreas industriais.",
+        "Como realizar uma poda.",
+        "Corte de vegetação nas áreas verdes com uso de equipamentos a combustão."
+      ]
+    },
+    {
+      "pergunta": "4) O que devemos fazer quando estiver acontecendo uma atividade a qual não estamos fazendo parte?",
+      "opcoes": [
+        "Andar dentro da parte isolada.",
+        "Correr no entorno da área isolada da atividade.",
+        "Caminhar com atenção, respeitando o isolamento.",
+        "Ficar parado observando a atividade."
+      ]
+    },
+    {
+      "pergunta": "3) Quando podemos iniciar a atividade?",
+      "opcoes": [
+        "Assim que chegar ao local.",
+        "Assim que o carro de apoio chegar.",
+        "Assim que a tela de proteção for instalada.",
+        "Após liberação dos documentos (AST, Checklist, FISPQ)."
+      ]
+    },
+    {
+      "pergunta": "2) Quem pode manusear o equipamento de roçadeira?",
+      "opcoes": [
+        "Operador de roçadeira.",
+        "Operador de máquinas.",
+        "Operador de empilhadeira.",
+        "Qualquer pessoa."
+      ]
+    },
+    {
+      "pergunta": "1) Qual EPI devemos usar para realizar a atividade?",
+      "opcoes": [
+        "Toca árabe, luvas e protetor facial.",
+        "Calçado de segurança.",
+        "Protetor auricular.",
+        "Todas as opções acima."
+      ]
+    }
+  ]
+}
