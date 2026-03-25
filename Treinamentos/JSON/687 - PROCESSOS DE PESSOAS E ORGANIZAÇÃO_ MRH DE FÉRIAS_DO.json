@@ -1,0 +1,52 @@
+{
+  "treinamento": "PROCESSOS DE PESSOAS E ORGANIZAÇÃO: MRH DE FÉRIAS_DO",
+  "id": 687,
+  "idChecklist": 473,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais problemas podem ser gerados por um processo inadequado de gestão de férias dos Colaboradores?",
+      "opcoes": [
+        "Conflitos e insatisfação entre os funcionários e problemas financeiros para a empresa.",
+        "Ações trabalhistas e problemas financeiros para a empresa.",
+        "Insatisfação entre os funcionários e ações trabalhistas.",
+        "Conflitos entre os funcionários e problemas legais para a empresa."
+      ]
+    },
+    {
+      "pergunta": "4) Quando uma MRH de Férias deve ser cancelada?",
+      "opcoes": [
+        "Somente com autorização do Líder de P&O Corporativo, em casos de afastamento por acidente de trabalho ou dispensa.",
+        "Sempre que o Colaborador desistir de tirar férias.",
+        "Quando o Colaborador se ausentar do trabalho sem justificativa.",
+        "Quando o período de antecedência para abertura da MRH não for respeitado."
+      ]
+    },
+    {
+      "pergunta": "3) Quais informações devem ser preenchidas ao realizar o lançamento da programação de férias na aba de Férias Programação?",
+      "opcoes": [
+        "Quantidade de dias a serem lançados de férias e a data de início.",
+        "Nome do Colaborador e o valor do período aquisitivo.",
+        "Data de início e fim das férias.",
+        "Nome do Colaborador e a quantidade de dias de abono."
+      ]
+    },
+    {
+      "pergunta": "2) Qual a finalidade da aba de Férias Encerradas no sistema de gestão de férias?",
+      "opcoes": [
+        "Visualizar todas as MRHs que já foram realizadas a abertura e estão pendentes de processamento.",
+        "Realizar o lançamento da programação de férias para os Colaboradores.",
+        "Buscar histórico de algum processo de férias que já foi encerrado.",
+        "Visualizar todas as MRHs de férias que foram canceladas antes do processo do Departamento Pessoal ser iniciado."
+      ]
+    },
+    {
+      "pergunta": "1) Qual é o período mínimo de antecedência para abertura da MRH de Férias?",
+      "opcoes": [
+        "10 dias.",
+        "20 dias.",
+        "30 dias.",
+        "40 dias."
+      ]
+    }
+  ]
+}
