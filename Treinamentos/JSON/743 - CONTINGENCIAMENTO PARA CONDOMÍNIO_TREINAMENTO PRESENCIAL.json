@@ -1,0 +1,52 @@
+{
+  "treinamento": "CONTINGENCIAMENTO PARA CONDOMÍNIO_TREINAMENTO PRESENCIAL",
+  "id": 743,
+  "idChecklist": 523,
+  "perguntas": [
+    {
+      "pergunta": "5) O que fazer em caso de usuários e prestadores de serviço suspeitos de furtos?",
+      "opcoes": [
+        "Agredir o furtante.",
+        "Efetuar um disparo no furtante.",
+        "Prender o furtante.",
+        "Orientar que o suspeito está conduzindo um material irregular e que este busque autorização devida ou infelizmente o material ficará retido na portaria."
+      ]
+    },
+    {
+      "pergunta": "4) O que fazer em caso de tentativa de lesão corporal por parte de um morador ou usuário?",
+      "opcoes": [
+        "Apenas agredir verbalmente.",
+        "Retirar o armamento do coldre.",
+        "Brigar com o morador ou usuário.",
+        "Afastar-se, procurar se proteger e em último caso, exercer a legítima defesa com proporcionalidade e moderação."
+      ]
+    },
+    {
+      "pergunta": "3) Em caso de curto-circuito em alguma instalação elétrica ou equipamentos, o que fazer?",
+      "opcoes": [
+        "Jogar água.",
+        "Tentar abafar a conflagração.",
+        "Desligar a alimentação de energia e usar o extintor CO2.",
+        "Usar o extintor de H2O."
+      ]
+    },
+    {
+      "pergunta": "2)  O que você deve fazer em caso de transposição irregular do perímetro?",
+      "opcoes": [
+        "Devo fazer o contato verbal com o invasor, procurando pacificamente conduzi-lo para a parte externa do empreendimento. Em caso de resistência, entrar em contato com 190.",
+        "Devo prendê-lo em alguma área fechada.",
+        "Devo efetuar um disparo para o alto.",
+        "Devo usar a força não letal para neutralizá-lo."
+      ]
+    },
+    {
+      "pergunta": "1) O que devo fazer em caso de consumo de bebidas alcoólicas por menores?",
+      "opcoes": [
+        "Tomar a força as garrafas de bebidas.",
+        "Colocar os menores de castigo.",
+        "Identificá-los e imediatamente entrar em contato com pais e responsáveis.",
+        "Deixar que os menores continuem consumindo."
+      ]
+    }
+  ]
+}
