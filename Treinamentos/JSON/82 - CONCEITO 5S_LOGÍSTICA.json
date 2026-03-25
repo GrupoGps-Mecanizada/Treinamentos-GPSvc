@@ -1,0 +1,52 @@
+{
+  "treinamento": "CONCEITO 5S_LOGÍSTICA",
+  "id": 82,
+  "idChecklist": 55,
+  "perguntas": [
+    {
+      "pergunta": "5) Quem é responsável pela implementação do 5ºS – Shitsuke (Senso de Autodisciplina)?",
+      "opcoes": [
+        "A área de Qualidade, pois é o setor responsável por criar os procedimentos.",
+        "Cada colaborador precisa ter a consciência do seu papel e se esforçar para que as ações tomadas para organizar e deixar o ambiente de trabalho mais agradável sejam realizadas.",
+        "A Diretoria é responsável por implementar o Senso de Autodisciplina pois é quem pode dar ordens para toda a equipe.",
+        "A implementação do Senso de Autodisciplina deve ser feito pelo cliente, já que é o dono do local onde são executadas as tarefas."
+      ]
+    },
+    {
+      "pergunta": "4) Qual a necessidade de implementar o 4ºS – Seiketsu (Senso de Padronização)?",
+      "opcoes": [
+        "Criar uma forma de punir quem não executa o procedimento.",
+        "A padronização é necessária para a manutenção das ações implementadas, tornando os efeitos duradouros.",
+        "Não é necessário implementar o 4ºS, pois cada um executa as atividades conforme acha correto.",
+        "Padronizar o processo de limpeza da área apenas."
+      ]
+    },
+    {
+      "pergunta": "3) Qual o conceito do 3ºS – Seiso (Senso de Limpeza)?",
+      "opcoes": [
+        "Varrer todo o ambiente de trabalho apenas no final do turno.",
+        "Chamar a equipe de limpeza toda vez que identificar alguma sujeira no ambiente de trabalho.",
+        "Limpar o ambiente de trabalho quando acumular muita sujeira.",
+        "Identificar e procurar reduzir as fontes de sujeira, evitando sujar o ambiente, mas caso aconteça limpar de imediato."
+      ]
+    },
+    {
+      "pergunta": "2) O que deve ser feito ao implementar o 2ºS – Seiton (Senso de Ordenação) no meu ambiente de trabalho?",
+      "opcoes": [
+        "Colocar tudo o que eu preciso para executar minhas atividades dentro de uma caixa e carregar onde eu for.",
+        "Organizar e identificar todos os objetos e ferramentas que são úteis, deixando aqueles que eu uso com mais frequência próximos de mim, e aqueles usados com menos frequência em locais de fácil acesso.",
+        "Organizar todos os objetos e ferramentas em ordem alfabética.",
+        "Organizar todos os objetos e ferramentas em ordem de cor."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o objetivo principal do 1ºS – Seiri (Senso de Utilização)?",
+      "opcoes": [
+        "Identificar o que é útil e o que não é útil no ambiente de trabalho.",
+        "Descartar todos os objetos que estejam visíveis no posto de trabalho.",
+        "Acumular no ambiente de trabalho tudo aquilo que possa ser utilizado alguma vez.",
+        "Utilizar todas as ferramentas e equipamentos que estivem disponíveis, mesmo que não seja necessário para a atividade desenvolvida."
+      ]
+    }
+  ]
+}
