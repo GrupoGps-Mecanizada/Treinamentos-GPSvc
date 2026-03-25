@@ -1,0 +1,52 @@
+{
+  "treinamento": "INFORMAÇÕES QUE AMPARAM_SUICÍDIO_SEGURANÇA",
+  "id": 66,
+  "idChecklist": 40,
+  "perguntas": [
+    {
+      "pergunta": "5) Baseado no treinamento, qual a alternativa está INCORRETA?",
+      "opcoes": [
+        "Diversos fatores podem influenciar negativamente em nossa saúde mental de nos levar a desenvolver diferentes transtornos, como o suicídio.",
+        "Identificar fatores de risco, ouvir efetivamente a pessoa, respeitar e não julgar, são fundamentais minimizarmos esse grave problema de saúde pública mundial.",
+        "Suicídio não é tão grave e é muito difícil de acontecer, eu acho que é bobagem.",
+        "Importante lembrar que nem todos os suicídios são cometidos por indivíduos com essas características, mas elas representam um fator de risco."
+      ]
+    },
+    {
+      "pergunta": "4) Onde posso buscar ajuda?",
+      "opcoes": [
+        "Serviço de saúde como o CAPS, emergência médica ligando para 192, Centro de Valorização da Vida ligando 188, bombeiros ligando 193, além da liderança da GPS.",
+        "Na vizinhança.",
+        "No grupo de bate papo.",
+        "Não precisa buscar ajuda."
+      ]
+    },
+    {
+      "pergunta": "3) Encontrando uma vítima de suicídio o que NÃO devemos fazer?",
+      "opcoes": [
+        "Dar sermão a vítima, julgar, ser agressivo ou ríspido, usar nome depreciativos, prometer e seduzir.",
+        "Ouvir a vítima.",
+        "Oferecer apoio.",
+        "Mostrar consideração pela dor ou relato da pessoa."
+      ]
+    },
+    {
+      "pergunta": "2) Cite três sinais de vítimas de suicídio?",
+      "opcoes": [
+        "Alegria, publicação em rede social com a família e isolamento social.",
+        "Falta de esperança, expressão de ideias suicidas e histórico doenças emocionais na família.",
+        "Isolamento social, frases motivacionais diárias e expressões que incitam ódio.",
+        "Diminuição de autocuidado, frases motivacionais diárias e expressões que incitam ódio."
+      ]
+    },
+    {
+      "pergunta": "1) Quais são os fatores de risco para o suicídio?",
+      "opcoes": [
+        "Transtornos mentais, uso de psicóticos e álcool, esquizofrenia, questões sócio demográficas e as questões psicossociais.",
+        "Não existe fatores de riscos para o suicídio.",
+        "Pessoas que praticam atividades físicas regularmente com boa alimentação e socialmente saudável.",
+        "Mulheres acima de 40 anos com relacionamento saudável sem uso de remédios controlados."
+      ]
+    }
+  ]
+}
