@@ -1,0 +1,52 @@
+{
+  "treinamento": "PREVENÇÃO CÂNCER DE PRÓSTATA_LC",
+  "id": 1028,
+  "idChecklist": 802,
+  "perguntas": [
+    {
+      "pergunta": "5) ALÉM DO CÂNCER DE PRÓSTATA, QUAL É A OUTRA DOENÇA QUE MAIS AFETA OS HOMENS?",
+      "opcoes": [
+        "ALCOOLISMO.",
+        "CÂNCER DE PELE.",
+        "DEPRESSÃO.",
+        "ANEMIA."
+      ]
+    },
+    {
+      "pergunta": "4) QUAIS SINTOMAS PODEM SER CAUSADOS PELO CÂNCER DE PRÓSTATA?",
+      "opcoes": [
+        "DOR DE CABEÇA.",
+        "MANCHAS PELO CORPO.",
+        "SANGUE NA URINA OU NO SÊMEN.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "3) COMO PODE SER DIAGNOSTICADO O CÂNCER DE PRÓSTATA?",
+      "opcoes": [
+        "ULTRASSOM.",
+        "RADIOGRAFIA E ULTRASSOM.",
+        "PSA E EXAME DE TOQUE.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "2) ASSINALE ABAIXO AS CAUSAS DO CÂNCER DE PRÓSTATA:",
+      "opcoes": [
+        "ÁLCOOL E TABAGISMO.",
+        "FATORES GENÉTICOS, EXCESSO DE GORDURA CORPORAL E O AVANÇO DA IDADE.",
+        "PRODUTOS QUÍMICOS.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE É CÂNCER DE PRÓSTATA?",
+      "opcoes": [
+        "É O TUMOR QUE AFETA A PRÓSTATA, GLÂNDULA LOCALIZADA ABAIXO DA BEXIGA E QUE ENVOLVE A URETRA.",
+        "É O TIPO DE CÂNCER MAIS COMUM ENTRE HOMENS ATÉ 45 ANOS.",
+        "É UM CONJUNTO DE ENFERMIDADES.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    }
+  ]
+}
