@@ -1,0 +1,52 @@
+{
+  "treinamento": "INSPEÇÃO E USO DE ESMERILHADEIRA_CALDERARIA",
+  "id": 646,
+  "idChecklist": 432,
+  "perguntas": [
+    {
+      "pergunta": "5) Por que a capa protetora conhecida como “coifa” é importante para o equipamento?",
+      "opcoes": [
+        "Porque a função da Coifa é evitar que partículas provenientes do corte ou lixamento sejam projetadas contra operador do equipamento, também evita que o disco seja lançado contra o operador.",
+        "A coifa não é importante para o equipamento.",
+        "A coifa só serve para que as partículas provenientes do corte ou lixamento não sejam projetadas contra operador do equipamento.",
+        "Posso remover do equipamento, pois não tem finalidade."
+      ]
+    },
+    {
+      "pergunta": "4) Ao sair para intervalo ou pausa nas atividades, o que deve ser feito com a esmerilhadeira?",
+      "opcoes": [
+        "Não as deixar com o disco ainda em movimento, a mesma tem que estar totalmente parada e no intervalo das refeições deixar a mesma desligada, com o cabo enrolado e com o disco voltado para cima.",
+        "Não há necessidade nenhum cuidado com o mesmo.",
+        "O meu colega pode ficar observando o equipamento durante o intervalo ou pausa.",
+        "É somente uma pausa rápida, o disco pode ficar em movimento, pois já irei voltar."
+      ]
+    },
+    {
+      "pergunta": "3) Quando encontrar qualquer anormalidade no equipamento, qual atitude devo tomar?",
+      "opcoes": [
+        "Retire o mesmo de operação e comunique imediatamente a sua liderança para que a mesma possa tomar as tratativas necessárias. Assim você estará exercendo um trabalho com segurança e qualidade.",
+        "Deixe-o em operação e comunique imediatamente a sua liderança. Assim você estará exercendo um trabalho com segurança e qualidade.",
+        "Somente comunique a liderança, a mesma sabe o que realizar. Você continua utilizando o equipamento, assim você estará exercendo um trabalho com segurança e qualidade.",
+        "Qualquer anormalidade não impede que eu realize o meu trabalho."
+      ]
+    },
+    {
+      "pergunta": "2) Quais os EPIs obrigatórios para utilização de esmerilhadeira?",
+      "opcoes": [
+        "Luva de couro, protetor facial, óculos de ampla visão, avental de couro, protetor auricular, calçado de segurança, respirador PFF2.",
+        "Luva de couro, protetor facial, óculos contra impacto, avental de couro, protetor auricular, calçado de segurança.",
+        "Luva de couro, protetor facial, óculos contra impacto, avental de couro, protetor auricular, calçado de segurança, respirador PFF2.",
+        "Luva de Nitrílica, protetor facial, óculos de ampla visão, avental de couro, protetor auricular, calçado de segurança, respirador PFF2."
+      ]
+    },
+    {
+      "pergunta": "1) Antes de iniciar a atividade, o que devo realizar para garantir a integridade do equipamento?",
+      "opcoes": [
+        "Devo realizar o checklist do equipamento, verificando todas as condições do mesmo e se não apresentar nenhum risco para minha atividade, posso realizá-la normalmente.",
+        "Devo realizar o checklist somente para cumprir tabela.",
+        "Não há necessidade de garantir a integridade do equipamento, pois o mesmo sempre está em boas condições.",
+        "Devo realizar o checklist apenas porque meu líder cobra."
+      ]
+    }
+  ]
+}
