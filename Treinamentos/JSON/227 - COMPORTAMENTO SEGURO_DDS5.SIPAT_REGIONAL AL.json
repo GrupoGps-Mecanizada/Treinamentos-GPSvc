@@ -1,0 +1,52 @@
+{
+  "treinamento": "COMPORTAMENTO SEGURO_DDS5.SIPAT_REGIONAL AL",
+  "id": 227,
+  "idChecklist": 139,
+  "perguntas": [
+    {
+      "pergunta": "5) Agora que nós já sabemos o que é comportamento seguro, podemos dizer que segurança é?",
+      "opcoes": [
+        "É um comportamento, é uma escolha, é uma questão de atitude!",
+        "É o sistema que ajuda no aumento do número de acidentes de uma organização.",
+        "São ações desenvolvidas com o objetivo do crescimento econômico da empresa apenas.",
+        "É um sistema desenvolvido para que as empresas consigam entregar seus produtos de forma mais rápida."
+      ]
+    },
+    {
+      "pergunta": "4) Quando temos a consciência dos riscos e as formas de controlá-los, conseguimos desenvolver comportamento mais seguro. Quais benefícios temos agindo com segurança?",
+      "opcoes": [
+        "Diminuição de acidentes.",
+        "Aumento de acidentes.",
+        "Mais afastamento por acidentes do trabalho.",
+        "Mais pessoas desmotivadas."
+      ]
+    },
+    {
+      "pergunta": "3) Conforme o vídeo, qual a forma de desenvolver mais comportamentos seguros no nosso dia a dia de trabalho?",
+      "opcoes": [
+        "Através do desenvolvimento profissional.",
+        "Através do número de acidentes de trabalho.",
+        "Através do desconhecimento dos riscos.",
+        "Através do conhecimento dos riscos da sua atividade."
+      ]
+    },
+    {
+      "pergunta": "2) De acordo com o que foi visto do vídeo e no conteúdo teórico, quantos por cento (%) dos acidentes podem ser evitados com comportamento seguro por parte do trabalhador?",
+      "opcoes": [
+        "25%",
+        "90%",
+        "100%",
+        "50%"
+      ]
+    },
+    {
+      "pergunta": "1) Qual foi o tema proposto no vídeo desse treinamento da SIPAT?",
+      "opcoes": [
+        "Ele fala sobre o uso correto dos nossos EPI's.",
+        "Ele fala sobre a forma correto de avalição dos riscos.",
+        "Ele fala sobre Comportamento Seguro.",
+        "Ele fala sobre saúde mental."
+      ]
+    }
+  ]
+}
