@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR10.1.4.LEIS E EFEITOS ELÉTRICOS",
+  "id": 281,
+  "idChecklist": 193,
+  "perguntas": [
+    {
+      "pergunta": "5) O efeito joule é proporcional ao quadrado de qual parâmetro elétrico?",
+      "opcoes": [
+        "Corrente elétrica.",
+        "Tensão elétrica.",
+        "Resistência elétrica.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) Como é definida a eletrólise da água?",
+      "opcoes": [
+        "Resfriar circuitos elétricos com água.",
+        "Decomposição da água em oxigênio e hidrogênio por passagem de corrente elétrica.",
+        "Corrosão de metais em contato com a água.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "3) Qual o nome do efeito que causa o fogo de Santelmo?",
+      "opcoes": [
+        "Efeito Doppler.",
+        "Efeito Corona.",
+        "Efeito Joule.",
+        "Efeito pelicular."
+      ]
+    },
+    {
+      "pergunta": "2) Qual efeito é caracterizado pela repulsão entre linhas de corrente eletromagnética, criando a tendência de fluir na superfície do condutor elétrico?",
+      "opcoes": [
+        "Efeito Doppler.",
+        "Efeito Corona.",
+        "Efeito Joule.",
+        "Efeito pelicular."
+      ]
+    },
+    {
+      "pergunta": "1) Qual a lei física que expressa a relação entre o calor gerado e a corrente elétrica que percorre um condutor em determinado tempo?",
+      "opcoes": [
+        "Efeito Doppler.",
+        "Efeito Corona.",
+        "Efeito Joule.",
+        "Efeito pelicular."
+      ]
+    }
+  ]
+}
