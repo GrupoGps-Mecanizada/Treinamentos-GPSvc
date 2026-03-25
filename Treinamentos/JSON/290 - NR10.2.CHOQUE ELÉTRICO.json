@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR10.2.CHOQUE ELÉTRICO",
+  "id": 290,
+  "idChecklist": 203,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual o nome da diferença de potencial que ocorre entre duas pernas de uma pessoa, no instante em que esteja passando pelo solo uma corrente elétrica intensa?",
+      "opcoes": [
+        "Tensão de toque.",
+        "Tensão de passo.",
+        "Tensão de choque.",
+        "Nenhumas das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "4) Como é chamado o deslocamento de órgãos e músculos internos de sua devida posição?",
+      "opcoes": [
+        "Diástole.",
+        "Eletrólise.",
+        "Prolapso.",
+        "Nenhumas das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Qual a faixa de frequência da corrente elétrica que oferece maior risco de fibrilação ventricular quando ocorre o choque elétrico?",
+      "opcoes": [
+        "98 Hz até 108 Hz.",
+        "1000 Hz até 2000 Hz.",
+        "20 Hz até 100 Hz.",
+        "Nenhumas das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "2) Qual a mais importante característica do choque elétrico para determinação das consequências/danos ao corpo humano?",
+      "opcoes": [
+        "Intensidade da corrente elétrica.",
+        "Valor da tensão elétrica.",
+        "Resistência elétrica do corpo humano.",
+        "Nenhumas das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "1) Quando ocorre o choque elétrico?",
+      "opcoes": [
+        "O corpo humano faz contato com algo energizado.",
+        "Há passagem de corrente elétrica pelo corpo humano.",
+        "O corpo humano faz contato com condutores elétricos.",
+        "Nenhumas das alternativas anteriores."
+      ]
+    }
+  ]
+}
