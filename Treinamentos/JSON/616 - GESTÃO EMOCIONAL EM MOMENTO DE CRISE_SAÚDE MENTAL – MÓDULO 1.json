@@ -1,0 +1,52 @@
+{
+  "treinamento": "GESTÃO EMOCIONAL EM MOMENTO DE CRISE_SAÚDE MENTAL – MÓDULO 1",
+  "id": 616,
+  "idChecklist": 402,
+  "perguntas": [
+    {
+      "pergunta": "5) O que é saúde mental?",
+      "opcoes": [
+        "É o bem-estar do nosso cérebro, fazendo com que nosso pensamento funcione bem.",
+        "É o bem-estar que nosso físico, mostrando o quanto ele consegue lidar com os desafios.",
+        "É o bem-estar em que a pessoa consegue lidar com as situações críticas, desde um processo rotineiro, até situações de maiores complexidades.",
+        "É o bem-estar que a pessoa consegue lidar com desafios físicos."
+      ]
+    },
+    {
+      "pergunta": "4) Qual a chave principal para conseguirmos passar pelos momentos de crise?",
+      "opcoes": [
+        "Nossa saúde mental.",
+        "Nossa saúde corporal.",
+        "Nossa saúde sentimental.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Para realizar a gestão de crise, o que precisamos desenvolver primeiro?",
+      "opcoes": [
+        "Desenvolver equilíbrio da nossa rotina e nos autoconhecermos.",
+        "Desenvolver a inteligência emocional e nos autoconhecermos.",
+        "Desenvolver a inteligência emocional e a autoestima.",
+        "Desenvolver nossa capacidade de autocrítica."
+      ]
+    },
+    {
+      "pergunta": "2) Como realizar a gestão de crise?",
+      "opcoes": [
+        "Colocando nossa autoestima em ação.",
+        "Colocando nosso autocontrole em ação e regulando nosso sono.",
+        "Colocando nosso autocontrole em ação e regulando nossas emoções.",
+        "Colocando nossa autoconfiança em ação."
+      ]
+    },
+    {
+      "pergunta": "1) O que é crise?",
+      "opcoes": [
+        "É qualquer situação que acontece de forma esperada que nos desestabiliza.",
+        "É qualquer situação que acontece de forma inesperada que nos estabiliza, acompanhada de muita emoção.",
+        "É qualquer situação que acontece de forma inesperada que nos desestabiliza, acompanhada na grande maioria das vezes por muita emoção.",
+        "É apenas uma situação extrema que nos desestabiliza."
+      ]
+    }
+  ]
+}
