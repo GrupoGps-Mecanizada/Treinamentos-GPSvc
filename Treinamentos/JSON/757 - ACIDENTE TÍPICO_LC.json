@@ -1,0 +1,52 @@
+{
+  "treinamento": "ACIDENTE TÍPICO_LC",
+  "id": 757,
+  "idChecklist": 541,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL ALTERNATIVA SE CLASSIFICA COMO UMA DICA DE PREVENÇÃO DE ACIDENTES DE TÍPICO? \n\n\n\n  ",
+      "opcoes": [
+        "NÃO OLHAR ONDE ESTÁ PISANDO.",
+        "USAR O CELULAR NA COZINHA.",
+        "FICAR SEM OS AVENTAIS APROPRIADOS.",
+        "SEMPRE QUE NECESSÁRIO SOLICITE A TROCA DO SEU EPI, JAMAIS TRABALHE SEM."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL ALTERNATIVA NÃO SE CLASSIFICA COMO UMA DICA DE PREVENÇÃO DE ACIDENTES TÍPICO?  \n\n ",
+      "opcoes": [
+        "USAR TODOS OS EPI’S.",
+        "TER O MÁXIMO DE CUIDADO AO USAR A FACA.",
+        "NÃO USAR OS EPI’S.",
+        "TER O MÁXIMO DE CUIDADO AO USAR OS FORNOS."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE O ACIDENTE TÍPICO PODE CAUSAR? \n\n",
+      "opcoes": [
+        "TODAS AS ALTERNATIVAS .",
+        "CORTES PROFUNDOS.",
+        "GRAVES QUEIMADURAS.",
+        "AMPUTAÇÃO."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE DEVE SER FAZER CASO OCORRA O ACIDENTE DE TÍPICO? \n\n",
+      "opcoes": [
+        "LIGAR PARA OS MEUS AMIGOS CONTANDO O QUE ACONTECEU.",
+        "POSTAR NAS REDES SOCIAIS.",
+        "COMUNICAR O MEU GESTOR IMEDIATAMENTE.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE CLASSIFICA UM ACIDENTE COMO TÍPICO? \n\n\n\n ",
+      "opcoes": [
+        "QUANDO ESTOU A CAMINHO DE UMA FESTA E TORÇO O PÉ.",
+        "QUANDO ESTOU LIMPANDO MINHA CASA E SOFRO UM ACIDENTE. ",
+        "QUANDO ESTOU INDO AO DENTISTA E CAIO NA RUA.",
+        "QUANDO ESTOU TRABALHANDO E ME ACIDENTO."
+      ]
+    }
+  ]
+}
