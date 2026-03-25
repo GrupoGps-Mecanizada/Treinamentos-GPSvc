@@ -1,0 +1,52 @@
+{
+  "treinamento": "VERIFICAÇÃO DE CREDENCIAL PERMANENTE_GPSAIR",
+  "id": 1703,
+  "idChecklist": 1398,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL É O OBJETIVO DA VERIFICAÇÃO DA CREDENCIAL PERMANENTE?",
+      "opcoes": [
+        "ASSEGURAR ACESSO CORRETO ÀS ÁREAS RESTRITAS DE SEGURANÇA.",
+        "GARANTIR QUE O COLABORADOR ESTEJA UNIFORMIZADO.",
+        "CONTROLAR O HORÁRIO DE ENTRADA E SAÍDA.",
+        "CONFERIR SE O COLABORADOR ESTÁ COM CRACHÁ PROVISÓRIO"
+      ]
+    },
+    {
+      "pergunta": "4) QUAL ÓRGÃO UTILIZA A CREDENCIAL INSPAC?",
+      "opcoes": [
+        "INFRAERO.",
+        "POLÍCIA FEDERAL.",
+        "RECEITA FEDERAL.",
+        "ANAC (AGÊNCIA NACIONAL DE AVIAÇÃO CIVIL)."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É A FUNÇÃO DO CÓDIGO DE ACESSO NA CREDENCIAL?",
+      "opcoes": [
+        "IDENTIFICAR O AEROPORTO.",
+        "VALIDAR A FOTO DO FUNCIONÁRIO.",
+        "DEFINIR O NÍVEL DE ACESSO DO PORTADOR.",
+        "INFORMAR A EMPRESA CONTRATANTE."
+      ]
+    },
+    {
+      "pergunta": "2) EM CASO DE DÚVIDA SOBRE A CREDENCIAL, O QUE O AGENTE DEVE FAZER?",
+      "opcoes": [
+        "NEGAR ACESSO IMEDIATAMENTE.",
+        "PERMITIR ACESSO E REGISTRAR OCORRÊNCIA.",
+        "SOLICITAR DOCUMENTO OFICIAL COM FOTO.",
+        "IGNORAR E SEGUIR COM A LIBERAÇÃO."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O PRIMEIRO ITEM A SER VERIFICADO NA CREDENCIAL?",
+      "opcoes": [
+        "FOTO.",
+        "CÓDIGO DO AERÓDROMO.",
+        "NOME DO FUNCIONÁRIO.",
+        "VALIDADE."
+      ]
+    }
+  ]
+}
