@@ -1,0 +1,52 @@
+{
+  "treinamento": "RESPONSABILIDADE CIVIL E CRIMINAL DO ACIDENTE DO TRABALHO – MÓDULO 1",
+  "id": 613,
+  "idChecklist": 399,
+  "perguntas": [
+    {
+      "pergunta": "5) O que é doença ocupacional?",
+      "opcoes": [
+        "É quando o Colaborador entrega um atestado.",
+        "A doença ocupacional, se desenvolve através do incidente de trabalho.",
+        "A doença ocupacional, se desenvolve através da exposição do Colaborador à um determinado risco.",
+        "É quando o Colaborador vai trabalhar gripado, e acaba transmitindo a gripe para os colegas."
+      ]
+    },
+    {
+      "pergunta": "4) O que é acidente de trabalho?",
+      "opcoes": [
+        "Acidente de trabalho é quando há uma ocorrência incerta e feita, que gera uma lesão.",
+        "Acidente de trabalho é quando o Colaborador cai, mas não se machuca.",
+        "Acidente de trabalho é quando há uma doença na empresa.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) O que é um incidente de trabalho?",
+      "opcoes": [
+        "Incidente de trabalho é quando alguém se machuca.",
+        "Incidente de trabalho é quando uma máquina quebra.",
+        "Incidente de trabalho é quando há uma ocorrência incerta, uma situação potencializada que poderia gerar um acidente, mas que não gera uma lesão.",
+        "Incidente de trabalho é quando um Colaborador leva uma advertência."
+      ]
+    },
+    {
+      "pergunta": "2) O que significa a sigla PGR?",
+      "opcoes": [
+        "Programa de Gerenciamento de Risco.",
+        "Programa de Gerenciamento de Ruído.",
+        "Programa de Gerenciamento de Rodas.",
+        "Programa de Gerenciamento de Rampas."
+      ]
+    },
+    {
+      "pergunta": "1) O que é Segurança do Trabalho?",
+      "opcoes": [
+        "É o setor de segurança da empresa.",
+        "É uma ciência, uma arte, onde colocamos todas as nossas ações de saúde e segurança em prol da identificação de riscos.",
+        "É uma ciência que cuida da segurança virtual da empresa.",
+        "É a arte de assegurar os Colaboradores."
+      ]
+    }
+  ]
+}
