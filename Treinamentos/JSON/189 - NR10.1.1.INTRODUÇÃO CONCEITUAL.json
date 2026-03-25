@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR10.1.1.INTRODUÇÃO CONCEITUAL",
+  "id": 189,
+  "idChecklist": 109,
+  "perguntas": [
+    {
+      "pergunta": "5) Campo de força provocado pela ação de cargas elétricas, (elétrons, prótons ou íons) ou por um sistema delas:",
+      "opcoes": [
+        "Campo elétrico.",
+        "Campo magnético.",
+        "Campo eletromagnético.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) Linhas de força magnética com origem em materiais magnetizados (imãs), sejam eles naturais ou artificiais, também são geradas ao redor de correntes elétricas. Sua unidade de medida é Tesla (T):",
+      "opcoes": [
+        "Campo elétrico.",
+        "Campo magnético.",
+        "Campo eletromagnético.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "3) O átomo é composto de:",
+      "opcoes": [
+        "Prótons e elétrons.",
+        "Prótons.",
+        "Elétrons.",
+        "Prótons, elétrons e nêutrons."
+      ]
+    },
+    {
+      "pergunta": "2) Definição de energia:",
+      "opcoes": [
+        "Uma substância.",
+        "Capacidade que um corpo tem de realizar um determinado trabalho.",
+        "Matéria.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "1) Matéria formada pela combinação de dois ou mais elementos:",
+      "opcoes": [
+        "Matéria simples.",
+        "Matéria composta.",
+        "Matéria combinada.",
+        "Matéria duplada."
+      ]
+    }
+  ]
+}
