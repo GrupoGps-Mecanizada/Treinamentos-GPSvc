@@ -1,0 +1,52 @@
+{
+  "treinamento": "PDL 11_COMUNICAÇÃO ASSERTIVA",
+  "id": 344,
+  "idChecklist": 243,
+  "perguntas": [
+    {
+      "pergunta": "5) Com base no treinamento, comunicação não verbal significa que:",
+      "opcoes": [
+        "Nosso corpo fala e pode transmitir informações e mensagens.",
+        "Nosso corpo não tem relação com o que verbalizamos.",
+        "Transmitimos informações através de mímica.",
+        "Nosso corpo fala o que o coração quer ouvir."
+      ]
+    },
+    {
+      "pergunta": "4) Podemos dizer que Rapport é uma técnica de comunicação, que significa:",
+      "opcoes": [
+        "Criar soluções de serviços terceirizados.",
+        "Criar expectativas no cliente.",
+        "Criar vínculo empregatício.",
+        "Criar uma relação, uma ligação ou uma sintonia com a outra pessoa."
+      ]
+    },
+    {
+      "pergunta": "3) De acordo com o treinamento, são práticas importantes no processo de comunicação assertiva:",
+      "opcoes": [
+        "Certificar-se que a outra pessoa está acompanhando seu raciocínio e que está feliz.",
+        "Escutar podcasts e certificar-se que a outra pessoa está acompanhando seu raciocínio.",
+        "Ser um bom ouvinte e ter uma boa dicção.",
+        "Ser um bom ouvinte e certificar-se que a outra pessoa está acompanhando seu raciocínio."
+      ]
+    },
+    {
+      "pergunta": "2) No treinamento, vimos que no processo de comunicação cada pessoa pode entender:",
+      "opcoes": [
+        "De uma forma diferente ou de acordo com seu jeito ou subjetividade.",
+        "De uma forma diferente ou de acordo com seu humor.",
+        "Subjetivamente, de acordo com seus objetivos profissionais.",
+        "De uma forma diferente ou de acordo com a sua escolaridade."
+      ]
+    },
+    {
+      "pergunta": "1) Com base no treinamento, comunicação é:",
+      "opcoes": [
+        "A ação de transmitir uma mensagem e eventualmente ser mal entendido.",
+        "A ação de transmitir uma mensagem e eventualmente não ser ouvido.",
+        "A ação de transmitir uma mensagem e eventualmente receber outra mensagem como resposta.",
+        "A ação de transmitir uma mensagem e eventualmente receber um “não”."
+      ]
+    }
+  ]
+}
