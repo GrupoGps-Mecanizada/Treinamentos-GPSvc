@@ -1,0 +1,52 @@
+{
+  "treinamento": "APRESENTAÇÃO PESSOAL - TRADE&TALENTOS_TREINAMENTO PRESENCIAL",
+  "id": 1148,
+  "idChecklist": 921,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAIS PEÇAS COMPÕEM O UNIFORME FEMININO PARA EVENTOS?",
+      "opcoes": [
+        "DOLMA, LENÇO E CALÇA JEANS.",
+        "VESTIDO, SAPATO BRANCO OU PRETO E USO OPCIONAL DE LENÇO E BROCHE.",
+        "CAMISA, DOLMA, BROCHE E CHAPÉU.",
+        "VESTIDO, BROCHE, CHAPÉU E SAPATO PRETO."
+      ]
+    },
+    {
+      "pergunta": "4) DE ACORDO COM O QUE VIU NO TREINAMENTO, QUAIS ELEMENTOS COMPÕEM A APRESENTAÇÃO PESSOAL?",
+      "opcoes": [
+        "APARÊNCIA.",
+        "COMUNICAÇÃO.",
+        "COMPORTAMENTO.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "3) QUAIS PEÇAS COMPÕEM O UNIFORME UTILIZADO NO DIA A DIA?",
+      "opcoes": [
+        "VESTIDO, LENÇO E BROCHE.",
+        "CALÇA JEANS, SAPATO DE SALTO ALTO E CAMISA SOCIAL.",
+        "DOLMA OU CAMISA, CALÇA PRETA E SAPATO BRANCO OU PRETO.",
+        "DOLMA, CALÇA JEANS E SAPATOS DE SALTO ALTO."
+      ]
+    },
+    {
+      "pergunta": "2) A COMUNICAÇÃO FAZ PARTE DA APRESENTAÇÃO PESSOAL, SABENDO DISSO, O QUE FAZ A COMUNICAÇÃO SER EFICIENTE?",
+      "opcoes": [
+        "FALAR COM CLAREZA E OBJETIVIDADE.",
+        "FALAR EM OUTRO IDIOMA.",
+        "SE COMUNICAR POR MÍMICA.",
+        "APENAS OUVIR O CLIENTE."
+      ]
+    },
+    {
+      "pergunta": "1) DE ACORDO COM O TREINAMENTO, O QUE É APRESENTAÇÃO PESSOAL?",
+      "opcoes": [
+        "É UMA APRESENTAÇÃO REALIZADA EM TEATRO.",
+        "É UMA APRESENTAÇÃO FEITA POR UM GRUPO DE DANÇA.",
+        "É A FORMA COMO VOCÊ SE APRESENTA PARA OUTRAS PESSOAS.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    }
+  ]
+}
