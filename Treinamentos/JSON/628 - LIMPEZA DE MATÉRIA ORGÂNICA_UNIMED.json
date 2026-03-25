@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA DE MATÉRIA ORGÂNICA_UNIMED",
+  "id": 628,
+  "idChecklist": 414,
+  "perguntas": [
+    {
+      "pergunta": "5) Para manusear e realizar a limpeza de matéria orgânica deveremos utilizar qual EPI?",
+      "opcoes": [
+        "Luva cirúrgica.",
+        "Luva de borracha amarela.",
+        "Luva de borracha verde.",
+        "Luva de borracha azul."
+      ]
+    },
+    {
+      "pergunta": "4) Após realizar a limpeza de matéria orgânica completa, com fluídos líquidos, o material deverá:",
+      "opcoes": [
+        "Ser descartado em container apropriado, dentro de um saco branco para lixo infectante.",
+        "Ser descartado em qualquer container, dentro de dois sacos brancos para lixo infectante.",
+        "Ser descartado em container apropriado, dentro de dois sacos brancos para lixo infectante.",
+        "Ser descartado em container apropriado, dentro de dois sacos azuis."
+      ]
+    },
+    {
+      "pergunta": "3) Qual a sequência correta para a limpeza de matéria orgânica em superfícies?",
+      "opcoes": [
+        "Limpar, remover e desinfectar.",
+        "Desinfectar, remover e limpar.",
+        "Remover, desinfectar e limpar.",
+        "Remover, limpar e desinfectar."
+      ]
+    },
+    {
+      "pergunta": "2) São exemplos de matéria orgânica:",
+      "opcoes": [
+        "Café, escarro e sangue.",
+        "Urina, sangue e vômito.",
+        "Escarro, vômito e refrigerante.",
+        "Sangue, vômito e restos de comida."
+      ]
+    },
+    {
+      "pergunta": "1) Qual a definição de matéria orgânica em serviços de saúde?",
+      "opcoes": [
+        "Substâncias que não contém fluídos corporais.",
+        "Líquidos oleosos.",
+        "Substâncias que contém fluídos corporais.",
+        "Todas as alternativas estão corretas."
+      ]
+    }
+  ]
+}
