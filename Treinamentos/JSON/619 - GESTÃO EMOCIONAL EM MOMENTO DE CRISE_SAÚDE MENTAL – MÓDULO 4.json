@@ -1,0 +1,52 @@
+{
+  "treinamento": "GESTÃO EMOCIONAL EM MOMENTO DE CRISE_SAÚDE MENTAL – MÓDULO 4",
+  "id": 619,
+  "idChecklist": 405,
+  "perguntas": [
+    {
+      "pergunta": "5) A combinação do autoconhecimento com a autorresponsabilidade, nos leva a ter qual resultado?",
+      "opcoes": [
+        "Nos leva a realizar o autocuidado, onde teremos mais cuidado em como iremos reagir à determinadas situações.",
+        "Nos leva a realizar a autorregulação do sono, dormindo melhor ficaremos menos estressados com as situações de crise.",
+        "Nos leva a realizar a autorregulação das emoções, onde sabemos por sinais do nosso corpo e dos pensamentos como reagimos à determinadas situações.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "4) Depois de trabalharmos nosso autoconhecimento, qual é o outro ponto de melhoria a ser trabalhado?",
+      "opcoes": [
+        "É importante trabalharmos nossa autorresponsabilidade, para refletirmos posteriormente se poderíamos ter feito algo de uma forma diferente diante daquela situação que passamos.",
+        "É importante trabalharmos nossa autocrítica, para refletirmos nos nossos erros diante daquela situação.",
+        "É importante trabalharmos nossa autoestima, para não nos sentirmos mal depois de uma situação de crise.",
+        "É importante trabalharmos nossa autoaprendizagem, para que possamos aprender a lidar melhor com as situações que passamos."
+      ]
+    },
+    {
+      "pergunta": "3) Por que não devemos nos culpar e nem culpar o outro diante das situações de crise?",
+      "opcoes": [
+        "Porque a culpa faz com que tenhamos sucesso.",
+        "Porque a culpa faz com que fiquemos estagnados.",
+        "Porque a culpa faz mal para o coração.",
+        "Porque a culpa nos faz chorar."
+      ]
+    },
+    {
+      "pergunta": "2) Qual é o impacto quando não estamos bem emocionalmente?",
+      "opcoes": [
+        "Temos impacto apenas no âmbito social, porque as pessoas se irritam fácil.",
+        "Temos impacto nas redes sociais e no trabalho.",
+        "Temos impacto em nosso físico, nas relações sociais e também no nosso trabalho.",
+        "Não há nenhum impacto."
+      ]
+    },
+    {
+      "pergunta": "1) Como você pode manter a calma em uma situação de pressão?",
+      "opcoes": [
+        "É importante que você perca o foco, e que sinta seguro para se posicionar de acordo com a sua função.",
+        "É importante que você não perca o foco, e que não se sinta seguro para se posicionar de acordo com a sua função.",
+        "É importante que você perca o foco, falando muito sobre o assunto com outra pessoa.",
+        "É importante que você não perca o foco, e que se sinta seguro para se posicionar de acordo com a sua função."
+      ]
+    }
+  ]
+}
