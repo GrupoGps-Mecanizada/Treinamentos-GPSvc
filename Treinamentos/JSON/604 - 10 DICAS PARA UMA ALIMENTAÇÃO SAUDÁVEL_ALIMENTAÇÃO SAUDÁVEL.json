@@ -1,0 +1,52 @@
+{
+  "treinamento": "10 DICAS PARA UMA ALIMENTAÇÃO SAUDÁVEL_ALIMENTAÇÃO SAUDÁVEL",
+  "id": 604,
+  "idChecklist": 390,
+  "perguntas": [
+    {
+      "pergunta": "5) Na hora de escolher um lugar fora de casa para nos alimentar, devemos escolher:",
+      "opcoes": [
+        "Locais que servem refeições baratas.",
+        "Locais que servem refeições feitas na hora.",
+        "Locais que servem refeições requentadas.",
+        "Locais que servem refeições caras."
+      ]
+    },
+    {
+      "pergunta": "4) Devemos dar preferência em fazer nossas compras em que tipo de lugar?",
+      "opcoes": [
+        "Que só ofertem comidas congeladas.",
+        "Que ofertem apenas verduras.",
+        "Que ofertem variedades de alimentos processados.",
+        "Que ofertem variedades de alimentos in natura ou minimamente processados."
+      ]
+    },
+    {
+      "pergunta": "3) Por que devemos procurar comer com uma companhia?",
+      "opcoes": [
+        "Porque quando estamos acompanhados ficamos mais estimulados a nos alimentar bem.",
+        "Para não nos sentirmos sozinhos.",
+        "Para caso de emergência ter alguém por perto.",
+        "Para dividirmos nossa comida."
+      ]
+    },
+    {
+      "pergunta": "2) Em relação à alimentos processados e ultraprocessados, qual atitude devemos ter?",
+      "opcoes": [
+        "Comer a vontade.",
+        "Eliminar da nossa alimentação.",
+        "Evitar e limitar esse tipo de alimento.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "1) Além do óleo e da gordura, o que mais devemos utilizar em pequenas quantidades?",
+      "opcoes": [
+        "Molhos e Sal.",
+        "Sal e açúcar.",
+        "Açúcar e limão.",
+        "Açúcar e achocolatado."
+      ]
+    }
+  ]
+}
