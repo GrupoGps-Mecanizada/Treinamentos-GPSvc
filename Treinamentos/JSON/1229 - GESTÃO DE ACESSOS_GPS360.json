@@ -1,0 +1,52 @@
+{
+  "treinamento": "GESTÃO DE ACESSOS_GPS360",
+  "id": 1229,
+  "idChecklist": 995,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE É NECESSÁRIO PARA ACESSAR O PORTAL GPS360?",
+      "opcoes": [
+        "APENAS O E-MAIL CORPORATIVO.",
+        "E-MAIL E SENHA.",
+        "USUÁRIO GPS.",
+        "CPF DO USUÁRIO."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE É RECOMENDADO FAZER ANTES DE CADASTRAR UM CLIENTE NO GPS360?",
+      "opcoes": [
+        "ESCOLHER UM AMBIENTE AGITADO",
+        "NÃO VERIFICAR A CONEXÃO DE INTERNET.",
+        "ESQUECER DE COLOCAR O CELULAR NO SILENCIOSO.",
+        "BUSCAR NO PORTAL GPS360 SE O CLIENTE JÁ POSSUI CADASTRO."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É O TEMPO ESTIMADO PARA QUE UM CLIENTE TENHA SUA VISUALIZAÇÃO COMPLETA NO GPS360 APÓS VINCULAR OS CENTROS DE CUSTOS?",
+      "opcoes": [
+        "1 HORA.",
+        "1 DIA.",
+        "1 SEMANA.",
+        "1 MÊS."
+      ]
+    },
+    {
+      "pergunta": "2) ONDE DEVE SER ABERTO UM CHAMADO PARA LIBERAR A VISÃO DENTRO DA PLATAFORMA GPS360?",
+      "opcoes": [
+        "PORTAL GPS360.",
+        "PORTAL GPS.",
+        "PORTAL GPSAMIGO.",
+        "PORTAL GPSEXTRANET."
+      ]
+    },
+    {
+      "pergunta": "1) COMO É REALIZADA A PRIMEIRA ETAPA DA LIBERAÇÃO DOS ACESSOS AO GPS360?",
+      "opcoes": [
+        "ATRAVÉS DO CADASTRO NO PORTAL GPSAMIGO.",
+        "COM A LIBERAÇÃO DA VISÃO DENTRO DA PLATAFORMA.",
+        "PREENCHENDO UM CHECKLIST NO SERVICE DESK.",
+        "REALIZANDO O CADASTRO DO E-MAIL DO USUÁRIO NO PORTALGPS360."
+      ]
+    }
+  ]
+}
