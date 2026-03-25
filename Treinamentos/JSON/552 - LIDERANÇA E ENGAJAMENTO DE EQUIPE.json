@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIDERANÇA E ENGAJAMENTO DE EQUIPE",
+  "id": 552,
+  "idChecklist": 354,
+  "perguntas": [
+    {
+      "pergunta": "5) Assinale abaixo 3 meios de engajamento de equipe:",
+      "opcoes": [
+        "Boas práticas, diálogo e recursos humanos.",
+        "Boa Liderança, diálogo e eventos para integração da equipe.",
+        "Churrascos, recursos humanos e gestão de pessoas.",
+        "Gestão de insumos, desenvolvimento de pessoas e churrascos."
+      ]
+    },
+    {
+      "pergunta": "4) O que uma equipe bem engajada e com uma boa liderança proporciona para empresa?",
+      "opcoes": [
+        "Excelentes resultados, aumento de qualidade de vida e menos desgaste de tecnologia operacional.",
+        "Excelentes amigos, aumento de produtividade, menos desgaste mental e físico no dia a dia.",
+        "Excelentes resultados, aumento de produtividade, menos desgaste mental e físico no dia a dia.",
+        "Perca de produtividade, resultados medianos e desgaste mental e físico no dia a dia."
+      ]
+    },
+    {
+      "pergunta": "3) Quais são as 3 palavras-chaves para liderar?",
+      "opcoes": [
+        "Confiança; colaboração e responsabilidade.",
+        "Processos; colaboração e responsabilidade.",
+        "Confiança; colaboração e conhecimento.",
+        "Processos; confiança e conhecimento."
+      ]
+    },
+    {
+      "pergunta": "2) Na liderança, a motivação vem muito mais pelas atitudes rotineiras praticadas do líder, como:",
+      "opcoes": [
+        "Planejamento estratégico; feedbacks e ser exemplo nas ações praticadas.",
+        "Constatar quem é o errado e puni-lo; ser ponte entre operação e gerencia e feedbacks.",
+        "Identificar talentos; agir com o coração e ter equilíbrio em momentos de crise.",
+        "Equilíbrio em momentos de crise; identificar talentos; constatar quem é o errado e puni-lo."
+      ]
+    },
+    {
+      "pergunta": "1) Se tratando do conceito liderança e ser líder, assinale a resposta correta.",
+      "opcoes": [
+        "A liderança é a capacidade de criar processo e metas e obrigar as pessoas de cumpri-las.",
+        "A liderança é a capacidade de motivar e estimular os clientes de forma positiva. Ser líder é saber unir a equipe em prol do que acha que é certo e saber se portar de forma que incentive o time.",
+        "A liderança é a capacidade de motivar e estimular as pessoas de forma negativa. Ser líder é saber unir a equipe em prol dos objetivos e metas.",
+        "A liderança é a capacidade de motivar e estimular as pessoas de forma positiva. Ser líder é saber unir a equipe em prol dos objetivos/metas, acolher/inspirar o time."
+      ]
+    }
+  ]
+}
