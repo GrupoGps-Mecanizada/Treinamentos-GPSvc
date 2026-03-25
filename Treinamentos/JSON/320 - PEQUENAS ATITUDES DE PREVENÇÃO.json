@@ -1,0 +1,52 @@
+{
+  "treinamento": "PEQUENAS ATITUDES DE PREVENÇÃO",
+  "id": 320,
+  "idChecklist": 219,
+  "perguntas": [
+    {
+      "pergunta": "5) Ao observar alguma situação de risco, como por exemplo um piso molhado, qual a atitude correta que devemos ter?",
+      "opcoes": [
+        "Sinalizar o local que apresenta risco e comunicar as pessoas responsáveis pela solução do problema.",
+        "Fingir que não vi.",
+        "Apenas comunicar o líder e deixar que ele resolva.",
+        "Deixar para lá."
+      ]
+    },
+    {
+      "pergunta": "4) Ao observar algum colega de trabalho andando fora da faixa de segurança, qual a atitude correta que você deve realizar?",
+      "opcoes": [
+        "Realizar a abordagem do colega e informar os riscos, fortalecendo a cultura de SSMA.",
+        "Observar a atividade e depois passar para meu líder.",
+        "Observar a atividade e deixar para lá.",
+        "Observar a atividade e fingir que não vi."
+      ]
+    },
+    {
+      "pergunta": "3)    Qual a diferença entre o personagem “Antagonista” e o personagem “Protagonista”?",
+      "opcoes": [
+        "O personagem “Antagonista” é aquele que NÃO se preocupa com as regras e com a sua segurança e dos outros. Já o “Protagonista” segue as regras e dissemina cultura de SSMA.",
+        "O personagem “Antagonista” segue as regras e dissemina cultura de SSMA. Já o “Protagonista” é aquele que NÃO se preocupa com as regras e com a sua segurança e dos outros.",
+        "O Antagonista segue as regras e o Protagonista NÃO faz questão de seguir as regras.",
+        "O Protagonista é o “vilão” que não se preocupa com as normas e o Antagonista é o “herói” que desafia o risco todos os dias."
+      ]
+    },
+    {
+      "pergunta": "2) Ao observar algum colega de trabalho andando e digitando ou falando no celular, qual a atitude correta que deve realizar?",
+      "opcoes": [
+        "Realizar a abordagem do colega e informar os riscos, fortalecendo a cultura de SSMA.",
+        "Observar a atividade e depois passar para meu líder.",
+        "Observar a atividade e deixar para lá.",
+        "Observar a atividade e fingir que não vi."
+      ]
+    },
+    {
+      "pergunta": "1) Qual das alternativas abaixo representam as atitudes de um “protagonista”?",
+      "opcoes": [
+        "Sinalizar o local que apresenta risco; utilizar o corrimão em escadas; parar em local seguro para atender ou digitar no celular; ao observar um erro, abordar os colegas e fortalecer a cultura de SSMA.",
+        "Sinalizar o local que apresenta risco; caminhar falando no celular; não utiliza o corrimão ao subir ou descer escadas; ao observar algo errado, abordar os colegas e fortalece a cultura de SSMA.",
+        "Ao observar algo errado, aborda os colegas e fortalece a cultura de SSMA; identificar o risco e NÃO sinalizar; parar em local seguro para atender ou digitar no celular; NÃO utilizar o corrimão.",
+        "Identificar o risco e NÃO sinalizar; utilizar o corrimão para subir ou descer escadas; caminhar falando no celular; observar os colegas não seguindo alguma regra e deixa para lá."
+      ]
+    }
+  ]
+}
