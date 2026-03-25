@@ -1,0 +1,52 @@
+{
+  "treinamento": "POLÍTICA SGI",
+  "id": 376,
+  "idChecklist": 270,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual local você pode acessar a política de SGI?",
+      "opcoes": [
+        "No WhatsApp do meu Líder",
+        "No site do Grupo GPS www.gpslegal.com.br",
+        "No site do Grupo GPS www.gpssa.com.br",
+        "No Instagram do Grupo GPS"
+      ]
+    },
+    {
+      "pergunta": "4) Baseado no treinamento assinale a alternativa CORRETA sobre SGI",
+      "opcoes": [
+        "A política de SGI é um documento que atende apenas as necessidades externas, não tendo nenhuma relação com a atividade que realizo",
+        "A política de SGI é um documento sem vínculo com as tarefas que eu realizo no meu trabalho",
+        "A política de SGI possui premissas que depende da minha participação efetiva para que ela possa acontecer",
+        "A política de SGI deve ter o envolvimento apenas do meu Líder"
+      ]
+    },
+    {
+      "pergunta": "3) Complete a frase. PRESERVAR A SUA RENTABILIDADE ATRAVÉS",
+      "opcoes": [
+        "Através de excessos de gastos superando o orçamento",
+        "Através de desperdício de recursos financeiros",
+        "Através do cumprimento de metas econômicas",
+        "Nenhuma das respostas anteriores"
+      ]
+    },
+    {
+      "pergunta": "2) Quantas diretrizes foram citadas no vídeo?",
+      "opcoes": [
+        "Três",
+        "Duas",
+        "Oito",
+        "Seis"
+      ]
+    },
+    {
+      "pergunta": "1) A política de Gestão Integrada do Grupo GPS é aplicada para quais Colaboradores?",
+      "opcoes": [
+        "Todos os Colaboradores do Grupo GPS",
+        "Apenas aos Colaboradores que atuam no serviço de Segurança Patrimonial",
+        "Apenas aos Colaboradores que atuam no serviço de Limpeza Industrial",
+        "Apenas aos Colaboradores que chegaram agora no Grupo GPS"
+      ]
+    }
+  ]
+}
