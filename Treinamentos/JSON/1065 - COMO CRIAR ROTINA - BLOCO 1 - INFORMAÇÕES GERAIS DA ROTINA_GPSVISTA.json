@@ -1,0 +1,52 @@
+{
+  "treinamento": "COMO CRIAR ROTINA - BLOCO 1 - INFORMAÇÕES GERAIS DA ROTINA_GPSVISTA",
+  "id": 1065,
+  "idChecklist": 839,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL É O PROPÓSITO DA OPÇÃO \"SOBREPOR TAREFAS\" DURANTE O CADASTRO DA ROTINA?",
+      "opcoes": [
+        "AJUSTAR O HORÁRIO DO LOCAL",
+        "MANTER A PROGRAMAÇÃO NOS FERIADOS",
+        "VISUALIZAR A ROTINA PUBLICAMENTE",
+        "O SISTEMA VAI GERAR TAREFAS SUCESSIVAMENTE."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE ACONTECE SE DEIXAR A DATA DE TÉRMINO DA ROTINA SEM PREENCHIMENTO?",
+      "opcoes": [
+        "ELE GERA TAREFAS INFINITAMENTE.",
+        "BLOQUEIA A EXECUÇÃO DA ROTINA.",
+        "CANCELA A PROGRAMAÇÃO DA ROTINA.",
+        "ATIVA A OPÇÃO DE SOBREPOR TAREFAS."
+      ]
+    },
+    {
+      "pergunta": "3) POR QUE É CRUCIAL ESCOLHER CORRETAMENTE O TIPO DE SERVIÇO DURANTE O CADASTRO?",
+      "opcoes": [
+        "INFLUENCIA NA DURAÇÃO DA ROTINA.",
+        "PORQUE O SERVIÇO ESTÁ CONECTADO AO BI.",
+        "DETERMINA O INTERVALO DA ATIVIDADE.",
+        "AFETA A VISIBILIDADE DA ROTINA."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE É NECESSÁRIO DEFINIR NA ETAPA DE CADASTRO DO BLOCO 1?",
+      "opcoes": [
+        "ESTRUTURA E CHAMADO.",
+        "ESTRUTURA E RECORRÊNCIA.",
+        "TIPO DE SERVIÇO E PÚBLICO.",
+        "INFORMAÇÕES GERAIS DA ROTINA."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O BLOCO DE INFORMAÇÕES GERAIS DA ROTINA ABORDADO NO TREINAMENTO?",
+      "opcoes": [
+        "BLOCO 2.",
+        "BLOCO 3.",
+        "BLOCO 1.",
+        "BLOCO 4."
+      ]
+    }
+  ]
+}
