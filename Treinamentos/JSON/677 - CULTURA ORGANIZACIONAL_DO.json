@@ -1,0 +1,52 @@
+{
+  "treinamento": "CULTURA ORGANIZACIONAL_DO",
+  "id": 677,
+  "idChecklist": 463,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual é a Missão do Grupo GPS?",
+      "opcoes": [
+        "\"Ser referência no segmento de prestação de serviço, sendo reconhecida por oferecer soluções inovadoras, pela qualidade da sua entrega e com a melhor relação custo-benefício para os seus Clientes\".",
+        "\"Todos servindo com orgulho e dedicação, nos tornando essenciais aos nossos Clientes\"",
+        "\"Espírito de Servir\"",
+        "\"A capacidade de priorizar tarefas importantes e organizá-las por ordem de prioridade\""
+      ]
+    },
+    {
+      "pergunta": "4) Qual é uma das filosofias do Grupo GPS?",
+      "opcoes": [
+        "Trabalho em equipe apenas.",
+        "Comprometimento coletivo.",
+        "Autodesenvolvimento pessoal.",
+        "Empreendedorismo."
+      ]
+    },
+    {
+      "pergunta": "3) O que é Ação Descentralizada no Grupo GPS?",
+      "opcoes": [
+        "A partilha de responsabilidade entre todos.",
+        "A autonomia na tomada de decisões de cada regional da GPS.",
+        "A capacidade de priorizar tarefas importantes e organizá-las por ordem de prioridade.",
+        "A busca constante por crescimento, aprendizado e melhorias pessoais."
+      ]
+    },
+    {
+      "pergunta": "2) Qual é o principal valor do Grupo GPS?",
+      "opcoes": [
+        "Espírito de Servir.",
+        "Trabalho em equipe unicamente.",
+        "Comprometimento com os Clientes.",
+        "Disciplina generalista."
+      ]
+    },
+    {
+      "pergunta": "1) Qual a definição de visão na cultura organizacional do Grupo GPS?",
+      "opcoes": [
+        "É uma declaração que descreve o propósito fundamental da empresa.",
+        "É uma declaração clara e concisa que descreve o que a empresa faz.",
+        "É uma declaração que descreve onde a empresa quer chegar no futuro.",
+        "É uma declaração que descreve os princípios éticos e morais que orientam o comportamento da empresa e dos seus Colaboradores."
+      ]
+    }
+  ]
+}
