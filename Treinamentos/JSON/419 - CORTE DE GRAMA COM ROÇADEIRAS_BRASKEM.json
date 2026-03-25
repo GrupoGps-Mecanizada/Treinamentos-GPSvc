@@ -1,0 +1,52 @@
+{
+  "treinamento": "CORTE DE GRAMA COM ROÇADEIRAS_BRASKEM",
+  "id": 419,
+  "idChecklist": 312,
+  "perguntas": [
+    {
+      "pergunta": "5) Assinale a alternativa CORRETA sobre abastecimento.",
+      "opcoes": [
+        "Para realizar o abastecimento da roçadeira, o operador deve permanecer com todos os EPI’s, colocar uma bandeja de retenção abaixo do motor para evitar a contaminação do solo durante o abastecimento.",
+        "Tirar as luvas e abastecer.",
+        "Para realizar o abastecimento da roçadeira, o operador deve permanecer com todos os EPI’s e abastecer com calma.",
+        "Sempre solicitar para o líder abastecer, pois, ele tem mais prática no abastecimento."
+      ]
+    },
+    {
+      "pergunta": "4) Qual o tamanho ideal do fio para corte com roçadeiras?",
+      "opcoes": [
+        "O fio deve ficar no limite da proteção do rotor.",
+        "O fio deve ficar bem curto para evitar contato com o operador e a grama.",
+        "O fio pode ficar bem longo, passando a proteção do rotor, pois, assim consigo cortar mais grama em menor tempo.",
+        "Roçadeira não utiliza fio, somente lâminas."
+      ]
+    },
+    {
+      "pergunta": "3) Assinale a alternativa CORRETA sobre a tela de proteção.",
+      "opcoes": [
+        "Devemos colocar a tela de proteção para proteger o operador da roçadeira.",
+        "Antes de iniciar a atividade é necessário colocar a tela de proteção para evitar a projeção de pedras e objetos a fim de proteger pedestres, e veículos que circulam nas proximidades.",
+        "A tela de proteção é necessária somente no prédio administrativo para proteger o diretor de pedras e objetos.",
+        "Não precisa colocar tela proteção, pois o operador da roçadeira para sua atividade toda vez que passa alguém próximo."
+      ]
+    },
+    {
+      "pergunta": "2) O que devemos fazer antes de utilizar a roçadeira?",
+      "opcoes": [
+        "Tomar café, pois, precisamos estar bem alimentados para a atividade do dia a dia.",
+        "Colocar o capacete.",
+        "Colocar a luva de látex amarela.",
+        "Antes de utilizar a roçadeira devemos fazer o checklist de todos os itens previstos."
+      ]
+    },
+    {
+      "pergunta": "1) Assinale a alternativa CORRETA sobre o que você precisa ter para operar a roçadeira.",
+      "opcoes": [
+        "Para operar uma roçadeira preciso ter treinamento com fornecedor credenciado do fabricante do equipamento e utilizar todos EPI’s previstos na AST.",
+        "Para operar roçadeira é preciso ter treinamento com fornecedor credenciado do fabricante do equipamento e utilizar luva verde e tênis.",
+        "Para operar roçadeira é preciso usar luva de vaqueta, botina e óculos escuros.",
+        "Para utilizar roçadeira não precisa usar EPI."
+      ]
+    }
+  ]
+}
