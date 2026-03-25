@@ -1,0 +1,52 @@
+{
+  "treinamento": "COGI_ELECTROLUX",
+  "id": 207,
+  "idChecklist": 121,
+  "perguntas": [
+    {
+      "pergunta": "5) O que devemos fazer com a etiqueta do material?",
+      "opcoes": [
+        "Tirar a etiqueta do material para realizar a transferência sistêmica depois.",
+        "Colar a etiqueta no meu equipamento e depois transferir.",
+        "Devo tirar a etiqueta e prejudicar a identificação do material de devolução.",
+        "Nunca tirar a etiqueta do produto para realizar a transferência sistêmica depois."
+      ]
+    },
+    {
+      "pergunta": "4) Como evitar apontamentos diários no COGI?",
+      "opcoes": [
+        "Realizar primeiro a transferência sistêmica e na sequência a transferência física do produto.",
+        "Realizar somente a transferência física do produto.",
+        "Realizar somente a transferência sistêmica do produto.",
+        "Todas as alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) Em caso de retrabalhos, o que se espera dos operadores?",
+      "opcoes": [
+        "Os operadores devem realizar a movimentação dos materiais pesados que necessitam de recontagem.",
+        "Os operadores devem movimentar os materiais que necessitam de recontagem quando quiser.",
+        "Os operadores não precisam colaborar com a movimentação de materiais.",
+        "Nenhuma das alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "2) Quais impactos causam as divergências sistêmicas sinalizadas pelo Cliente?",
+      "opcoes": [
+        "Não causa impacto para o Cliente.",
+        "Não é possível emitir a nota fiscal do produto manufaturado e atrasa a expedição.",
+        "É possível emitir a nota fiscal do produto manufaturado e não atrasa a expedição.",
+        "Todas as alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o objetivo do COGI?",
+      "opcoes": [
+        "Não encontrar as divergências de falta de saldo de matéria prima nas linhas de produção.",
+        "Encontrar diariamente as divergências de falta de saldo de matéria prima nas linhas de produção.",
+        "Diariamente identificar ausência de colaboradores na operação.",
+        "Nenhuma das alternativas acima estão corretas."
+      ]
+    }
+  ]
+}
