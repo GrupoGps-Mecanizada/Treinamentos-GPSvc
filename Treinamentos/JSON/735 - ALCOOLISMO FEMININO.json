@@ -1,0 +1,52 @@
+{
+  "treinamento": "ALCOOLISMO FEMININO",
+  "id": 735,
+  "idChecklist": 517,
+  "perguntas": [
+    {
+      "pergunta": "5) Caso precise, onde você pode procurar ajuda?",
+      "opcoes": [
+        "Alcoólicos Anônimos e Colcha de Remendo.",
+        "Alcoólicos Anônimos e Colcha de Retalhos.",
+        "Alcoólicos Autônomos e Colcha de Retalhos.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "4) Qual o melhor profissional para tratar do alcoolismo?",
+      "opcoes": [
+        "Um profissional de saúde.",
+        "Um profissional de educação física.",
+        "Um profissional da educação.",
+        "Um profissional administrativo."
+      ]
+    },
+    {
+      "pergunta": "3) Qual é a doença apresentada no treinamento que é gerada através do alcoolismo feminino?",
+      "opcoes": [
+        "Síndrome Alcoólica Renal.",
+        "Síndrome Alcoólica Pulmonar.",
+        "Síndrome Alcoólica Cardíaca.",
+        "Síndrome Alcoólica Fetal"
+      ]
+    },
+    {
+      "pergunta": "2) Por causa da visão da sociedade em relação ao alcoolismo feminino, as mulheres costumam esconder a doença através de outros diagnósticos, como, por exemplo:",
+      "opcoes": [
+        "Depressão.",
+        "Insônia.",
+        "Ansiedade.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "1) Qual tipo de alcoolismo vem crescendo na sociedade?",
+      "opcoes": [
+        "Alcoolismo masculino.",
+        "Alcoolismo feminino.",
+        "Alcoolismo juvenil.",
+        "Alcoolismo crônico."
+      ]
+    }
+  ]
+}
