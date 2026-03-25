@@ -1,0 +1,52 @@
+{
+  "treinamento": "APLICAÇÃO DE CERA COM SANIWAX_INFRA",
+  "id": 216,
+  "idChecklist": 128,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual a importância de realizar a Aplicação de Cera?",
+      "opcoes": [
+        "Para que o piso não descole.",
+        "Importante para remoção completa de toda sujidade.",
+        "Para intensificar a limpeza do piso.",
+        "A aplicação de cera é uma das atividades mais importantes para conservação e brilho do piso, realizando uma selagem, preenchendo os poros, nivelando e protegendo o piso."
+      ]
+    },
+    {
+      "pergunta": "4) Como deve ser limpo o reservatório do Aplicador de Cera Saniwax?",
+      "opcoes": [
+        "Nunca deve ser feita a higienização do reservatório.",
+        "Encher o reservatório com removedor de cera e esvaziá-lo, encher novamente com água limpa, repetindo de 2 a 3 vezes garantindo a limpeza interna do reservatório sem resquício de cera ou removedor.",
+        "Utilizar somente água, sem necessidade de se preocupar com o que restar de cera.",
+        "Dispersar a cera que restar e passar pano de algodão internamente, retirando o que impregnar da cera."
+      ]
+    },
+    {
+      "pergunta": "3) Qual o cuidado ao guardar o Aplicador de Cera Saniwax?",
+      "opcoes": [
+        "Não é necessário nenhum cuidado especial.",
+        "Os cuidados se restringem a esvaziar o reservatório.",
+        "É extremamente importante que deixemos a mangueira de acionamento travada. Para isso, pressione o botão de acionamento e gire para direita, deixando-o em posição de descanso.",
+        "Somente retirar o pano de microfibra da base para poder higienizá-lo, sem precisar higienizar o reservatório ou cuidados com a mangueira."
+      ]
+    },
+    {
+      "pergunta": "2) Sobre o movimento ao aplicar cera no piso, qual das alternativas abaixo está ERRADA?",
+      "opcoes": [
+        "O movimento indicado para aplicação de cera no piso É DIFERENTE ao movimento de limpeza!",
+        "Deve ser feito com movimento em sentido de zigue-zague.",
+        "A primeira camada deve ser aplicada com movimentos no sentido vertical.",
+        "A segunda camada deve ser aplicada com movimentos no sentido horizontal."
+      ]
+    },
+    {
+      "pergunta": "1) O que é necessário para utilizar o Aplicador de Cera Saniwax?",
+      "opcoes": [
+        "É necessário utilizar um balde espremedor, onde mergulha o aplicador.",
+        "Utilizar um rodo de apoio, sem necessidade de balde.",
+        "Ter um pano de algodão para retirar o excesso de cera do piso.",
+        "É necessário encher o reservatório do aplicador Saniwax com cera, utilizando da peneira interna, tampar o reservatório e pressionar o botão de acionamento para liberar a cera no piso."
+      ]
+    }
+  ]
+}
