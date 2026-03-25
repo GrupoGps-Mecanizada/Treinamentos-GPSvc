@@ -1,0 +1,52 @@
+{
+  "treinamento": "HIGIENIZAÇÃO DOS SUPORTES DE ÁLCOOL E SABONETE_INFRA",
+  "id": 76,
+  "idChecklist": 49,
+  "perguntas": [
+    {
+      "pergunta": "5 – Qual a sequência correta para a limpeza? ​",
+      "opcoes": [
+        "Início a limpeza pela parte interna.",
+        "Antes de iniciar a limpeza, retiro o refil. Início pela parte interna e depois a parte externa. Finalizo abastecendo com o refil correspondente. ​",
+        "O importante é ter aparência de limpo.​",
+        "Início a limpeza pela parte externa e verifico se o refil está abastecido."
+      ]
+    },
+    {
+      "pergunta": "4 – Podemos higienizar o suporte com álcool?",
+      "opcoes": [
+        "Sim, mas só quando não tenho o produto químico.​",
+        "Sim, porque o álcool limpa e desinfeta.​",
+        "Não, só finalizo a limpeza com álcool.​",
+        "Não, para a limpeza de suportes sempre utilizo produto químico."
+      ]
+    },
+    {
+      "pergunta": "3 – Qual a cor da luva para a limpeza de suporte?",
+      "opcoes": [
+        "Luva azul.​",
+        "Luva amarela.​",
+        "Luva laranja.​",
+        "Luva verde."
+      ]
+    },
+    {
+      "pergunta": "2 – Podemos usar EPI (Equipamento de Proteção Individual) para manusear o refil?",
+      "opcoes": [
+        "Sim, sempre utilizo meus EPI’s.​",
+        "Sim, utilizo minhas luvas para a limpeza do suporte.​",
+        "Não posso utilizar EPI para manusear o refil. Para retirar o refil antes de limpar, como para abastecer após a limpeza, não utilizo EPI.",
+        "Não é necessário ter nenhum cuidado especial ao manusear o refil."
+      ]
+    },
+    {
+      "pergunta": "1 – Qual a importância de higienizar corretamente os suportes?",
+      "opcoes": [
+        "Garantir que o suporte esteja limpo e com o refil adequado, evitando a contaminação.",
+        "Garantir que o suporte esteja limpo, independente do refil.​",
+        "Garantir que esteja abastecido.​",
+        "Ficar com aparência de limpo."
+      ]
+    }
+  ]
+}
