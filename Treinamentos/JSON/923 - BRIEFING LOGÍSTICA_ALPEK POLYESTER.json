@@ -1,0 +1,52 @@
+{
+  "treinamento": "BRIEFING LOGÍSTICA_ALPEK POLYESTER",
+  "id": 923,
+  "idChecklist": 699,
+  "perguntas": [
+    {
+      "pergunta": "5) QUEM VOCÊ DEVE ACIONAR PARA PODER ACESSAR ÁREAS RESTRITAS?",
+      "opcoes": [
+        "SUPERVISÃO DA LOGÍSTICA.",
+        "SUPERVISÃO ADMINISTRATIVA.",
+        "SUPERVISÃO DA SEGURANÇA.",
+        "QUALQUER SUPERVISÃO."
+      ]
+    },
+    {
+      "pergunta": "4) MARQUE AQUILO QUE NÃO FAZ PARTE DE UMA BOA HIGIENIZAÇÃO DAS MÃOS:",
+      "opcoes": [
+        "ENSABOAR AS MÃOS POR 15 A 20 SEGUNDOS.",
+        "ENXAGUAR BEM AS MÃOS.",
+        "LAVAR AS MÃOS APENAS COM ÁGUA, SEM USO DE SABÃO.",
+        "ENXAGUAR BEM OS ANTEBRAÇOS."
+      ]
+    },
+    {
+      "pergunta": "3) MARQUE AQUILO QUE NÃO É PROIBIDO NOS ARMAZÉNS DA LOGÍSTICA:",
+      "opcoes": [
+        "CONSUMO DE ALIMENTOS.",
+        "FUMAR NOS ARMAZÉNS DA LOGÍSTICA.",
+        "USAR ADORNOS (ANÉIS, BRINCOS, COLAR, ETC.).",
+        "ANDAR NA FAIXA DE PEDESTRES."
+      ]
+    },
+    {
+      "pergunta": "2)   DE QUEM É A PRIORIDADE NA CIRCULAÇÃO DENTRO DOS ARMAZÉNS DA LOGÍSTICA?",
+      "opcoes": [
+        "A PRIORIDADE É DOS PEDESTRES.",
+        "A PRIORIDADE É DAS EMPILHADEIRAS.",
+        "A PRIORIDADE É DE QUEM CHEGAR PRIMEIRO NO CRUZAMENTO.",
+        "NÃO HÁ PRIORIDADE DENTRO DOS ARMAZÉNS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAIS EPI'S SÃO DE USO OBRIGATÓRIO NA LOGÍSTICA?",
+      "opcoes": [
+        "CAPACETE E ÓCULOS DE SEGURANÇA.",
+        "BOTA DE SEGURANÇA E ÓCULOS DE SEGURANÇA.",
+        "BOTA DE SEGURANÇA E CAPACETE.",
+        "CAPACETE E CINTO DE SEGURANÇA."
+      ]
+    }
+  ]
+}
