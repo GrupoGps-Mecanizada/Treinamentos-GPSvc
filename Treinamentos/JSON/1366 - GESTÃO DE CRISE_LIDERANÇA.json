@@ -1,0 +1,52 @@
+{
+  "treinamento": "GESTÃO DE CRISE_LIDERANÇA",
+  "id": 1366,
+  "idChecklist": 1124,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL É O PAPEL DO LÍDER EM UMA CRISE?",
+      "opcoes": [
+        "CULPAR OS OUTROS PELOS ERROS.",
+        "ISOLAR-SE E EVITAR A EQUIPE.",
+        "ESTABELECER A DIREÇÃO E COORDENAR A EQUIPE.",
+        "NEGAR A EXISTÊNCIA DA CRISE."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL É A IMPORTÂNCIA DA COMUNICAÇÃO EM UMA CRISE?",
+      "opcoes": [
+        "A COMUNICAÇÃO SERVE APENAS PARA INFORMAR OS COLABORADORES.",
+        "A COMUNICAÇÃO É IMPORTANTE PARA MANTER A CALMA E A CONFIANÇA.",
+        "A COMUNICAÇÃO SÓ DEVE SER FEITA COM OS CLIENTES.",
+        "A COMUNICAÇÃO DEVE SER EVITADA PARA NÃO GERAR PÂNICO."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É A PRIMEIRA FASE DE UMA CRISE?",
+      "opcoes": [
+        "PREVENÇÃO.",
+        "RECUPERAÇÃO.",
+        "RESPOSTA.",
+        "PREPARAÇÃO."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL DAS SEGUINTES HABILIDADES NÃO É ESSENCIAL PARA UM LÍDER EM UMA CRISE?",
+      "opcoes": [
+        "TOMADA DE DECISÃO.",
+        "COMUNICAÇÃO.",
+        "MICROGERENCIAMENTO.",
+        "RESILIÊNCIA."
+      ]
+    },
+    {
+      "pergunta": "1) DE ACORDO COM O TREINAMENTO, QUAL A PRINCIPAL DIFERENÇA ENTRE UMA CRISE OPERACIONAL E UM PROBLEMA COTIDIANO?",
+      "opcoes": [
+        "A CRISE OPERACIONAL SEMPRE ENVOLVE PERDAS FINANCEIRAS SIGNIFICATIVAS.",
+        "A CRISE OPERACIONAL EXIGE UMA RESPOSTA MAIS RÁPIDA E COORDENADA.",
+        "A CRISE OPERACIONAL SÓ OCORRE EM GRANDES EMPRESAS.",
+        "A CRISE OPERACIONAL SEMPRE TEM CAUSAS EXTERNAS À EMPRESA."
+      ]
+    }
+  ]
+}
