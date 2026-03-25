@@ -1,0 +1,52 @@
+{
+  "treinamento": "REGRA DE OURO_NEOENERGIA",
+  "id": 644,
+  "idChecklist": 430,
+  "perguntas": [
+    {
+      "pergunta": "5) Assinale abaixo a alternativa INCORRETA:",
+      "opcoes": [
+        "Respeite os limites de velocidade dentro e fora da empresa.",
+        "O cinto de segurança é obrigatório para todos os passageiros do veículo.",
+        "Quando houver semáforo para pedestre, atravesse somente no verde.",
+        "Em caso de urgência é permitido utilizar o celular enquanto anda."
+      ]
+    },
+    {
+      "pergunta": "4) Ao utilizar o estacionamento, como devemos proceder?",
+      "opcoes": [
+        "Devo buzinar para o pedestre atravessar rapidamente.",
+        "Estacionar enquanto outros veículos manobram.",
+        "Entrar e sair do estacionamento com atenção e respeitar o tempo de travessia do pedestre.",
+        "Ao visualizar um pedestre, devo aproximar o veículo."
+      ]
+    },
+    {
+      "pergunta": "3) Qual item de segurança é indispensável ao dirigir um veículo?",
+      "opcoes": [
+        "Aparelho de som.",
+        "Cinto de segurança.",
+        "Navegador (GPS).",
+        "Óculos de Sol."
+      ]
+    },
+    {
+      "pergunta": "2) Ao subir e descer escadas, o que devemos fazer?",
+      "opcoes": [
+        "Não utilizar o corrimão quando estiver com pressa.",
+        "Carregar objetos utilizando as duas mãos.",
+        "Utilizar o corrimão evitando distrações e dar preferência ao elevador ao carregar objetos.",
+        "Subir e descer as escadas correndo."
+      ]
+    },
+    {
+      "pergunta": "1) Quais instruções de segurança devemos seguir ao caminhar?",
+      "opcoes": [
+        "Atravessar na faixa de pedestre ou em passarelas próprias para isso.",
+        "Não caminhar digitando ou falando no celular/notebook.",
+        "Utilizar calçados mais baixos e confortáveis.",
+        "Todas as alternativas."
+      ]
+    }
+  ]
+}
