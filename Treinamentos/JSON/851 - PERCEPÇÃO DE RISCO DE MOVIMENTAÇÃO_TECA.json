@@ -1,0 +1,52 @@
+{
+  "treinamento": "PERCEPÇÃO DE RISCO DE MOVIMENTAÇÃO_TECA",
+  "id": 851,
+  "idChecklist": 622,
+  "perguntas": [
+    {
+      "pergunta": "5) POR QUE AS CARGAS NÃO DEVEM SER ACOMODADAS ACIMA DO LIMITE DA LANÇA?",
+      "opcoes": [
+        "AS CARGAS PODEM SER ACOMODADAS, NÃO CORRE NENHUM RISCO.",
+        "PARA MOVIMENTAÇÃO PRÓXIMA, PODE ACOMODAR CARGAS ACIMA DO LIMITE.",
+        "NÃO DEVEM SER ACOMODADAS ACIMA DO LIMITE, POIS, AS CARGAS PODEM SER AVARIADAS.",
+        "TODAS ESTÃO CORRETAS."
+      ]
+    },
+    {
+      "pergunta": "4) ASSINALE ABAIXO A ALTERNATIVA CORRETA. OPY HEALTH, SE COMPROMETE A:",
+      "opcoes": [
+        "0,50 M.",
+        "0.60 M.",
+        "0,70 M.",
+        "0,80 M."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL A VELOCIDADE MÁXIMA PERMITIDA PARA FAZER A MOVIMENTAÇÃO NO TECA?",
+      "opcoes": [
+        "20 KM/H.",
+        "15 KM/H.",
+        "10 KM/H.",
+        "5 KM/H."
+      ]
+    },
+    {
+      "pergunta": "2) SE FOR IDENTIFICADO QUE NÃO HÁ MEDIDAS DE CONTROLE PARA ATIVIDADE, O QUE DEVE SER FEITO?",
+      "opcoes": [
+        "DEVE PERGUNTAR PARA OUTRO COLABORADOR.",
+        "FAZER A ATIVIDADE MESMO ASSIM.",
+        "NÃO REALIZAR A ATIVIDADE E INFORMAR SEU GESTOR DIRETO.",
+        "TODAS ESTÃO CORRETAS."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE O COLABORADOR DEVE IDENTIFICAR DURANTE SUAS ATIVIDADES?",
+      "opcoes": [
+        "OS RISCOS DE ACIDENTE E AVARIAS QUE ESTÃO EXPOSTOS.",
+        "NÃO NECESSITA DE VERIFICAÇÃO.",
+        "DEVE PERGUNTAR PARA O COLEGA SE HÁ ALGUM RISCO NA ATIVIDADE.",
+        "TODAS ALTERNATIVAS ESTÃO INCORRETAS."
+      ]
+    }
+  ]
+}
