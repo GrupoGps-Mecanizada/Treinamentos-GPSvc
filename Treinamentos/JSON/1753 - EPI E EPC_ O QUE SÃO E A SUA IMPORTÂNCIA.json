@@ -1,0 +1,52 @@
+{
+  "treinamento": "EPI E EPC: O QUE SÃO E A SUA IMPORTÂNCIA",
+  "id": 1753,
+  "idChecklist": 1444,
+  "perguntas": [
+    {
+      "pergunta": "5) EM RELAÇÃO ÀS RESPONSABILIDADES SOBRE EPI E EPC NO AMBIENTE DE TRABALHO, É CORRETO AFIRMAR QUE:",
+      "opcoes": [
+        "A EMPRESA DEVE FORNECER OS MEIOS DE PROTEÇÃO E O TRABALHADOR DEVE UTILIZÁ-LOS CORRETAMENTE.",
+        "APENAS O TRABALHADOR É RESPONSÁVEL PELA SEGURANÇA.",
+        "APENAS A EMPRESA TEM OBRIGAÇÕES RELACIONADAS À SEGURANÇA.",
+        "O USO DE EPI E EPC É OPCIONAL QUANDO NÃO HÁ FISCALIZAÇÃO."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL DAS OPÇÕES REPRESENTA CORRETAMENTE UM EPC?",
+      "opcoes": [
+        "LUVAS DE PROTEÇÃO.",
+        "ÓCULOS DE SEGURANÇA.",
+        "PROTETOR AURICULAR.",
+        "SINALIZAÇÃO DE PISO MOLHADO."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL DAS ALTERNATIVAS ABAIXO É UM EXEMPLO DE EPI?",
+      "opcoes": [
+        "CORRIMÃO DE ESCADA.",
+        "SINALIZAÇÃO DE SEGURANÇA.",
+        "CAPACETE DE SEGURANÇA.",
+        "GUARDA-CORPO."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL É O PRINCIPAL OBJETIVO DO USO DE EPI E EPC NO AMBIENTE DE TRABALHO?",
+      "opcoes": [
+        "AUMENTAR A PRODUTIVIDADE DOS COLABORADORES.",
+        "CUMPRIR APENAS EXIGÊNCIAS ADMINISTRATIVAS.",
+        "REDUZIR CUSTOS OPERACIONAIS DA EMPRESA.",
+        "PREVENIR ACIDENTES E PROTEGER A SAÚDE DOS TRABALHADORES."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE SIGNIFICA A SIGLA EPI?",
+      "opcoes": [
+        "EQUIPAMENTO DE PROTEÇÃO INDUSTRIAL.",
+        "EQUIPAMENTO PREVENTIVO INDIVIDUAL.",
+        "EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL.",
+        "ESTRUTURA DE PROTEÇÃO INDIVIDUAL."
+      ]
+    }
+  ]
+}
