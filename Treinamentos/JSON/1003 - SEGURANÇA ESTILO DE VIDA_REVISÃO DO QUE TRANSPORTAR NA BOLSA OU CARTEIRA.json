@@ -1,0 +1,52 @@
+{
+  "treinamento": "SEGURANÇA ESTILO DE VIDA_REVISÃO DO QUE TRANSPORTAR NA BOLSA OU CARTEIRA",
+  "id": 1003,
+  "idChecklist": 777,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL É A VANTAGEM DE SEGUIR AS DICAS QUE O TREINAMENTO APRESENTA?",
+      "opcoes": [
+        "SER ROUBADO.",
+        "NÃO SER ROUBADO.",
+        "TER DOR DE CABEÇA.",
+        "NÃO TER DOR DE CABEÇA."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL É O PROBLEMA CITADO NO TREINAMENTO QUANDO VOCÊ É ROUBADO E ESTÁ PORTANDO TODOS SEUS DOCUMENTOS?",
+      "opcoes": [
+        "PEDER OS NÚMEROS DOS DOCUMENTOS.",
+        "TER QUE PEDIR SEGUNDA VIA.",
+        "PERDER OS NÚMEROS DE CARTÃO E CONTA BANCÁRIA.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "3) QUAIS SÃO OS DOCUMENTOS QUE SÃO RECOMENDADOS DEIXAR EM CASA?",
+      "opcoes": [
+        "RG.",
+        "CHN.",
+        "TÍTULO DE ELEITOR E CARTEIRA PROFISSIONAL.",
+        "NENHUM CARTÃO, FAÇA PAGAMENTO NO PIX."
+      ]
+    },
+    {
+      "pergunta": "2) QUANTOS CARTÕES É RECOMENDADO TRANSPORTAR NO BOLSO?",
+      "opcoes": [
+        "1 CARTÃO.",
+        "2 CARTÕES.",
+        "NENHUM CARTÃO, FAÇA PAGAMENTO NO PIX.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1) O TREINAMENTO DÁ DICAS SOBRE O QUE?",
+      "opcoes": [
+        "SOBRE O QUE VOCÊ DEVE TRANSPORTAR NO CARRO.",
+        "SOBRE O QUE VOCÊ DEVE TRANSPORTAR DO TRABALHO PARA CASA.",
+        "SOBRE O QUE VOCÊ DEVE TRANSPORTAR NO BOLSO.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    }
+  ]
+}
