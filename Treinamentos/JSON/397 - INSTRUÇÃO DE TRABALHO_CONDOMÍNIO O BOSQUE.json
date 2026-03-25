@@ -1,0 +1,52 @@
+{
+  "treinamento": "INSTRUÇÃO DE TRABALHO_CONDOMÍNIO O BOSQUE",
+  "id": 397,
+  "idChecklist": 290,
+  "perguntas": [
+    {
+      "pergunta": "5) Caso o vigilante não consiga o contato com o morador que receberá o prestador de serviços e/ou a visita, OU o morador estando ausente do Condomínio, qual a conduta correta do vigilante?",
+      "opcoes": [
+        "Não irá liberar o acesso.",
+        "Liberará o acesso e deixará a visita/prestador aguardando.",
+        "Somente liberará se for seu conhecido de longa data.",
+        "Somente poderá ter seu acesso liberado com autorização do Gerente do condomínio."
+      ]
+    },
+    {
+      "pergunta": "4) É permitida a execução de obras nos feriados, sábados e domingos?",
+      "opcoes": [
+        "Não é permitido.",
+        "É permitido.",
+        "É permitido somente em alguns horários.",
+        "Não é permitido, somente no feriado."
+      ]
+    },
+    {
+      "pergunta": "3) Para realização da RONDA deverá ser utilizado a motocicleta fornecida pelo Condomínio. Em qual situação estará autorizado a utilização do automóvel também fornecido pelo Condomínio?",
+      "opcoes": [
+        "Quando o vigilante ficar com vontade.",
+        "Nos finais de semana.",
+        "Somente em casos de chuva.",
+        "Durante o turno da noite."
+      ]
+    },
+    {
+      "pergunta": "2) Qual deve ser o horário de entrada e saída de prestadores de serviço, sendo que, no intervalo de almoço é proibido a circulação deles nas VIAS/INSTALAÇÕES do condomínio.",
+      "opcoes": [
+        "05:00hrs às 22:00hrs.",
+        "07:00hrs às 18:00hrs.",
+        "08:00hrs às 15:00hrs.",
+        "12:00hrs às 13:00hrs."
+      ]
+    },
+    {
+      "pergunta": "1) O posto de trabalho do CONDOMÍNIO O BOSQUE, fica subdividido em duas áreas de atuação, sendo elas GUARITA/PORTARIA e VIAS/INSTALAÇÕES DO CONDOMÍNIO. Assim sendo marque a opção correta:",
+      "opcoes": [
+        "VIAS/INSTALAÇÕES é toda área antes do acesso da GUARITA/PORTARIA, por onde se circula com veículos em diferentes direções e dão acesso aos bairros e residências vizinhas do Condomínio.",
+        "É interessante a abertura da janela da GUARITA/PORTARIA para ventilação do local. A GUARITA/PORTARIA não possui blindagem e é melhor para se comunicar com a janela aberta.",
+        "A GUARITA/PORTARIA deve ser utilizada somente pelos VIGILANTES, funcionários e pessoas autorizadas. É proibido moradores, visitantes, empregados e prestadores de serviços dentro da GUARITA/PORTARIA.",
+        "Todas as alternativas estão corretas."
+      ]
+    }
+  ]
+}
