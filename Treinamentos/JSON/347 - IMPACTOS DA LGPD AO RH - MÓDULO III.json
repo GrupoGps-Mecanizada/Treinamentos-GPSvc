@@ -1,0 +1,52 @@
+{
+  "treinamento": "IMPACTOS DA LGPD AO RH - MÓDULO III",
+  "id": 347,
+  "idChecklist": 246,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual base legal utilizada para tratamento de dados pessoais em ações de endomarketing?",
+      "opcoes": [
+        "Consentimento.",
+        "Legítimo interesse.",
+        "Execução de contratação.",
+        "Obrigação legal ou regulatória."
+      ]
+    },
+    {
+      "pergunta": "4) Em ações de endomarketing, a quem devemos pedir autorização?",
+      "opcoes": [
+        "Ao líder da área.",
+        "Ao comitê de LGPD.",
+        "Do próprio Colaborador.",
+        "Todos os anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Qual ferramenta adequada para solicitar dados pessoais, quando necessário, dos Colaboradores?",
+      "opcoes": [
+        "WhatsApp pessoal.",
+        "Facebook.",
+        "Ferramentas corporativas.",
+        "LinkedIn."
+      ]
+    },
+    {
+      "pergunta": "2) Quais cuidados devemos tomar ao divulgarmos os aniversariantes do mês?",
+      "opcoes": [
+        "Coletar consentimento dos Colaboradores.",
+        "Verificar o RG.",
+        "Inserir cargo.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "1) De acordo com a LGPD, quais informações usadas pela área de comunicação são consideradas dados pessoais?",
+      "opcoes": [
+        "Data de Nascimento.",
+        "Cargo.",
+        "Fotos.",
+        "Todas as anteriores."
+      ]
+    }
+  ]
+}
