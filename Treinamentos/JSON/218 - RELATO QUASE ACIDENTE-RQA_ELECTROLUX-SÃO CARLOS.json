@@ -1,0 +1,52 @@
+{
+  "treinamento": "RELATO QUASE ACIDENTE-RQA_ELECTROLUX-SÃO CARLOS",
+  "id": 218,
+  "idChecklist": 130,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual objetivo do RQA?",
+      "opcoes": [
+        "Qualificar os riscos por setor.",
+        "Quantificar os riscos por setor e tomar ações preventivas e corretivas eliminando riscos potenciais.",
+        "Quantificar os riscos existentes.",
+        "Qualificar as ações preventivas."
+      ]
+    },
+    {
+      "pergunta": "4) De acordo com o treinamento, quais itens são preenchidas no formulário de RQA?",
+      "opcoes": [
+        "Somente a data, hora e local do quase acidente.",
+        "Somente a data, hora e severidade do quase acidente.",
+        "A data, hora e local, severidade do risco, Matrícula e ação sugerida do quase acidente.",
+        "Somente local do quase acidente."
+      ]
+    },
+    {
+      "pergunta": "3) Quantas formas existem para realizar o formulário de RQA?",
+      "opcoes": [
+        "1.",
+        "3.",
+        "2.",
+        "5."
+      ]
+    },
+    {
+      "pergunta": "2) O que é um quase acidente?",
+      "opcoes": [
+        "É toda ocorrência instantânea, não planejada, com potencial para gerar um acidente.",
+        "É toda ocorrência planejada que gera acidente.",
+        "É toda ocorrência instantânea.",
+        "É toda ocorrência planejada."
+      ]
+    },
+    {
+      "pergunta": "1) O que significa RQA?",
+      "opcoes": [
+        "Relatório de Qualidade e Atividade.",
+        "Relato de Qualidade de Acidente.",
+        "Relatório de Quase Acidentário.",
+        "Relato de Quase Acidente."
+      ]
+    }
+  ]
+}
