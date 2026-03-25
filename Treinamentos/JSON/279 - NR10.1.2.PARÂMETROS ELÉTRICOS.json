@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR10.1.2.PARÂMETROS ELÉTRICOS",
+  "id": 279,
+  "idChecklist": 191,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual a equação da primeira lei de Ohm?",
+      "opcoes": [
+        "I = R/V",
+        "V = R x I",
+        "R = I/V",
+        "P = V x I"
+      ]
+    },
+    {
+      "pergunta": "4) Como é chamado o movimento ordenado de elétrons através de um condutor?",
+      "opcoes": [
+        "Potência elétrica.",
+        "Tensão elétrica.",
+        "Corrente elétrica.",
+        "Resistência elétrica."
+      ]
+    },
+    {
+      "pergunta": "3) Qual o tipo de tensão que aplicada num condutor, produz corrente elétrica em apenas um sentido?",
+      "opcoes": [
+        "Contínua.",
+        "Alternada.",
+        "Mista.",
+        "Estática."
+      ]
+    },
+    {
+      "pergunta": "2) Qual a Unidade de medida de corrente elétrica?",
+      "opcoes": [
+        "Ampere.",
+        "Volt.",
+        "Watt.",
+        "Ohm."
+      ]
+    },
+    {
+      "pergunta": "1) Qual a Unidade de medida de tensão elétrica ou diferença de potencial?",
+      "opcoes": [
+        "Ampere.",
+        "Volt.",
+        "Watt.",
+        "Ohm."
+      ]
+    }
+  ]
+}
