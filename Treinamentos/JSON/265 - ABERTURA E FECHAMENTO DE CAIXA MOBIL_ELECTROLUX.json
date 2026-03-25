@@ -1,0 +1,52 @@
+{
+  "treinamento": "ABERTURA E FECHAMENTO DE CAIXA MOBIL_ELECTROLUX",
+  "id": 265,
+  "idChecklist": 177,
+  "perguntas": [
+    {
+      "pergunta": "5) Como poderá ser deslocado o CAIXA MOBIL?",
+      "opcoes": [
+        "Empurrar manualmente até o local desejado.",
+        "Somente com o uso de equipamentos adequados, como empilhadeira, rebocadores e transpaleteiras.",
+        "Entre duas pessoas para distribuir o peso.",
+        "Todas as alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) O que fazer antes de iniciar as atividades?",
+      "opcoes": [
+        "Inspecionar visualmente o ambiente e garantir que estou em local adequado e seguro, fora do raio de ação de máquinas e equipamentos, e também inspecionar as condições da Caixa Mobil.",
+        "Não é preciso cuidado.",
+        "É responsabilidade da Liderança e da Qualidade.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) Quais os Equipamentos de Proteção Individual (EPI's) devo utilizar?",
+      "opcoes": [
+        "Luva e mangote resistente a corte.",
+        "Não há necessidade de usar EPI's para essa tarefa.",
+        "É necessário o uso de casquete, óculos de segurança contra impacto, protetor auricular, uniforme ou colete refletivo, luva de segurança e mangote resistente a corte e sapato de segurança.",
+        "Todas as alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) Qual o benefício das CAIXAS MOBIL?",
+      "opcoes": [
+        "Não oferece benefícios.",
+        "Cabe em qualquer lugar.",
+        "As Caixas Mobil são excelentes para armazenar e transportar produtos de alta densidade, sendo muito comuns em fábricas ou indústrias.",
+        "Todas as alternativas."
+      ]
+    },
+    {
+      "pergunta": "1) O que é CAIXA MOBIL?",
+      "opcoes": [
+        "Um porta objeto portátil.",
+        "Um palete empalhável.",
+        "Elas são compostas de material plástico resistente e dobrável, e são capazes de aguentar altas cargas de peso e volume.",
+        "Nenhuma das alternativas."
+      ]
+    }
+  ]
+}
