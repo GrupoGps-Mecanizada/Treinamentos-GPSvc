@@ -1,0 +1,52 @@
+{
+  "treinamento": "GESTÃO DE PROJETOS",
+  "id": 680,
+  "idChecklist": 466,
+  "perguntas": [
+    {
+      "pergunta": "5) O que é necessário para uma gestão de projetos eficiente?",
+      "opcoes": [
+        "Seguir processos e metodologias.",
+        "Não definir claramente o escopo do projeto.",
+        "Não estabelecer metas e objetivos realistas.",
+        "Não monitorar o desempenho do projeto em relação aos padrões de qualidade."
+      ]
+    },
+    {
+      "pergunta": "4) Quais são os aspectos envolvidos na gestão integrada de projetos?",
+      "opcoes": [
+        "Escopo, tempo e qualidade.",
+        "Escopo, tempo e custo.",
+        "Escopo, qualidade e comunicação.",
+        "Escopo, tempo, custo, qualidade, riscos, recursos humanos e comunicação."
+      ]
+    },
+    {
+      "pergunta": "3) Qual é a etapa fundamental para uma gestão de projetos eficiente?",
+      "opcoes": [
+        "Planejamento das atividades.",
+        "Definição clara do escopo do projeto.",
+        "Gestão de riscos.",
+        "Gestão de recursos humanos."
+      ]
+    },
+    {
+      "pergunta": "2) Qual é o objetivo da gestão de projetos?",
+      "opcoes": [
+        "Reduzir custos.",
+        "Aumentar a eficiência.",
+        "Melhorar a qualidade dos produtos e serviços entregues.",
+        "Todas as alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "1) Qual é a definição de gestão de projetos?",
+      "opcoes": [
+        "Disciplina que envolve a venda de produtos e serviços.",
+        "Disciplina que envolve a gestão de recursos humanos.",
+        "Disciplina que envolve o planejamento, a organização, a execução e o controle de um projeto.",
+        "Disciplina que envolve a criação de produtos e serviços."
+      ]
+    }
+  ]
+}
