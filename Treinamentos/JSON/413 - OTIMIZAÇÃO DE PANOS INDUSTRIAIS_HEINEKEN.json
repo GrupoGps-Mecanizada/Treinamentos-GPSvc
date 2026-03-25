@@ -1,0 +1,52 @@
+{
+  "treinamento": "OTIMIZAÇÃO DE PANOS INDUSTRIAIS_HEINEKEN",
+  "id": 413,
+  "idChecklist": 306,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual a finalidade de otimizar os panos industriais de limpeza?",
+      "opcoes": [
+        "Nenhuma finalidade.",
+        "Agradar meu líder para receber uma promoção.",
+        "Agradar o cliente e a liderança da empresa.",
+        "Consumir adequadamente o pano industrial de limpeza evitando desperdícios, reduzindo custos e ainda contribuir com o meio ambiente."
+      ]
+    },
+    {
+      "pergunta": "4) Quais os benefícios de seguir esse procedimento?",
+      "opcoes": [
+        "Consumo adequado.",
+        "Redução de custos.",
+        "Apoio na preservação do meio ambiente.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) Qual o procedimento a seguir quando o pano industrial de limpeza estiver sujo?",
+      "opcoes": [
+        "Quando o pano estiver sujo, descarte na lixeira de resíduos contaminados.",
+        "Quando o pano estiver com as oito partes quadradas já utilizadas, verifique o estado de contaminação e não descarte, ele pode ser reutilizado no início da remoção de excessos de sujidade como óleos.",
+        "Quando o pano estiver com as 10 partes quadradas já utilizadas, descarte, não se deve reutilizar para a limpeza de óleos, graxas, borras ou outros resíduos.",
+        "Nenhuma das alternativas está correta."
+      ]
+    },
+    {
+      "pergunta": "2) Como os panos industriais devem ser dobrados?",
+      "opcoes": [
+        "Separe a maior quantidade de panos que poder e use sem controle.",
+        "Separe a quantidade de panos que realmente necessita, logo, estique o pano e dobre ao meio, então dobre ao meio novamente, de maneira que fique em formato de um quadrado.",
+        "Separe a quantidade de panos a serem utilizados antes do início de suas atividades, estique o pano dobrando até que assuma o formato de círculo.",
+        "Separe a quantidade de panos a serem utilizados antes do início de suas atividades, esticar o pano dobrando até que assuma o formato de triângulo."
+      ]
+    },
+    {
+      "pergunta": "1) Visando evitar desperdício e garantir a utilização adequada dos panos industriais de limpeza, é importante que alguns procedimentos sejam seguidos. Quais são eles?",
+      "opcoes": [
+        "Entregar panos industriais sem controle de fornecimento, pois não podemos deixar de fornecer os materiais para os Colaboradores.",
+        "Controlar apenas os panos industriais que retornam das linhas para higienização.",
+        "Controlar a distribuição, a devolução e a otimização de cada peça fornecida.",
+        "Não existe nenhum procedimento a ser seguido."
+      ]
+    }
+  ]
+}
