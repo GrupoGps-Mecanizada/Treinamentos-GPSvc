@@ -1,0 +1,52 @@
+{
+  "treinamento": "HIGIENE PESSOAL E HIGIENE DAS MÃOS_ALIMENTAÇÃO",
+  "id": 521,
+  "idChecklist": 324,
+  "perguntas": [
+    {
+      "pergunta": "5) O que é necessário para lavar as mãos corretamente:",
+      "opcoes": [
+        "Devemos usar sabonete cremoso, enxaguar e secar com papel toalha;",
+        "Lavar o rosto após a lavagem das mãos para conter o suor;",
+        "Lavar as mãos com sabonete bactericida, enxaguar e secar com papel toalha;",
+        "Lavar as mãos com sabonete bactericida, enxaguar e secar com pano multiúso."
+      ]
+    },
+    {
+      "pergunta": "4) Quando devemos lavar as mãos?",
+      "opcoes": [
+        "Ao lavar os cabelos e durante a manipulação de um alimento;",
+        "Após usar o sanitário e depois de recolher o lixo;",
+        "Antes de recolher o lixo;",
+        "Após trocar de várias atividades."
+      ]
+    },
+    {
+      "pergunta": "3) O que são bactérias e onde podemos encontrar?",
+      "opcoes": [
+        "São seres invisíveis, que se multiplicam em grande velocidade e podemos encontrar na boca;",
+        "São seres pequenos que podemos exterminar toda vez que nos incomoda;",
+        "São seres invisíveis presentes fora da cozinha, encontradas apenas no salão;",
+        "São seres benéficos que moram no nosso intestino."
+      ]
+    },
+    {
+      "pergunta": "2) Em um serviço de alimentação, é proibido:",
+      "opcoes": [
+        "Usar toucas descartáveis e botas de PVC;",
+        "Usar brincos de prata, anéis e costeletas;",
+        "Avental de frente, redinha para proteção de cabelos;",
+        "Uniforme, barba feita e cabelos curtos."
+      ]
+    },
+    {
+      "pergunta": "1) O que é cuidar da Higiene pessoal?",
+      "opcoes": [
+        "É tomar banho todos os dias, tomar suco isotônico diariamente;",
+        "É escovar os dentes após as refeições, tomar banho todos os dias, mas sem lavar o cabelo;",
+        "É ter o uniforme limpo, tomar água filtrada, tomar banho todos os dias;",
+        "É escovar os dentes sempre à noite e tomar água filtrada."
+      ]
+    }
+  ]
+}
