@@ -1,0 +1,52 @@
+{
+  "treinamento": "FERRAMENTA MASP (8D) – MÉTODO DE ANÁLISE E SOLUÇÃO DE PROBLEMAS — MÓD I",
+  "id": 1101,
+  "idChecklist": 873,
+  "perguntas": [
+    {
+      "pergunta": "5) AS AÇÕES DE CONTENÇÃO E CURTO PRAZO PODEM SE TORNAR DEFINITIVAS?",
+      "opcoes": [
+        "CASO SEJAM AÇÕES QUE RESOLVAM O PROBLEMA SIM.",
+        "APENAS AS AÇÕES DE CONTENÇÃO PODEM SER DEFINITIVAS.",
+        "APENAS AS AÇÕES DE CURTO PRAZO PODEM SER DEFINITIVAS.",
+        "NÃO, ELAS DEVEM SER USADAS APENAS ATÉ A IMPLEMENTAÇÃO DAS AÇÕES DEFINITIVAS QUE ELIMINARÃO A CAUSA RAIZ."
+      ]
+    },
+    {
+      "pergunta": "4) COMO A DESCRIÇÃO DO PROBLEMA DEVE SER E QUAL METODOLOGIA É SUGERIDA?",
+      "opcoes": [
+        "A DESCRIÇÃO PRECISA SER CLARA, OBJETIVA E COMPLETA. PARA FACILITAR, SUGERE-SE UTILIZAR A METODOLOGIA 5W5H.",
+        "A DESCRIÇÃO PRECISA SER CLARA, OBJETIVA E COMPLETA. PARA FACILITAR, SUGERE-SE UTILIZAR A METODOLOGIA 5W2H.",
+        "A DESCRIÇÃO PRECISA SER CLARA, OBJETIVA E INCOMPLETA. PARA FACILITAR, SUGERE-SE UTILIZAR A METODOLOGIA 5W2H.",
+        "NENHUMA DAS ALTERNATIVAS ACIMA."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É A FUNÇÃO DA PRIMEIRA DISCIPLINA DO MASP (8D)?",
+      "opcoes": [
+        "DESCRIÇÃO DO PROBLEMA.",
+        "APROVAÇÃO.",
+        "VERIFICAÇÃO DA DOCUMENTAÇÃO.",
+        "ANÁLISE DA CAUSA RAIZ."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE REPRESENTA O \"D\" NO MASP (8D)?",
+      "opcoes": [
+        "DOCUMENTAÇÃO.",
+        "DEFINIÇÃO.",
+        "DISCIPLINA.",
+        "DEMONSTRAÇÃO."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É A ORIGEM DO MASP?",
+      "opcoes": [
+        "JAPÃO.",
+        "FORD.",
+        "EUA.",
+        "CHINA."
+      ]
+    }
+  ]
+}
