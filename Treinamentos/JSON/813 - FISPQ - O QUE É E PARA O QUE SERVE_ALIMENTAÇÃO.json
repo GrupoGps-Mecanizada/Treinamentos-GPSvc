@@ -1,0 +1,52 @@
+{
+  "treinamento": "FISPQ - O QUE É E PARA O QUE SERVE_ALIMENTAÇÃO",
+  "id": 813,
+  "idChecklist": 588,
+  "perguntas": [
+    {
+      "pergunta": "5) ONDE DEVEM FICAR AS FISPQ’S?",
+      "opcoes": [
+        "GUARDADAS NA GAVETA E TRANCADAS COM CHAVE.",
+        "DEVE FICAR GUARDADA NO ESTOQUE.",
+        "FICAR DISPONÍVEL A TODOS QUE MANIPULAM PRODUTOS QUÍMICOS.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "4) DEVO LER AS FISPQ’S COM QUE FREQUÊNCIA?",
+      "opcoes": [
+        "QUANDO TIVER TEMPO.",
+        "NUNCA, ELA NÃO ME AGREGA NADA.",
+        "SEMPRE QUE TIVER DÚVIDAS SOBRE O MANUSEIO E ARMAZENAMENTO.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "3) A FISPQ É UM DOCUMENTO OBRIGATÓRIO?",
+      "opcoes": [
+        "SIM E DEVE ACOMPANHAR O PRODUTO QUÍMICO PARA SER CONSULTADO A QUALQUER MOMENTO.",
+        "NÃO, FICA OPCIONAL A UTILIZAÇÃO.",
+        "TALVEZ, DEPENDE DO TIPO DE COZINHA.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS INFORMAÇÕES TEMOS NA FISPQ?",
+      "opcoes": [
+        "NÃO TEMOS NENHUMA INFORMAÇÃO.",
+        "INFORMAÇÕES FUNDAMENTAIS SOBRE O PRODUTO QUÍMICO.",
+        "INFORMAÇÕES DIVERSAS SOBRE A ROTINA DA COZINHA.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE SIGNIFICA A SIGLA F.I.S.P.Q?",
+      "opcoes": [
+        "FICHA DE INFORMAÇÃO DE SEGURANÇA DE PRODUTO QUÍMICO.",
+        "FICHA DE INTERAÇÃO DE SEGURIDADE DE PRODUTO QUÍMICO.",
+        "FICHA DE INFORMAÇÃO DE SEGURIDADE DE PRODUTO QUINTO.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    }
+  ]
+}
