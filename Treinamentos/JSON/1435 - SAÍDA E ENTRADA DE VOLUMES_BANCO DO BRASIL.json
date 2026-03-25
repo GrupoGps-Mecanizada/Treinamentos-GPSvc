@@ -1,0 +1,52 @@
+{
+  "treinamento": "SAÍDA E ENTRADA DE VOLUMES_BANCO DO BRASIL",
+  "id": 1435,
+  "idChecklist": 1184,
+  "perguntas": [
+    {
+      "pergunta": "5)O QUE FAZER EM CASO DE SEQUESTRO?",
+      "opcoes": [
+        "RESISTIR FISICAMENTE",
+        "CONFRONTAR O SUSPEITO",
+        "AGIR COM NATURALIDADE E ACIONAR O ALARME",
+        "FECHAR A AGÊNCIA"
+      ]
+    },
+    {
+      "pergunta": "4) QUAIS SINAIS INDICAM COMPORTAMENTO DE RISCO?",
+      "opcoes": [
+        "CALMA EXCESSIVA",
+        "FALTA DE INTERAÇÃO",
+        "CHEGAR CEDO",
+        "NERVOSISMO E INQUIETUDE"
+      ]
+    },
+    {
+      "pergunta": "3) O QUE FAZER SE ALGUÉM SE RECUSAR A EXIBIR UM VOLUME?",
+      "opcoes": [
+        "PERMITIR A SAÍDA SEM VERIFICAÇÃO",
+        "TRAVAR A PGDM E AVISAR O SUPERIOR",
+        "CHAMAR A POLÍCIA IMEDIATAMENTE",
+        "REGISTRAR UMA OCORRÊNCIA DEPOIS"
+      ]
+    },
+    {
+      "pergunta": "2) O QUE DEVE SER FEITO AO TRANSPORTAR VOLUMES?",
+      "opcoes": [
+        "APENAS REGISTRÁ-LOS NO SISTEMA",
+        "APRESENTÁ-LOS À VIGILÂNCIA",
+        "GUARDÁ-LOS SEM VERIFICAÇÃO",
+        "SOLICITAR AUTORIZAÇÃO ESCRITA"
+      ]
+    },
+    {
+      "pergunta": "1) POR QUE O CONTROLE DA ENTRADA E SAÍDA DE VOLUMES É ESSENCIAL NAS AGÊNCIAS BANCÁRIAS?",
+      "opcoes": [
+        "PARA REDUZIR CUSTOS OPERACIONAIS",
+        "PARA FACILITAR O FLUXO DE PESSOAS",
+        "PARA GARANTIR A SEGURANÇA DE TODOS",
+        "PARA EVITAR ATRASOS NO ATENDIMENTO"
+      ]
+    }
+  ]
+}
