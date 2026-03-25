@@ -1,0 +1,52 @@
+{
+  "treinamento": "FORMAÇÃO COM QUALIDADE E PERCEPÇÃO DE LIMPEZA EM SHOPPINGS",
+  "id": 422,
+  "idChecklist": 315,
+  "perguntas": [
+    {
+      "pergunta": "5) Neste treinamento vimos que devemos deixar os ambientes sempre bem limpos e organizados e com a sensação de",
+      "opcoes": [
+        "Não quer voltar",
+        "De bem-estar",
+        "De desorganização",
+        "De sujo"
+      ]
+    },
+    {
+      "pergunta": "4) Para um bom planejamento das atividades quantos pontos devemos considerar?",
+      "opcoes": [
+        "5 pontos",
+        "3 pontos",
+        "7 pontos",
+        "9 pontos"
+      ]
+    },
+    {
+      "pergunta": "3) O que devemos ter em um planejamento?",
+      "opcoes": [
+        "Estratégia, eficiência e gastos",
+        "Estratégia, eficiência, inteligência e moleza",
+        "Estratégia, eficiência, inteligência, produtividade e resultado",
+        "Estratégia, eficiência, inteligência, atitude, produtividade e resultado"
+      ]
+    },
+    {
+      "pergunta": "2) Para ter uma excelência na qualidade devemos fazer dela um",
+      "opcoes": [
+        "Um hábito",
+        "Um vício",
+        "Uma tarefa",
+        "Uma limpeza"
+      ]
+    },
+    {
+      "pergunta": "1) Em relação a apresentação pessoal, como devemos estar?",
+      "opcoes": [
+        "Estar com o uniforme amassado e rasgado",
+        "Estar com o uniforme alinhado barba e cabelos aparados e preso",
+        "Usar maquiagem pesada e chamativa",
+        "Andar com o sapato sujo e rasgado"
+      ]
+    }
+  ]
+}
