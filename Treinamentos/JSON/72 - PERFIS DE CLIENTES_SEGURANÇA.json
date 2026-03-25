@@ -1,0 +1,52 @@
+{
+  "treinamento": "PERFIS DE CLIENTES_SEGURANÇA",
+  "id": 72,
+  "idChecklist": 45,
+  "perguntas": [
+    {
+      "pergunta": "5) Conforme abordado no treinamento, COMPLETE a frase “A realidade de um mundo conectado faz com que os Clientes fiquem”:",
+      "opcoes": [
+        "Cada vez menos atentos ao mundo ao redor e sem grandes exigências.",
+        "Cada vez mais exigentes, atentos e questionadores, mas por outro lado sentem falta de uma comunicação mais próxima e pessoal.",
+        "Sempre desconectados do mundo real e não se importam de como serão atendidos.",
+        "Sempre irritados e sem desejo de comunicação pessoal ou de serem bem atendidos."
+      ]
+    },
+    {
+      "pergunta": "4) Baseado no treinamento, qual a afirmação é VERDADEIRA?",
+      "opcoes": [
+        "Se um pequeno deslize é suficiente para perder um Cliente, atender sempre bem é o primeiro passo para fidelizá-los.",
+        "Atender o Cliente é sempre muito fácil independente do perfil.",
+        "Todos os perfis de Clientes são iguais, ter deslizes não ocasionam nenhum problema.",
+        "Cometer deslizes grandes não geram nenhuma consequência na confiança do Cliente."
+      ]
+    },
+    {
+      "pergunta": "3) No vídeo citamos duas competências essenciais para se adaptar ao perfil de cada Cliente, quais são?",
+      "opcoes": [
+        "Flexibilidade e Acanhamento.",
+        "Comunicação e Flexibilidade.",
+        "Comunicação e Bom Humor.",
+        "Rigidez e Comunicação."
+      ]
+    },
+    {
+      "pergunta": "2) Cite quais são os tipos de Clientes apresentados?",
+      "opcoes": [
+        "Clientes Detalhistas, Bem-humorados, Agressivos, Ansiosos, Desconfiados, Bem informados, Tímidos e Irritados.",
+        "Clientes Detalhistas, Mal-humorados, Agressivos, Irritados, Desconfiados, Bem informados, Confiantes e Sossegados.",
+        "Clientes Objetivos, Bem-humorados, Soberbo, Calmos, Desconfiados, Mal informados, Sociável e Irritados.",
+        "Clientes Recatado, Mal-humorados, Agressivos, Ansiosos, Desconfiados, Bem informados, Confiantes e Sossegados."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o segredo do Grupo GPS para se tornar sinônimo de qualidade?",
+      "opcoes": [
+        "Foco total no CLIENTE! Afinal cada Cliente é único.",
+        "Atender Clientes, todos são iguais de atender.",
+        "Não cumprir procedimentos do Cliente.",
+        "Ignorar os Clientes."
+      ]
+    }
+  ]
+}
