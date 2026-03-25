@@ -1,0 +1,52 @@
+{
+  "treinamento": "1.10 COMO VINCULAR UMA ROTINA A DIVERSOS LOCAIS_GPSVISTA",
+  "id": 361,
+  "idChecklist": 259,
+  "perguntas": [
+    {
+      "pergunta": "5) O que acontece quando vinculamos a rotina aos locais e ativos?",
+      "opcoes": [
+        "Criar o ativo em estrutura e especificar todos os dados cadastrais de gestão de ativos",
+        "Replicamos as rotinas e garantimos a geração de tarefas de acordo com os locais",
+        "Criar em materiais os dados da quantidade de ativos existentes",
+        "Todas as alternativas anteriores"
+      ]
+    },
+    {
+      "pergunta": "4) O vínculo é aplicado a",
+      "opcoes": [
+        "Locais e Ativos",
+        "Somente Locais",
+        "Somente ativos",
+        "Nenhuma das alternativas anteriores"
+      ]
+    },
+    {
+      "pergunta": "3) Quais as informações necessárias para vincular uma rotina?",
+      "opcoes": [
+        "Nome da rotina",
+        "Apenas escolher os locais e ativos que vão seguir os parâmetros das rotinas",
+        "Valores dos equipamentos",
+        "Somente a Marca e modelo"
+      ]
+    },
+    {
+      "pergunta": "2) Qual o ícone que representa os vínculos?",
+      "opcoes": [
+        "Clip’s",
+        "Engrenagem",
+        "Lápis",
+        "Hashtag"
+      ]
+    },
+    {
+      "pergunta": "1) Qual o objetivo dos vínculos?",
+      "opcoes": [
+        "Para cadastrar as tarefas",
+        "Para atribuir as rotinas a diversos locais e ativos",
+        "Para vincular os ativos a diversos locais",
+        "Para criar atividades de ativos de refrigeração"
+      ]
+    }
+  ]
+}
