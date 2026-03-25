@@ -1,0 +1,52 @@
+{
+  "treinamento": "ACIDENTES COM O ÓLEO DE COZINHA_ALIMENTAÇÃO",
+  "id": 954,
+  "idChecklist": 731,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL A TEMPERATURA IDEAL DO ÓLEO QUENTE PARA EVITAR PRINCÍPIO DE INCÊNDIO?",
+      "opcoes": [
+        "(0°C).",
+        "(-10°C).",
+        "(-20°C).",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "4) POSSO COLOCAR ÁGUA NO ÓLEO QUENTE?",
+      "opcoes": [
+        "SIM.",
+        "SIM, MAS PEQUENA QUANTIDADE.",
+        "NÃO.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "3) QUAIS EPI’S DEVEMOS USAR PARA O MANUSEIO DO ÓLEO DE COZINHA?",
+      "opcoes": [
+        "LUVAS.",
+        "AVENTAIS E TOUCAS.",
+        "LUVAS, AVENTAL, MANGOTE, CALÇADOS E TOUCAS.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS SÃO OS CUIDADOS QUE DEVEMOS TER COM O ÓLEO DE COZINHA?",
+      "opcoes": [
+        "JOGAR NO RALO DA PIA.",
+        "DEVE SER ARMAZENADO EM RECIPIENTES APROPRIADOS.",
+        "JOGAR NA TERRA.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE É ÓLEO DE COZINHA?",
+      "opcoes": [
+        "O ÓLEO DE COZINHA É UMA GORDURA VEGETAL, ANIMAL OU SINTÉTICA, USADA NA FRITURA.",
+        "É UM CONJUNTO DE ÁCIDOS E ÓLEOS.",
+        "É UM CONJUNTO DE ÓLEOS DE TODAS AS ESPÉCIES.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    }
+  ]
+}
