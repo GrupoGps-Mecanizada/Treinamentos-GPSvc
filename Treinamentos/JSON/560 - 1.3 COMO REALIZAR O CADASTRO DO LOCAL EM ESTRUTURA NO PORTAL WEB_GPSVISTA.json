@@ -1,0 +1,52 @@
+{
+  "treinamento": "1.3 COMO REALIZAR O CADASTRO DO LOCAL EM ESTRUTURA NO PORTAL WEB_GPSVISTA",
+  "id": 560,
+  "idChecklist": 362,
+  "perguntas": [
+    {
+      "pergunta": "5) Como vincular rotinas às estruturas?",
+      "opcoes": [
+        "Criando um workflow.",
+        "Cadastrando um checklist.",
+        "Vinculando as tarefas.",
+        "Criando uma rotina pela própria estrutura."
+      ]
+    },
+    {
+      "pergunta": "4) É possível realizar somente o cadastro de locais no modo de árvore?",
+      "opcoes": [
+        "Sim, obrigatório.",
+        "Não, também é possível pelo modo de Tabela.",
+        "Sim, e se não tiver o CR não é permitido cadastrar.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Qual o ícone que é selecionado para o cadastro de locais?",
+      "opcoes": [
+        "Selecione o botão de pausar.",
+        "Selecione o formato de Grid para criar.",
+        "Selecione o ícone de “+” e em seguida escolha a opção: “Local”.",
+        "Todas as alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "2) Quais as informações obrigatórias?",
+      "opcoes": [
+        "Metragem.",
+        "Tipo de piso.",
+        "Nome do local.",
+        "Quantidade de vasos sanitários."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o objetivo do cadastro de locais?",
+      "opcoes": [
+        "Cadastrar em níveis o mapeamento das Plantas do Cliente.",
+        "Cadastrar a metragem quadrada.",
+        "Cadastrar os CR.",
+        "Não há nenhum objetivo."
+      ]
+    }
+  ]
+}
