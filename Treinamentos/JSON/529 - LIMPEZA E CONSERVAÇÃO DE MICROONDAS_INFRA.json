@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA E CONSERVAÇÃO DE MICROONDAS_INFRA",
+  "id": 529,
+  "idChecklist": 331,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual a ordem CORRETA da segunda etapa: limpeza externa do micro-ondas e os materiais utilizados.",
+      "opcoes": [
+        "Parede interna, parte externa superior, laterais, porta e display somente com pano de microfibra amarelo ou pano descartável seco, não é necessário utilizar produto químico.",
+        "Parte superior, laterais, porta e display com a fibra branca umedecida com detergente neutro e enxágue com pano de microfibra amarelo ou pano descartável.",
+        "Prato de vidro, porta e display com a fibra branca umedecida com água com pano de microfibra amarelo ou pano descartável.",
+        "Portas e laterais, somente pano de microfibra amarelo ou pano descartável seco."
+      ]
+    },
+    {
+      "pergunta": "4) Qual o passo a passo da primeira etapa: limpeza interna do micro-ondas.",
+      "opcoes": [
+        "Limpeza do suporte giratório com detergente neutro e fibra branca ou dupla face de louças.",
+        "Limpeza do prato de vidro com detergente neutro e fibra branca ou dupla face de louças.",
+        "Limpeza do teto, paredes, parte da base do micro-ondas e porta interna, com a fibra branca umedecida com detergente neutro e enxágue com pano de microfibra amarelo ou pano descartável.",
+        "Todas alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "3) Qual a alternativa INCORRETA sobre os cuidados após finalizar a limpeza e conservação do micro-ondas?",
+      "opcoes": [
+        "Devolver o suporte giratório.",
+        "Religar o micro-ondas na tomada elétrica sempre utilizando as luvas.",
+        "Devolver o prato de vidro.",
+        "Recolher todo material de limpeza utilizado."
+      ]
+    },
+    {
+      "pergunta": "2) Quais as partes presentes na área interna do micro-ondas?",
+      "opcoes": [
+        "Display e ventoinha.",
+        "Porta e suporte giratório.",
+        "Paredes internas, teto, parte interna da porta, prato de vidro e suporte giratório.",
+        "Não há distinção entre área interna e externa do micro-ondas."
+      ]
+    },
+    {
+      "pergunta": "1) Qual alternativa está INCORRRETA sobre limpeza de micro-ondas?",
+      "opcoes": [
+        "A limpeza é somente da área externa do micro-ondas.",
+        "É utilizado para aquecer alimentos por isso é importante manter a limpeza com regularidade.",
+        "Sua limpeza com frequência promove a segurança alimentar.",
+        "Devemos primeiro limpar a área interna e depois a área externa."
+      ]
+    }
+  ]
+}
