@@ -1,0 +1,52 @@
+{
+  "treinamento": "PALETIZAÇÃO DO PRODUTO ACABADO-LINHA EO.EX_TRADE_TBR_BRIDGESTONE_LOGHIS",
+  "id": 196,
+  "idChecklist": 116,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL TIPO DE PNEU PRECISA SER POSICIONADO APOIADO POR UMA BASE E INCLINADO?",
+      "opcoes": [
+        "TBR.",
+        "LTR.",
+        "PSR.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL PRODUTO ACABADO É DESTINADO AO MERCADO DE REPOSIÇÃO E REVENDEDORES?",
+      "opcoes": [
+        "TBR.",
+        "TRADE/TR – TRANSFERÊNCIA.",
+        "PSR/LTR.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL NOME DO RELATÓRIO DE PRODUÇÃO QUE É GERADO NO INÍCIO DE CADA TURNO?",
+      "opcoes": [
+        "Relatório de produção de separação.",
+        "Relatório de produção de carregamento.",
+        "Relatório de pneus armazenados.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) PARA QUAL MERCADO É DESTINADO OS PNEUS TRADE/TR?",
+      "opcoes": [
+        "Mercado de Reposição e Revendedores.",
+        "Mercado Interno.",
+        "Mercado Externo.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "1) O CANAL EO (EQUIPAMENTO ORIGINAL) É DESTINADO À QUAL CLIENTE?",
+      "opcoes": [
+        "Hipermercados em geral.",
+        "Montadoras (Man, Mercedes, Scania, Volvo).",
+        "Mercado externo.",
+        "Nenhuma das alternativas."
+      ]
+    }
+  ]
+}
