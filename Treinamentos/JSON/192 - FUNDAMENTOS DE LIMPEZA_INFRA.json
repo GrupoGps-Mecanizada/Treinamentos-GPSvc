@@ -1,0 +1,52 @@
+{
+  "treinamento": "FUNDAMENTOS DE LIMPEZA_INFRA",
+  "id": 192,
+  "idChecklist": 112,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual alternativa é a correta como exemplo de áreas classificadas como CRÍTICAS?",
+      "opcoes": [
+        "Somente consultórios e qualquer área hospitalar.",
+        "Salas de reunião, áreas administrativas e almoxarifado.",
+        "Essa classificação não existe.",
+        "Sala cirúrgica, UTI, Sanitários e DML."
+      ]
+    },
+    {
+      "pergunta": "4) É correto afirmar sobre a desinfecção?",
+      "opcoes": [
+        "Não faz parte de um protocolo, pois é opcional.",
+        "Faz remoção daquilo que é visível, evitando nenhum tipo de doença ou contaminação.",
+        "Ideal para áreas de pouca contaminação.",
+        "Ao realizá-la podemos prevenir doenças provocadas por vírus e bactérias, tais como: Covid-19, Gripe, Tuberculose, Meningite, entre outras."
+      ]
+    },
+    {
+      "pergunta": "3) Qual das opções abaixo NÃO é um princípio básico da limpeza?",
+      "opcoes": [
+        "Realizar a limpeza do mais limpo para o mais sujo.",
+        "Limpar em movimentos de zigue-zague.",
+        "Limpar de dentro para fora.",
+        "Limpar em movimentos de sentido único."
+      ]
+    },
+    {
+      "pergunta": "2) Qual alternativa é a correta como exemplo de áreas classificadas como NÃO CRÍTICAS?",
+      "opcoes": [
+        "Consultórios, quartos e enfermarias.",
+        "Salas de reunião, áreas administrativas, etc.",
+        "Só existem áreas críticas e semicríticas.",
+        "Sala cirúrgica, UTI, Sanitários e DML."
+      ]
+    },
+    {
+      "pergunta": "1) O que é desinfecção?",
+      "opcoes": [
+        "Limpeza que remove as sujidades visíveis.",
+        "É o processo que visa a eliminação dos microrganismos das superfícies.",
+        "A utilização de pano seco em superfícies contaminadas.",
+        "É um processo realizado somente em banheiros."
+      ]
+    }
+  ]
+}
