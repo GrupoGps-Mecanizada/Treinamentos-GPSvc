@@ -1,0 +1,52 @@
+{
+  "treinamento": "HIGIENIZAÇÃO DE UTENSÍLIOS E PANELAS_ALIMENTAÇÃO",
+  "id": 204,
+  "idChecklist": 120,
+  "perguntas": [
+    {
+      "pergunta": "5) Como deve ser a postura durante a atividade?",
+      "opcoes": [
+        "Deve ser uma postura ergonomicamente correta e utilizando todos os EPI's.",
+        "Apoiado em um pé só e sem apoiar os utensílios.",
+        "Mantendo a distância para não ter contato com os produtos utilizados.",
+        "Somente utilizando os EPI's sem preocupações com a postura."
+      ]
+    },
+    {
+      "pergunta": "4) Como devemos utilizar os produtos químicos no processo de limpeza e higienização?",
+      "opcoes": [
+        "Conforme recomendação do fabricante e FISPQ.",
+        "Misturando com outros produtos.",
+        "Não utilizar.",
+        "Somente se estiver muito sujo."
+      ]
+    },
+    {
+      "pergunta": "3) Podemos afirmar que após o uso dos equipamentos de proteção individual (EPI's), os mesmos devem ser?",
+      "opcoes": [
+        "Descartados no lixo.",
+        "Deixados sobre a bancada de trabalho.",
+        "Devem ser higienizados e guardados corretamente.",
+        "Levados para casa."
+      ]
+    },
+    {
+      "pergunta": "2) Podemos utilizar produtos químicos sem uso de Equipamentos de Proteção Individual (EPI's)?",
+      "opcoes": [
+        "Sim.",
+        "Sim, porém rapidamente.",
+        "Somente se for necessário.",
+        "Não, de forma alguma poderá ser utilizado sem os EPI's."
+      ]
+    },
+    {
+      "pergunta": "1) Quais Equipamentos de Proteção Individual (EPI's) são necessários para as atividades de lavagem de utensílios e panelas?",
+      "opcoes": [
+        "Óculos de proteção, avental de proteção, luva de proteção (látex com ranhuras ou nitrílica) e bota de segurança.",
+        "Óculos e luvas.",
+        "Avental e bota de segurança.",
+        "Bota de segurança e avental."
+      ]
+    }
+  ]
+}
