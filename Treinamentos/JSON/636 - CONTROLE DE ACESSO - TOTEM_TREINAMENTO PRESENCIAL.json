@@ -1,0 +1,52 @@
+{
+  "treinamento": "CONTROLE DE ACESSO - TOTEM_TREINAMENTO PRESENCIAL",
+  "id": 636,
+  "idChecklist": 422,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual alternativa abaixo indica um comportamento INCORRETO para que as irregularidades sejam percebidas pelo APAC durante as abordagens?",
+      "opcoes": [
+        "Realizar um atendimento por vez.",
+        "Manter o foco/atenção na leitura dos cartões de embarque e identificação.",
+        "Atender o telefone de cabeça baixa, deixando de visualizar o ambiente.",
+        "Manter-se de pé ao realizar as abordagens"
+      ]
+    },
+    {
+      "pergunta": "4) Quais destas opções indicam uma das medidas CORRETAS ao identificar uma irregularidade durante uma abordagem?",
+      "opcoes": [
+        "O APAC deverá dar voz de prisão à pessoa.",
+        "Manter a tranquilidade, agindo com profissionalismo e respeito e acionando a supervisão.",
+        "Obrigar à pessoa a dar explicações sobre o ocorrido.",
+        "Não fazer nada e liberar o acesso da pessoa às áreas restritas."
+      ]
+    },
+    {
+      "pergunta": "3) Com relação à postura no posto de trabalho, o APAC deve sempre se manter:",
+      "opcoes": [
+        "Em posição de visualização de todo o ambiente.",
+        "Sentado, aguardando os Clientes embarcarem.",
+        "De costas para o local de movimentação de Clientes.",
+        "De cabeça baixa atendendo o telefone."
+      ]
+    },
+    {
+      "pergunta": "2) Em que momento a CHT deve ser exigida?",
+      "opcoes": [
+        "No momento do embarque de passageiros domésticos.",
+        "Durante a checagem da tripulação que se encontra em solo internacional.",
+        "Durante a abordagem dos passageiros internacionais.",
+        "Durante a checagem da tripulação que se encontra em solo nacional."
+      ]
+    },
+    {
+      "pergunta": "1) Quais os tipos de clientes que um APAC deve atender com um serviço excelência operacional?",
+      "opcoes": [
+        "Somente passageiros.",
+        "Somente Cliente internos.",
+        "Cliente internos e externos.",
+        "Somente Clientes externos."
+      ]
+    }
+  ]
+}
