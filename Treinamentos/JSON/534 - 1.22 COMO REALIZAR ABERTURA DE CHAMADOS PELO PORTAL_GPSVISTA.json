@@ -1,0 +1,52 @@
+{
+  "treinamento": "1.22 COMO REALIZAR ABERTURA DE CHAMADOS PELO PORTAL_GPSVISTA",
+  "id": 534,
+  "idChecklist": 336,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais os passos são necessários caso o chamado seja específico?",
+      "opcoes": [
+        "Nenhum, basta abrir e já terá uma tarefa no APP;",
+        "Acessar a Íris;",
+        "Acessar a WEB e atribuir uma tarefa ao executor responsável;",
+        "Todas as alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "4) Quais informações são obrigatórios?",
+      "opcoes": [
+        "Apenas a descrição;",
+        "Descrição do chamado, tipo e criticidade;",
+        "Escolher o tipo;",
+        "Escolher a tarefa."
+      ]
+    },
+    {
+      "pergunta": "3) Qual a finalidade do Chamado Comum?",
+      "opcoes": [
+        "Estar vinculado a uma tarefa contratual e ser disponibilizada no momento aos responsáveis;",
+        "Chamado de emergência;",
+        "Estar vinculado a um serviço específico;",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "2) O que é um chamado específico?",
+      "opcoes": [
+        "Chamados de Work Flow;",
+        "Chamados de IOT;",
+        "Cadastro de rotinas;",
+        "Chamados relacionados a um tipo de serviço específico, que precisará de atribuição."
+      ]
+    },
+    {
+      "pergunta": "1) Quais as opções de chamados dentro do GPS Vista?",
+      "opcoes": [
+        "Chamados corretivos;",
+        "Chamado Comum e Chamado Específico;",
+        "Somente Chamado Comum;",
+        "Somente chamado de refrigeração."
+      ]
+    }
+  ]
+}
