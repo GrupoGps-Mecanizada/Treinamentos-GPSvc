@@ -1,0 +1,52 @@
+{
+  "treinamento": "PDL 23_DICAS DE ORATÓRIA MOD.2",
+  "id": 587,
+  "idChecklist": 375,
+  "perguntas": [
+    {
+      "pergunta": "5) Com base no treinamento, qual a maneira certa de se portar para adquirir uma boa oratória?",
+      "opcoes": [
+        "Ter a postura ereta, se comunicando corretamente, demonstrando atenção, buscando sempre olhar nos olhos nas pessoas.",
+        "Se comunicar corretamente, de forma firme, postura corporal não faz diferença neste aspecto.",
+        "Estabelecer um diálogo assertivo, sendo necessário passar mais tempo falando do que ouvindo.",
+        "Fazer contato visual, decorando o que vai falar e seguir um roteiro programado, pois, a prioridade não é prestar atenção nas pessoas, mas que prestem atenção na sua fala."
+      ]
+    },
+    {
+      "pergunta": "4) Conforme o treinamento, o que é importante destacar sobre o contato visual durante oratória?",
+      "opcoes": [
+        "O contato visual deve ser direto, para parecer intimidador.",
+        "O contato visual deve ser evitado, devemos olhar para o chão da sala.",
+        "Deve olhar para os diversos cantos da sala, dando a impressão de visão geral.",
+        "Deve ser evitado, olhando para o teto, para parecer mais convicto."
+      ]
+    },
+    {
+      "pergunta": "3) De acordo com o treinamento, é errado falar rápido demais?",
+      "opcoes": [
+        "Sim, pois vai dificultar na compreensão de quem está ouvindo.",
+        "Sim, pois cadência é o oposto de falar rápido.",
+        "Não, pois significa domínio do assunto abordado.",
+        "Não, pois, o importante é a garantir a boa pronúncia das palavras."
+      ]
+    },
+    {
+      "pergunta": "2) Com base no treinamento, o que é necessário para uma oratória cadenciada?",
+      "opcoes": [
+        "Falar de forma clara, objetiva, mesmo que prejudique a fluência das ideias.",
+        "Falar de forma cadenciada, respeitando as características pessoais, sem prejudicar a fluência das ideias.",
+        "Falar de uma forma clara, diretiva, para não precisar repetir as informações.",
+        "Falar de forma cadenciada, mesmo que isso não esteja de acordo com as características pessoais."
+      ]
+    },
+    {
+      "pergunta": "1) De acordo com o treinamento, para que exista uma boa oratória, é importante:",
+      "opcoes": [
+        "Falar de forma cadenciada, nem rápido nem devagar demais.",
+        "Falar bastante, o importante é passar todas as informações.",
+        "Falar de forma cadenciada, ou seja, bem devagar.",
+        "Falar baixinho, com o mínimo de informação para não gerar desconforto."
+      ]
+    }
+  ]
+}
