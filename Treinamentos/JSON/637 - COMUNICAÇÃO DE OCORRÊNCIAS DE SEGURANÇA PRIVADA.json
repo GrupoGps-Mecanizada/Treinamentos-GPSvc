@@ -1,0 +1,52 @@
+{
+  "treinamento": "COMUNICAÇÃO DE OCORRÊNCIAS DE SEGURANÇA PRIVADA",
+  "id": 637,
+  "idChecklist": 423,
+  "perguntas": [
+    {
+      "pergunta": "5) O vigilante pode realizar a comunicação (boletim de ocorrência) sozinho aos órgãos policiais?",
+      "opcoes": [
+        "Sim, o vigilante não precisa estar acompanhado.",
+        "Não, o proprietário da empresa deve acompanhar todo o processo.",
+        "Não, a liderança deve acompanhar todo o processo.",
+        "Sim, a liderança precisa apenas estar ciente do ocorrido."
+      ]
+    },
+    {
+      "pergunta": "4) Onde e em quanto tempo a ocorrência deve ser feita?",
+      "opcoes": [
+        "A comunicação deve ser feita no SISTEMA GESP (Gestão Eletrônica de Segurança), em até 24 horas.",
+        "A comunicação deve ser feita no sistema da GPS, em até 24 horas.",
+        "A comunicação deve ser feita no SISTEMA GESP (Gestão Eletrônica de Segurança), em até 48 horas.",
+        "A comunicação deve ser feita apenas por e-mail para diretoria da GPS."
+      ]
+    },
+    {
+      "pergunta": "3) Quais informações importantes devem constar nas comunicações?",
+      "opcoes": [
+        "Local da ocorrência, dados dos produtos controlados e apenas nome da empresa.",
+        "Data e hora exata dos fatos, local da ocorrência, dados dos produtos controlados, nome da empresa e do vigilante envolvido.",
+        "Suposta data e hora dos fatos e nome do vigilante apenas.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "2) O que é considerado produto controlado?",
+      "opcoes": [
+        "São armas letais, coletes balísticos e munições.",
+        "São armas não letais, coletes balísticos e munições.",
+        "São armas letais e não letais, coletes balísticos e munições.",
+        "São apenas armas letais e não letais."
+      ]
+    },
+    {
+      "pergunta": "1) O que é considerado comunicação de ocorrência operacional de segurança privada?",
+      "opcoes": [
+        "Ocorrências operacionais, são aquelas que caracterizam furto, roubo, perda, extravio ou recuperação das armas, munições, coletes de proteção balística e outros incidentes com produtos controlados.",
+        "Ocorrências operacionais, são aquelas que caracterizam furto, roubo e extravio de armas e coletes.",
+        "Ocorrências operacionais, são aquelas que caracterizam apenas perda, furto ou extravio de armas.",
+        "Ocorrências operacionais, são aquelas que caracterizam apenas furto ou extravio de coletes de proteção balística."
+      ]
+    }
+  ]
+}
