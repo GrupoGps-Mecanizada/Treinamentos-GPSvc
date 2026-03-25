@@ -1,0 +1,52 @@
+{
+  "treinamento": "COMO COPIAR A ROTINA - BLOCO 02 - CONFIGURAÇÕES DAS TAREFA_GPSVISTA",
+  "id": 1062,
+  "idChecklist": 836,
+  "perguntas": [
+    {
+      "pergunta": "5) ASSINALE A ALTERNATIVA CORRETA. ESSE TIPO DE ATIVIDADE É BEM SIMPLES, MAS VAI ORIENTAR VOCÊS A:",
+      "opcoes": [
+        "CRIAREM DIVERSAS ROTINAS, DE UMA FORMA MAIS DEMORADA.",
+        "CRIAREM POUCAS ROTINAS, DE UMA FORMA MAIS SIMPLIFICADA.",
+        "CRIAREM DIVERSAS ROTINAS, DE UMA FORMA MAIS BUROCRÁTICA.",
+        "CRIAREM DIVERSAS ROTINAS, DE UMA FORMA MAIS SIMPLIFICADA."
+      ]
+    },
+    {
+      "pergunta": "4) ONDE FICA A OPÇÃO DE COPIAR A TAREFA?",
+      "opcoes": [
+        "NO MENU À SUS ESQUERDA.",
+        "NO MENU À SUA DIRETA.",
+        "NO MENU CENTRAL.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "3) DEPOIS DE CLICAR NA ESTRUTURA DESEJADA, ONDE DEVEMOS IR?",
+      "opcoes": [
+        "OPÇÃO DE ROTINAS.",
+        "OPÇÃO DE LOCAIS.",
+        "OPÇÃO DE COLABORADOR.",
+        "OPÇÃO DE VALIDADE."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL A PRIMEIRA OPÇÃO QUE DEVEMOS SELECIONAR PARA REALIZAR A CÓPIA DE ROTINA?",
+      "opcoes": [
+        "SELECIONAR A TAREFA DESEJADA.",
+        "SELECIONAR O COLABORADOR RESPONSÁVEL.",
+        "SELECIONAR A ESTRUTURA DESEJADA.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE O TREINAMENTO ENSINA FAZER?",
+      "opcoes": [
+        "CÓPIA DE ROTINA NO GPSVISTA.",
+        "CÓPIA DE ROTINA NO GPSVC.",
+        "CÓPIA DE ROTINA NO GPSAMIGO.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    }
+  ]
+}
