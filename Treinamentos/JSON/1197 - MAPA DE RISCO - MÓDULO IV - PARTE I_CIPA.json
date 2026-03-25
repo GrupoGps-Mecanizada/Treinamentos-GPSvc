@@ -1,0 +1,52 @@
+{
+  "treinamento": "MAPA DE RISCO - MÓDULO IV - PARTE I_CIPA",
+  "id": 1197,
+  "idChecklist": 963,
+  "perguntas": [
+    {
+      "pergunta": "5) ASSINALE ABAIXO UMA DAS CONSEQUÊNCIAS DA EXPOSIÇÃO À VÍRUS, CITADO NOS RISCOS BIOLÓGICOS:",
+      "opcoes": [
+        "ASFIXIA.",
+        "DOR DE CABEÇA.",
+        "HEPATITE, POLIOMIELITE, HERPES, VARÍOLA, FEBRE AMARELA, RAIVA (HIDROFOBIA), RUBÉOLA, AIDS, DENGUE, MENINGITE.",
+        "SUDORAÇÃO EXCESSIVA."
+      ]
+    },
+    {
+      "pergunta": "4)  RUÍDOS, VIBRAÇÕES, RADIAÇÕES IONIZANTES, RADIAÇÕES NÃO-IONIZANTES, FRIO, CALOR, PRESSÕES ANORMAIS E UMIDADE. ESTES RISCOS SE REFEREM A QUAL CATEGORIA?",
+      "opcoes": [
+        "RISCOS QUÍMICOS.",
+        "RISCO ERGONÔMICOS.",
+        "RISCOS BIOLÓGICOS.",
+        "RISCOS FÍSICOS."
+      ]
+    },
+    {
+      "pergunta": "3)  A COR AMARELA SE REFERE A QUAL RISCO?",
+      "opcoes": [
+        "ERGONÔMICO.",
+        "QUÍMICO.",
+        "BIOLÓGICO.",
+        "ACIDENTES."
+      ]
+    },
+    {
+      "pergunta": "2)  QUAL COR REPRESENTA O RISCO FÍSICO?",
+      "opcoes": [
+        "VERMELHO.",
+        "AMARELO.",
+        "AZUL.",
+        "VERDE."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE SÃO RISCOS AMBIENTAIS?",
+      "opcoes": [
+        "SÃO AGENTES PRESENTES NOS AMBIENTES DOMÉSTICO, CAPAZES DE AFETAR O TRABALHADOR A CURTO, MÉDIO E LONGO PRAZO.",
+        "SÃO AGENTES PRESENTES NOS AMBIENTES DE TRABALHO, CAPAZES DE AFETAR O TRABALHADOR A CURTO, MÉDIO E PRAZO SOMENTE.",
+        "SÃO FUNGOS E PARASITAS PRESENTES NA CLASSIFICAÇÃO BIOLÓGICA.",
+        "SÃO AGENTES PRESENTES NOS AMBIENTES DE TRABALHO, CAPAZES DE AFETAR O TRABALHADOR A CURTO, MÉDIO E LONGO PRAZO."
+      ]
+    }
+  ]
+}
