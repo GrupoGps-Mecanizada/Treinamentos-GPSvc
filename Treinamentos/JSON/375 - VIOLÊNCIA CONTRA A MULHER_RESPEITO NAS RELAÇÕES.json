@@ -1,0 +1,52 @@
+{
+  "treinamento": "VIOLÊNCIA CONTRA A MULHER_RESPEITO NAS RELAÇÕES",
+  "id": 375,
+  "idChecklist": 269,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual é a Lei de proteção a violência contra a mulher que foi criada em 2006?",
+      "opcoes": [
+        "Lei Maria Joana",
+        "Lei Maria da Penha",
+        "Lei a favor da mulher",
+        "Lei de assistência e proteção a mulher"
+      ]
+    },
+    {
+      "pergunta": "4) Qual é o contato da central de atendimento à Mulher?",
+      "opcoes": [
+        "108",
+        "188",
+        "180",
+        "118"
+      ]
+    },
+    {
+      "pergunta": "3) O que caracteriza violência sexual?",
+      "opcoes": [
+        "Atos ofensivos",
+        "Atos de humilhação pública",
+        "Atos de constrangimento que sejam realizados com o consentimento da mulher",
+        "Tentativas ou atos sexuais que sejam realizados sem o consentimento da mulher."
+      ]
+    },
+    {
+      "pergunta": "2) O que caracteriza violência física?",
+      "opcoes": [
+        "Condutas que defendem a integridade e a saúde corporal da mulher",
+        "Condutas que ofendem a integridade e a saúde corporal da mulher",
+        "Quando a mulher se machuca na rua",
+        "Nenhuma das alternativas acima"
+      ]
+    },
+    {
+      "pergunta": "1) O que é violência contra mulher?",
+      "opcoes": [
+        "É qualquer ação ou conduta baseada no gênero que cause morte, dano ou sofrimento físico, sexual ou psicológico a mulher",
+        "É o ato de descriminar",
+        "São ações que as mulheres não gostam",
+        "É qualquer ação ou conduta baseada no machismo que cause morte, dano ou sofrimento físico, sexual ou psicológico a mulher"
+      ]
+    }
+  ]
+}
