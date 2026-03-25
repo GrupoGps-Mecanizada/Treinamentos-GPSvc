@@ -1,0 +1,52 @@
+{
+  "treinamento": "HIGIENIZAÇÃO DE ALIMENTOS",
+  "id": 275,
+  "idChecklist": 187,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual solução devemos utilizar para a higienização correta?",
+      "opcoes": [
+        "Solução de clorada.",
+        "Solução de vinagre.",
+        "Solução de água.",
+        "Solução de álcool."
+      ]
+    },
+    {
+      "pergunta": "4) Por quanto tempo os alimentos devem ser higienizados?",
+      "opcoes": [
+        "Por 5 minutos.",
+        "Por 20 minutos.",
+        "Por 3 minutos.",
+        "Por 15 minutos."
+      ]
+    },
+    {
+      "pergunta": "3) Quais são os principais agentes transmissores?",
+      "opcoes": [
+        "Staphylococcus aureus, Brucella sp e Actinomyces.",
+        "Salmonela, E.coli e Norovirus.",
+        "Salmonela, E,coli e Brucella sp.",
+        "Clostridium, E.coli e Norovirus."
+      ]
+    },
+    {
+      "pergunta": "2) Quais alimentos devem ser higienizados?",
+      "opcoes": [
+        "Verduras, Legumes e Frutas.",
+        "Carne de boi, Verduras e Legumes.",
+        "Verduras, Legumes e Ovos.",
+        "Frutas, Verduras e Frango."
+      ]
+    },
+    {
+      "pergunta": "1) Esse treinamento é direcionado a quem?",
+      "opcoes": [
+        "Familiares.",
+        "Amigos.",
+        "Colaboradores GPS.",
+        "Objetivo comercial de venda de roupas de cor Verde."
+      ]
+    }
+  ]
+}
