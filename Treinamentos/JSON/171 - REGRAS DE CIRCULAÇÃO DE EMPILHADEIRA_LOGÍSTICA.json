@@ -1,0 +1,52 @@
+{
+  "treinamento": "REGRAS DE CIRCULAÇÃO DE EMPILHADEIRA_LOGÍSTICA",
+  "id": 171,
+  "idChecklist": 91,
+  "perguntas": [
+    {
+      "pergunta": "5) Em caso de incidente e/ou acidente como pode ser acionado o líder?",
+      "opcoes": [
+        "Via facebook ou rádio.",
+        "Via rádio ou aparelho celular.",
+        "Via fax ou aparelho celular.",
+        "Via rádio fm ou aparelho celular."
+      ]
+    },
+    {
+      "pergunta": "4) Qual a velocidade máxima permitida?",
+      "opcoes": [
+        "100 km/h.",
+        "50 km/h.",
+        "30 km/h.",
+        "10 km/h."
+      ]
+    },
+    {
+      "pergunta": "3) Quando deve ser feito o checklist do equipamento?",
+      "opcoes": [
+        "Duas vezes na semana.",
+        "Três vezes na semana.",
+        "Quatro vezes na semana.",
+        "Deve ser feito diariamente."
+      ]
+    },
+    {
+      "pergunta": "2) O que é permitido movimentar com empilhadeira com garfo?",
+      "opcoes": [
+        "Pallets, Bobinas, Big Bag, etc.",
+        "Pallets, Gaiolas, Bancadas.",
+        "Pallets, Gaiolas e Big Bag.",
+        "Pallets, Gaiolas, bobina saída da linha de produção."
+      ]
+    },
+    {
+      "pergunta": "1) O que é permitido movimentar com a empilhadeira?",
+      "opcoes": [
+        "Bobina, pallets, tubetes, filme stretch, gaiolas, big bag e sacaria.",
+        "Buzina, pallets, tubetes, filme stretch, gaiolas, big bag e sacaria.",
+        "Bobina, pallets, tablets, filme stretch, gaiolas, big bag e sacaria.",
+        "Somente bobina, pallets e tubetes."
+      ]
+    }
+  ]
+}
