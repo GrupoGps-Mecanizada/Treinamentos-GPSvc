@@ -1,0 +1,52 @@
+{
+  "treinamento": "IMPORTÂNCIA DA VALIDADE DO CRACHÁ_REGIONAL SP",
+  "id": 955,
+  "idChecklist": 732,
+  "perguntas": [
+    {
+      "pergunta": "5) MEU CRACHÁ PODE SER UTILIZADO POR MEU COLEGA DE TRABALHO, CASO O MESMO NÃO TENHA O DELE EM MÃOS?",
+      "opcoes": [
+        "SIM, O CRACHÁ PODE SER COMPARTILHADO POR DEMAIS PESSOAS NA AUSÊNCIA DE SEU CRACHÁ.",
+        "O CRACHÁ DE IDENTIFICAÇÃO É DE USO INDIVIDUAL E INTRANSFERÍVEL, PORTANTO, NÃO O EMPRESTE A NINGUÉM.",
+        "SIM, POIS, O CRACHÁ É DE USO COLETIVO.",
+        "TODAS AS AFIRMATIVAS ESTÃO CORRETAS."
+      ]
+    },
+    {
+      "pergunta": "4) EM NOSSO PROCESSO DE AUDITORIA E CERTIFICAÇÃO DA ISO 9001:2015, O VIGILANTE DEVE ESTAR PORTANDO:",
+      "opcoes": [
+        "APENAS O CRACHÁ DO GRUPO GPS.",
+        "CARTEIRA NACIONAL DE VIGILANTE.",
+        "PLAQUETA DE IDENTIFICAÇÃO VÁLIDA, CNV E FOTOGRAFIA COLORIDA EM TAMANHO 3X4.",
+        "NENHUMA DAS ALTERNATIVAS ACIMA."
+      ]
+    },
+    {
+      "pergunta": "3)  O VENCIMENTO DO CRACHÁ OCORRE EM QUANTO TEMPO?",
+      "opcoes": [
+        "DE 4 (QUATRO) EM 4 (QUATRO) MESES.",
+        "DE 5 (CINCO) EM 5 (CINCO) MESES.",
+        "DE 6 (SEIS) EM 6 (SEIS) MESES.",
+        "ANUALMENTE."
+      ]
+    },
+    {
+      "pergunta": "2) ASSINALE A ALTERNATIVA CORRETA. UMA NÃO CONFORMIDADE EM NOSSO CRACHÁ, PODE COMPROMETER:",
+      "opcoes": [
+        "ÁREA DE RH.",
+        "ÁREA DE DEPARTAMENTO PESSOAL.",
+        "ÁREA DE TREINAMENTOS.",
+        "NOSSA CERTIFICAÇÃO ISO 9001:2015."
+      ]
+    },
+    {
+      "pergunta": "1) POR QUEM É FEITO O CONTROLE DE IDENTIFICAÇÃO E VALIDADE DOS CRACHÁS, ALÉM DO GRUPO GPS?",
+      "opcoes": [
+        "RH.",
+        "POLÍCIA FEDERAL.",
+        "POLÍCIA CIVIL.",
+        "PELO LÍDER."
+      ]
+    }
+  ]
+}
