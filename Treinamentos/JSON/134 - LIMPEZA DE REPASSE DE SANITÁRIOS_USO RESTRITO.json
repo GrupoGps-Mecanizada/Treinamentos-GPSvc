@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA DE REPASSE DE SANITÁRIOS_USO RESTRITO",
+  "id": 134,
+  "idChecklist": 74,
+  "perguntas": [
+    {
+      "pergunta": "5) Como deve ser feita a troca de luvas?",
+      "opcoes": [
+        "Não há recomendações e cuidados para a troca de luvas.",
+        "Não troca-se as luvas para repasse de sanitários.",
+        "Respeitando o horário de início e término da limpeza.",
+        "É necessário higienizar as mãos com álcool em gel sempre que realizar a troca de luvas."
+      ]
+    },
+    {
+      "pergunta": "4) Quando usar o conjunto de luvas e pano de microfibra azuis?",
+      "opcoes": [
+        "Limpeza de dispenseres, pia e cubas.",
+        "Coleta de resíduos, limpeza de lixeira e do vaso sanitário.",
+        "Para usar a fibra verde.",
+        "Todas as alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Qual o motivo de se limpar na ordem do mais limpo para o mais sujo?",
+      "opcoes": [
+        "Porque é uma ordem descrita na rotina do SGO+.",
+        "Pois segue a disposição dos locais a serem limpos no banheiro.",
+        "Para deixar o produto agindo.",
+        "Para evitar contaminação cruzada."
+      ]
+    },
+    {
+      "pergunta": "2) Onde usamos o conjunto amarelo de luvas e pano microfibra?",
+      "opcoes": [
+        "Limpeza da pia e dos vasos sanitários.",
+        "Limpeza da lixeira, box e dispenseres.",
+        "Limpeza dos dispenseres, pia, cuba, espelhos e portas.",
+        "Limpeza dos espelhos e da tampa do vaso sanitário."
+      ]
+    },
+    {
+      "pergunta": "1) Como é determinada a frequência de limpeza de repasse dos sanitários?",
+      "opcoes": [
+        "Não é importante saber a frequência.",
+        "Os repasses de sanitários são feitos uma vez por dia.",
+        "Através da rotina disponibilizada no aplicativo de celular SGO+.",
+        "Não é determinada a frequência de repasse."
+      ]
+    }
+  ]
+}
