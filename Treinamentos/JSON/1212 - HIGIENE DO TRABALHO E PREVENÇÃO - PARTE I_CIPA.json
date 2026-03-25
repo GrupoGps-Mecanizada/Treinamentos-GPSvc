@@ -1,0 +1,52 @@
+{
+  "treinamento": "HIGIENE DO TRABALHO E PREVENÇÃO - PARTE I_CIPA",
+  "id": 1212,
+  "idChecklist": 978,
+  "perguntas": [
+    {
+      "pergunta": "5) SEGUNDO O TREINAMENTO, ALÉM DE DISPONIBILIZAR OS EQUIPAMENTOS DE SEGURANÇA ADEQUADOS, O QUE MAIS A EMPRESA TEM QUE FAZER?",
+      "opcoes": [
+        "SOMENTE REGISTRAR A ENTREGA.",
+        "PEDIR QUE SEMPRE USE OS EQUIPAMENTOS.",
+        "TREINAR AS EQUIPES E CERTIFICAR-SE  DE QUE ESTEJAM USANDO ESSES EQUIPAMENTOS.",
+        "SOMENTE REALIZAR A TROCA QUANDO NECESSÁRIO."
+      ]
+    },
+    {
+      "pergunta": "4) ASSINALE A ALTERNATIVA QUE COMPLETE A FRASE. \"A _________________________É A CHAVE PARA O TRABALHADOR EXECUTAR SUA FUNÇÃO COM SEGURANÇA E QUALIDADE\".",
+      "opcoes": [
+        "CONSCIENTIZAÇÃO COLETIVA.",
+        "ATENÇÃO DA GERÊNCIA.",
+        "CONSCIENTIZAÇÃO INDIVIDUAL.",
+        "CAPACITAÇÃO PROFISSIONAL."
+      ]
+    },
+    {
+      "pergunta": "3) TENHA CERTEZA DE QUE NÃO HAJA ELEMENTOS OFERECENDO OU POTENCIALIZANDO __________ AOS TRABALHADORES?",
+      "opcoes": [
+        "OS RISCOS.",
+        "A SEGURANÇA.",
+        "O APOIO.",
+        "O PROBLEMA."
+      ]
+    },
+    {
+      "pergunta": "2) ASSINALE A ALTERNATIVA QUE COMPLETE A FRASE. \"__________: O PRIMEIRO NÍVEL É A ELIMINAÇÃO, QUE CONSISTE EM IDENTIFICAR E REMOVER COMPLETAMENTE O RISCO DO AMBIENTE DE TRABALHO\".",
+      "opcoes": [
+        "NEUTRALIZAR.",
+        "ELIMINAR.",
+        "REDUZIR.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL A ORDEM DA HIERARQUIA NO CONTROLE DOS RISCOS NO AMBIENTE DE TRABALHO?",
+      "opcoes": [
+        "ELIMINAR E NEUTRALIZAR.",
+        "ELIMINAR, NEUTRALIZAR E REDUZIR.",
+        "ELIMINAR, NEUTRALIZAR E BAIXAR.",
+        "EXCLUIR, IMPACTAR E AUMENTAR."
+      ]
+    }
+  ]
+}
