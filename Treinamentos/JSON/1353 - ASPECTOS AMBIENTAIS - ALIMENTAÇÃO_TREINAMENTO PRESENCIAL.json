@@ -1,0 +1,52 @@
+{
+  "treinamento": "ASPECTOS AMBIENTAIS - ALIMENTAÇÃO_TREINAMENTO PRESENCIAL",
+  "id": 1353,
+  "idChecklist": 1111,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAIS SÃO OS ASPECTOS AMBIENTAIS SIGNIFICATIVOS DA NOSSA ATIVIDADE NAS COZINHAS?",
+      "opcoes": [
+        "CONSUMO DE ÁGUA E DE ENERGIA.",
+        "DESCARTE DE RESÍDUOS.",
+        "REDUÇÃO DO RISCO DE CONTAMINAÇÃO DOS ALIMENTOS.",
+        "TODAS AS ALTERNATIVAS ACIMA."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE É IMPACTO AMBIENTAL?",
+      "opcoes": [
+        "CONSUMO DE ENERGIA.",
+        "QUALQUER MUDANÇA PARA O MEIO AMBIENTE (EFEITO), RESULTANTE DAS ATIVIDADES DE UMA ORGANIZAÇÃO.",
+        "EMISSÃO DE GASES DO EFEITO ESTUFA.",
+        "GERAÇÃO DE RESÍDUOS."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE É ASPECTO AMBIENTAL?",
+      "opcoes": [
+        "POLUIÇÃO DAS ÁGUAS.",
+        "ELEMENTO DAS ATIVIDADES (CAUSA), QUE PODE INTERAGIR COM O MEIO AMBIENTE.",
+        "EFEITO ESTUFA.",
+        "BURACO DA CAMADA DE OZÔNIO."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL O OBJETIVO DA GESTÃO DO MEIO AMBIENTE (GMA)?",
+      "opcoes": [
+        "ACABAR COM A POLUIÇÃO MUNDIAL.",
+        "FABRICAR ÁGUA.",
+        "IDENTIFICAR E CONTROLAR OS ASPECTOS (CAUSA) DAS ATIVIDADES, PARA REDUZIR OS IMPACTOS (EFEITO) DELAS, NA NATUREZA.",
+        "COMUNICAR SOBRE EVENTOS CLIMÁTICOS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL O OBJETIVO DO MEIO AMBIENTE EM PAUTA?",
+      "opcoes": [
+        "CONSCIENTIZAÇÃO E TREINAMENTO SOBRE MEIO AMBIENTE.",
+        "TREINAMENTO SOBRE SEGURANÇA DOS ALIMENTOS.",
+        "CONSCIENTIZAÇÃO SOBRE ACIDENTE E DOENÇAS DO TRABALHO.",
+        "CAMPANHA DE SATISFAÇÃO DOS CONSUMIDORES."
+      ]
+    }
+  ]
+}
