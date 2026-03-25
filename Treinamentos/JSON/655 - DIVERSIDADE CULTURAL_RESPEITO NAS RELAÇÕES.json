@@ -1,0 +1,52 @@
+{
+  "treinamento": "DIVERSIDADE CULTURAL_RESPEITO NAS RELAÇÕES",
+  "id": 655,
+  "idChecklist": 441,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual das alternativas abaixo indica um MITO sobre a diversidade cultural?",
+      "opcoes": [
+        "Refugiados são criminosos, terroristas, extremistas ou ameaça ao estado do bem-estar social de uma determinada nação.",
+        "A compreensão da diversidade aumenta o nosso conhecimento e capacidade de compreender e aceitar as diferenças.",
+        "O conceito de diversidade remete as diferenças individuais, culturais e religiosas, não se restringindo apenas aos fatores de raça e gênero.",
+        "As vantagens da diversidade acabam por ser superiores a qualquer dificuldade inicial que possa surgir por causa das diferenças entre as pessoas."
+      ]
+    },
+    {
+      "pergunta": "4) Marque a alternativa abaixo que mostre atitude que NÃO APOIA a diversidade cultural:",
+      "opcoes": [
+        "Seja proativo na escuta, aceitação e acolhimento de pessoas e ideias diferentes das suas.",
+        "Sempre imponha aos outros, valores pessoais que possam entrar em conflito ou ser inconsistentes com outras culturas.",
+        "No local de trabalho, é importante respeitar a representação cultural de cada Colaborador que você tem interação.",
+        "Intervenha de forma adequada quando observar comportamentos que mostrem insensibilidade cultural ou preconceito."
+      ]
+    },
+    {
+      "pergunta": "3) No Brasil, quais culturas são mais presentes?",
+      "opcoes": [
+        "Egípcia, europeia e indígena.",
+        "Africana, indiana e europeia.",
+        "Europeia, japonesa e árabe.",
+        "Indígena, africana e europeia."
+      ]
+    },
+    {
+      "pergunta": "2) Assinale abaixo a alternativa FALSA:",
+      "opcoes": [
+        "A diversidade cultural nos ajuda a reconhecer e a respeitar “formas de ser” que não são necessariamente nossas.",
+        "É essencial falar da importância e vantagens da diversidade cultural, integrando as diferenças e semelhanças entre as pessoas.",
+        "Conhecer sobre diversidade cultural só dificulta a convivência social.",
+        "A diversidade cultural é a existência de uma multiplicidade de culturas ou de identidades culturais que existem entre o ser humano."
+      ]
+    },
+    {
+      "pergunta": "1) Por que é importante ter um nível de entendimento sobre outras culturas?",
+      "opcoes": [
+        "Para decidirmos o destino de viagem de férias.",
+        "Para que nos ajude a compreender diferentes perspectivas dentro do mundo em que vivemos.",
+        "Para confirmar que toda cultura é igual.",
+        "todas as alternativas estão erradas."
+      ]
+    }
+  ]
+}
