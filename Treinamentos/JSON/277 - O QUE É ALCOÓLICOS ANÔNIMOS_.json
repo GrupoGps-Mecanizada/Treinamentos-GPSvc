@@ -1,0 +1,52 @@
+{
+  "treinamento": "O QUE É ALCOÓLICOS ANÔNIMOS?",
+  "id": 277,
+  "idChecklist": 189,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual é a melhor indicação para conseguir combater o vício?",
+      "opcoes": [
+        "Participar das reuniões por 24 horas, depois do estudo imersivo é possível combater o vício.",
+        "A proposta de 24 horas “só por hoje”, onde entendem que traçar metas longas desanima e não são eficazes, por isso contam com a força de um dia de cada vez.",
+        "A proposta de 48 horas “só por hoje”, onde entendem que traçar metas longas desanima e não são eficazes, por isso contam com a força de um dia de cada vez.",
+        "Nenhuma das alterativas acima."
+      ]
+    },
+    {
+      "pergunta": "4) Família e conhecidos também podem participar do programa?",
+      "opcoes": [
+        "Não, as reuniões são direcionadas aos alcóolicos.",
+        "Sim, qualquer pessoa pode participar das reuniões abertas, porém apenas do projeto Al-Anon.",
+        "Sim, qualquer pessoa pode participar das reuniões abertas, ou também podem fazer parte do projeto Al-Anon.",
+        "Não, o único grupo liberado para conhecidos é o grupo Al-Anon."
+      ]
+    },
+    {
+      "pergunta": "3) Qual a funcionalidade do questionário de 12 perguntas?",
+      "opcoes": [
+        "Serve como seu cadastro para entrar na Irmandade.",
+        "Apenas para que as pessoas possam pensar em seus problemas.",
+        "Avaliar se há algum tipo de indicação de problemas com abuso do álcool.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "2) Para que um alcoólico seja inserido no programa, qual é o processo necessário?",
+      "opcoes": [
+        "Nenhum, todos são sempre bem vindos.",
+        "É necessário fazer uma ficha de inscrição.",
+        "É necessário comprovar através de uma prova.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "1) Quando foi o início do A.A.?",
+      "opcoes": [
+        "Em 1935 nos EUA quando houve o encontro de Bill e Bob e desenvolveram a Irmandade de Alcoólicos Anônimos.",
+        "Em 1925 nos EUA quando houve o encontro de Bill e Bob e desenvolveram a Irmandade de Alcóolicos Anônimos.",
+        "Em 1915 nos EUA quando houve o encontro de Bill e Bob e desenvolveram a Irmandade de Alcóolicos Anônimos.",
+        "Em 1945 nos EUA quando houve o encontro de Bill e Bob e desenvolveram a Irmandade de Alcóolicos Anônimos."
+      ]
+    }
+  ]
+}
