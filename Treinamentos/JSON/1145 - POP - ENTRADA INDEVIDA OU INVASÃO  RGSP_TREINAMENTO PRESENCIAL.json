@@ -1,0 +1,52 @@
+{
+  "treinamento": "POP - ENTRADA INDEVIDA OU INVASÃO  RGSP_TREINAMENTO PRESENCIAL",
+  "id": 1145,
+  "idChecklist": 918,
+  "perguntas": [
+    {
+      "pergunta": "5) A SIGLA LGPD SIGNIFICA:",
+      "opcoes": [
+        "LEI GERAL DE PROTEÇÃO DE DETETIVE.",
+        "LEI GERAL DE PROTEÇÃO DE DADOS.",
+        "LEI GERAL DE PROTEÇÃO DIURNA.",
+        "LEI GERAL DE PROTEÇÃO DIGITAL."
+      ]
+    },
+    {
+      "pergunta": "4) QUAIS BARREIRAS DIFICULTAM O RELACIONAMENTO INTERPESSOAL?",
+      "opcoes": [
+        "FAZER FOFOCA.",
+        "EXPOR O COLEGA.",
+        "AGRESSIVIDADE.",
+        "TODAS AS AFIRMAÇÕES ESTÃO CORRETAS."
+      ]
+    },
+    {
+      "pergunta": "3) EM CASOS DE EMERGÊNCIA, SE FOR NECESSÁRIO LIGAR PRA POLÍCIA MILITAR, QUAL NÚMERO ACIONAR?",
+      "opcoes": [
+        "192.",
+        "193.",
+        "190.",
+        "NENHUMA DAS ALTERNATIVAS ESTÃO CORRETAS."
+      ]
+    },
+    {
+      "pergunta": "2) COMPLETE A FRASE: \"__________ É UM FATO ONDE UMA PROVIDÊNCIA CORRETIVA DEVE SER TOMADA O MAIS BREVE POSSÍVEL\".",
+      "opcoes": [
+        "URGÊNCIA.",
+        "DECISÃO.",
+        "DISCUSSÃO.",
+        "PROATIVIDADE."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE É UMA EMERGÊNCIA?",
+      "opcoes": [
+        "UM ATRITO NO AMBIENTE DE TRABALHO.",
+        "CONSCIENTIZAÇÃO SOBRE SAÚDE.",
+        "É UM FATO QUE NÃO PODE AGUARDAR NENHUM PERÍODO PARA QUE SEJA TOMADA A DEVIDA PROVIDÊNCIA CORRETIVA.",
+        "O ATO DE SALVAR ALGUÉM DE UM RISCO."
+      ]
+    }
+  ]
+}
