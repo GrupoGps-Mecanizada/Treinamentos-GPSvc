@@ -1,0 +1,52 @@
+{
+  "treinamento": "REGULAMENTO DE FUNCIONAMENTO MÓDULO III_PARQUE IBIRAPUERA",
+  "id": 696,
+  "idChecklist": 480,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais atividades abaixo são permitidas dentro do parque?",
+      "opcoes": [
+        "Fumar.\r\n",
+        "Piqueniques.",
+        "Churrasco.",
+        "Atividades esportivas nos gramados.\r\n"
+      ]
+    },
+    {
+      "pergunta": "4) O uso de recipientes de vidro é vedado no interior do parque, é dever do vigilante saber a explicação correta em caso de questionamento. Assinale a alternativa com a resposta CORRETA: ",
+      "opcoes": [
+        "Atrapalha o andamento de atividades esportivas no parque.\r\n",
+        "Recipientes de vidro podem ser considerados como arma de fogo, em que pode atacar ou até matar algum usuário.",
+        "Recipientes de vidro podem ser considerados como arma branca, pois geram riscos aos usuários do parque, por exemplo em possíveis quedas.",
+        "Recipientes de vidro podem ser considerados como arma branca, mas apenas garrafas de vidro de água são permitidas, pois é importante para nossa hidratação."
+      ]
+    },
+    {
+      "pergunta": "3) Os animais como patos, peixes, saguis, entre outras centenas de espécies possuem uma alimentação correta e adequada, com isso é permitido dar a eles:",
+      "opcoes": [
+        "Ração.",
+        "Frutas e legumes.",
+        "Salgadinhos e bolachas.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) Sobre as proibições no andamento do parque, assinale qual corresponde corretamente às atribuições de entrada de animais:",
+      "opcoes": [
+        "Todos os animais devem estar de guia, coleiras e focinheiras.",
+        "Todos os animais devem estar de guia, as focinheiras não são obrigatórias.",
+        " Animais das raças, como Labrador, Golden, Pastor Alemão e Yorkshire Terrier, devem usar guias, coleiras e focinheiras.",
+        "Animais das raças, como Pitbull, Mastim Napolitano, American Staffordshire Terrier, Rottweiller ou mestiços devem estar de focinheiras, guias e coleiras, o restante apenas em controle com as guias."
+      ]
+    },
+    {
+      "pergunta": "1) Onde é possível encontrar o regulamento de funcionamento do Parque Ibirapuera? ",
+      "opcoes": [
+        "Portaria da Secretaria Municipal do Verde e do Meio Ambiente da Prefeitura de São Paulo.",
+        "Legislação de trânsito.",
+        "Legislação de vigilância sanitária do estado de São Paulo.",
+        "No DEPAVE.\r\n"
+      ]
+    }
+  ]
+}
