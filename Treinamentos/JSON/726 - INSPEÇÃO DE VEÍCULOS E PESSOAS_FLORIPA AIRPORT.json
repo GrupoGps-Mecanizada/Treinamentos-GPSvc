@@ -1,0 +1,52 @@
+{
+  "treinamento": "INSPEÇÃO DE VEÍCULOS E PESSOAS_FLORIPA AIRPORT",
+  "id": 726,
+  "idChecklist": 510,
+  "perguntas": [
+    {
+      "pergunta": "5)   \nDEVEMOS USAR O ESPELHO DE INSPEÇÃO VEICULAR? ",
+      "opcoes": [
+        "NÃO É NECESSÁRIO.",
+        "DEPENDE DE QUEM ESTIVER REALIZANDO A INSPEÇÃO.",
+        "APENAS EM DIAS DE CHUVA.",
+        "\r\nSIM, DEVEMOS USAR NA VERIFICAÇÃO DE POSSÍVEIS ITENS OU PESSOAS OCULTAS NO CHASSI."
+      ]
+    },
+    {
+      "pergunta": "4) O CONDUTOR E DEMAIS PESSOAS PODEM CONTINUAR DENTRO VEÍCULO DURANTE A INSPEÇÃO? ",
+      "opcoes": [
+        "SIM, NINGUÉM PRECISA SAIR DO VEÍCULO.",
+        "NÃO, APENAS O CONDUTOR PRECISA SAIR DO VEÍCULO.",
+        "DEPENDE DE QUEM ESTIVER REALIZANDO A INSPEÇÃO.",
+        "A INSPEÇÃO DE SEGURANÇA SÓ DEVERÁ SER INICIADA COM O CONDUTOR E DEMAIS PESSOAS FORA DO VEÍCULO. "
+      ]
+    },
+    {
+      "pergunta": "3) DEVEMOS FAZER A INSPEÇÃO NO MOTOR DO VEÍCULO? ",
+      "opcoes": [
+        "NÃO.",
+        "SIM, É UMA ÁREA COM MUITOS COMPARTIMENTOS FACILITANDO A OCULTAÇÃO DE ITENS PROIBIDOS.",
+        "APENAS A NOITE.",
+        "SOMENTE EM VEÍCULOS SUSPEITOS."
+      ]
+    },
+    {
+      "pergunta": "2) ANTES DE INICIAR A INSPEÇÃO O QUE DEVEMOS FAZER? ",
+      "opcoes": [
+        "VERIFICAR A CREDENCIAL DAS PESSOAS E AS AUTORIZAÇÕES DO VEÍCULO.",
+        "APENAS VERIFICAR A CREDENCIAL.",
+        "APENAS O ATIV DO VEÍCULO.",
+        "NENHUMA DAS ALTERNATIVAS ANTERIORES. "
+      ]
+    },
+    {
+      "pergunta": "1) O PROCEDIMENTO DE INSPEÇÃO DE VEÍCULOS E PESSOAS NESSE CONTEÚDO FOI DIVIDIDO EM QUANTAS ETAPAS? ",
+      "opcoes": [
+        "DUAS.",
+        "TRÊS.",
+        "APENAS UMA.",
+        "CINCO ETAPAS."
+      ]
+    }
+  ]
+}
