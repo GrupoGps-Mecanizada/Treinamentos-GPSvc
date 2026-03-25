@@ -1,0 +1,52 @@
+{
+  "treinamento": "TREINAMENTO CONFERENTE ROL_CONTRATO KNORR-BREMSE",
+  "id": 178,
+  "idChecklist": 98,
+  "perguntas": [
+    {
+      "pergunta": "5) Onde será aberto o ROL?",
+      "opcoes": [
+        "Aplicativo GPSvc.",
+        "Aplicativo GPSi.",
+        "Aplicativo GPSp",
+        "Excel."
+      ]
+    },
+    {
+      "pergunta": "4) Quem deve autorizar a abertura do ROL?",
+      "opcoes": [
+        "Auditor da qualidade.",
+        "Líder.",
+        "RH.",
+        "Auxiliares."
+      ]
+    },
+    {
+      "pergunta": "3) Quando se deve chamar o auditor da qualidade?",
+      "opcoes": [
+        "Quando houver materiais com as embalagens avariadas.",
+        "Quando for conferir o material.",
+        "Quando for transbordar os materiais.",
+        "Quando houver divergências na quantidades."
+      ]
+    },
+    {
+      "pergunta": "2) Há quantos tipos de ROL?",
+      "opcoes": [
+        "São oito tipos.",
+        "São cinco tipos.",
+        "São sete tipos.",
+        "São quatro tipos."
+      ]
+    },
+    {
+      "pergunta": "1) Qual é o significado da sigla ROL?",
+      "opcoes": [
+        "Relatório de oficina limpa.",
+        "Relatório de obrigações logística.",
+        "Registro de ocorrência logística.",
+        "Registro de objetos da logística."
+      ]
+    }
+  ]
+}
