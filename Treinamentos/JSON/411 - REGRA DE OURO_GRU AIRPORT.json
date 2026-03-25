@@ -1,0 +1,52 @@
+{
+  "treinamento": "REGRA DE OURO_GRU AIRPORT",
+  "id": 411,
+  "idChecklist": 304,
+  "perguntas": [
+    {
+      "pergunta": "5) No que resultará a quebra de qualquer Regra de Ouro?",
+      "opcoes": [
+        "Desligamento (demissão) do responsável pela quebra da REGRA.",
+        "Cassação do crachá do responsável pela quebra da REGRA.",
+        "Suspensão do responsável pela quebra da REGRA.",
+        "Advertência escrita do responsável pela quebra da REGRA."
+      ]
+    },
+    {
+      "pergunta": "4) Qual o objetivo das Regras de Ouro?",
+      "opcoes": [
+        "Evitar a ocorrência de comportamentos seguros, que resultam em cumprimento de procedimentos e consequentes acidentes/incidentes com ou sem lesão, desde ocorrências leves até gravíssimas.",
+        "Evitar a ocorrência de comportamentos inseguros, que resultam em violações de procedimentos e consequentes acidentes/incidentes com ou sem lesão, desde ocorrências leves até gravíssimas.",
+        "Apoiar a ocorrência de comportamentos inseguros, que resultam em cumprimento de procedimentos e consequentes acidentes/incidentes com ou sem lesão, desde ocorrências leves até gravíssimas.",
+        "Apoiar a ocorrência de comportamentos seguros, que resultam em violações de procedimentos e consequentes acidentes/incidentes com ou sem lesão, desde ocorrências leves até gravíssimas."
+      ]
+    },
+    {
+      "pergunta": "3) Para que as Regras de Ouro foram desenvolvidas?",
+      "opcoes": [
+        "Para facilitar o entendimento dos Colaboradores sobre os padrões de comportamento esperado pelo Grupo GPS em relação aos padrões de Meio Ambiente.",
+        "Para complicar o entendimento dos Colaboradores sobre os padrões de comportamento esperado pelo Grupo GPS em relação à Saúde e Segurança.",
+        "Para facilitar o entendimento dos Colaboradores sobre os padrões de comportamento esperado pelo Grupo GPS em relação aos padrões de Qualidade.",
+        "Para facilitar o entendimento dos Colaboradores sobre os padrões de comportamento esperado pelo Grupo GPS em relação a Saúde e Segurança."
+      ]
+    },
+    {
+      "pergunta": "2) As Regras de Ouro são:",
+      "opcoes": [
+        "Simples e negociáveis.",
+        "Simples e inegociáveis.",
+        "Complicadas e negociáveis.",
+        "Complicadas e inegociáveis."
+      ]
+    },
+    {
+      "pergunta": "1) Segundo o treinamento de Regras de Ouro, no que a GPS AIR acredita?",
+      "opcoes": [
+        "A GPS AIR acredita que o atendimento parcial das REGRAS DE OURO de Segurança é fundamental na prevenção de Acidentes de trabalho.",
+        "A GPS AIR acredita que o atendimento parcial das REGRAS DE OURO de Segurança não é fundamental na prevenção de Acidentes de trabalho.",
+        "A GPS AIR acredita que o atendimento integral das REGRAS DE OURO de Segurança é fundamental na prevenção de Acidentes de trabalho.",
+        "A GPS AIR acredita que o atendimento integral das REGRAS DE OURO de Segurança não é fundamental na prevenção de Acidentes de trabalho."
+      ]
+    }
+  ]
+}
