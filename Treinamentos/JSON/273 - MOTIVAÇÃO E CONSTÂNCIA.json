@@ -1,0 +1,52 @@
+{
+  "treinamento": "MOTIVAÇÃO E CONSTÂNCIA",
+  "id": 273,
+  "idChecklist": 185,
+  "perguntas": [
+    {
+      "pergunta": "5) Como a falta de objetivos podem nos prejudicar?",
+      "opcoes": [
+        "Pois quando eu defino metas eu alcanço objetivos.",
+        "Porque os objetivos são definidos por prioridades.",
+        "Pois posso ficar cansado.",
+        "Pois sem definir metas, vamos sempre permanecer no mesmo lugar."
+      ]
+    },
+    {
+      "pergunta": "4) Por qual motivo o uso excessivo do celular é prejudicial?",
+      "opcoes": [
+        "Pois você vê muitas fake news.",
+        "Pois temos conteúdos bons e ruins.",
+        "Pois prejudica no desempenho do trabalho, na qualidade de tempo com quem amamos e no tempo dedicado a nós mesmos.",
+        "Pois é um tempo dedicado a outras pessoas."
+      ]
+    },
+    {
+      "pergunta": "3) Qual prática prejudica em nossos hábitos?",
+      "opcoes": [
+        "Beber água, ver o celular e falta de organização.",
+        "Uso do celular em excesso.",
+        "Ler livros, compartilhar momentos.",
+        "Não ter organização, elas tomam muito tempo do dia."
+      ]
+    },
+    {
+      "pergunta": "2) Quais práticas auxiliam a criar bons hábitos?",
+      "opcoes": [
+        "Somente caminhar.",
+        "Alimentação balanceada, não tomar água, compartilhar momentos.",
+        "Alimentação balanceada, tomar água, compartilhar momentos, se divertir.",
+        "Todas as alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "1) Como você pode se motivar?",
+      "opcoes": [
+        "Mantendo constância e criando hábitos.",
+        "Fazer sempre o que gosto.",
+        "Não definir metas.",
+        "Nenhuma das alternativas acima."
+      ]
+    }
+  ]
+}
