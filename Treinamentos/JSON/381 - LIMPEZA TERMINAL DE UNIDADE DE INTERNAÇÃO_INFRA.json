@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA TERMINAL DE UNIDADE DE INTERNAÇÃO_INFRA",
+  "id": 381,
+  "idChecklist": 274,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual a alternativa CORRETA que contempla todos os EPIs necessário na limpeza terminal da unidade de internação?",
+      "opcoes": [
+        "Luva azul e Luva amarela.",
+        "Óculos de segurança.",
+        "Mascará PFF2 ou descartável (se aplicável).",
+        "Todas as alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "4) Qual alternativa está CORRETA sobre a etapa de recolhimento de enxoval (roupa de cama e toalhas)?",
+      "opcoes": [
+        "Recolher o enxoval sem a necessidade de utilizar qualquer tipo de luva.",
+        "Utilizar as luvas azuis para recolher todo enxoval, incluindo roupa de cama e toalha de banho. Depois direcionar o enxoval recolhido para o DML, ou a sala de roupa suja ou mesmo o Expurgo.",
+        "Armazenar o enxoval sujo no carro funcional junto com os resíduos.",
+        "Recolher o enxoval somente quando o paciente estiver internado no quarto."
+      ]
+    },
+    {
+      "pergunta": "3) Marque a alternativa CORRETA que contém todas as atividades realizadas na limpeza terminal de unidade de internação:",
+      "opcoes": [
+        "Limpeza completa de leito (cama do paciente).",
+        "Limpeza completa de superfícies como mesa de cabeceira, parte externa de frigobar, janelas e sofás/poltronas.",
+        "Limpeza terminal de sanitários.",
+        "Todas as alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "2) Qual a definição de limpeza terminal de unidade de internação?",
+      "opcoes": [
+        "É o procedimento de limpeza completa do ambiente envolvendo teto, paredes, mobiliários, sanitários e piso.",
+        "Limpeza realizada diariamente com a finalidade de limpar e organizar, repor os descartáveis e retirar os resíduos tanto da unidade de internação quanto do sanitário com a presença do paciente.",
+        "Limpeza do vaso sanitário da unidade de internação.",
+        "Limpeza completa do teto da unidade de internação enquanto o paciente está no quarto."
+      ]
+    },
+    {
+      "pergunta": "1) O que é uma unidade de internação?",
+      "opcoes": [
+        "É a área do corredor próximo à sala de cirurgia.",
+        "É um grupo de salas cirúrgicas.",
+        "Pode ser um apartamento, quarto, enfermaria onde o paciente fica internado.",
+        "É a área de descanso dos médicos."
+      ]
+    }
+  ]
+}
