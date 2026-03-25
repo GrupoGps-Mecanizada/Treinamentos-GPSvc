@@ -1,0 +1,52 @@
+{
+  "treinamento": "PDL8_AUTODESENVOLVIMENTO",
+  "id": 90,
+  "idChecklist": 63,
+  "perguntas": [
+    {
+      "pergunta": "5) Um profissional com a capacidade de se autodesenvolver é aquele que:",
+      "opcoes": [
+        "Possui curiosidade natural para descobrir fatos novos e fugir da famosa zona de conforto para pensar de forma disruptiva.",
+        "Possui curiosidade, porém prefere ficar na zona de conforto.",
+        "Possui naturalidade e prefere fugir da zona de conforto.",
+        "Possui uma curiosidade natural para descobrir fatos e ficar na zona de conforto. Pensar de forma disruptiva."
+      ]
+    },
+    {
+      "pergunta": "4) Conforme o treinamento, sobre autodesenvolvimento é correto afirmar:",
+      "opcoes": [
+        "É um processo de constante evolução que no decorrer do tempo permite que pratiquemos a adaptabilidade e sobretudo motivação na construção dos objetivos.",
+        "É um regresso que ao longo do tempo faz com que as pessoas pratiquem a empatia.",
+        "É uma análise que gera poucas evoluções.",
+        "É um regresso que ao longo do tempo faz com que as pessoas não pratiquem a adaptabilidade."
+      ]
+    },
+    {
+      "pergunta": "3) Baseado no treinamento, escolha a alternativa correta sobre \"buscar desafios\":",
+      "opcoes": [
+        "Quebrar paradigmas, pensar de maneira disruptiva e contribuir com o progresso da sua criatividade.",
+        "Pensar de maneira tradicional, seguir regras e respeitar as limitações existentes.",
+        "Pensar de maneira inovadora, criar novas possibilidades mas sem pensar na evolução do processo.",
+        "Ser curioso, criar novas possibilidades e pensar de maneira otimista."
+      ]
+    },
+    {
+      "pergunta": "2) Quais as dicas para desenvolver o autodesenvolvimento?",
+      "opcoes": [
+        "Espírito de líder, altruísmo e persistência.",
+        "Buscar desafios, fazer autoanálise de forma constante e observar as pessoas que te rodeia.",
+        "Buscar conhecimentos.",
+        "Buscar confiança, persistência e autoanálise."
+      ]
+    },
+    {
+      "pergunta": "1) De acordo com o treinamento o autodesenvolvimento está ligado a:",
+      "opcoes": [
+        "Plenitude.",
+        "Atitude.",
+        "Perseverança.",
+        "Confiança."
+      ]
+    }
+  ]
+}
