@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA CONCORRENTE DE UNIDADE DE INTERNAÇÃO_INFRA",
+  "id": 294,
+  "idChecklist": 206,
+  "perguntas": [
+    {
+      "pergunta": "5) Quanto a ordem de limpeza das superfícies da unidade de internação, marque a alternativa com a ordem CORRETA?",
+      "opcoes": [
+        "Parapeito de janelas; suportes de papeis; painel de gases; porta de armários; meda de refeição; parte externa do frigobar; interruptores; mesa de cabeceira; sofás e poltronas; pés do suporte de soro.",
+        "Pés do suporte de soro, mesa de refeição; frigobar; painel de gases; interruptores.",
+        "Parede, sofás; interruptores; pés do suporte de soro; parte externa e interna do frigobar.",
+        "Piso, painel de gases; janelas; sofá e poltronas e parte externa do frigobar."
+      ]
+    },
+    {
+      "pergunta": "4) Qual alternativa está CORRETA sobre a etapa de higienização do piso na limpeza concorrente de unidade de internação?",
+      "opcoes": [
+        "Para limpeza do piso, utilizar o LT com a fibra branca.",
+        "Realizar primeiro a limpeza seca utilizando o lamelo e depois realizar a limpeza úmida no sentido do fundo em direção a porta, com movimentos de oito deitado (ondulares) no piso.",
+        "Como o paciente está presente no ambiente, não é feita a limpeza úmida do piso.",
+        "Como o paciente está presente no ambiente, realizar somente a limpeza seca do piso."
+      ]
+    },
+    {
+      "pergunta": "3) Marque a alternativa que contém a atividade que NÃO é realizada na limpeza concorrente de unidade de internação:",
+      "opcoes": [
+        "Recolher resíduos.",
+        "Limpeza de superfícies como mesa de cabeceira, parte externa de frigobar e sofás/poltronas.",
+        "Limpeza do vaso sanitário.",
+        "Limpeza úmida do teto."
+      ]
+    },
+    {
+      "pergunta": "2) Qual a definição de limpeza concorrente de unidade de internação?",
+      "opcoes": [
+        "Limpeza realizada diariamente com a finalidade de limpar e organizar, repor os descartáveis e retirar os resíduos tanto da unidade de internação quanto do sanitário com a presença do paciente.",
+        "É a limpeza feita somente no leito.",
+        "Limpeza do vaso sanitário da unidade de internação.",
+        "Limpeza completa do teto da unidade de internação enquanto o paciente está no quarto."
+      ]
+    },
+    {
+      "pergunta": "1) O que é uma unidade de internação?",
+      "opcoes": [
+        "É a área do corredor próximo à sala de cirurgia.",
+        "É um grupo de salas cirúrgicas.",
+        "Pode ser um apartamento, quarto, enfermaria onde o paciente fica internado.",
+        "É a área de descanso dos médicos."
+      ]
+    }
+  ]
+}
