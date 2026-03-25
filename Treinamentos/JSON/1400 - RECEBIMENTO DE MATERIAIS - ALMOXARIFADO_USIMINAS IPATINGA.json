@@ -1,0 +1,52 @@
+{
+  "treinamento": "RECEBIMENTO DE MATERIAIS - ALMOXARIFADO_USIMINAS IPATINGA",
+  "id": 1400,
+  "idChecklist": 1156,
+  "perguntas": [
+    {
+      "pergunta": "5) EM QUAL ETAPA DO PROCESSO É NECESSÁRIO REFORÇAR OU REFAZER A EMBALAGEM, SE NECESSÁRIO?",
+      "opcoes": [
+        "AVALIAÇÃO DA CARGA.",
+        "INSPEÇÃO E APROVAÇÃO.",
+        "IDENTIFICAÇÃO DOS VOLUMES.",
+        "MOVIMENTAÇÃO PARA ROTAS DE ENTREGA OU ARMAZENAMENTO."
+      ]
+    },
+    {
+      "pergunta": "4) QUEM É RESPONSÁVEL PELA INSPEÇÃO E APROVAÇÃO DOS MATERIAIS APÓS O RECEBIMENTO?",
+      "opcoes": [
+        "A EQUIPE DE LOGÍSTICA.",
+        "A EQUIPE DE INSPEÇÃO DA USIMINAS E IN-HAUS.",
+        "O FORNECEDOR.",
+        "O MOTORISTA DO TRANSPORTE."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL TECNOLOGIA É UTILIZADA PARA REGISTRAR A LOCALIZAÇÃO DOS MATERIAIS DURANTE O POSICIONAMENTO?",
+      "opcoes": [
+        "LEITOR DE IMPRESSÃO DIGITAL.",
+        "CÂMERAS DE SEGURANÇA.",
+        "COLETORES DE DADOS E QR CODES.",
+        "CÓDIGO DE BARRAS DE PAPEL."
+      ]
+    },
+    {
+      "pergunta": "2) APÓS DESCARREGAR OS MATERIAIS, QUAL É O PRÓXIMO PASSO NO PROCESSO?",
+      "opcoes": [
+        "POSICIONAR OS VOLUMES.",
+        "MOVIMENTAR PARA ROTAS DE ENTREGA.",
+        "IDENTIFICAR OS VOLUMES.",
+        "AGUARDAR INSPEÇÃO E APROVAÇÃO."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É A PRIMEIRA ETAPA DO PROCESSO DE RECEBIMENTO DE MATERIAIS?",
+      "opcoes": [
+        "DESCARREGAR MATERIAIS COM EMPILHADEIRAS OU MANUALMENTE",
+        "AVALIAR A CARGA",
+        "IDENTIFICAR OS VOLUMES.",
+        "ABRIR O TRANSPORTE."
+      ]
+    }
+  ]
+}
