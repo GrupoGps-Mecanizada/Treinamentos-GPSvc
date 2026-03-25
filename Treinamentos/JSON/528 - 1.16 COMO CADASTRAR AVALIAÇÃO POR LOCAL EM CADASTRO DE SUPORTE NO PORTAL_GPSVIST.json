@@ -1,0 +1,52 @@
+{
+  "treinamento": "1.16 COMO CADASTRAR AVALIAÇÃO POR LOCAL EM CADASTRO DE SUPORTE NO PORTAL_GPSVISTA",
+  "id": 528,
+  "idChecklist": 330,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais tipos de resposta temos no GPS Vista?",
+      "opcoes": [
+        "Escolha única, múltipla escolha, stars, thumbs, texto simples e etc.",
+        "Somente escolha única.",
+        "Stars e thumbs.",
+        "Todas as alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "4) Como vincular as avaliações aos QR Code dos locais?",
+      "opcoes": [
+        "Basta selecionar opção chamados.",
+        "Cadastrar a avaliação nas rotinas.",
+        "Escolhendo o tipo de avaliação por local.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Quais são os dados obrigatórios?",
+      "opcoes": [
+        "Nome do local.",
+        "Nome da avaliação, tipo, data de liberação e questões.",
+        "Somente as questões.",
+        "Somente a tarefa."
+      ]
+    },
+    {
+      "pergunta": "2) O que colocar no cadastro de avaliações?",
+      "opcoes": [
+        "Descrição, tipo, data de liberação e questões.",
+        "Rotina e locais.",
+        "Somente o cadastro de estruturas.",
+        "Cadastro de tarefas."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o Objetivo do cadastro de avaliações?",
+      "opcoes": [
+        "Para cadastrar as Rotinas.",
+        "Para cadastrar avaliações de locais e chamados.",
+        "Para cadastrar somente o Ux.",
+        "Para criar os procedimentos."
+      ]
+    }
+  ]
+}
