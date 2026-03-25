@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR10.12.COMBATE A INCÊNDIOS",
+  "id": 291,
+  "idChecklist": 202,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual a classe de incêndio que ocorre em equipamentos elétricos energizados?",
+      "opcoes": [
+        "Classe A.",
+        "Classe B.",
+        "Classe C.",
+        "Classe D."
+      ]
+    },
+    {
+      "pergunta": "4) Qual o nome da forma de transmissão onde o calor se propaga de um corpo para outro por contato direto ou através de um meio condutor do calor intermediário?",
+      "opcoes": [
+        "Convecção.",
+        "Radiação.",
+        "Condução.",
+        "Nenhumas das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Como é chamada a característica física e química onde há temperatura necessária para inflamar a mistura de gases ou os vapores de combustível, sem que haja uma fonte externa de calor?",
+      "opcoes": [
+        "Ponto de combustão.",
+        "Ponto de ignição.",
+        "Ponto de fulgor.",
+        "Nenhumas das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "2) Qual a combustão não produz chama de imediato e sua temperatura não se eleva com rapidez?",
+      "opcoes": [
+        "Viva.",
+        "Lenta.",
+        "Espontânea.",
+        "Incompleta."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o comburente mais comumente encontrado na natureza?",
+      "opcoes": [
+        "Oxigênio.",
+        "Hidrogênio.",
+        "Nitrogênio.",
+        "Nenhumas das alternativas anteriores."
+      ]
+    }
+  ]
+}
