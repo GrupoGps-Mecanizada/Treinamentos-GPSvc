@@ -1,0 +1,52 @@
+{
+  "treinamento": "TRIAGEM DE ACESSO EM SALAS DE RESSONÂNCIA MAGNÉTICA",
+  "id": 1658,
+  "idChecklist": 1359,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL RISCO EXISTE AO LEVAR BALDES OU RODOS METÁLICOS NÃO AUTORIZADOS PARA A SALA DE RM?",
+      "opcoes": [
+        "APENAS DESGASTE DO MATERIAL.",
+        "RISCO GRAVE DE ACIDENTE COM O CAMPO MAGNÉTICO.",
+        "PERDA DA VALIDADE DO CRACHÁ.",
+        "DIFICULDADE PARA LIMPAR O AMBIENTE."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE ACONTECE SE ALGUÉM ENTRAR COM IMPLANTE COCLEAR NA SALA DE RM?",
+      "opcoes": [
+        "NADA ACONTECE.",
+        "O EXAME É MAIS RÁPIDO.",
+        "APENAS GERA RUÍDO NO APARELHO.",
+        "PODE CAUSAR ACIDENTE GRAVE."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE DEVE SER FEITO SE A PESSOA ESTIVER USANDO JOIAS OU PIERCINGS?",
+      "opcoes": [
+        "RETIRAR TODOS ANTES DE ENTRAR.",
+        "ESCONDER DENTRO DA ROUPA.",
+        "PROTEGER COM FITA ADESIVA.",
+        "MANTER DURANTE O TRABALHO."
+      ]
+    },
+    {
+      "pergunta": "2) QUE TIPO DE IMPLANTE DEVE SER INFORMADO ANTES DO ACESSO?",
+      "opcoes": [
+        "LENTE DE CONTATO.",
+        "TATUAGEM COM TINTA ESCURA.",
+        "PRÓTESE METÁLICA OU PINO.",
+        "CURATIVO SIMPLES."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL DISPOSITIVO IMPEDE A ENTRADA NA SALA DE RM?",
+      "opcoes": [
+        "ÓCULOS DE PROTEÇÃO.",
+        "MARCA-PASSO OU CARDIODESFIBRILADOR.",
+        "MÁSCARA DESCARTÁVEL.",
+        "TOUCA DE TECIDO."
+      ]
+    }
+  ]
+}
