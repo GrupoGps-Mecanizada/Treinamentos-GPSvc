@@ -1,0 +1,52 @@
+{
+  "treinamento": "PLANO DE AÇÃO E PLANO DE METAS - MÓDULO 2_DO",
+  "id": 682,
+  "idChecklist": 468,
+  "perguntas": [
+    {
+      "pergunta": "5) O que fazer no caso de alguma informação estar incorreta no sistema PA/PM/PP?",
+      "opcoes": [
+        "Ignorar e esperar a próxima avaliação.",
+        "Pedir ao líder direto para ignorar a informação incorreta.",
+        "Solicitar que o líder direto aprove novamente o PA/PM/PP, para que possam ser feitas as correções necessárias.",
+        "Criar um novo PA/PM/PP."
+      ]
+    },
+    {
+      "pergunta": "4)  Como deve ser feita a aprovação das metas do Colaborador no sistema PA/PM/PP?",
+      "opcoes": [
+        "Automaticamente após o preenchimento dos campos.",
+        "Pelo próprio Colaborador.",
+        "Pelo líder direto do Colaborador.",
+        "Por um terceiro não envolvido no processo."
+      ]
+    },
+    {
+      "pergunta": "3) Qual é a função da subcategoria \"Quadro de Metas\" no sistema PA/PM/PP?",
+      "opcoes": [
+        "Verificar o histórico de metas do Colaborador.",
+        "Criar novas metas para o Colaborador.",
+        "Aprovar as metas do Colaborador.",
+        "Preencher as metas do Colaborador."
+      ]
+    },
+    {
+      "pergunta": "2) O que é possível visualizar na aba “Home” do sistema PA/PM/PP?",
+      "opcoes": [
+        "Dados do líder direto do Colaborador.",
+        "Gráficos de metas alcançadas nos últimos anos.",
+        "Dados do Colaborador, histórico de PA/PM/PP e gráficos de cada ano.",
+        "Todos os detalhes das metas para o ano corrente."
+      ]
+    },
+    {
+      "pergunta": "1) Como acessar o sistema PA/PM/PP no Portal GPS?",
+      "opcoes": [
+        "Selecionando a opção \"Dados do Colaborador\".",
+        "Passando o mouse sobre o nome do usuário e selecionando a opção \"PA/PM/PP\".",
+        "Acessando a página de “Avaliação”.",
+        "Criando um novo PA/PM/PP."
+      ]
+    }
+  ]
+}
