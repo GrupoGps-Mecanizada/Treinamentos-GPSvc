@@ -1,0 +1,52 @@
+{
+  "treinamento": "USO DE EPI E EPC_LOGÍSTICA",
+  "id": 194,
+  "idChecklist": 114,
+  "perguntas": [
+    {
+      "pergunta": "5) Ao ver placas de uso obrigatórios dos EPIs, a utilização é:",
+      "opcoes": [
+        "É opcional.",
+        "Só pode ser utilizado se alguém mandar.",
+        "Não precisa usar.",
+        "É obrigatória."
+      ]
+    },
+    {
+      "pergunta": "4) Quais os cuidados na conservação dos EPIs?",
+      "opcoes": [
+        "Não é obrigação do empregado conservar os EPIs.",
+        "Não preciso me preocupar os EPIs não necessitam de conservação.",
+        "Preciso guardar, cuidar e preservar os EPIs.",
+        "Posso emprestar meus EPIs para os colegas."
+      ]
+    },
+    {
+      "pergunta": "3) O que significa a sigla EPC?",
+      "opcoes": [
+        "Equipamento de Proteção Comunitário.",
+        "Equipamento de Proteção Coletivo.",
+        "Equipamento de Proteção Exclusivo.",
+        "Equipamento para uso Coletivo e Individual."
+      ]
+    },
+    {
+      "pergunta": "2) Quais os dois tipos de proteção contra ruído?",
+      "opcoes": [
+        "Protetor auditivo de inserção (plug) e Protetor auditivo tipo concha.",
+        "Protetor auditivo tipo concha e Protetor de ouvido.",
+        "Protetor auditivo de inserção (plug) e Protetor de orelha.",
+        "Protetor auditivo tipo concha e protetor auditivo de ouvido."
+      ]
+    },
+    {
+      "pergunta": "1) O que significa a sigla EPI?",
+      "opcoes": [
+        "Equipamento de Segurança Individual.",
+        "Equipamento de Proteção Exclusivo.",
+        "Equipamento de uso individual.",
+        "Equipamento de Proteção Individual."
+      ]
+    }
+  ]
+}
