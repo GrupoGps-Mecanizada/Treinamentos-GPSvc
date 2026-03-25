@@ -1,0 +1,52 @@
+{
+  "treinamento": "LGPD APLICADA AO JURÍDICO - MÓDULO III",
+  "id": 365,
+  "idChecklist": 263,
+  "perguntas": [
+    {
+      "pergunta": "5) O fornecedor que trata dados em nome da GPS é",
+      "opcoes": [
+        "Controlador",
+        "Titular de dados",
+        "ANPD",
+        "Operador"
+      ]
+    },
+    {
+      "pergunta": "4) Quando a GPS decide sobre o tratamento de dados ela atua como",
+      "opcoes": [
+        "Operadora",
+        "DPO",
+        "Controladora",
+        "Nenhuma das alternativas"
+      ]
+    },
+    {
+      "pergunta": "3) Em caso de desenvolvimento que envolva o tratamento de dados",
+      "opcoes": [
+        "O seu líder deverá ser consultado",
+        "O comercial deverá aprovar",
+        "A área de Conformidade de Dados deverá analisar",
+        "Não precisa de análise"
+      ]
+    },
+    {
+      "pergunta": "2) Quando um contrato envolve o tratamento de dados",
+      "opcoes": [
+        "Encaminhar ao financeiro",
+        "Encaminhar para análise",
+        "Encaminhar ao CEO",
+        "Não precisa de análise"
+      ]
+    },
+    {
+      "pergunta": "1) Em um contrato o jurídico primeiro deverá observar",
+      "opcoes": [
+        "As responsabilidades dos Agentes de Tratamento",
+        "Nome do DPO",
+        "CNPJ da empresa",
+        "Nenhuma das alternativas"
+      ]
+    }
+  ]
+}
