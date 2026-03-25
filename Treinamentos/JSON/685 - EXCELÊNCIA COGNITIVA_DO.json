@@ -1,0 +1,52 @@
+{
+  "treinamento": "EXCELÊNCIA COGNITIVA_DO",
+  "id": 685,
+  "idChecklist": 471,
+  "perguntas": [
+    {
+      "pergunta": "5) A EXCELÊNCIA COGNITIVA É:",
+      "opcoes": [
+        "UMA HABILIDADE QUE NÃO PODE SER APRIMORADA.",
+        "A CAPACIDADE DE PROCESSAR INFORMAÇÕES DE FORMA RÁPIDA E EFICIENTE.",
+        "UMA HABILIDADE QUE SÓ PODE SER DESENVOLVIDA POR PESSOAS JOVENS.",
+        "A CAPACIDADE DE MEMORIZAR INFORMAÇÕES COM FACILIDADE."
+      ]
+    },
+    {
+      "pergunta": "4) Qual habilidade mental contribui para aprimorar a percepção visual?  ",
+      "opcoes": [
+        "Raciocínio lógico.",
+        "Atenção.",
+        "Concentração.",
+        "Visão detalhista."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE É A TÉCNICA POMODORO?",
+      "opcoes": [
+        "UMA FORMA DE MELHORAR O RACIOCÍNIO LÓGICO.",
+        "UMA TÉCNICA DE MEDITAÇÃO PARA MELHORAR A ATENÇÃO.",
+        "UMA TÉCNICA DE PINTURA PARA APRIMORAR A VISÃO DETALHISTA.",
+        "UMA TÉCNICA PARA MELHORAR A CONCENTRAÇÃO."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE É MINDFULNESS?",
+      "opcoes": [
+        "UMA TÉCNICA PARA MELHORAR A CONCENTRAÇÃO.",
+        "UM JOGO DE TABULEIRO PARA DESENVOLVER O RACIOCÍNIO LÓGICO.",
+        "UMA TÉCNICA PARA MELHORAR A ATENÇÃO, COMO POR EXEMPLO A MEDITAÇÃO.",
+        "UMA FORMA DE PRATICAR A VISÃO DETALHISTA."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL DAS OPÇÕES ABAIXO É UMA FORMA DE TREINAR O RACIOCÍNIO LÓGICO?",
+      "opcoes": [
+        "PRATICAR MINDFULNESS.",
+        "FAZER ATIVIDADES FÍSICAS.",
+        "ASSISTIR FILMES DE COMÉDIA.",
+        "JOGAR XADREZ."
+      ]
+    }
+  ]
+}
