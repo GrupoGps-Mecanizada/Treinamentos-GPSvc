@@ -1,0 +1,52 @@
+{
+  "treinamento": "PROCESSOS DE PESSOAS E ORGANIZAÇÃO: MRH DE ADMISSÃO_DO",
+  "id": 689,
+  "idChecklist": 475,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais são as funcionalidades disponíveis no final da linha da MRH de admissão?",
+      "opcoes": [
+        "Botão para declarar ciência da vaga, botão de cancelamento de MRH, botão de colaboração, botão para visualizar detalhes da MRH, botão para baixar a MRH como PDF.",
+        "Botão para declarar interesse na vaga, botão de confirmação de admissão, botão para contato com o candidato, botão para ver currículo do candidato.",
+        "Botão para solicitar aprovação da vaga, botão para adicionar notas sobre a vaga, botão para ver outras vagas disponíveis, botão para ver as condições de trabalho da vaga.",
+        "Botão para compartilhar a vaga em redes sociais, botão para ver o ranking de candidatos, botão para enviar uma mensagem ao RH, botão para denunciar a vaga."
+      ]
+    },
+    {
+      "pergunta": "4) Quando ocorre uma trava sistêmica na admissão, o que deve ser feito?",
+      "opcoes": [
+        "Abertura de um chamado para que o time RH Corporativo possa avaliar a situação.",
+        "Aguardar até que a trava seja removida automaticamente.",
+        "Ignorar a trava e prosseguir com a admissão.",
+        "Enviar um e-mail para a área de Desenvolvimento Organizacional."
+      ]
+    },
+    {
+      "pergunta": "3) Qual a quantidade de vagas que deve ser preenchida na MRH de admissão?",
+      "opcoes": [
+        "A quantidade exata de vagas disponíveis.",
+        "Qualquer quantidade de vagas, mesmo que diferentes.",
+        "Sempre como “1”.",
+        "Depende do número de vagas disponíveis."
+      ]
+    },
+    {
+      "pergunta": "2) Qual o significado de CR na criação da MRH de admissão?",
+      "opcoes": [
+        "Centro de Risco.",
+        "Centro de Responsabilidade.",
+        "Centro de Recursos Humanos.",
+        "Centro de Custo Reduzido."
+      ]
+    },
+    {
+      "pergunta": "1) O que é necessário para realizar a formalização da MRH de admissão em sistema?",
+      "opcoes": [
+        "Clicar na pasta de admissão na coluna de Sistemas no Portal GPS.",
+        "Enviar um e-mail para o RH Corporativo.",
+        "Preencher um formulário de papel.",
+        "Fazer uma ligação para a área de Pessoas e Organização responsável pela Regional."
+      ]
+    }
+  ]
+}
