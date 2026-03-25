@@ -1,0 +1,52 @@
+{
+  "treinamento": "APRENDIZAGEM ÁGIL_DO",
+  "id": 676,
+  "idChecklist": 462,
+  "perguntas": [
+    {
+      "pergunta": "5) Por que a Aprendizagem Ágil é importante para os profissionais?",
+      "opcoes": [
+        "Porque ajuda a maximizar a eficiência e a eficácia no aprendizado.",
+        "Porque elimina a necessidade de colaboração com colegas.",
+        "Porque reduz a necessidade de flexibilidade e adaptação.",
+        "Porque enfatiza a importância de objetivos de longo prazo."
+      ]
+    },
+    {
+      "pergunta": "4) Qual é uma das habilidades da Aprendizagem Ágil?",
+      "opcoes": [
+        "Encontrar desculpas para não aprender.",
+        "Aprender tudo rapidamente sem esforço.",
+        "Focar em tarefas prioritárias.",
+        "Ignorar o feedback dos colegas."
+      ]
+    },
+    {
+      "pergunta": "3) Qual é o principal benefício da Aprendizagem Ágil?",
+      "opcoes": [
+        "Aumento da rigidez e controle nos processos de aprendizado.",
+        "Maior ênfase em objetivos de longo prazo.",
+        "Foco em desenvolvimento de habilidades comportamentais.",
+        "Redução da colaboração entre equipes."
+      ]
+    },
+    {
+      "pergunta": "2) Qual é uma das habilidades comportamentais necessárias para desenvolver a Aprendizagem Ágil?",
+      "opcoes": [
+        "Passividade.",
+        "Desorganização.",
+        "Adaptabilidade.",
+        "Resistência a mudanças."
+      ]
+    },
+    {
+      "pergunta": "1) Qual é a abordagem central da Aprendizagem Ágil?",
+      "opcoes": [
+        "Foco em processos formais.",
+        "Foco em hierarquia e controle.",
+        "Foco em experimentação, colaboração e melhoria contínua.",
+        "Foco em objetivos de curto prazo."
+      ]
+    }
+  ]
+}
