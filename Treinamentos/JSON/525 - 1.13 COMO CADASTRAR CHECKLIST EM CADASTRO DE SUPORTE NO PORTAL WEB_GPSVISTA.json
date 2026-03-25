@@ -1,0 +1,52 @@
+{
+  "treinamento": "1.13 COMO CADASTRAR CHECKLIST EM CADASTRO DE SUPORTE NO PORTAL WEB_GPSVISTA",
+  "id": 525,
+  "idChecklist": 327,
+  "perguntas": [
+    {
+      "pergunta": "5) O Checklist é um cadastro obrigatório?",
+      "opcoes": [
+        "Não, a rotina pode ser criada mesmo sem o checklist vinculado.",
+        "Sim, sem o cadastro o sistema não irá gerar a tarefa.",
+        "Sim, cadastro obrigatório.",
+        "Sim, é obvio."
+      ]
+    },
+    {
+      "pergunta": "4) Onde incluímos o Checklist para que ele apareça nas tarefas?",
+      "opcoes": [
+        "Em cadastro de qualificações.",
+        "Em estrutura.",
+        "Em rotina na aba de configurações de tarefas.",
+        "Em cadastro de ativos."
+      ]
+    },
+    {
+      "pergunta": "3) Quais são os formatos de questões que podem ser cadastradas?",
+      "opcoes": [
+        "Apenas em formato de texto simples.",
+        "Apenas múltipla escolha.",
+        "Escolha única, texto simples, múltipla escolha, sim ou não entre outras.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "2) Quais informações são obrigatórias no preenchimento do checklist?",
+      "opcoes": [
+        "Nome, Descrição e Questões.",
+        "Nome.",
+        "Questões.",
+        "Não há exigências obrigatórias."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o objetivo do cadastro de Checklist?",
+      "opcoes": [
+        "Cadastrar as atividades.",
+        "Cadastrar os roteiros de atividades que irão aparecer no Aplicativo.",
+        "Para cadastrar as rotinas.",
+        "Para cadastrar workflow."
+      ]
+    }
+  ]
+}
