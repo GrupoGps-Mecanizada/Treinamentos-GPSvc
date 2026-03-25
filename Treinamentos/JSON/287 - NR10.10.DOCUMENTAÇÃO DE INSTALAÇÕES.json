@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR10.10.DOCUMENTAÇÃO DE INSTALAÇÕES",
+  "id": 287,
+  "idChecklist": 199,
+  "perguntas": [
+    {
+      "pergunta": "5) Os procedimentos de emergências solicitados no item 10.2.5 são para qual sistema elétrico?",
+      "opcoes": [
+        "Sistema elétrico de potência.",
+        "Sistema elétrico de consumo.",
+        "Sistema elétrico de aterramento.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "4) Qual tipo de profissional pode elaborar os documentos técnicos previstos no Prontuário de Instalações Elétricas?",
+      "opcoes": [
+        "Qualificado.",
+        "Capacitado.",
+        "Habilitado.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Qual item(s) não faz parte do prontuário de instalações elétricas?",
+      "opcoes": [
+        "Especificação dos equipamentos de proteção coletiva e individual e o ferramental, aplicáveis conforme determina esta NR.",
+        "Documentação comprobatória da qualificação, habilitação, capacitação, autorização dos trabalhadores e dos treinamentos realizados.",
+        "PPR – Programa de Proteção Respiratória.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "2) Qual item(s) não faz parte do prontuário de instalações elétricas?",
+      "opcoes": [
+        "Documentação das inspeções e medições do sistema de proteção contra descargas atmosféricas e aterramentos elétricos.",
+        "Conjunto de procedimentos e instruções técnicas e administrativas de segurança e saúde, implantadas e relacionadas a esta NR e descrição das medidas de controle existentes.",
+        "Folhas de ponto dos funcionários.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "1) A partir de qual carga elétrica instalada é necessário o prontuário de instalações elétricas?",
+      "opcoes": [
+        "1.000 W",
+        "10.000 W",
+        "75 kW",
+        "Nenhuma das anteriores."
+      ]
+    }
+  ]
+}
