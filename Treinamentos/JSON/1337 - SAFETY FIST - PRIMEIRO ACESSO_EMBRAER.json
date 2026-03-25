@@ -1,0 +1,52 @@
+{
+  "treinamento": "SAFETY FIST - PRIMEIRO ACESSO_EMBRAER",
+  "id": 1337,
+  "idChecklist": 1096,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE É INEGOCIÁVEL EM NOSSA ROTINA DE TRABALHO?",
+      "opcoes": [
+        "CUMPRIR OS PRAZOS.",
+        "A SEGURANÇA DAS PESSOAS.",
+        "A SATISFAÇÃO DO CLIENTE.",
+        "A ENTREGA DOS PRODUTOS."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL CUIDADO PRECISAMOS TER NAS ESCADAS?",
+      "opcoes": [
+        "SEMPRE UTILIZAR O CORRIMÃO.",
+        "TER O TREINAMENTO DE NR35.",
+        "ESTAR SEMPRE ACOMPANHADO.",
+        "TER CONHECIMENTO DO RAMAL DE EMERGÊNCIA."
+      ]
+    },
+    {
+      "pergunta": "3) SEGUNDO O TREINAMENTO, QUANDO FOR ACESSAR AS ÁREAS PRODUTIVAS, QUAL CUIDADO DEVE SEGUIR?",
+      "opcoes": [
+        "RESPEITAR OS LIMITES DE VELOCIDADE.",
+        "UTILIZAR EPI E RESPEITAR AS ÁREAS DEMARCADAS.",
+        "NÃO FALAR AO CELULAR.",
+        "UTILIZAR O CORRIMÃO."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL O LIMITE DE VELOCIDADE NO INTERIOR DA EMPRESA?",
+      "opcoes": [
+        "30KM/H.",
+        "20KM/H.",
+        "8KM/H.",
+        "CONFORME REGRAS DE TRÂNSITO."
+      ]
+    },
+    {
+      "pergunta": "1) QUEM E QUANDO DEVO ORIENTAR SOBRE AS REGRAS DE SEGURANÇA DO TRABALHO NA PORTARIA?",
+      "opcoes": [
+        "TODOS OS VISITANTES.",
+        "VISITANTES, CLIENTES, PARCEIROS E TERCEIROS.",
+        "VISITANTES, TERCEIROS, PARCEIROS E CARGA & DESCARGA SEMPRE QUE ACESSAREM AS UNIDADES;",
+        "VISITANTES, TERCEIROS, PARCEIROS E CARGA & DESCARGA EM SEU PRIMEIRO ACESSO."
+      ]
+    }
+  ]
+}
