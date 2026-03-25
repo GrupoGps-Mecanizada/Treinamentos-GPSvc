@@ -1,0 +1,52 @@
+{
+  "treinamento": "CONTROLE DE CARREGAMENTO_TRAMONTINA",
+  "id": 1677,
+  "idChecklist": 1376,
+  "perguntas": [
+    {
+      "pergunta": "5) QUEM NÃO PODE ENTRAR NA PARTE INTERNA DA EMPRESA DURANTE A COLETA?",
+      "opcoes": [
+        "MOTORISTA COM CNH VÁLIDA.",
+        "AJUDANTES SEM DOCUMENTO, ACOMPANHANTES E CRIANÇAS.",
+        "VIGILANTES ESCALADOS.",
+        "CLIENTE AUTORIZADO."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL CONDIÇÃO É OBRIGATÓRIA PARA O OCUPANTE DO VEÍCULO ENTRAR NA EMPRESA?",
+      "opcoes": [
+        "USAR CALÇADO FECHADO E CALÇA COMPRIDA.",
+        "USAR BONÉ E JAQUETA.",
+        "ESTAR COM UNIFORME DA EMPRESA.",
+        "TRAZER CRACHÁ DE VISITANTE."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE DEVE SER FEITO APÓS O MOTORISTA ESTACIONAR PARA SAIR DA EMPRESA?",
+      "opcoes": [
+        "APENAS ABRIR O PORTÃO E SOLICITAR NOTAS FISCAIS.",
+        "LIBERAR SEM CHECAR NADA.",
+        "CONFERIR SOMENTE O LACRE E REGISTRAR NO SISTEMA.",
+        "SOLICITAR NOTAS FISCAIS OU NÚMERO DO LACRE."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE A VIGILÂNCIA DEVE PREENCHER AO LIBERAR O VEÍCULO NA ENTRADA?",
+      "opcoes": [
+        "DOCUMENTOS DO MOTORISTA E AJUDANTES.",
+        "PLACA DO CAMINHÃO.",
+        "MODELO E COR DO CAMINHÃO.",
+        "TODAS AS ALTERNATIVAS ACIMA."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL DOCUMENTO É SOLICITADO AO MOTORISTA NA PORTARIA?",
+      "opcoes": [
+        "RG.",
+        "CNH.",
+        "CPF.",
+        "CTPS."
+      ]
+    }
+  ]
+}
