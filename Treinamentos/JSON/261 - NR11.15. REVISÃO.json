@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR11.15. REVISÃO",
+  "id": 261,
+  "idChecklist": 173,
+  "perguntas": [
+    {
+      "pergunta": "5) Por quais tipos de terrenos não devo trafegar?",
+      "opcoes": [
+        "Não trafegar por terrenos regulares e instáveis.",
+        "Não trafegar por terrenos irregulares e instáveis.",
+        "Não trafegar por terrenos irregulares e estáveis.",
+        "Não trafegar por terrenos regulares e estáveis."
+      ]
+    },
+    {
+      "pergunta": "4) De que maneira a carga deverá ser transportada?",
+      "opcoes": [
+        "A carga sempre deverá ser transportada de maneira estável e compactada.",
+        "A carga sempre deverá ser transportada de maneira instável e compactada.",
+        "A carga sempre deverá ser transportada de maneira instável e descompactada.",
+        "A carga sempre deverá ser transportada de maneira estável e descompactada."
+      ]
+    },
+    {
+      "pergunta": "3) Marque a alternativa correta:",
+      "opcoes": [
+        "Posso carregar qualquer carga e de qualquer peso, pois a empilhadeira foi projetada para esta finalidade.",
+        "Deverá seguir somente a capacidade de carga que o responsável mandar.",
+        "Deverá consultar a equipe de projetos para transporte de cargas especiais ou sem identificação.",
+        "Deverá observar a capacidade de carga que estará em uma placa de identificação no corpo do equipamento."
+      ]
+    },
+    {
+      "pergunta": "2) Marque a alternativa correta:",
+      "opcoes": [
+        "É permitido a elevação de pessoas somente para conferir materiais na porta palete.",
+        "Não é permitido a elevação ou transporte de pessoas em nossas operações, ou realizar improvisos para elevar materiais ou cargas.",
+        "Posso realizar improvisos na carga somente se caso não tiver pessoas próximas.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o limite de altura da carga é permitido transportar?",
+      "opcoes": [
+        "Até a altura da torre da empilhadeira.",
+        "3 metros de altura, no máximo.",
+        "Vai depender do tipo de carga, se for mais estável posso passar um pouco da torre caso contrário o limite é a torre da empilhadeira.",
+        "Depende do contratante, ele determina."
+      ]
+    }
+  ]
+}
