@@ -1,0 +1,52 @@
+{
+  "treinamento": "BOAS PRÁTICAS DE FABRICAÇÃO DE ALIMENTOS - LC RESTAURANTES",
+  "id": 190,
+  "idChecklist": 110,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual a forma correta de armazenamento da coleta de amostras?",
+      "opcoes": [
+        "Líquidos sob refrigeração e alimentos quentes e frios sob congelamento.",
+        "Alimentos frios sob refrigeração e alimentos líquidos e quentes sob congelamento.",
+        "Alimentos servidos frios e líquidos sob refrigeração e alimentos servidos quentes sob congelamento.",
+        "Alimentos servidos frios, líquidos e quentes, todos sob refrigeração."
+      ]
+    },
+    {
+      "pergunta": "4) Qual a faixa de temperatura da chamada \"Zona de Perigo\" ou \"Faixa de Perigo\", que é propício para a multiplicação microbiana dos alimentos?",
+      "opcoes": [
+        "Entre 0 °C e 21 °C.",
+        "Entre 5 °C e 60 °C.",
+        "Entre 0 °C e 80 °C.",
+        "Entre 30 °C e 50 °C."
+      ]
+    },
+    {
+      "pergunta": "3) Qual a temperatura segura para conter a contaminação alimentar, na etapa de Cozimento/cocção dos alimentos?",
+      "opcoes": [
+        "74 °C.",
+        "84 °C.",
+        "90 °C.",
+        "60 °C."
+      ]
+    },
+    {
+      "pergunta": "2) Marque a forma correta da higienização das mãos.",
+      "opcoes": [
+        "Lavar com sabonete neutro, esfregar, enxaguar e secar chacoalhando as mãos.",
+        "Lavar com sabonete antisséptico, esfregar mãos, dedos, dorso e antebraço por aproximadamente 30 seg., enxaguar, secar com papel e se necessário aplicar álcool 70%.",
+        "Lavar com sabonete em barra, esfregar palma das mãos, enxaguar e secar em papel reciclável.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "1) Durante o recebimento dos alimentos, o que deve ser verificado?",
+      "opcoes": [
+        "Temperatura dos alimentos.",
+        "Nota Fiscal.",
+        "Características sensoriais.",
+        "Todas as anteriores."
+      ]
+    }
+  ]
+}
