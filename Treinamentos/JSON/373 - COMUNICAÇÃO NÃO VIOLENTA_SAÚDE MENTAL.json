@@ -1,0 +1,52 @@
+{
+  "treinamento": "COMUNICAÇÃO NÃO VIOLENTA_SAÚDE MENTAL",
+  "id": 373,
+  "idChecklist": 267,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual é o passo inicial para que não tenhamos uma comunicação violenta?",
+      "opcoes": [
+        "O passo principal é avaliar seus sentimentos apenas.",
+        "O passo inicial é observar.",
+        "O passo inicial é limitar a comunicação.",
+        "O passo necessário é desconstruir seus pensamentos."
+      ]
+    },
+    {
+      "pergunta": "4) Cite um exemplo do que devemos evitar para não disseminar uma comunicação violenta:",
+      "opcoes": [
+        "Impor uma situação evitando conflitos.",
+        "Não ouvir uma pessoa quando ela trata a situação como monólogo.",
+        "A criação de estereótipos, que define um profissional a um rótulo.",
+        "Exigir que alguém tenha uma postura correta."
+      ]
+    },
+    {
+      "pergunta": "3) O que a comunicação não violenta defende?",
+      "opcoes": [
+        "Defende expressões com saídas positivas, focando na solução dos problemas, sem buscar culpados e sem ofensas.",
+        "Defende expressões sem saídas positivas, focando na solução dos problemas, sem buscar culpados e sem ofensas.",
+        "Previne conflitos, se comunica com olhares, sem reclamar e nem pontuar questões necessárias.",
+        "Previne conflitos, foca na solução de problemas, e não mantem posicionamentos evitando situações de conflito."
+      ]
+    },
+    {
+      "pergunta": "2) O que é importante identificar na comunicação não violenta?",
+      "opcoes": [
+        "É fundamental olhar as palavras que não são corretas a serem ditas.",
+        "É fundamental identificar sua forma de falar, suas reações e emoções nos relacionamentos com as outras pessoas.",
+        "É fundamental não ser ignorante e tratar as pessoas com grosseria.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "1) O que é comunicação não violenta?",
+      "opcoes": [
+        "É não estar aberto ao diálogo, expressando os seus desejos e as suas necessidades, mas respeitando as dos outros também.",
+        "É estar aberto ao diálogo, expressando os seus desejos e as suas necessidades, mas não respeitando as dos outros.",
+        "É estar aberto ao diálogo, afirmando os seus desejos e as suas necessidades, mas respeitando as dos outros também.",
+        "É estar aberto ao diálogo, expressando os seus desejos e as suas necessidades, mas respeitando as dos outros também."
+      ]
+    }
+  ]
+}
