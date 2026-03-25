@@ -1,0 +1,52 @@
+{
+  "treinamento": "ADMINISTRAÇÃO DE CONFLITOS",
+  "id": 55,
+  "idChecklist": 34,
+  "perguntas": [
+    {
+      "pergunta": "5)\tEm que cenário a diferença de ideias pode ser positiva?",
+      "opcoes": [
+        "Quando estimulam a criatividade, favorecem o trabalho em equipe e complementam as relações.",
+        "Quando o colaborador cria uma rivalidade com o colega de trabalho.",
+        "Quando o colega de trabalho inibe ideias do colega e o exclui.",
+        "Quando os colabores se afastam no trabalho e agem de maneira individualista."
+      ]
+    },
+    {
+      "pergunta": "4) O que pode agravar ou minimizar um conflito?",
+      "opcoes": [
+        "Agir pacificamente resolvendo a questão no diálogo.",
+        "Discutir com o colega sem ofensas e tornando a conversa saudável e produtiva.",
+        "O nosso comportamento.",
+        "Respeitar o colega Independe de quem estiver certo."
+      ]
+    },
+    {
+      "pergunta": "3) Com base no texto como devemos agir em uma situação de “nervos à flor da pele”?",
+      "opcoes": [
+        "Continuar a discussão e partir para cima do colega de trabalho.",
+        "Interromper a discussão, refletir e retomar a conversa em outro momento.",
+        "Interromper a discussão, para ofender o colega de trabalho posteriormente.",
+        "Ignorar o colega de trabalho e não dirigir mais a palavra a pessoa."
+      ]
+    },
+    {
+      "pergunta": "2) Das 5 dicas citadas no material, indique qual das alternativas NÃO correspondem a uma das dicas?",
+      "opcoes": [
+        "Não há nenhum problema em reconhecer que a ideia do outro é melhor.",
+        "Relevar alguns comportamentos em benefício da harmonia é fundamental.",
+        "Sempre levar o conflito para fora da empresa para resolução do problema.",
+        "Pense antes de agir."
+      ]
+    },
+    {
+      "pergunta": "1) Conforme treinamento quais são as 3 causas mais comuns dos conflitos?",
+      "opcoes": [
+        "Falta de colaboração, competição entre as pessoas e divergência de opiniões.",
+        "Falar alto, Interromper outras pessoas e divergência de opiniões.",
+        "Ignorar outra pessoa, mexer no celular e falta de colaboração.",
+        "Não olhar no olho de quem está falando, rir e bocejar."
+      ]
+    }
+  ]
+}
