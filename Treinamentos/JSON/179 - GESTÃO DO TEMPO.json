@@ -1,0 +1,52 @@
+{
+  "treinamento": "GESTÃO DO TEMPO",
+  "id": 179,
+  "idChecklist": 99,
+  "perguntas": [
+    {
+      "pergunta": "5) Assinale a alternativa correta sobre Gestão do Tempo.",
+      "opcoes": [
+        "Em um mundo conectado e online, a administração do recurso tempo é mais relevante que qualquer outro recurso disponível.",
+        "Uma unidade de tempo desperdiçada no decorrer do dia não faz falta nenhuma.",
+        "Não somos conectados e temos poucas atividades no dia a dia então Gestão do tempo não é necessário.",
+        "O segredo é sair do foco para dar uma relaxada e assim administrar melhor o tempo."
+      ]
+    },
+    {
+      "pergunta": "4) O que foi comparado a uma bola de madeira?",
+      "opcoes": [
+        "A espiritualidade é como uma bola de madeira, se cair não vai quebrar mas deixará marcas difíceis de apagar.",
+        "A saúde é como uma bola de madeira, se cair não vai quebrar mas deixará marcas difíceis de apagar.",
+        "O trabalho é como uma bola de madeira, se cair não vai quebrar mas deixará marcas difíceis de apagar.",
+        "A família é como uma bola de madeira, se cair não vai quebrar mas deixará marcas difíceis de apagar."
+      ]
+    },
+    {
+      "pergunta": "3) Quais são as 4 dimensões que devemos cuidar e equilibrar?",
+      "opcoes": [
+        "Trabalho, Família, Saúde e Espiritualidade.",
+        "Trabalho, Amigos, Saúde e Espiritualidade.",
+        "Amigos, Família, Saúde e Espiritualidade.",
+        "Amigos, Família, Saúde e Trabalho."
+      ]
+    },
+    {
+      "pergunta": "2) Quais são as 7 técnicas para otimizar o tempo?",
+      "opcoes": [
+        "Planejamento, agenda, permitir sempre interrupções,  ligações, organização e ausência em compromissos.",
+        "Planejamento semanal, agenda diária, controlar interrupções, condução de reuniões, telefonemas, organização e técnica do remédio ruim.",
+        "Permitir sempre interrupções, agenda, telefonemas, organização e ausência em compromissos.",
+        "Planejamento, agenda, permitir sempre interrupções e ligações e definir prioridades."
+      ]
+    },
+    {
+      "pergunta": "1) Qual a importância da etapa de PLANEJAMENTO na Gestão do Tempo?",
+      "opcoes": [
+        "Para equilibrar a vida profissional e pessoal.",
+        "Para escrever tudo em um caderno e realizar quando der.",
+        "Para se dedicar mais ao trabalho.",
+        "Para perder tempo."
+      ]
+    }
+  ]
+}
