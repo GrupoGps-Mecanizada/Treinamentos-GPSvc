@@ -1,0 +1,52 @@
+{
+  "treinamento": "INTRODUÇÃO AO HVAC - TEMPERATURA - PARTE II - MÓDULO II_ENGENHARIA",
+  "id": 1087,
+  "idChecklist": 858,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAIS SÃO OS ESTADOS DA MATÉRIA?",
+      "opcoes": [
+        "SÓLIDO, LÍQUIDO E GASOSO.",
+        "KELVIN, CELSIUS, FAHRENHEIT.",
+        "CONHECIMENTO, HABILIDADE E FAHRENHEIT.",
+        "TEMPERATURA, ENERGIA CINÉTICA E KELVIN."
+      ]
+    },
+    {
+      "pergunta": "4) NO CASO DA ÁGUA, O QUE OCORRE QUANDO OS ÁTOMOS SÃO AGITADOS, RESULTANDO EM CALOR?",
+      "opcoes": [
+        "A ÁGUA PODE ESFRIAR, PORQUE A AGITAÇÃO DOS ÁTOMOS RESULTA EM TEMPERATURA MAIS BAIXAS.",
+        "NADA ACONTECE.",
+        "O CALOR DA ÁGUA NÃO É RESPONSÁVEL PELA MUDANÇA DO ESTADO FÍSICO.",
+        "OCORRE O AQUECIMENTO DA ÁGUA SENDO EXPOSTA A UMA MUDANÇA DO ESTADO LÍQUIDO PARA O GASOSO."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É A ESCALA DE TEMPERATURA MAIS UTILIZADA EM TODO O MUNDO, INCLUSIVE NO BRASIL?",
+      "opcoes": [
+        "CELSIUS (°C).",
+        "KELVIN (K).",
+        "FAHRENHEIT (°F).",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE ACONTECE QUANDO HÁ UMA DIFERENÇA DE TEMPERATURA ENTRE DOIS CORPOS?",
+      "opcoes": [
+        "AUMENTO DA TEMPERATURA.",
+        "EQUILÍBRIO TÉRMICO.",
+        "TRANSFERÊNCIA DE ENERGIA TÉRMICA.",
+        "NÃO ACONTECE NADA."
+      ]
+    },
+    {
+      "pergunta": "1) QUANDO DOIS CORPOS ESTÃO À MESMA TEMPERATURA, O QUE PODEMOS CONCLUIR SOBRE ELES?",
+      "opcoes": [
+        "ESTÃO EM ESTADO GASOSO.",
+        "ESTÃO EM EQUILÍBRIO TÉRMICO.",
+        "ESTÃO EM ESTADO DE FUSÃO",
+        "ESTÃO EM ESTADO SÓLIDO"
+      ]
+    }
+  ]
+}
