@@ -1,0 +1,52 @@
+{
+  "treinamento": "DESLOCAMENTO SEGURO",
+  "id": 343,
+  "idChecklist": 242,
+  "perguntas": [
+    {
+      "pergunta": "5) Por sempre realizar o mesmo percurso, entramos no modo automático e isso nos impede do que?",
+      "opcoes": [
+        "Nos impede de estar atento no percurso",
+        "Nos impede de ter um dia de estresse",
+        "Nos impede de estar no horário",
+        "Nos impede de ter maior atenção a riscos eminentes"
+      ]
+    },
+    {
+      "pergunta": "4) Por que não devemos prolongar uma conversa com motoristas?",
+      "opcoes": [
+        "Pois pode diminuir a atenção e causar acidentes",
+        "Pois ele pode te achar inconveniente.",
+        "Pois pode atrasar a ida do trabalho de outras pessoas",
+        "Pois isso causa incômodo nos demais passageiros"
+      ]
+    },
+    {
+      "pergunta": "3) Para evitar acidentes em curvas e paradas bruscas, qual é a melhor conduta a ser seguida nos transportes públicos?",
+      "opcoes": [
+        "Mesmo com o costume de andar em transportes públicos, é sempre importante se segurar firme garantindo sua segurança",
+        "Estar sempre dentro do seu horário e lutar por um lugar sentado",
+        "Mesmo com a falta costume de andar em transportes públicos, é sempre importante se segurar firme garantindo sua segurança",
+        "Estar sempre dentro do seu horário e lutar por um lugar aconchegante"
+      ]
+    },
+    {
+      "pergunta": "2) Quais são os riscos ao correr para embarcar nos transportes públicos?",
+      "opcoes": [
+        "É possível estragar os tênis",
+        "Podemos machucar os pés",
+        "Você pode cair ou se esbarrar e machucar alguém, ou causando possíveis acidentes graves",
+        "Nenhuma das alternativas acima"
+      ]
+    },
+    {
+      "pergunta": "1) Qual a melhor maneira de evitar atrasos e a correria para embarcar no transporte público?",
+      "opcoes": [
+        "Relaxar",
+        "Se programar e sair com antecedência",
+        "Sair em cima do horário programado",
+        "Buscar uma nova rota que te ajude"
+      ]
+    }
+  ]
+}
