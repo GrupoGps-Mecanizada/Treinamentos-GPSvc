@@ -1,0 +1,52 @@
+{
+  "treinamento": "USO DO SMARTPHONE",
+  "id": 56,
+  "idChecklist": 35,
+  "perguntas": [
+    {
+      "pergunta": "1) Em que situações podemos fazer o uso do smartphone no horário de trabalho?",
+      "opcoes": [
+        "Usar para receber mensagens pessoais.",
+        "Usar para escutar músicas.",
+        "Usar apenas em situações de emergência e também no horários de refeições.",
+        "Usar para jogar ou para passar o tempo."
+      ]
+    },
+    {
+      "pergunta": "5) Quais conteúdos acessados através do celular podem nos tornar dependentes?",
+      "opcoes": [
+        "Facilidade a achar sapatos na internet.",
+        "Livre acesso a perfis em redes sociais.",
+        "Acesso a bancos, compras, notícias, jogos e uma infinidade de aplicativos.",
+        "Jogos de xadrez no celular."
+      ]
+    },
+    {
+      "pergunta": "4) Qual o risco de estar desatento utilizando o smartphone no horário de trabalho?",
+      "opcoes": [
+        "Coloca em risco a segurança das pessoas que estão no local e até mesmo a própria segurança.",
+        "Gera problemas na memória.",
+        "Desenvolve um perfil agressivo.",
+        "Gera fome descontrolada."
+      ]
+    },
+    {
+      "pergunta": "3)De acordo com o treinamento qual afirmação é VERDADEIRA?",
+      "opcoes": [
+        "Use o smartphone para se isolar das pessoas ao redor.",
+        "Digitar andando é totalmente seguro.",
+        "Reveja sua rotina, se policie diariamente e influencie seus colegas para fazerem uso adequado do smartphone.",
+        "O smartphone deve ser usado sem critérios o tempo todo."
+      ]
+    },
+    {
+      "pergunta": "2) Qual o principal problema no uso do smartphone no ambiente de trabalho?",
+      "opcoes": [
+        "Gera fome excessiva no colaborador.",
+        "Pode diminuir a concentração e a produtividade do colaborador gerando falta de atenção.",
+        "Gera sono no colaborador.",
+        "Gera dor nas costas do colaborador."
+      ]
+    }
+  ]
+}
