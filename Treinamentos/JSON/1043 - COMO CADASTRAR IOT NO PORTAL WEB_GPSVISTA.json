@@ -1,0 +1,52 @@
+{
+  "treinamento": "COMO CADASTRAR IOT NO PORTAL WEB_GPSVISTA",
+  "id": 1043,
+  "idChecklist": 817,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL É A FUNÇÃO DA OPÇÃO DE \"SOBRESCREVER O PARÂMETRO DA ROTINA\"?",
+      "opcoes": [
+        "AUMENTAR A COMPLEXIDADE DO SENSOR.",
+        "RESTRINGIR O ACESSO AO SENSOR.",
+        "DEFINIR UM PRAZO FIXO PARA TODAS AS TAREFAS.",
+        "PERSONALIZAR O PRAZO DE UMA TAREFA ESPECÍFICA."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE ACONTECE QUANDO SE SELECIONA A OPÇÃO DE \"COMUNICAR O SENSOR\"?",
+      "opcoes": [
+        "O SENSOR É DESATIVADO.",
+        "O GPSVISTA INFORMA O SENSOR TODA VEZ QUE A TAREFA É FINALIZADA.",
+        "O SENSOR RECEBE ALERTAS ALEATÓRIOS.",
+        "O SENSOR PARA DE FUNCIONAR TEMPORARIAMENTE."
+      ]
+    },
+    {
+      "pergunta": "3) QUEM ENVIA O CÓDIGO TOKEN?",
+      "opcoes": [
+        "O FORNECEDOR.",
+        "O CLIENTE.",
+        "O SUPERVISOR.",
+        "O GERENTE."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL É A RECOMENDAÇÃO PARA SIMPLIFICAR A BUSCA DAS INFORMAÇÕES DO IOT?",
+      "opcoes": [
+        "NOMEAR O IOT COM CÓDIGOS COMPLEXOS.",
+        "INSERIR INFORMAÇÕES VARIADAS PARA DIFERENCIAR O IOT.",
+        "UTILIZAR A LEGENDA \"IOT\" NO NOME DO DISPOSITIVO.",
+        "DEIXAR O CAMPO DE NOME VAZIO."
+      ]
+    },
+    {
+      "pergunta": "1) ONDE VOCÊ DEVE CLICAR NO MENU PARA COMEÇAR O CADASTRO DE UM NOVO DISPOSITIVO IOT?",
+      "opcoes": [
+        "OPÇÃO DE NOVO DISPOSITIVO.",
+        "CONFIGURAÇÕES.",
+        "FERRAMENTAS.",
+        "RELATÓRIOS."
+      ]
+    }
+  ]
+}
