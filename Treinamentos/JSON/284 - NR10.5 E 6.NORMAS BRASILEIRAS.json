@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR10.5 E 6.NORMAS BRASILEIRAS",
+  "id": 284,
+  "idChecklist": 196,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual NBR estabelece condições para instalações elétricas de baixa tensão, a fim de garantir a segurança de pessoas e animais, o funcionamento adequado da instalação e a conservação dos bens?",
+      "opcoes": [
+        "NBR 5419.",
+        "NBR 5410.",
+        "NBR 14039.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "4) Conforme a NR10, como é chamado o trabalhador previamente qualificado e com registro no competente conselho de classe?",
+      "opcoes": [
+        "Qualificado.",
+        "Habilitado.",
+        "Autorizado.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Conforme a NR10, como é chamado o trabalhador que comprovar conclusão de curso específico na área elétrica reconhecido pelo Sistema Oficial de Ensino?",
+      "opcoes": [
+        "Qualificado.",
+        "Habilitado.",
+        "Autorizado.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "2) Quais normas que possuem força de lei?",
+      "opcoes": [
+        "NBR / ABNT – normas técnicas brasileiras.",
+        "NR – MTE – normas regulamentadoras.",
+        "Ambas.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o órgão responsável pela normatização técnica no Brasil?",
+      "opcoes": [
+        "CREA – CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA.",
+        "MTE – MINISTÉRIO DO TRABALHO E EMPREGO.",
+        "ABNT – ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS.",
+        "Nenhuma das anteriores."
+      ]
+    }
+  ]
+}
