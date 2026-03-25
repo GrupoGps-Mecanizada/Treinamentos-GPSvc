@@ -1,0 +1,52 @@
+{
+  "treinamento": "RESPONSABILIDADE CIVIL E CRIMINAL DO ACIDENTE DO TRABALHO – MÓDULO 3",
+  "id": 615,
+  "idChecklist": 401,
+  "perguntas": [
+    {
+      "pergunta": "5) Como podemos evitar os acidentes?",
+      "opcoes": [
+        "Reconhecendo que somos responsáveis por tudo.",
+        "Reconhecendo nossas responsabilidades; sempre sinalizando os pontos de incidentes e não mudando os Colaboradores de área.",
+        "Reconhecendo que os acidentes não são nossa responsabilidade.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "4) Em casos de acidentes, quais são os possíveis riscos?",
+      "opcoes": [
+        "Os casos sempre vão para julgamento criminal.",
+        "Os casos são passiveis apenas de B.O, não devemos nos preocupar.",
+        "Abertura de julgamento civil ou criminal.",
+        "Abertura de B.O, ou possíveis julgamentos civis ou criminais."
+      ]
+    },
+    {
+      "pergunta": "3) Qual é o órgão que auxilia com as estatísticas relacionadas a acidentes de trabalho?",
+      "opcoes": [
+        "INCC.",
+        "IMC.",
+        "INSS.",
+        "IMCC."
+      ]
+    },
+    {
+      "pergunta": "2) Quais são as formas que podemos treinar nossos Colaboradores?",
+      "opcoes": [
+        "Apenas através de treinamentos presenciais.",
+        "DDS, treinamento presencial e treinamentos externos.",
+        "Apenas treinamentos externos.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "1) O que é PDS?",
+      "opcoes": [
+        "Plano Diretivo de Segurança, uma ferramenta educativa.",
+        "Planejamento Diretivo de Segurança, uma ferramenta educativa.",
+        "Plano de Direção Segura, uma ferramenta educativa.",
+        "Planejamento de Direção Segura, uma ferramenta educativa."
+      ]
+    }
+  ]
+}
