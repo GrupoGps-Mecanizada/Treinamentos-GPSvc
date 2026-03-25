@@ -1,0 +1,52 @@
+{
+  "treinamento": "ACESSO A ÁREAS RESTRITAS_FRAPORT POA",
+  "id": 400,
+  "idChecklist": 293,
+  "perguntas": [
+    {
+      "pergunta": "5) O Colaborador deve estar portando sua credencial durante:",
+      "opcoes": [
+        "Somente em áreas públicas.",
+        "Somente em áreas restritas.",
+        "Todo o período de permanência no aeroporto.",
+        "Somente lado air side."
+      ]
+    },
+    {
+      "pergunta": "4) Quais cursos você precisa ter para emitir a credencial permanente?",
+      "opcoes": [
+        "PSOA.",
+        "AVISEC.",
+        "COVE.",
+        "TST."
+      ]
+    },
+    {
+      "pergunta": "3) Você precisa estar acompanhado em quais áreas do aeroporto com a credencial temporária?",
+      "opcoes": [
+        "Durante todo o tempo de permanência no aeroporto.",
+        "Não é necessário estar acompanhando.",
+        "Somente áreas públicas.",
+        "Em áreas restritas ou controladas de segurança."
+      ]
+    },
+    {
+      "pergunta": "2) Qual o tempo de validade da credencial temporária?",
+      "opcoes": [
+        "90 dias.",
+        "30 dias.",
+        "1 ano.",
+        "2 anos."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o tempo de validade da credencial permanente?",
+      "opcoes": [
+        "30 dias.",
+        "2 anos.",
+        "60 dias.",
+        "1 ano."
+      ]
+    }
+  ]
+}
