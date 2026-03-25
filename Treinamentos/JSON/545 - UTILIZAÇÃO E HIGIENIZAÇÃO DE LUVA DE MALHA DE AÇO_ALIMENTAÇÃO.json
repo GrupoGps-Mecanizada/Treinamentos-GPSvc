@@ -1,0 +1,52 @@
+{
+  "treinamento": "UTILIZAÇÃO E HIGIENIZAÇÃO DE LUVA DE MALHA DE AÇO_ALIMENTAÇÃO",
+  "id": 545,
+  "idChecklist": 347,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual produto é utilizado para a lavagem da luva de malha de aço?",
+      "opcoes": [
+        "Detergente neutro.",
+        "Detergente desingraxante.",
+        "Solução 200ppm.",
+        "Limpeza à Seco, evitando a contaminação e mal cheiro existente decorrente da decomposição de material orgânico provocada por estes micro-organismos."
+      ]
+    },
+    {
+      "pergunta": "4) Como a luva de malha de aço deve ser armazenada?",
+      "opcoes": [
+        "Armazenar junto com as facas que foram utilizadas para corte de carnes, sem resíduos.",
+        "Armazenar as luvas de malha de aço secas, em caixas específicas, separadas dos demais utensílios e envolta em plástico filme.",
+        "Armazenar penduradas em local específico até secar.",
+        "Armazenar enroladas em plástico filme uma a uma, úmidas em álcool 70."
+      ]
+    },
+    {
+      "pergunta": "3) Como é utilizada a luva de malha de aço?",
+      "opcoes": [
+        "A luva deve ser colocada na mão que segura a faca.",
+        "A luva deve ser colocada na mão contrária à que está segurando a faca.",
+        "Não é necessário usar a luva no momento do corte.",
+        "É necessário usar luva de malha de aço nas duas mãos, a que segura a faca e a que está em contato com o alimento."
+      ]
+    },
+    {
+      "pergunta": "2) Para que serve a luva de malha de aço?",
+      "opcoes": [
+        "Protege quando o manipulador toca em um alimento pronto para o consumo, como na hora de montar saladas higienizadas.",
+        "Isolante térmico de qualidade, para proteção quando usados em temperaturas baixas.",
+        "Funciona para higiene das mãos, protegendo de bactérias e micro-organismos.",
+        "Para segurança do trabalhador, evitando cortes."
+      ]
+    },
+    {
+      "pergunta": "1) O que significa E.P.I.?",
+      "opcoes": [
+        "Equipamento pronto para inovar.",
+        "Equipamento de Proteção Individual.",
+        "Equipamento para ponto eletrônico.",
+        "Equipamento de Proteção Coletiva."
+      ]
+    }
+  ]
+}
