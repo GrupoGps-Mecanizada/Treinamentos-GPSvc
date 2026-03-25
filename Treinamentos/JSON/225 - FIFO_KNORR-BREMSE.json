@@ -1,0 +1,52 @@
+{
+  "treinamento": "FIFO_KNORR-BREMSE",
+  "id": 225,
+  "idChecklist": 137,
+  "perguntas": [
+    {
+      "pergunta": "5) A sigla FIFO em inglês, significa \"First in First Out\" a sigla \"PEPS\" em português significa?",
+      "opcoes": [
+        "Primeira entrega primeira saída.",
+        "Primeiro a entrar Primeiro a sair.",
+        "Preparando equipamento para solução.",
+        "Pronto espera pronto saída."
+      ]
+    },
+    {
+      "pergunta": "4) Assinale qual das alternativas não corresponde ao benefício de se usar o sistema FIFO?",
+      "opcoes": [
+        "Gestão Visual.",
+        "Otimização de Precificação.",
+        "Agilidade nos processos logísticos.",
+        "Abastecimento de linhas com o lote mais novo."
+      ]
+    },
+    {
+      "pergunta": "3) Para que serve o sistema de armazenagem FIFO?",
+      "opcoes": [
+        "Para diminuir o estoque.",
+        "Para não haver perda de materiais em processo de recebimento.",
+        "Para trocar os itens na linha de produção.",
+        "Para determinar a saída dos lotes, o primeiro que entra no estoque deve ser o primeiro a sair."
+      ]
+    },
+    {
+      "pergunta": "2) De acordo com o treinamento, quantos benefícios são citados seguindo o FIFO?",
+      "opcoes": [
+        "8",
+        "5",
+        "7",
+        "4"
+      ]
+    },
+    {
+      "pergunta": "1) Qual é o significado da sigla FIFO?",
+      "opcoes": [
+        "First in First Out.",
+        "Last in First Out.",
+        "First Expired First Out.",
+        "First Out First In."
+      ]
+    }
+  ]
+}
