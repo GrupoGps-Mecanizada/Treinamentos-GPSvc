@@ -1,0 +1,52 @@
+{
+  "treinamento": "PDL 17_LADRÕES DO TEMPO",
+  "id": 359,
+  "idChecklist": 257,
+  "perguntas": [
+    {
+      "pergunta": "5) Com base no treinamento, qual conduta um Colaborador deve ter ao utilizar recursos tecnológicos:",
+      "opcoes": [
+        "Utilizar recursos, como internet e aplicativos, de forma que contribuam com o seu desempenho, sem perder tempo e produtividade.",
+        "Utilizar recursos tecnológicos, para não ter nenhum contato com as pessoas.",
+        "Evitar quaisquer tipos de recursos tecnológicos para aumentar o contato com as pessoas.",
+        "Não utilizar o smartphone para não ter contato com as pessoas."
+      ]
+    },
+    {
+      "pergunta": "4) Conforme o treinamento, para utilizarmos as redes sociais ao nosso favor, devemos:",
+      "opcoes": [
+        "Estar conectados/on-line o dia inteiro.",
+        "Priorizar os conteúdos e notícias que circulam nas redes ao invés de compromissos pessoais.",
+        "Ter um curso específico.",
+        "Separar um tempo para utilizar as redes e quando estivermos “off-line”, nos concentrarmos na atividade que estamos fazendo."
+      ]
+    },
+    {
+      "pergunta": "3) De acordo com o treinamento, o que podemos fazer para que as redes sociais não se tornem um ladrão de tempo:",
+      "opcoes": [
+        "Fazer o policiamento e autocrítica do uso, para utilizar o tempo de maneira inteligente.",
+        "Não utilizar aparelhos eletrônicos e consequentemente, não ter nenhuma rede social.",
+        "Ter como foco as atividades on-line e parar com todos os compromissos presenciais.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "2) No treinamento, vimos que podemos desvalorizar alguém pelo uso do smartphone/celular. Por quais destes motivos isso pode ocorrer:",
+      "opcoes": [
+        "Por utilizar aplicativos de pesquisa.",
+        "Por perder o foco respondendo mensagens particulares.",
+        "Por utilizar aplicativos para conversa on-line, ao invés de presencial.",
+        "Por utilizar redes sociais para fazer recrutamento e seleção."
+      ]
+    },
+    {
+      "pergunta": "1) Com base no treinamento, o que faz os recursos tecnológicos tomarem nosso tempo é:",
+      "opcoes": [
+        "O fato de ter acesso a internet.",
+        "Ter aparelhos eletrônicos.",
+        "A maneira como nós utilizamos estes recursos.",
+        "Utilizar as redes sociais."
+      ]
+    }
+  ]
+}
