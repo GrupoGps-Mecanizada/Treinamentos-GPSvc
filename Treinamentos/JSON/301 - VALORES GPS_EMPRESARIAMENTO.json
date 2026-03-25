@@ -1,0 +1,52 @@
+{
+  "treinamento": "VALORES GPS_EMPRESARIAMENTO",
+  "id": 301,
+  "idChecklist": 212,
+  "perguntas": [
+    {
+      "pergunta": "5) No que te auxilia assumir responsabilidade?",
+      "opcoes": [
+        "A ser atencioso.",
+        "Compreender a demanda.",
+        "Que não se faz só o que precisa.",
+        "A ter uma visão empreendedora."
+      ]
+    },
+    {
+      "pergunta": "4) Quando falamos em antecipar os problemas, nos referíamos à:",
+      "opcoes": [
+        "Em alto desenvolvimento.",
+        "Descanso após uma ação.",
+        "Proatividade com iniciativa.",
+        "Visão empreendedora."
+      ]
+    },
+    {
+      "pergunta": "3) O Empresariamento precisa estar associado a:",
+      "opcoes": [
+        "Ação e também ao conhecimento de todas as pessoas que trabalham na empresa de maneira que a gestão do negócio seja favorecida e consequentemente os resultados.",
+        "Ação e também ao conhecimento de todas as pessoas que trabalham na empresa de maneira que a gestão do negócio não seja favorecida e consequentemente os resultados.",
+        "Ação e também ao conhecimento de todas as pessoas que não trabalham na empresa de maneira que a gestão do negócio não seja favorecida e consequentemente os resultados.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "2) Como podemos nomear a ação do Empresariamento?",
+      "opcoes": [
+        "Senso de dono.",
+        "Respeito.",
+        "Atitude.",
+        "Estratégias."
+      ]
+    },
+    {
+      "pergunta": "1) Quais comportamentos favorecem o Senso de dono?",
+      "opcoes": [
+        "Melhorar o diálogo entre equipe.",
+        "Entender, assumir responsabilidade, antecipar os problemas e manter foco na solução.",
+        "Se desgastar procurando culpados.",
+        "Buscando seu gestor para auxiliar nos processos."
+      ]
+    }
+  ]
+}
