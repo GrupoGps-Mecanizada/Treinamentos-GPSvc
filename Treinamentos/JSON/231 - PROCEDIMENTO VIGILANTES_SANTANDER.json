@@ -1,0 +1,52 @@
+{
+  "treinamento": "PROCEDIMENTO VIGILANTES_SANTANDER",
+  "id": 231,
+  "idChecklist": 143,
+  "perguntas": [
+    {
+      "pergunta": "5) No quesito Alarme, é correto afirmar que:",
+      "opcoes": [
+        "Durante todo seu expediente, o acionador de pânico deve estar em mãos.",
+        "Durante todo seu expediente, o acionador de pânico deve estar no bolso.",
+        "Durante todo seu expediente, o acionador de pânico deve estar escondido atrás do escudo.",
+        "Durante todo seu expediente, o acionador de pânico deve estar guardado no cofre de armas."
+      ]
+    },
+    {
+      "pergunta": "4) Quando se tratar de Clientes portadores de deficiência física, marca-passo ou prótese cirúrgica, o procedimento correto é:",
+      "opcoes": [
+        "A entrada destes Clientes a agência/pab deve ser realizada pela porta auxiliar. A entrada somente será liberada pelo vigilante.",
+        "A entrada destes Clientes a agência/pab deve ser realizada pela porta giratória. A entrada somente será liberada pelo vigilante.",
+        "A entrada destes Clientes a agência/pab deve ser realizada pela porta auxiliar. A entrada somente será liberada pelo administrador responsável da agência/pab.",
+        "A entrada destes Clientes a agência/pab deve ser realizada pela porta giratória. A entrada somente será liberada pelo administrador responsável da agência/pab."
+      ]
+    },
+    {
+      "pergunta": "3) Sobre o Teste na PDM, é correto afirmar que:",
+      "opcoes": [
+        "O teste deve ser feito anualmente.",
+        "O teste deve ser feito mensalmente.",
+        "O teste deve ser feito semanalmente.",
+        "O teste deve ser feito diariamente."
+      ]
+    },
+    {
+      "pergunta": "2) De quem é a responsabilidade de ativação da Porta Giratória?",
+      "opcoes": [
+        "Do primeiro funcionário portador de chave que chegar na agência/pab.",
+        "Do primeiro vigilante que chegar na agência/pab.",
+        "Do último vigilante que chegar na agência/pab.",
+        "Da auxiliar de limpeza."
+      ]
+    },
+    {
+      "pergunta": "1) Conforme o Treinamento: - O vigilante somente deverá entrar na loja, quando?",
+      "opcoes": [
+        "Quando for chamado pelo Gerente da loja.",
+        "Conferir a senha de normalidade/visual com o funcionário responsável pela loja, definido pelo Gerente responsável.",
+        "Quando o segundo vigilante chegar.",
+        "Quando estiver faltando 10 minutos para o seu horário estabelecido."
+      ]
+    }
+  ]
+}
