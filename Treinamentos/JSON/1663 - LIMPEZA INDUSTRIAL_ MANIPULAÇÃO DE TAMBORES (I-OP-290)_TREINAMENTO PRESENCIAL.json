@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA INDUSTRIAL: MANIPULAÇÃO DE TAMBORES (I-OP-290)_TREINAMENTO PRESENCIAL",
+  "id": 1663,
+  "idChecklist": 1364,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL DOCUMENTO NÃO PODE FALTAR ANTES DA ATIVIDADE?",
+      "opcoes": [
+        "CONTRATO DE TRABALHO.",
+        "PERMISSÃO DE TRABALHO (PT).",
+        "RELATÓRIO MENSAL.",
+        "RECIBO DE ENTREGA DE EPI."
+      ]
+    },
+    {
+      "pergunta": "4) POR QUE A ETIQUETA CORRETA É FUNDAMENTAL?",
+      "opcoes": [
+        "APENAS PARA ESTÉTICA.",
+        "PORQUE IMPEDE VAZAMENTOS.",
+        "PARA GARANTIR DESCARTE CORRETO E RASTREABILIDADE DO RESÍDUO.",
+        "PARA CONTROLAR A COR DOS TAMBORES."
+      ]
+    },
+    {
+      "pergunta": "3) ASSINALE UM RISCO FÍSICO NA MOVIMENTAÇÃO DE TAMBORES:",
+      "opcoes": [
+        "ESFORÇO FÍSICO EXCESSIVO E PRENSAMENTO DE MÃOS/PÉS.",
+        "VANTAGEM DE MOBILIDADE.",
+        "PRODUÇÃO DE RUÍDO BAIXO.",
+        "DIFICULDADE DE IDENTIFICAR COLABORADORES."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE DEVE SER FEITO ANTES DE INICIAR A MANIPULAÇÃO DE TAMBORES?",
+      "opcoes": [
+        "CONFERIR APENAS SE HÁ TAMBORES DISPONÍVEIS.",
+        "AGUARDAR INSTRUÇÕES DA CHEFIA SEM VERIFICAÇÕES.",
+        "CHECAR EPI'S, PREENCHER DOCUMENTAÇÃO (PT, CHECKLIST), PREPARAR ETIQUETAS E MATERIAIS.",
+        "ENTRAR NO LOCAL SEM PREPARAÇÃO."
+      ]
+    },
+    {
+      "pergunta": "1) QUAIS SÃO OS EPI'S OBRIGATÓRIOS PARA MANIPULAÇÃO DE TAMBORES?",
+      "opcoes": [
+        "APENAS LUVAS E BOTAS.",
+        "CAPACETE, ÓCULOS AMPLA VISÃO, PROTETOR FACIAL, MÁSCARA, MACACÃO DE PROTEÇÃO QUÍMICA, LUVAS, BOTAS E PROTETOR AURICULAR.",
+        "SÓ ÓCULOS DE PROTEÇÃO.",
+        "CAMISETA E SAPATO FECHADO."
+      ]
+    }
+  ]
+}
