@@ -1,0 +1,52 @@
+{
+  "treinamento": "DEZ REGRAS DE OURO_INGREDION",
+  "id": 230,
+  "idChecklist": 142,
+  "perguntas": [
+    {
+      "pergunta": "5) Quando devemos comunicar um acidente do trabalho?",
+      "opcoes": [
+        "Nunca.",
+        "Imediatamente.",
+        "Dois dias após o acidente.",
+        "Uma semana após o acidente."
+      ]
+    },
+    {
+      "pergunta": "4) O que são regras de ouro?",
+      "opcoes": [
+        "As regras de ouro são regras invioláveis criadas para estimular o comportamento preventivo de acidentes e incidentes. Elas devem ser conhecidas, entendidas e cumpridas.",
+        "São regras para operação.",
+        "São regras de segurança que podem não ser cumpridas.",
+        "São lembretes de ações de segurança."
+      ]
+    },
+    {
+      "pergunta": "3) Sinalize a 10ª regra de ouro da Ingredion:",
+      "opcoes": [
+        "Respeite os regulamentos de segurança.",
+        "Use o Equipamento de Proteção Individual - EPI.",
+        "Posicione-se de maneira segura.",
+        "Inicie o trabalho com risco de alto potencial somente com permissão de trabalho."
+      ]
+    },
+    {
+      "pergunta": "2) O que é um acidente?",
+      "opcoes": [
+        "Evento pontual indesejável que resulta em danos a terceira pessoa.",
+        "Um evento inesperado e indesejado que não resulta em perda.",
+        "Evento pontual indesejável que resulta em alguma perda ou dano, podendo provocar morte, doenças ocupacionais.",
+        "Evento esperado que não resulta em danos a pessoa."
+      ]
+    },
+    {
+      "pergunta": "1) As regras de ouros devem ser conhecidas, entendidas e cumpridas por quem?",
+      "opcoes": [
+        "As regras de ouro deverão ser seguidas pelos prestadores de serviços que acessarem as dependências da Ingredion.",
+        "As regras de ouro deverão ser seguidas por todos que acessarem as dependências da Ingredion.",
+        "As regras de ouro deverão ser seguidas pelos técnicos de Segurança do contrato Ingredion.",
+        "As regras de ouro deverão ser seguidas somente pelos funcionários da Ingredion."
+      ]
+    }
+  ]
+}
