@@ -1,0 +1,52 @@
+{
+  "treinamento": "RESPONSABILIDADE CIVIL E CRIMINAL DO ACIDENTE DO TRABALHO – MÓDULO 2",
+  "id": 614,
+  "idChecklist": 400,
+  "perguntas": [
+    {
+      "pergunta": "5) Quem pode tomar as decisões sobre a reabilitação do Colaborador?",
+      "opcoes": [
+        "O Líder da operação.",
+        "Um médico e um segurança do trabalho.",
+        "O Gerente da operação.",
+        "O dono da empresa."
+      ]
+    },
+    {
+      "pergunta": "4) Quanto tempo de estabilidade o Colaborador tem após retornar de um afastamento pelo INSS?",
+      "opcoes": [
+        "02 meses.",
+        "06 meses.",
+        "11 meses.",
+        "12 meses."
+      ]
+    },
+    {
+      "pergunta": "3) O que é um acidente de trajeto?",
+      "opcoes": [
+        "Ocorrência que acontece durante o trajeto do Colaborador de casa para o trabalho ou vise versa e que gere uma lesão. Para ser qualificado como tal, é necessário que ocorra uma investigação.",
+        "Apenas um acidente de moto.",
+        "Ocorrência que acontece com o Colaborador apenas dentro do ônibus que gere uma lesão.",
+        "Ocorrência que acontece com o Colaborador na porta da empresa."
+      ]
+    },
+    {
+      "pergunta": "2) O que é uma doença do trabalho?",
+      "opcoes": [
+        "É quando o Colaborador adquire uma doença que está relaciona ao ambiente de trabalho.",
+        "É quando o Colaborador adquire uma doença que está relaciona ao ambiente de trabalho.",
+        "É quando um Colaborador vai para o trabalho doente.",
+        "É quando um Colaborador transmite uma doença para outro."
+      ]
+    },
+    {
+      "pergunta": "1) O que é uma doença profissional?",
+      "opcoes": [
+        "É quando o Colaborador adquire uma doença que está relaciona ao ambiente de trabalho.",
+        "É quando o Colaborador fica doente.",
+        "É quando o Colaborador adquire uma doença que está relacionada à atividade dele.",
+        "É quando o Líder transmite uma doença para o seu Colaborador."
+      ]
+    }
+  ]
+}
