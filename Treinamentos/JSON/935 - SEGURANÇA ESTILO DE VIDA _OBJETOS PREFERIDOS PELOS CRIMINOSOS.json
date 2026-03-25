@@ -1,0 +1,52 @@
+{
+  "treinamento": "SEGURANÇA ESTILO DE VIDA _OBJETOS PREFERIDOS PELOS CRIMINOSOS",
+  "id": 935,
+  "idChecklist": 711,
+  "perguntas": [
+    {
+      "pergunta": "5) ASSINALE A ALTERNATIVA QUE TENHA EXEMPLO DE BENS DE LIQUIDEZ:",
+      "opcoes": [
+        "UM CELULAR OU UMA JOIA VALIOSA.",
+        "UMA FOTO.",
+        "SACOLAS DE LOJAS.",
+        "PRODUTO DE HIGIENE."
+      ]
+    },
+    {
+      "pergunta": "4) ONDE DEVEMOS CARREGAR A CARTEIRA?",
+      "opcoes": [
+        "NO BOLSO DE TRÁS.",
+        "NA MOCHILA.",
+        "NA MÃO.",
+        "SEMPRE NO BOLSO DA FRENTE."
+      ]
+    },
+    {
+      "pergunta": "3) PENSANDO EM PREVENÇÃO, QUANDO DEVEMOS USAR NOSSO SMARTPHONE?",
+      "opcoes": [
+        "QUANDO ESTIVERMOS NA RUA.",
+        "QUANDO ESTIVERMOS NO PARQUE.",
+        "QUANDO ESTIVERMOS EM UM LOCAL SEGURO.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL É A MAIOR COBIÇA DOS CRIMINOSOS HOJE EM DIA?",
+      "opcoes": [
+        "DINHEIRO E SMARTPHONE.",
+        "DINHEIRO E JOIA.",
+        "DINHEIRO E CARRO.",
+        "SMARTPHONE E CARRO."
+      ]
+    },
+    {
+      "pergunta": "1) EM GERAL, O QUE O CRIMINOSO OPORTUNISTA QUER?",
+      "opcoes": [
+        "APENAS DINHEIRO.",
+        "DINHEIRO OU ALGO PARA TRANSFORMAR EM DINHEIRO.",
+        "APENAS CELULARES.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    }
+  ]
+}
