@@ -1,0 +1,52 @@
+{
+  "treinamento": "DIREITOS HUMANOS_RESPEITO NAS RELAÇÕES",
+  "id": 568,
+  "idChecklist": 369,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual o nome da lei vigorada para violência doméstica contra mulher?",
+      "opcoes": [
+        "Lei Maria Jose;",
+        "Lei Maria da Penha;",
+        "Lei Maria do Pinhal;",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "4) Qual é o contato do Disque Direitos Humanos e qual seu horário de funcionamento?",
+      "opcoes": [
+        "N°101 e ele funciona 24h;",
+        "N°100 e ele funciona em horário comercial;",
+        "N°100 e ele funciona 24h;",
+        "N°101 e ele funciona em horário comercial."
+      ]
+    },
+    {
+      "pergunta": "3) No Brasil, os direitos são assegurados através da:",
+      "opcoes": [
+        "Constituição Federal;",
+        "Constituição Estadual;",
+        "Constituição Social;",
+        "Constituição local."
+      ]
+    },
+    {
+      "pergunta": "2) Quais são as pessoas que podem se beneficiar destes direitos?",
+      "opcoes": [
+        "Somente pessoas de nacionalidade Brasileira;",
+        "Todas as pessoas independentemente da sua cor, gênero, nacionalidade, religião, orientação sexual, estes direitos são válidos desde o nascimento de todos os indivíduos;",
+        "Somente pessoas que sofrem violência doméstica;",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "1) O que são Direitos Humanos?",
+      "opcoes": [
+        "Direitos Humanos são unicamente leis que beneficiam brasileiros;",
+        "Direitos Humanos é um conjunto de direitos estabelecidos para todos que sofrem algum crime;",
+        "São Direitos direcionados às minorias;",
+        "Direitos Humanos é um conjunto de direitos reconhecidos como os mais básicos e imprescindíveis para a vida humana no planeta."
+      ]
+    }
+  ]
+}
