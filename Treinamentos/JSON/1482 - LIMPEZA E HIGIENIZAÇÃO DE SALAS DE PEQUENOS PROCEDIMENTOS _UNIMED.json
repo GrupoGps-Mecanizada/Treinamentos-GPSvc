@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA E HIGIENIZAÇÃO DE SALAS DE PEQUENOS PROCEDIMENTOS _UNIMED",
+  "id": 1482,
+  "idChecklist": 1228,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE É NECESSÁRIO NA LIMPEZA QUINZENAL COM A TÉCNICA DE ENFERMAGEM?",
+      "opcoes": [
+        "LAVAR SOMENTE O PISO.",
+        "FIBRAR BALCÕES COM RETIRADA DE MATERIAIS PELA TÉCNICA.",
+        "TROCAR OS LENÇÓIS DAS MACAS.",
+        "APENAS RETIRAR OS LIXOS DAS SALAS."
+      ]
+    },
+    {
+      "pergunta": "4) QUANDO DEVE SER FEITA A LIMPEZA DA SALA ANEXA DOS MÉDICOS?",
+      "opcoes": [
+        "APÓS A SAÍDA DO PROFISSIONAL.",
+        "DURANTE O PROCEDIMENTO.",
+        "ANTES DE O MÉDICO CHEGAR.",
+        "ENQUANTO O PACIENTE ESTÁ NA SALA."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE DEVE SER LIMPO APÓS O ÚLTIMO PROCEDIMENTO DO DIA?",
+      "opcoes": [
+        "APENAS O CHÃO DA SALA.",
+        "APENAS O COLCHÃO DA MACA.",
+        "SOMENTE A PIA DE ALUMÍNIO.",
+        "PIA, MACA, LIXEIRAS E TODOS OS PONTOS DE CONTATO."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS EPI'S DEVEM SER USADOS NA LIMPEZA DA SALA?",
+      "opcoes": [
+        "TOUCA E CHINELO.",
+        "MÁSCARA E JALECO.",
+        "LUVAS E ÓCULOS.",
+        "LUVAS DESCARTÁVEIS E GORRO."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE GARANTE A SEGURANÇA DE PACIENTES E COLABORADORES NAS SALAS DE PROCEDIMENTO?",
+      "opcoes": [
+        "USO DE PRODUTOS CASEIROS.",
+        "LIMPEZA CORRETA E ORGANIZADA.",
+        "APENAS ABRIR JANELAS.",
+        "LAVAR SÓ O CHÃO."
+      ]
+    }
+  ]
+}
