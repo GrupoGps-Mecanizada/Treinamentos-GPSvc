@@ -1,0 +1,52 @@
+{
+  "treinamento": "PDL5_TRABALHO EM EQUIPE",
+  "id": 86,
+  "idChecklist": 59,
+  "perguntas": [
+    {
+      "pergunta": "5) De acordo com o treinamento, o respeito mútuo é:",
+      "opcoes": [
+        "O conhecimento mútuo é o pilar primordial para um bom trabalho em equipe.",
+        "Respeito mútuo é pilar primordial para um bom trabalho em equipe e pode ser estimulado na equipe trabalhando habilidades como empatia e boa convivência.",
+        "O respeito mútuo não é o pilar primordial para um bom trabalho em equipe.",
+        "Não existe respeito mútuo."
+      ]
+    },
+    {
+      "pergunta": "4) Baseado no treinamento a proatividade está diretamente ligada a:",
+      "opcoes": [
+        "Conhecimento.",
+        "Profissionalismo.",
+        "Confiança.",
+        "Atitude."
+      ]
+    },
+    {
+      "pergunta": "3) De acordo com o treinamento podemos dizer que:",
+      "opcoes": [
+        "A comunicação clara e eficiente é essencial para trabalhar em equipe.",
+        "A falta de comunicação é um dos principais pilares do bom trabalho em equipe.",
+        "O conflito é importante para um bom trabalho em equipe.",
+        "A qualificação é um dos principais pilares do bom trabalho em equipe."
+      ]
+    },
+    {
+      "pergunta": "2) Baseado no treinamento, para trabalhar em equipe de forma efetiva é preciso:",
+      "opcoes": [
+        "Delegar, aplicar medidas disciplinares e resolver problemas.",
+        "Identificar, gerenciar e resolver conflitos.",
+        "Trabalhar, largar com área de apoio e resolver conflitos.",
+        "Penalizar, gerenciar e resolver problemas."
+      ]
+    },
+    {
+      "pergunta": "1) Baseado no treinamento, trabalho em equipe é?",
+      "opcoes": [
+        "É uma competência composta de diferentes habilidades que podem ser aprendidas e desenvolvidas.",
+        "É uma qualidade composta de poucas habilidades que podem desenvolver.",
+        "É uma competência composta de diferentes habilidades que não podem ser aprendidas ou desenvolvidas.",
+        "É apenas uma habilidade e que pode ser desenvolvida."
+      ]
+    }
+  ]
+}
