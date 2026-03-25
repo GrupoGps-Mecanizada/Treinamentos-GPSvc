@@ -1,0 +1,52 @@
+{
+  "treinamento": "IMPACTOS DA LGPD AO RH - MÓDULO II",
+  "id": 346,
+  "idChecklist": 245,
+  "perguntas": [
+    {
+      "pergunta": "5) Quando o ciclo de vida de dados se inicia?",
+      "opcoes": [
+        "Com a coleta dos dados.",
+        "Com a eliminação dos dados.",
+        "Com o compartilhamento dos dados.",
+        "Todas as anteriores."
+      ]
+    },
+    {
+      "pergunta": "4) Quais formatos de currículo são protegidos pela LGPD?",
+      "opcoes": [
+        "Somente currículos em papel.",
+        "Somente currículos armazenados no e-mail corporativo.",
+        "Somente currículos do app GPSvc.",
+        "Todos os anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Qual base legal correta para compartilhamento de dados dos Colaboradores com o INSS?",
+      "opcoes": [
+        "Interesse legítimo.",
+        "Consentimento.",
+        "Cumprimento de obrigação legal ou regulatória.",
+        "Tutela da saúde."
+      ]
+    },
+    {
+      "pergunta": "2) Qual das opções NÃO é um direito do titular de dados?",
+      "opcoes": [
+        "Acesso aos dados.",
+        "Revogação do consentimento.",
+        "Auditoria da empresa.",
+        "Anonimização dos dados."
+      ]
+    },
+    {
+      "pergunta": "1) O dever de informar claramente sobre a realização do tratamento de dados decorre do princípio da:",
+      "opcoes": [
+        "Adequação.",
+        "Qualidade dos dados.",
+        "Transparência.",
+        "Accountability."
+      ]
+    }
+  ]
+}
