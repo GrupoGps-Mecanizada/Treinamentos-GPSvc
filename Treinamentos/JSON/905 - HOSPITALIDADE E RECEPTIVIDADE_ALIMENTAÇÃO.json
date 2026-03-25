@@ -1,0 +1,52 @@
+{
+  "treinamento": "HOSPITALIDADE E RECEPTIVIDADE_ALIMENTAÇÃO",
+  "id": 905,
+  "idChecklist": 681,
+  "perguntas": [
+    {
+      "pergunta": "5) QUANDO UM CLIENTE ESTÁ SATISFEITO?",
+      "opcoes": [
+        "QUANDO ELE É ATENDIDO COM EXCLUSIVIDADE.",
+        "QUANDO ELE GANHA UM BRINDE.",
+        "QUANDO ELE TEM UM BOM ATENDIMENTO E UMA BOA EXPERIÊNCIA.",
+        "QUANDO ELE NÃO PRECISA PAGAR."
+      ]
+    },
+    {
+      "pergunta": "4) ASSINALE A ALTERNATIVA CORRETA SOBRE O BOM ATENDIMENTO:",
+      "opcoes": [
+        "TER CARINHO, RESPEITO, SER INVASIVO E INTROMETIDO.",
+        "BOA APRESENTAÇÃO, BOA POSTURA, TER GENTILEZA, RESPEITO, ATENÇÃO E EQUILÍBRIO EMOCIONAL.",
+        "PROATIVIDADE, QUESTIONADOR, SER APÁTICO E EXPRESSÃO BRAVA.",
+        "NENHUMA DAS ANTERIORES."
+      ]
+    },
+    {
+      "pergunta": "3) ASSINALE A ALTERNATIVA QUE DEMONSTRA O QUE É UM MAU ATENDIMENTO:",
+      "opcoes": [
+        "DESRESPEITO.",
+        "DEMORA.",
+        "TRATAMENTO FRIO.",
+        "TODAS AS ALTERNATIVAS ANTERIORES."
+      ]
+    },
+    {
+      "pergunta": "2)  QUAL É O MAIOR MOTIVO DA PERDA DE CLIENTE?",
+      "opcoes": [
+        "QUANDO O CLIENTE É TRATADO COM EXCELÊNCIA.",
+        "QUANDO O CLIENTE TEM UM MAU ATENDIMENTO.",
+        "QUANDO O CLIENTE TEM UM ATENDIMENTO PERSONALIZADO.",
+        "QUANDO O CLIENTE TEM UMA BOA EXPERIÊNCIA."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE É O ESPÍRITO DE SERVIR DENTRO DO GRUPO GPS/LC?",
+      "opcoes": [
+        "SERVIR É FAZER APENAS O QUE FOI SOLICITADO.",
+        "SERVIR É FAZER O SEU TRABALHO SEM SE PREOCUPAR COM O CLIENTE.",
+        "SERVIR É SE DEDICAR É ESTAR ATENTO AO CLIENTE.",
+        "SERVIR É NÃO OUVIR O CLIENTE."
+      ]
+    }
+  ]
+}
