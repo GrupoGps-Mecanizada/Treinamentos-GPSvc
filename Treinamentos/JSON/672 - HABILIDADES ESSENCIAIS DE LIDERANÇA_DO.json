@@ -1,0 +1,52 @@
+{
+  "treinamento": "HABILIDADES ESSENCIAIS DE LIDERANÇA_DO",
+  "id": 672,
+  "idChecklist": 458,
+  "perguntas": [
+    {
+      "pergunta": "5) Como o líder deve lidar com conversas difíceis?",
+      "opcoes": [
+        "Abordando as situações com respeito e empatia, fornecendo soluções e orientações para lidar com a situação.",
+        "Evitando conversas difíceis a todo custo.",
+        "Sendo rude e insensível ao lidar com situações delicadas.",
+        "Fornecendo feedbacks negativos sem dar soluções ou orientações."
+      ]
+    },
+    {
+      "pergunta": "4) Por que é importante delegar tarefas como líder?",
+      "opcoes": [
+        "Para ter mais tempo livre.",
+        "Para otimizar o tempo do líder.",
+        "Para sobrecarregar os membros da equipe.",
+        "Para manter o controle sobre as atividades da equipe."
+      ]
+    },
+    {
+      "pergunta": "3) O que é leitura de cenário?",
+      "opcoes": [
+        "A habilidade de identificar e resolver disputas entre membros da equipe de forma pacífica e eficaz.",
+        "A habilidade de avaliar as condições do ambiente de trabalho.",
+        "A habilidade de delegar tarefas aos membros da equipe.",
+        "A habilidade de entender as necessidades e expectativas da equipe e dos Clientes."
+      ]
+    },
+    {
+      "pergunta": "2) Como um líder pode fornecer feedbacks efetivos?",
+      "opcoes": [
+        "Sendo crítico e objetivo.",
+        "Identificando apenas os pontos fracos do membro da equipe.",
+        "Sendo específico, objetivo e oferecendo soluções para melhorar o desempenho.",
+        "Evitando dar feedbacks negativos."
+      ]
+    },
+    {
+      "pergunta": "1) Qual é a definição de gestão de conflitos?",
+      "opcoes": [
+        "A habilidade de identificar e resolver disputas entre membros da equipe de forma pacífica e eficaz.",
+        "A habilidade de fornecer feedbacks negativos aos membros da equipe.",
+        "A habilidade de delegar tarefas aos membros da equipe.",
+        "A habilidade de avaliar as condições do ambiente de trabalho."
+      ]
+    }
+  ]
+}
