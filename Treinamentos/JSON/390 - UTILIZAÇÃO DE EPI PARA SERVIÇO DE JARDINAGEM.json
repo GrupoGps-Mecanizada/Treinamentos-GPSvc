@@ -1,0 +1,52 @@
+{
+  "treinamento": "UTILIZAÇÃO DE EPI PARA SERVIÇO DE JARDINAGEM",
+  "id": 390,
+  "idChecklist": 283,
+  "perguntas": [
+    {
+      "pergunta": "5) Assim que concluir a atividade o que deverá ser feito?",
+      "opcoes": [
+        "Deixar os Equipamentos na área, para no outro dia seguir trabalhando.",
+        "Guardar os Equipamentos sujos, afinal amanhã sujará novamente.",
+        "Guardar os Equipamentos limpos e bem acondicionados.",
+        "Passar os EPIs para os colegas seguirem as atividades."
+      ]
+    },
+    {
+      "pergunta": "4) Se algum dos EPIs estiver com defeito, o que deve fazer imediatamente?",
+      "opcoes": [
+        "Avisar o cliente",
+        "Caso encontre alguma irregularidade, comunique seu líder imediato para que seja feita a substituição.",
+        "Não procurar ninguém e seguir fazendo meu trabalho.",
+        "Avisar o colega."
+      ]
+    },
+    {
+      "pergunta": "3) Para uso de motosserra, além de curso atualizado, quais EPIs são necessários?",
+      "opcoes": [
+        "Luva de látex azul.",
+        "Bota PVC.",
+        "Luva nitrílica verde.",
+        "Calça e Luva Motosserrista."
+      ]
+    },
+    {
+      "pergunta": "2) Qual é o calçado adequado para executar o trabalho de jardinagem?",
+      "opcoes": [
+        "Tênis.",
+        "Calçado de segurança e/ou calçado de segurança com biqueira de aço.",
+        "Chinelo de dedos.",
+        "Bota de PVC."
+      ]
+    },
+    {
+      "pergunta": "1) O que significa EPI?",
+      "opcoes": [
+        "Equipamento de Proteção Individual.",
+        "Equipamento de Proteção do indivíduo.",
+        "Equipamento de Proteção Coletiva.",
+        "Equipamento de Proteção da Empresa."
+      ]
+    }
+  ]
+}
