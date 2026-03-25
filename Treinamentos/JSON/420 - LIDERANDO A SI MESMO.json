@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIDERANDO A SI MESMO",
+  "id": 420,
+  "idChecklist": 313,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual é a importância de saber aplicar um feedback?",
+      "opcoes": [
+        "Para punir exemplarmente o Colaborador perante o restante da equipe, evitando assim que os erros se multipliquem entre os liderados.",
+        "Para elevar a moral de um Colaborador que aparenta sintomas de depressão, porém sem muita utilidade prática para a equipe.",
+        "Para fazer com que o líder observe a reação do Colaborador e tire suas próprias conclusões podendo assim demiti-lo posteriormente.",
+        "Para demonstrar investimento na relação de aprendizado e desenvolvimento do Colaborador."
+      ]
+    },
+    {
+      "pergunta": "4) Para ser um bom líder é necessário ter conhecimento dos pontos bases, são eles:",
+      "opcoes": [
+        "Estratégia, execução, gestão de talentos, capacidade de desenvolver a equipe e domínio pessoal.",
+        "Saber o momento certo de falar, desafiar a todos, criar pequenos conflitos interno e gerenciar crises.",
+        "Multiplicar o que é bom, fazer de exemplo os Colaboradores que cometem erros, comparar os Colaboradores entre si e fomentar a competição.",
+        "Todas as alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "3) O que é ser um líder?",
+      "opcoes": [
+        "É ser a pessoa com maior nível hierárquico em relação aos demais, deixando isso muito claro para não haver quaisquer dúvidas sobre quem pode liderar a equipe.",
+        "É responder para o cliente e para a empresa assumindo integralmente todas as consequências positivas ou negativas em relação ao trabalho de sua equipe.",
+        "Ser um líder é engajar sua equipe, é ensinar, desenvolver e acreditar em cada peça, fazendo com que a engrenagem chamada de equipe lhe de resultados esperados, ou que os supere.",
+        "É essencialmente controlar pontos, fichas de EPI, procedimentos e rotinas de departamento pessoal."
+      ]
+    },
+    {
+      "pergunta": "2) O que é inteligência emocional?",
+      "opcoes": [
+        "É a capacidade de explicar as emoções dos outros como se fossem suas.",
+        "É a habilidade de monitorar sentimentos e emoções pessoais e alheias, realizar discriminações entre elas e utilizar essas informações para guiar os próprios pensamentos.",
+        "É a habilidade de enxergar de forma sensível o que ninguém mais consegue ver nos outros apenas.",
+        "É a habilidade de identificar em si mesmo as emoções apenas e guiar os seus próprios pensamentos."
+      ]
+    },
+    {
+      "pergunta": "1) O que significa a sigla C.H.A?",
+      "opcoes": [
+        "Concentração, hegemonia e avaliação.",
+        "Correção, hábito e absolvição.",
+        "Conhecimentos, habilidades e atitudes.",
+        "Criatividade, harmonia e assertividade."
+      ]
+    }
+  ]
+}
