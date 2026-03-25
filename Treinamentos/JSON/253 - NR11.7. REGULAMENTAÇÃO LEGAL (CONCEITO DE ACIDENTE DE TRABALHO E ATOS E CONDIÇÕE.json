@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR11.7. REGULAMENTAÇÃO LEGAL (CONCEITO DE ACIDENTE DE TRABALHO E ATOS E CONDIÇÕES INSEGURAS)",
+  "id": 253,
+  "idChecklist": 165,
+  "perguntas": [
+    {
+      "pergunta": "5) Em relação a uma CONDIÇÃO INSEGURA, marque a alternativa correta:",
+      "opcoes": [
+        "Quando opero muito rápido.",
+        "Problemas na via de circulação, como por exemplo: Um buraco no piso.",
+        "Quando não sigo as normas de segurança do trabalho da empresa.",
+        "Todas as alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) Em relação a um ATO INSEGURO, marque a alternativa correta:",
+      "opcoes": [
+        "Imprudência (Falta de precaução).",
+        "Falta de iluminação.",
+        "Um buraco no piso.",
+        "Piso molhado."
+      ]
+    },
+    {
+      "pergunta": "3) Como deverá ser a autorização para operar o equipamento, conforme determina a NR11?",
+      "opcoes": [
+        "Os operadores de equipamentos de transporte motorizado não deverão ser habilitados e só podem dirigir portando um cartão de identificação, com o nome e fotografia, em lugar visível.",
+        "Posso levar no bolso o cartão que recebi no treinamento.",
+        "Os Operadores de equipamentos de transporte motorizado deverão ser habilitados e só podem dirigir portando um cartão de identificação, com o nome e fotografia, em lugar visível.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) Em que momento ocorre o acidente de trabalho?",
+      "opcoes": [
+        "Em qualquer momento, mesmo não estando nas dependências da empresa.",
+        "Quando saio de férias.",
+        "Quando estou em casa.",
+        "Acontece na execução do serviço."
+      ]
+    },
+    {
+      "pergunta": "1) O que é acidente, conforme a CLT (Consolidação das Leis do Trabalho)?",
+      "opcoes": [
+        "Quando cai uma empilhadeira.",
+        "Quando eu me machuco em casa e digo que foi no trabalho.",
+        "Acidente é todo acontecimento casual, fortuito e imprevisto, causando prejuízos materiais ou pessoais.",
+        "Todas as alternativas."
+      ]
+    }
+  ]
+}
