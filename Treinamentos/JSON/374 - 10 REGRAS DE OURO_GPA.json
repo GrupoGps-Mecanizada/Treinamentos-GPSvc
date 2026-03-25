@@ -1,0 +1,52 @@
+{
+  "treinamento": "10 REGRAS DE OURO_GPA",
+  "id": 374,
+  "idChecklist": 268,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual atividade não pode ser feita por vigilantes e porteiros?",
+      "opcoes": [
+        "Relatar ocorrências para liderança ou forças policiais",
+        "Acompanhar sangria nos caixas",
+        "Acompanhar abordagem",
+        "De Fiscal de Prevenção e Perdas"
+      ]
+    },
+    {
+      "pergunta": "4) Em qual local os vigilantes e porteiros devem ficar posicionados?",
+      "opcoes": [
+        "Em qualquer ponto da loja",
+        "Junto a equipe de frente de caixa, próximo à entrada/saída da loja",
+        "Estacionamento",
+        "Dentro da doca"
+      ]
+    },
+    {
+      "pergunta": "3) Quando o vigilante pode atuar na área de vendas?",
+      "opcoes": [
+        "Em casos de legítima defesa de um Colaborador ou Cliente",
+        "Quando achar melhor",
+        "Em todo o momento",
+        "Quando solicitado pelo gerente da loja"
+      ]
+    },
+    {
+      "pergunta": "2) Quem pode autorizar a entrada dos vigilantes e porteiros na área de vendas?",
+      "opcoes": [
+        "O próprio Colaborador",
+        "Sua liderança",
+        "A Diretoria de Segurança",
+        "Promotor"
+      ]
+    },
+    {
+      "pergunta": "1) Para quem se aplica as 10 regras de OURO do GPA?",
+      "opcoes": [
+        "Operadores de Caixa",
+        "Vigilantes e Porteiros",
+        "Promotores",
+        "Ajudante de armazém"
+      ]
+    }
+  ]
+}
