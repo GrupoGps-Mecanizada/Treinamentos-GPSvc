@@ -1,0 +1,52 @@
+{
+  "treinamento": "ATIVIDADES DE PORTARIA_REGIONALMG",
+  "id": 319,
+  "idChecklist": 218,
+  "perguntas": [
+    {
+      "pergunta": "5) Em caso de pânico, o Porteiro deve:",
+      "opcoes": [
+        "Sair correndo",
+        "Ligar imediatamente para a Sede do Grupo GPS",
+        "Confrontar o suposto invasor",
+        "Fazer do suposto invasor refém"
+      ]
+    },
+    {
+      "pergunta": "4) Ao assumir o plantão, o Porteiro deve:",
+      "opcoes": [
+        "Ligar o rádio",
+        "Fazer a abertura do plantão no Livro de Ocorrência",
+        "Assistir TV",
+        "Ler um Livro"
+      ]
+    },
+    {
+      "pergunta": "3) São atividades do Porteiro",
+      "opcoes": [
+        "Controlar o Acesso de Pessoas e Materiais",
+        "Controlar a vida dos condôminos",
+        "Realizar revistas em bolsas e veículos",
+        "Se ausentar da Portaria"
+      ]
+    },
+    {
+      "pergunta": "2) O Porteiro deve manter a postura e compostura no atendimento ao público interno e externo, sendo",
+      "opcoes": [
+        "Mal-educado e Indiscreto",
+        "Desrespeitoso e sem informação",
+        "Indisponível e Inconveniente",
+        "Cortez e educado"
+      ]
+    },
+    {
+      "pergunta": "1) Como o Porteiro deve se apresentar ao trabalho?",
+      "opcoes": [
+        "Devidamente sujo",
+        "Vestindo a roupa que mais gosta",
+        "Devidamente uniformizado e com Crachá Funcional",
+        "Com barba sem fazer"
+      ]
+    }
+  ]
+}
