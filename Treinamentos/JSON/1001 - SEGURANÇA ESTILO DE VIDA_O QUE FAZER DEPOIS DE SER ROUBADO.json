@@ -1,0 +1,52 @@
+{
+  "treinamento": "SEGURANÇA ESTILO DE VIDA_O QUE FAZER DEPOIS DE SER ROUBADO",
+  "id": 1001,
+  "idChecklist": 775,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL É O TERCEIRO PASSO QUE VOCÊ DEVE FAZER DEPOIS DE SER ROUBADO?",
+      "opcoes": [
+        "GERENCIAR AS CONSEQUÊNCIAS.",
+        "IR PARA CASA.",
+        "IR COMPRAR AS COISAS QUE FORAM ROUBADAS.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL É O SEGUNDO PASSO QUE VOCÊ DEVE FAZER DEPOIS DE SER ROUBADO?",
+      "opcoes": [
+        "CHORAR.",
+        "RESPIRAR FUNDO.",
+        "MEDITAR.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "3) CASO VOCÊ CEDA A AO DESESPERO E TENTE CORRER ATRÁS DO CRIMINOSO OU ATRAVESSAR A RUA NA PRESSA, O QUE PODE ACONTECER?",
+      "opcoes": [
+        "VOCÊ PODE SER ROUBADO NOVAMENTE.",
+        "VOCÊ PODE ASSUSTAR OUTRAS PESSOAS.",
+        "VOCÊ PODE ACABAR CAUSANDO UM ACIDENTE.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL A PRIMEIRA COISA QUE VOCÊ DEVE FAZER DEPOIS DE SER ROUBADO?",
+      "opcoes": [
+        "PARE ONDE VOCÊ ESTÁ.",
+        "ATRAVESSE A RUA SEM PRESTAR ATENÇÃO.",
+        "CORRA ATRÁS DO CRIMINOSO.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1) SOBRE O QUE É AS DICAS DO TREINAMENTO?",
+      "opcoes": [
+        "SOBRE COMO SE PROTEGER DE UM CRIME.",
+        "SOBRE COMO SE PROTEGER DE UM ROUBO.",
+        "SOBRE QUAL ATITUDE VOCÊ DEVE TER DEPOIS DE SER ROUBADO.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    }
+  ]
+}
