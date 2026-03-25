@@ -1,0 +1,52 @@
+{
+  "treinamento": "ELABORAÇÃO DE INSTRUÇÃO DE TRABALHO_DO",
+  "id": 668,
+  "idChecklist": 454,
+  "perguntas": [
+    {
+      "pergunta": "5) Por que é importante revisar e aprimorar constantemente as instruções de trabalho?",
+      "opcoes": [
+        "Para tornar as tarefas mais complexas.",
+        "Para garantir que as instruções continuem sendo relevantes e atualizadas.",
+        "Para dificultar a execução das tarefas.",
+        "Para criar um ambiente de trabalho hostil."
+      ]
+    },
+    {
+      "pergunta": "4) O que é importante ser incluído na descrição dos passos de uma instrução de trabalho?",
+      "opcoes": [
+        "Informações sobre as ferramentas, equipamentos, materiais e técnicas que devem ser utilizados.",
+        "Informações sobre o salário dos Colaboradores.",
+        "Informações sobre o estado civil dos Colaboradores.",
+        "Informações sobre a religião dos Colaboradores."
+      ]
+    },
+    {
+      "pergunta": "3) Qual é o primeiro passo na elaboração de instruções de trabalho?",
+      "opcoes": [
+        "Descrever os passos para a realização da tarefa.",
+        "Revisar e aprimorar a instrução de trabalho.",
+        "Identificar as tarefas que necessitam de instruções de trabalho.",
+        "Estabelecer o objetivo da instrução de trabalho."
+      ]
+    },
+    {
+      "pergunta": "2) Por que é importante padronizar processos?",
+      "opcoes": [
+        "Para aumentar a complexidade das tarefas.",
+        "Para economizar tempo e recursos.",
+        "Para dificultar a execução das tarefas.",
+        "Para criar um ambiente de trabalho hostil."
+      ]
+    },
+    {
+      "pergunta": "1) O que são instruções de trabalho?",
+      "opcoes": [
+        "Documentos que descrevem passo a passo as tarefas que devem ser realizadas por um Colaborador em uma empresa.",
+        "Planilhas que registram os números de horas trabalhadas pelos Colaboradores.",
+        "Fichas de avaliação de desempenho dos Colaboradores.",
+        "Relatórios financeiros da empresa."
+      ]
+    }
+  ]
+}
