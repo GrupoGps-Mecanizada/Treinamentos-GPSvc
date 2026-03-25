@@ -1,0 +1,52 @@
+{
+  "treinamento": "VISITA A POSTOS ARMADOS_REGIONAL SP",
+  "id": 1127,
+  "idChecklist": 900,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL O LOCAL APROVADO PARA GUARDA DE PRODUTOS CONTROLADOS?",
+      "opcoes": [
+        "ARMÁRIO DE AÇO.",
+        "GAVETA DA MESA DO VIGILANTE.",
+        "CAIXA METÁLICA RESISTENTE, CHUMBADA OU CONCRETADA.",
+        "NO COFRE DO CLIENTE."
+      ]
+    },
+    {
+      "pergunta": "4) QUANTAS MUNIÇÕES DEVEM TER CADA ARMA?",
+      "opcoes": [
+        "12 MUNIÇÕES.",
+        "MÍNIMO DE 2 CARGAS.",
+        "MÍNIMO DE 3 CARGAS.",
+        "6 MUNIÇÕES."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL ITEM NÃO FAZ PARTE DO UNIFORME?",
+      "opcoes": [
+        "APITO.",
+        "PLAQUETA DE IDENTIFICAÇÃO (CRACHÁ).",
+        "COLETE BALÍSTICO.",
+        "CNV –CARTEIRA NACIONAL DE VIGILANTE."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL É A FORMA CORRETA DE UTILIZAÇÃO DO COLETE?",
+      "opcoes": [
+        "AS ETIQUETAS VOLTADAS PARA A FRENTE.",
+        "SEMPRE COM AS ETIQUETAS VOLTADAS PARA DENTRO DO CORPO.",
+        "SEMPRE COM AS ETIQUETAS VOLTADAS PARA FORA DO CORPO.",
+        "AS ETIQUETAS VOLTADAS PARA AS COSTAS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAIS ITENS DEVEM SER ANALISADOS PARA CERTIFICAR-SE QUE A ARMA ESTÁ EM CONDIÇÕES DE USO?",
+      "opcoes": [
+        "ESTADO GERAL, CANO, MIRA, GATILHO E CABO.",
+        "ESTADO GERAL, TAMBOR, CÃO, GATILHO, CABO E ZARELHO.",
+        "VERIFICAR SE TODAS A MUNIÇÕES ESTÃO BOAS.",
+        "ANALISAR SE O DOCUMENTO DA ARMA ESTÁ EM DIA."
+      ]
+    }
+  ]
+}
