@@ -1,0 +1,52 @@
+{
+  "treinamento": "1.15 COMO CADASTRAR MATERIAIS EM CADASTRO DE SUPORTE NO PORTAL WEB_GPSVISTA",
+  "id": 527,
+  "idChecklist": 329,
+  "perguntas": [
+    {
+      "pergunta": "5) Onde aparece os materiais no Aplicativo?",
+      "opcoes": [
+        "Não aparecerá em nenhuma opção no APP.",
+        "Em tarefas, aparecerá na opção de Ferramentas.",
+        "Na aba da íris.",
+        "Ao ler o QR Code."
+      ]
+    },
+    {
+      "pergunta": "4) Onde incluir os Materiais no Vista?",
+      "opcoes": [
+        "Em rotinas e gestão de estoque.",
+        "Somente para gestão de estoque.",
+        "Para qualificações necessárias.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Quais os dados obrigatórios para efetuar o cadastro?",
+      "opcoes": [
+        "Nome do Material, Categoria, Subcategoria, Descrição, Marca e Modelo do Material.",
+        "Nome do Material e Valor.",
+        "Categoria e Subcategoria.",
+        "Não há itens obrigatórios."
+      ]
+    },
+    {
+      "pergunta": "2) O que colocar em cadastro de materiais?",
+      "opcoes": [
+        "Ativos.",
+        "Tarefas.",
+        "Rotinas.",
+        "Ferramentas em geral."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o objetivo do cadastro de Materiais?",
+      "opcoes": [
+        "Cadastrar a Lista de ferramentas existentes no contrato, para as rotinas e gestão de estoque.",
+        "Obrigatório para o cadastro de Tarefas.",
+        "Para conseguir cadastrar os Locais.",
+        "Para vincular os recursos."
+      ]
+    }
+  ]
+}
