@@ -1,0 +1,52 @@
+{
+  "treinamento": "PRÁTICAS SEGURAS NO INÍCIO DAS TAREFAS",
+  "id": 1724,
+  "idChecklist": 1418,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE DETERMINA UMA ATIVIDADE SEGURA ATÉ O FINAL?",
+      "opcoes": [
+        "TERMINAR RAPIDAMENTE.",
+        "COMEÇAR COM ATENÇÃO, CUIDADO E FOCO NA SEGURANÇA.",
+        "IMPROVISAR SEMPRE.",
+        "EVITAR PLANEJAMENTO."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE O COLABORADOR DEVE FAZER ANTES DE INICIAR A TAREFA?",
+      "opcoes": [
+        "OBSERVAR O LOCAL E IDENTIFICAR RISCOS.",
+        "COMEÇAR SEM OLHAR O AMBIENTE.",
+        "IGNORAR PEQUENOS DETALHES.",
+        "DEIXAR EPI'S DE LADO."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE PODE CAUSAR ACIDENTES QUANDO NÃO OBSERVADO?",
+      "opcoes": [
+        "LUZ FORTE.",
+        "COR DA PAREDE.",
+        "BARULHO BAIXO.",
+        "PISO ESCORREGADIO OU OBJETOS MAL POSICIONADOS."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE AUMENTA O RISCO DE ACIDENTES NO INÍCIO DA ATIVIDADE?",
+      "opcoes": [
+        "PLANEJAMENTO.",
+        "ATENÇÃO AO AMBIENTE.",
+        "TRABALHAR COM PRESSA OU SEM PREPARO.",
+        "USO CORRETO DOS EQUIPAMENTOS."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE É ESSENCIAL NO INÍCIO DE QUALQUER TAREFA?",
+      "opcoes": [
+        "COMEÇAR RÁPIDO.",
+        "ORGANIZAÇÃO E USO CORRETO DE EPI.",
+        "IGNORAR ORIENTAÇÕES.",
+        "TRABALHAR SEM PREPARAÇÃO."
+      ]
+    }
+  ]
+}
