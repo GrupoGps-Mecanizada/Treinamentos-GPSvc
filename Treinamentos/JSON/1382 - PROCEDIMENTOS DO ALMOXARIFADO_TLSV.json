@@ -1,0 +1,52 @@
+{
+  "treinamento": "PROCEDIMENTOS DO ALMOXARIFADO_TLSV",
+  "id": 1382,
+  "idChecklist": 1138,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE DEVE SER FEITO EM CASO DE NÃO CONFORMIDADE?",
+      "opcoes": [
+        "COMUNICAR AO OPERADOR LOGÍSTICO.",
+        "PREENCHER UM NOVO CHECKLIST.",
+        "RETORNAR AO PONTO DE ENCONTRO NO DIA SEGUINTE.",
+        "SOLICITAR REGULARIZAÇÃO E IR AO ALMOXARIFADO."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE COMPÕE O KIT INICIAL RETIRADO PELO TÉCNICO?",
+      "opcoes": [
+        "APENAS EPI'S E EPCS.",
+        "APENAS UNIFORMES E FERRAMENTAS.",
+        "EPI'S, EPC'S, UNIFORMES E FERRAMENTAS.",
+        "MATERIAIS DE ESCRITÓRIO."
+      ]
+    },
+    {
+      "pergunta": "3) QUANTAS VEZES POR SEMANA O TÉCNICO DEVE COMPARECER AO PONTO DE ENCONTRO?",
+      "opcoes": [
+        "UMA VEZ.",
+        "DUAS VEZES.",
+        "TRÊS VEZES.",
+        "APENAS QUANDO NECESSÁRIO."
+      ]
+    },
+    {
+      "pergunta": "2) QUEM DEVE SOLICITAR A TROCA OU REPOSIÇÃO DE MATERIAIS?",
+      "opcoes": [
+        "O PRÓPRIO TÉCNICO.",
+        "O SUPERVISOR DE CAMPO.",
+        "O OPERADOR LOGÍSTICO.",
+        "O SESMT."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O PRIMEIRO PASSO APÓS A ENTRADA DO COLABORADOR NA EMPRESA?",
+      "opcoes": [
+        "RETIRAR UNIFORMES NO ALMOXARIFADO.",
+        "SOLICITAR MATERIAIS AO SUPERVISOR DE CAMPO.",
+        "REALIZAR TREINAMENTOS DE NR10 E NR35.",
+        "CONFERIR O CHECKLIST DIÁRIO."
+      ]
+    }
+  ]
+}
