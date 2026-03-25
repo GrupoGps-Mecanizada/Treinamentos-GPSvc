@@ -1,0 +1,52 @@
+{
+  "treinamento": "COMO UTILIZAR CORTADOR DE FRIOS DE FORMA SEGURA - ALIMENTAÇÃO_TREINAMENTO PRESENCIAL",
+  "id": 1392,
+  "idChecklist": 1148,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE VOCÊ DEVE FAZER ANTES DE USAR O CORTADOR?",
+      "opcoes": [
+        "IGNORAR SE ESTÁ QUEBRADO.",
+        "VERIFICAR SE ESTÁ TUDO CERTO E COMUNICAR O SUPERIOR DE IMEDIATO SE NOTAR ALGO ESTRANHO.",
+        "USAR SEM OLHAR.",
+        "LIMPAR ANTES DE USAR."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE FAZER AO LIMPAR O CORTADOR?",
+      "opcoes": [
+        "USAR UMA ESPONJA E LUVA MALHA DE AÇO (EPI) AO LIMPAR A LÂMINA, DESLIGANDO PRIMEIRO.",
+        "PASSAR A MÃO NA LÂMINA.",
+        "LIMPAR COM O CORTADOR LIGADO.",
+        "JOGAR ÁGUA NO CORTADOR."
+      ]
+    },
+    {
+      "pergunta": "3) COMO VOCÊ DEVE SEGURAR O ALIMENTO AO FATIAR?",
+      "opcoes": [
+        "COM AS DUAS MÃOS.",
+        "APENAS EMPURRANDO O ALIMENTO.",
+        "COM A MÃO PERTO DA LÂMINA.",
+        "SEGURANDO O ALIMENTO FIRME COM UMA MÃO E USANDO A OUTRA MÃO PARA EMPURRAR O ALIMENTO NA PROTEÇÃO EM DIREÇÃO À LÂMINA."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE VOCÊ DEVE USAR PARA PROTEGER AS MÃOS AO FATIAR?",
+      "opcoes": [
+        "AS MÃOS.",
+        "UM PANO.",
+        "A PROTEÇÃO DO CORTADOR.",
+        "UMA FACA."
+      ]
+    },
+    {
+      "pergunta": "1)  O QUE DEVEMOS FAZER ANTES DE MEXER NO CORTADOR DE FRIOS?",
+      "opcoes": [
+        "DEIXAR LIGADO.",
+        "DESLIGAR DA TOMADA.",
+        "USAR AS MÃOS PARA MEXER.",
+        "COLOCAR AS MÃOS PERTO DA LÂMINA."
+      ]
+    }
+  ]
+}
