@@ -1,0 +1,52 @@
+{
+  "treinamento": "VIDEO 1_E-VERTICAL",
+  "id": 563,
+  "idChecklist": 365,
+  "perguntas": [
+    {
+      "pergunta": "5) É possível a instalação de laços em classe B nos painéis Morley?",
+      "opcoes": [
+        "Sim, porém deve ser feito um “jumper” entre os terminais positivos e negativos da placa de laço.",
+        "Sim, porém deve ser declarado na programação.",
+        "Sim, porém deve ser instalado um resistor EOL.",
+        "Não é possível."
+      ]
+    },
+    {
+      "pergunta": "4) Quantos relés programáveis temos em uma CPU da central Morley?",
+      "opcoes": [
+        "Temos 02 relés programáveis via software.",
+        "Temos 03 relés programáveis via software.",
+        "Temos 01 relé programável via software.",
+        "Não temos relé programável."
+      ]
+    },
+    {
+      "pergunta": "3) Qual o máximo de combinações de laços que podemos ter em um sistema em rede?",
+      "opcoes": [
+        "Até 24 Laços.",
+        "Até 16 Laços.",
+        "Até 12 Laços.",
+        "Até 32 Laços."
+      ]
+    },
+    {
+      "pergunta": "2) Quantas Zonas cada painel Morley suporta?",
+      "opcoes": [
+        "Até 250 Zonas.",
+        "Até 99 Zonas.",
+        "Até 1000 Zonas.",
+        "Até 160 Zonas."
+      ]
+    },
+    {
+      "pergunta": "1) Até quantos laços os painéis Morley suportam?",
+      "opcoes": [
+        "04 Laços.",
+        "10 Laços.",
+        "08 Laços.",
+        "12 Laços."
+      ]
+    }
+  ]
+}
