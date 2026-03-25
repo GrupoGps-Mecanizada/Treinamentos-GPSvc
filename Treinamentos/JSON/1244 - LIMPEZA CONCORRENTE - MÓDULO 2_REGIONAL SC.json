@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA CONCORRENTE - MÓDULO 2_REGIONAL SC",
+  "id": 1244,
+  "idChecklist": 1010,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL EQUIPAMENTO DEVE SER UTILIZADO PARA LIMPAR O PISO?",
+      "opcoes": [
+        "FIBRA VERDE.",
+        "MOP.",
+        "LAVADORA DE ALTA PRESSÃO.",
+        "ESPONJA DE AÇO."
+      ]
+    },
+    {
+      "pergunta": "4) APÓS FINALIZAR A LIMPEZA, O QUE DEVE SER FEITO COM OS PANOS E LUVAS DESCARTÁVEIS?",
+      "opcoes": [
+        "JOGAR NO LIXO.",
+        "GUARDAR NO CARRINHO FUNCIONAL.",
+        "HIGIENIZAR E REUTILIZAR.",
+        "ENCAMINHAR PARA DEPÓSITO DE MATERIAL DE LIMPEZA."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É O PROCEDIMENTO CORRETO PARA A LIMPEZA DO PISO?",
+      "opcoes": [
+        "LIMPAR DE FORA PARA DENTRO DO LOCAL EM MOVIMENTO DE \"OITO DEITADO\".",
+        "LIMPAR DE DENTRO PARA FORA DO LOCAL EM MOVIMENTO CIRCULAR.",
+        "LIMPAR DE FORA PARA DENTRO DO LOCAL EM MOVIMENTO CIRCULAR.",
+        "LIMPAR DE DENTRO PARA FORA DO LOCAL EM MOVIMENTO DE \"OITO DEITADO\"."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS MATERIAIS DEVEM SER UTILIZADOS PARA HIGIENIZAR AS LIXEIRAS QUANDO NECESSÁRIO?",
+      "opcoes": [
+        "PANO DESCARTÁVEL E DETERGENTE NEUTRO.",
+        "FIBRA VERDE E DETERGENTE.",
+        "MOP E PANO AMARELO.",
+        "PANO AZUL E DETERGENTE ÁCIDO."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O PRIMEIRO PASSO A SER REALIZADO ANTES DE INICIAR A LIMPEZA DE UM LOCAL?",
+      "opcoes": [
+        "HIGIENIZAR AS LUVAS E AS MÃOS.",
+        "RECOLHER A PLACA DE SINALIZAÇÃO.",
+        "COLOCAR A PLACA DE SINALIZAÇÃO NA PORTA DE ENTRADA.",
+        "APLICAR DETERGENTE NEUTRO NA FIBRA BRANCA."
+      ]
+    }
+  ]
+}
