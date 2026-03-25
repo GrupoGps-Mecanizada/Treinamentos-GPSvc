@@ -1,0 +1,52 @@
+{
+  "treinamento": "INSTRUÇÃO DE TRABALHO - EXPEDIÇÃO_GRU AIRPORT",
+  "id": 728,
+  "idChecklist": 512,
+  "perguntas": [
+    {
+      "pergunta": "5) Ao chegar no setor DTA, o transportador me entregou um papel solicitando uma carga, o que devo fazer?",
+      "opcoes": [
+        "Devo atender à solicitação do transportador.",
+        "Pegar o papel com o transportador e buscar a carga.",
+        "Ficar conversando com o transportador e deixar minha demanda de lado.",
+        "Nada, pois, não posso aceitar o papel ou atender à solicitação do transportador."
+      ]
+    },
+    {
+      "pergunta": "4) Ao retirar as cargas do TE na DI, saiu uma carga sem tarefa, o que devo fazer?",
+      "opcoes": [
+        "Atualizar a carga na DI ou DTA.",
+        "Levar a carga para a recusa.",
+        "Acionar o meu Gestor Direto e comunicar sobre a carga estar sem tarefa.",
+        "Levar a carga para o recebimento."
+      ]
+    },
+    {
+      "pergunta": "3) Ao chegar na posição indicada pelo sistema e verificar que a carga está avariada, o que deve ser feito?",
+      "opcoes": [
+        "Nada, apenas entregar a carga no destino correto.",
+        "Acionar o meu Gestor Direto e informar que a carga estava avariada.",
+        "Comunicar meus colegas de trabalho e entregar a carga no destino correto.",
+        "Entregar a carga no destino correto e comunicar o auxiliar do setor."
+      ]
+    },
+    {
+      "pergunta": "2) O que é terminantemente proibido em nossa operação?",
+      "opcoes": [
+        "É terminantemente proibido escanear a PCG ou a posição final no CMS.",
+        "É terminantemente proibido escanear a PCG ou a posição final no CMS, sendo obrigatório levar a carga até o destino e só então digitar o código de barras do local.",
+        "É terminantemente proibido digitar a PCG ou a posição final no CMS, sendo obrigatório levar a carga até o destino e só então escanear o código de barras do local.",
+        "É terminantemente proibido ouvir as ordens do meu Gestor Direto."
+      ]
+    },
+    {
+      "pergunta": "1) Quanto a organização nos setores de DI e DTA, assinale a alternativa CORRETA:",
+      "opcoes": [
+        "Após a finalização do carregamento, não é obrigação do operador organizar os paletes.",
+        "Após a finalização do carregamento, é obrigação do transportador organizar os paletes e retornar para a operação.",
+        "Após a finalização do carregamento, é obrigação do auxiliar organizar os paletes e retornar para a operação.",
+        "Após a finalização do carregamento, é obrigação do operador organizar os paletes e retornar para a operação."
+      ]
+    }
+  ]
+}
