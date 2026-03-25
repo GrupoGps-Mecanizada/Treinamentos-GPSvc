@@ -1,0 +1,52 @@
+{
+  "treinamento": "ENTREVISTA DE SELEÇÃO II",
+  "id": 340,
+  "idChecklist": 239,
+  "perguntas": [
+    {
+      "pergunta": "5) Com base no treinamento, o entrevistador precisa:",
+      "opcoes": [
+        "Ser ouvinte, não aceitar respostas vagas e prestar atenção na cronologia das informações.",
+        "Ser ouvinte, não aceitar respostas vagas e prestar atenção à remuneração anterior do Candidato.",
+        "Ser ouvinte e ter intuição.",
+        "Ser ouvinte e solicitar três referências do Candidato."
+      ]
+    },
+    {
+      "pergunta": "4) Durante a entrevista, questões como intuição e química pessoal:",
+      "opcoes": [
+        "São determinantes para uma contratação ser assertiva.",
+        "Indicam que o Candidato se relaciona bem com pessoas.",
+        "São indicativos de que o Candidato será uma referência na operação.",
+        "São falhas e podem levar a erros."
+      ]
+    },
+    {
+      "pergunta": "3) De acordo com o treinamento, através de perguntas sobre relações interpessoais e auto percepção, é possível perceber:",
+      "opcoes": [
+        "O que o Candidato sabe sobre o Grupo GPS.",
+        "Como o Candidato vê sua autoimagem, dentro e fora do trabalho.",
+        "Como o Candidato vê sua autoimagem diante do seu cônjuge.",
+        "O que o Candidato espera do local de trabalho."
+      ]
+    },
+    {
+      "pergunta": "2) Com base no treinamento, a coleta de informações do histórico profissional do Candidato, visa:",
+      "opcoes": [
+        "Descobrir qual a última remuneração do Candidato.",
+        "Coletar informações da vida social do Candidato, bem como suas atividades de lazer.",
+        "Coletar informações sobre o progresso profissional do Candidato, bem como suas perspectivas.",
+        "Descobrir se o Candidato sabe trabalhar sob pressão."
+      ]
+    },
+    {
+      "pergunta": "1) No treinamento vimos que a habilidade do entrevistador:",
+      "opcoes": [
+        "Impacta na avaliação de desempenho do novo Colaborador.",
+        "Impacta na assertividade das entrevistas.",
+        "Impacta na percepção do cliente.",
+        "Impacta no histórico curricular do Candidato."
+      ]
+    }
+  ]
+}
