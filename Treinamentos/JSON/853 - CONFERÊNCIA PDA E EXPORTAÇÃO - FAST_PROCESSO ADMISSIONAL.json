@@ -1,0 +1,52 @@
+{
+  "treinamento": "CONFERÊNCIA PDA E EXPORTAÇÃO - FAST_PROCESSO ADMISSIONAL",
+  "id": 853,
+  "idChecklist": 624,
+  "perguntas": [
+    {
+      "pergunta": "5)  EM QUE MOMENTO O CANDIDATO INSERE OS SEUS DADOS NO PDA?",
+      "opcoes": [
+        "AO BAIXAR O GPSVC.",
+        "CADASTRO INICIAL NO SITE.",
+        "NA CLÍNICA MÉDICA.",
+        "APÓS ASSINATURA DE CONTRATO."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL O ÍCONE RESPONSÁVEL PELA EDIÇÃO DOS DADOS NO PDA?",
+      "opcoes": [
+        "LIVRO.",
+        "BORRACHA.",
+        "JANELA.",
+        "LÁPIS."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL SITUAÇÃO PODE IMPACTAR EM INCONSISTÊNCIAS DE E-SOCIAL E BANCÁRIAS?",
+      "opcoes": [
+        "NÃO VALIDAR OS DOCUMETOS.",
+        "NÃO APROVAR OS DOCUMENTOS.",
+        "NÃO AGENDAR EXAME MÉDICO.",
+        "NÃO SALVAR OS DOCUMENTOS."
+      ]
+    },
+    {
+      "pergunta": "2) QUANTAS DESCRIÇÕES DIFERENTES O CAMPO STATUS DE EXPORTAÇÃO PODE TER?",
+      "opcoes": [
+        "2.",
+        "5.",
+        "3.",
+        "APENAS 1."
+      ]
+    },
+    {
+      "pergunta": "1) QUANTO TEMPO EM MÉDIA DEMORA A EXPORTAÇÃO?",
+      "opcoes": [
+        "5 A 10 MINUTOS.",
+        "30 MINUTOS.",
+        "ATÉ 1H30.",
+        "EXPORTAÇÃO INSTANTÂNEA."
+      ]
+    }
+  ]
+}
