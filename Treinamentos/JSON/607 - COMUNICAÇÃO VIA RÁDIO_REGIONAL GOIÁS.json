@@ -1,0 +1,52 @@
+{
+  "treinamento": "COMUNICAÇÃO VIA RÁDIO_REGIONAL GOIÁS",
+  "id": 607,
+  "idChecklist": 393,
+  "perguntas": [
+    {
+      "pergunta": "5) Sobre sigilo da informação, não devemos:",
+      "opcoes": [
+        "Ser discreto ao repassar alguma informação.",
+        "Usar mensagem codificada.",
+        "Falar sobre nosso trabalho com qualquer pessoa.",
+        "Manter o volume do rádio apenas para minha escuta."
+      ]
+    },
+    {
+      "pergunta": "4) O Art. 18, da Lei Nº 7.102, de 20 de junho de 1983 rege que o vigilante:",
+      "opcoes": [
+        "Usará o uniforme mesmo quando não estiver em efetivo serviço.",
+        "Usará uniforme somente quando em efetivo serviço, sendo passível de multa.",
+        "Não possui a obrigatoriedade do uso do uniforme em efetivo serviço.",
+        "Usará uniforme apenas em ocasiões especiais, como: eventos, shows, e entre outros."
+      ]
+    },
+    {
+      "pergunta": "3) O que não falar no rádio?",
+      "opcoes": [
+        "Sobre emergências, perigo, fogo, local da ocorrência.",
+        "Sobre falha na segurança, início de uma ocorrência/problema.",
+        "Sobre rendição, gírias, palavrões, piadas, pagamento e assuntos pessoais.",
+        "Sobre problemas/ocorrência, perigo e emergências."
+      ]
+    },
+    {
+      "pergunta": "2) O que significa as siglas QAP, QTI, QRV, QRU e QRX em respectiva ordem?",
+      "opcoes": [
+        "Na escuta, em deslocamento, à disposição, ocorrência e aguarde um instante.",
+        "Na escuta, banheiro, à disposição, qual o nome e aguarde um instante.",
+        "À disposição, repita a mensagem, em deslocamento, qual seu local e banheiro.",
+        "Repita a mensagem, em deslocamento, à disposição, ocorrência e aguarde um instante."
+      ]
+    },
+    {
+      "pergunta": "1) O que é comunicação?",
+      "opcoes": [
+        "São informações passadas por gestos, linguagem corporal, e entre outros.",
+        "É tudo que não é fala ou escrita.",
+        "É quando usamos a escrita para passarmos alguma informação.",
+        "Ação de transmitir uma mensagem e eventualmente receber outra mensagem como resposta."
+      ]
+    }
+  ]
+}
