@@ -1,0 +1,52 @@
+{
+  "treinamento": "IT-GSU-028 ARMAZENAMENTO DE MATERIAIS E CONFIRMAÇÃO DA LOCAÇÃO_GRU AIRPORT",
+  "id": 1455,
+  "idChecklist": 1203,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE SIGNIFICA OT?",
+      "opcoes": [
+        "ORDEM DE TRANSIÇÃO.",
+        "ORDEM DE TRABALHO.",
+        "ORDEM DE TRANSPORTE.",
+        "NENHUMA DAS ALTERNATIVAS ACIMA."
+      ]
+    },
+    {
+      "pergunta": "4) APÓS ESTOCADO O MATERIAL FISICAMENTE, DEVEMOS PREENCHER QUAL CAMPO?",
+      "opcoes": [
+        "SUBSTITUIÇÃO.",
+        "DEPURAÇÃO.",
+        "VARIAÇÃO.",
+        "LOCAÇÃO."
+      ]
+    },
+    {
+      "pergunta": "3) AO DIGITAR O ENDEREÇO QUE O MATERIAL FOI ESTOCADO NO CAMPO “POSIÇÃO DEST” DEVEMOS CLICAR EM:",
+      "opcoes": [
+        "AVANÇAR.",
+        "REGISTRAR.",
+        "PROSSEGUIR.",
+        "TODAS ESTÃO CORRETAS."
+      ]
+    },
+    {
+      "pergunta": "2) APÓS PREENCHER O CAMPO “CENTRO” E “Nº DO DEPÓSITO DEVE-SE CLICAR EM:",
+      "opcoes": [
+        "AVANÇAR.",
+        "VOLTAR.",
+        "PROSSEGUIR.",
+        "CANCELAR."
+      ]
+    },
+    {
+      "pergunta": "1) PARA MODIFICAR O MATERIAL NA 1ª TELA DEVE-SE DIGITAR O:",
+      "opcoes": [
+        "CÓDIGO DO MANTRA.",
+        "CÓDIGO DO MATERIAL.",
+        "CÓDIGO DO CLIENTE.",
+        "CÓDIGO DA NOTA FISCAL."
+      ]
+    }
+  ]
+}
