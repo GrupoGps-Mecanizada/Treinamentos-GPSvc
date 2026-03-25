@@ -1,0 +1,52 @@
+{
+  "treinamento": "FLEXIBILIDADE E DINAMISMO",
+  "id": 681,
+  "idChecklist": 467,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual é a relação entre flexibilidade e dinamismo com a tomada de decisão?",
+      "opcoes": [
+        "Ambas as características podem tornar a tomada de decisão mais difícil e complicada.",
+        "A flexibilidade é mais importante do que o dinamismo para a tomada de decisão.",
+        "Ambas as características ajudam a tomada de decisão ao fornecer opções e soluções criativas.",
+        "O dinamismo é mais importante do que a flexibilidade para a tomada de decisão."
+      ]
+    },
+    {
+      "pergunta": "4) Como a flexibilidade e o dinamismo podem ser desenvolvidos nas pessoas?",
+      "opcoes": [
+        "Por meio do aumento da rigidez e inflexibilidade.",
+        "Por meio do aprendizado de habilidades novas e a capacidade de adaptação a situações novas e desafiadoras.",
+        "Por meio da manutenção das mesmas rotinas diárias.",
+        "Por meio de sites online."
+      ]
+    },
+    {
+      "pergunta": "3) Qual é o impacto da falta de flexibilidade e dinamismo nas empresas?",
+      "opcoes": [
+        "Permite que as empresas se adaptem facilmente a mudanças.",
+        "Atrasa a adoção de inovações e dificulta a resolução de problemas.",
+        "Ajuda a manter a estabilidade da empresa a longo prazo.",
+        "Faz com que as empresas sejam mais eficientes e produtivas."
+      ]
+    },
+    {
+      "pergunta": "2) Assinale a alternativa VERDADEIRA em relação à flexibilidade e ao dinamismo:",
+      "opcoes": [
+        "São características valorizadas apenas em ambientes corporativos altamente instáveis.",
+        "Podem ser desenvolvidas apenas por pessoas com determinado tipo de personalidade.",
+        "São fundamentais para a adaptação à mudanças e desafios em diversos contextos.",
+        "São características que diminuem a produtividade e a eficiência das equipes de trabalho."
+      ]
+    },
+    {
+      "pergunta": "1)  Por que a flexibilidade e o dinamismo são fundamentais dentro de uma organização?",
+      "opcoes": [
+        "Porque a resistência e a parcialidade são qualidades essenciais para enfrentar as mudanças.",
+        "Porque a flexibilidade envolve a capacidade de se adaptar à diferentes situações e o dinamismo envolve ser proativo e ágil, antecipando as mudanças.",
+        "Porque a rigidez e a inflexibilidade são altamente valorizadas na adaptação às mudanças.",
+        "Porque a estabilidade e a inércia são características que ajudam a lidar com as mudanças."
+      ]
+    }
+  ]
+}
