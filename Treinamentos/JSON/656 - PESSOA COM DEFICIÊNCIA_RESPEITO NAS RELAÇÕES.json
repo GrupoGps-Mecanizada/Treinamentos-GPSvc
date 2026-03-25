@@ -1,0 +1,52 @@
+{
+  "treinamento": "PESSOA COM DEFICIÊNCIA_RESPEITO NAS RELAÇÕES",
+  "id": 656,
+  "idChecklist": 442,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual a terminologia correta para ser utilizada em referência às pessoas com perda parcial ou total de audição?",
+      "opcoes": [
+        "Surdo-mudo.",
+        "Pessoa com deficiência auditiva.",
+        "Surdinho.",
+        "Todas as alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) As empresas precisam cumprir a Lei de Cotas (Lei 8.213/91), que está presente no artigo 93. Para qual categoria de pessoas se destina essa Lei?",
+      "opcoes": [
+        "Pessoas que só se vestem de branco.",
+        "Pessoas com mais de 60 anos.",
+        "Pessoas com deficiência ou pessoas reabilitadas pelo INSS.",
+        "Somente pessoas que tenham entre 17 e 21 anos."
+      ]
+    },
+    {
+      "pergunta": "3) Segundo o novo modelo psicossocial, baseado na Lei Brasileira de Inclusão, qual o prazo de impedimento de natureza física, mental, intelectual ou sensorial (auditiva e visual)?",
+      "opcoes": [
+        "De longo prazo.",
+        "De curto prazo.",
+        "Impedimento temporário.",
+        "Nenhuma das respostas."
+      ]
+    },
+    {
+      "pergunta": "2) Com relação ao que vimos no treinamento, assinale qual das frases abaixo está INCORRETA:",
+      "opcoes": [
+        "A sigla PcD passou a ser adotada para Pessoa com Deficiência.",
+        "Desde 2006 os países do mundo passaram a adotar o termo “PESSOA COM DEFICIÊNCIA”.",
+        "O Brasil é considerado um dos países mais atrasados do mundo no que diz respeito a legislação para PcD.",
+        "A gestão da diversidade, apesar de desafiadora, traz grandes experiências e aprendizados para todos os envolvidos."
+      ]
+    },
+    {
+      "pergunta": "1) Marque a alternativa que se refere à uma conduta correta para Pessoa com Transtorno do Espectro Autista:",
+      "opcoes": [
+        "Lembre-se de ler em voz alta todos os documentos que uma pessoa cega ou com deficiência visual precisa assinar.",
+        "Se fizer alguma brincadeira, explique o sentido do que está dizendo, para não a deixe confusa.",
+        "Nunca se apoie ou toque a cadeira de rodas, andador ou muletas de uma pessoa, sem pedir a sua permissão.",
+        "A LIBRAS é a Língua Brasileira de Sinais utilizada por pessoas surdas."
+      ]
+    }
+  ]
+}
