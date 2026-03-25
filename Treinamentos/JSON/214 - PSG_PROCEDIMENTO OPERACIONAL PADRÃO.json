@@ -1,0 +1,52 @@
+{
+  "treinamento": "PSG_PROCEDIMENTO OPERACIONAL PADRÃO",
+  "id": 214,
+  "idChecklist": 126,
+  "perguntas": [
+    {
+      "pergunta": "5) Em que momento devemos desmobilizar o POP?",
+      "opcoes": [
+        "Quando quiser.",
+        "Quando for solicitado pelo Vigilante.",
+        "Quando o posto de serviço for desmobilizado ou a função for desativada.",
+        "Quando um posto de serviço for ativado."
+      ]
+    },
+    {
+      "pergunta": "4) Antes de ser implantado, o POP deve ser submetido à aprovação de quem?",
+      "opcoes": [
+        "Do Gerente de Contrato.",
+        "Do Supervisor de Segurança.",
+        "Do Vigilante.",
+        "Do Cliente."
+      ]
+    },
+    {
+      "pergunta": "3) A aplicação do POP deve ser de acordo com o quê?",
+      "opcoes": [
+        "Função e posto de serviço.",
+        "Somente ao posto de serviço.",
+        "Somente a função.",
+        "Nenhuma das respostas anteriores."
+      ]
+    },
+    {
+      "pergunta": "2) Quais os principais benefícios em ter um POP?",
+      "opcoes": [
+        "Padronização.",
+        "Procedimentos executados corretamente.",
+        "Minimiza as variações causadas por negligência ou adaptações aleatórias.",
+        "Todas as respostas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o principal objetivo do POP?",
+      "opcoes": [
+        "Responder a pergunta \"Como fazer?\".",
+        "Responder a pergunta \"O que fazer?\".",
+        "Responder a pergunta \"Como foi feito?\".",
+        "Nenhuma das respostas anteriores."
+      ]
+    }
+  ]
+}
