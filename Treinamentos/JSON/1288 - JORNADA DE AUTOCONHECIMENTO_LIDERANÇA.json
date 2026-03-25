@@ -1,0 +1,52 @@
+{
+  "treinamento": "JORNADA DE AUTOCONHECIMENTO_LIDERANÇA",
+  "id": 1288,
+  "idChecklist": 1052,
+  "perguntas": [
+    {
+      "pergunta": "5) SEGUNDO O TREINAMENTO, QUAL BENEFÍCIO O AUTOCONHECIMENTO NÃO PROPORCIONA DIRETAMENTE?",
+      "opcoes": [
+        "MELHORA DA COMUNICAÇÃO.",
+        "DESENVOLVIMENTO DE EMPATIA.",
+        "MELHORA DAS HABILIDADES TÉCNICAS.",
+        "AUMENTO DA RESILIÊNCIA."
+      ]
+    },
+    {
+      "pergunta": "4) NO TREINAMENTO VIMOS QUE EXISTE UMA PRÁTICA DIÁRIA QUE PODE AUMENTAR A AUTOCONSCIÊNCIA E REDUZIR O ESTRESSE, COMO SE CHAMA?",
+      "opcoes": [
+        "ESTABELECIMENTO DE METAS PESSOAIS.",
+        "REFLEXÃO PÓS-AÇÃO.",
+        "PAUSAS DE 25 MINUTOS.",
+        "MEDITAÇÃO."
+      ]
+    },
+    {
+      "pergunta": "3) BASEADO NO TREINAMENTO, QUAL FERRAMENTA DE AUTOCONHECIMENTO UTILIZA FEEDBACK DE SUPERIORES, PARES E SUBORDINADOS?",
+      "opcoes": [
+        "FEEDBACK 360°.",
+        "TESTES DE PERSONALIDADE.",
+        "MEDITAÇÃO.",
+        "NENHUMA DAS ALTERNATIVAS ANTERIORES."
+      ]
+    },
+    {
+      "pergunta": "2) COM BASE NO TREINAMENTO, QUAL TÉCNICA ENVOLVE ESCREVER SOBRE EXPERIÊNCIAS DIÁRIAS PARA REFLETIR SOBRE AÇÕES E EMOÇÕES?",
+      "opcoes": [
+        "FEEDBACK 360°.",
+        "MEDITAÇÃO.",
+        "DIÁRIO REFLEXIVO.",
+        "TESTES DE PERSONALIDADE."
+      ]
+    },
+    {
+      "pergunta": "1) DE ACORDO COM O TREINAMENTO, O QUE É AUTOCONHECIMENTO?",
+      "opcoes": [
+        "PROCESSO DE ENTENDER OUTRAS PESSOAS.",
+        "PROCESSO DE COMPREENDER A SI MESMO.",
+        "PROCESSO DE DESENVOLVER HABILIDADES TÉCNICAS.",
+        "PROCESSO DE MELHORAR A COMUNICAÇÃO."
+      ]
+    }
+  ]
+}
