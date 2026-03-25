@@ -1,0 +1,52 @@
+{
+  "treinamento": "CONHECENDO E APLICANDO INVENTÁRIO E IRA_ELECTROLUX",
+  "id": 79,
+  "idChecklist": 52,
+  "perguntas": [
+    {
+      "pergunta": "5) Caso encontre material armazenado em local ou de forma incorreto o que devo fazer?",
+      "opcoes": [
+        "Ignorar, pois não foi eu que deixou daquela forma.",
+        "Movimentar os produtos para algum conferente.",
+        "Não realizar nenhum procedimento sem autorização.",
+        "Utilizar o coletor para confirmar o endereço correto e movimentar o material para o local correto, garantindo a qualidade."
+      ]
+    },
+    {
+      "pergunta": "4) Assinale a alternativa que NÃO corresponde a um benefício do IRA.",
+      "opcoes": [
+        "Saber quais e quantos produtos existem no estoque.",
+        "Identificar divergências, apurar suas causas e fazer os ajustes necessários.",
+        "Realizar pedidos mais assertivas em função da disponibilidade de produtos no estoque.",
+        "Aumentar os custos dos produtos."
+      ]
+    },
+    {
+      "pergunta": "3) Quando realizamos uma movimentação física de um item para linha ou expedição, devemos fazer o que?",
+      "opcoes": [
+        "Levar para linha de produção e comunicar pelo rádio.",
+        "Levar o material para endereço sem a necessidade de transferir no coletor de dados.",
+        "Transferir os produtos para o local e realizar a transferência no coletor.",
+        "Apenas movimentar os produtos para local físico e não avisar ninguém."
+      ]
+    },
+    {
+      "pergunta": "2)  O que significa a sigla IRA?",
+      "opcoes": [
+        "Inventário Regular de armazenamento.",
+        "Indicador Rotativo de Acuracidade.",
+        "Indicador Regional de Acuracidade.",
+        "Inventário de Resultados Analíticos."
+      ]
+    },
+    {
+      "pergunta": "1) O que é inventário de estoque?",
+      "opcoes": [
+        "Contagem de docas disponíveis no armazém.",
+        "Controle de estoque de mercadorias expedidas para retrabalho de qualidade.",
+        "Rotinas para identificar, classificar, contar e controlar todas as mercadorias de uma empresa.",
+        "Estoque de segurança de produtos acabados."
+      ]
+    }
+  ]
+}
