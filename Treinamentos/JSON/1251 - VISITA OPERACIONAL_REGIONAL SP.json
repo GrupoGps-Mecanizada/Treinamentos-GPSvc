@@ -1,0 +1,52 @@
+{
+  "treinamento": "VISITA OPERACIONAL_REGIONAL SP",
+  "id": 1251,
+  "idChecklist": 1017,
+  "perguntas": [
+    {
+      "pergunta": "5) ONDE A TAREFA CONCLUÍDA PODE SER VALIDADA DENTRO DO PORTAL GPS?",
+      "opcoes": [
+        "NA TELA (10.1.2).",
+        "NA TELA (15.3.4).",
+        "NA TELA (16.1.3).",
+        "NA TELA (20.2.1)."
+      ]
+    },
+    {
+      "pergunta": "4) É CORRETO AFIRMAR QUE O OBJETIVO DESTE TREINAMENTO É:",
+      "opcoes": [
+        "ENSINAR COMO FILTRAR AS TAREFAS.",
+        "ENSINAR COMO ACESSAR O APLICATIVO.",
+        "ENSINAR COMO BATER O PONTO.",
+        "ENSINAR COMO REALIZAR AS TAREFAS DE VISITAS OPERACIONAIS, DESIGNADA COM O NOME VISITA OPER. LIDERANÇA NO GPSVISTA."
+      ]
+    },
+    {
+      "pergunta": "3) PARA ACESSAR O APLICATIVO GPSVISTA É CORRETO AFIRMAR QUE:",
+      "opcoes": [
+        "DEVO INSERIR APENAS O “CPF”.",
+        "DEVO APENAS INSERIR “RG E SENHA”.",
+        "DEVO INSERIR \"CPF E SENHA\" E CLICAR EM \"ENTRAR\".",
+        "DEVO APENAS INSERIR A “SENHA”."
+      ]
+    },
+    {
+      "pergunta": "2) COMO SABER QUE TODAS AS PERGUNTAS FORAM RESPONDIDAS NO GPSVISTA?",
+      "opcoes": [
+        "CLICANDO NA ALTERNATIVA.",
+        "QUANDO APARECER O FLEGUE EM AZUL (LOGO DO GPSVISTA).",
+        "NÃO É POSSÍVEL IDENTIFICAR ESSA INFORMAÇÃO.",
+        "QUANDO ESTIVEREM SELECIONADAS EM VERDE."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE DEVO FAZER CASO INICIE UMA TAREFA POR ENGANO NO GPSVISTA?",
+      "opcoes": [
+        "CLIQUE EM “ABORTAR”.",
+        "FECHE O APLICATIVO DE IMEDIATO.",
+        "É OBRIGATÓRIO REALIZAR A TAREFA.",
+        "CLIQUE EM CONCLUIR."
+      ]
+    }
+  ]
+}
