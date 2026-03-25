@@ -1,0 +1,52 @@
+{
+  "treinamento": "GESTÃO EMOCIONAL EM MOMENTO DE CRISE_SAÚDE MENTAL – MÓDULO 2",
+  "id": 617,
+  "idChecklist": 403,
+  "perguntas": [
+    {
+      "pergunta": "5) Como olhar para uma situação de luto?",
+      "opcoes": [
+        "É o bem-estar do nosso cérebro, fazendo com que nosso pensamento funcione bem.",
+        "É o bem-estar que nosso físico, mostrando o quanto ele consegue lidar com os desafios.",
+        "É o bem-estar em que a pessoa consegue lidar com as situações críticas, desde um processo rotineiro, até situações de maiores complexidades.",
+        "É o bem-estar que a pessoa consegue lidar com desafios físicos."
+      ]
+    },
+    {
+      "pergunta": "4) Em caso de estresse pós-traumático, o que devemos fazer?",
+      "opcoes": [
+        "Esperar passar de forma isolada.",
+        "Procurar um especialista na área.",
+        "Procurar os amigos.",
+        "Procurar algum familiar."
+      ]
+    },
+    {
+      "pergunta": "3) Quais os sintomas mais comuns do estresse agudo?",
+      "opcoes": [
+        "Apenas alterações no sono e na alimentação.",
+        "Alterações no sono, na alimentação, nas relações interpessoais, quando a pessoa fica mais intolerante, irritada ou até mesmo isolada.",
+        "Alterações no sono, na alimentação, nas relações interpessoais, quando a pessoa fica mais tolerante e menos irritada ou até mais isolada.",
+        "Alterações no sono, no coração, nas relações pessoais, quando a pessoa fica mais intolerante e menos irritada ou até mesmo mais apegada nas pessoas."
+      ]
+    },
+    {
+      "pergunta": "2) O que é um estresse agudo?",
+      "opcoes": [
+        "aquele qua acontece muito tempo depois após a situação crítica.",
+        "É aquele que acontece imediatamente após a situação simples e que irá gerar sintomas.",
+        "É aquele que acontece imediatamente após a situação crítica e que irá gerar sintomas.",
+        "É aquele que acontece imediatamente após a situação crítica e que não gera sintomas."
+      ]
+    },
+    {
+      "pergunta": "1) Qual a relação da crise com o estresse?",
+      "opcoes": [
+        "Quando passamos por uma situação crítica, é esperado que tenhamos reações emocionais e que isso gere um estresse.",
+        "Quando passamos por uma situação leve, é esperado que tenhamos reações emocionais e que isso gere um estresse.",
+        "Quando passamos por uma situação crítica, é esperado que não tenhamos reações, o que leva ao estresse.",
+        "Quando passamos por uma situação leve, é esperado que não tenhamos reações, o que leva ao estresse.."
+      ]
+    }
+  ]
+}
