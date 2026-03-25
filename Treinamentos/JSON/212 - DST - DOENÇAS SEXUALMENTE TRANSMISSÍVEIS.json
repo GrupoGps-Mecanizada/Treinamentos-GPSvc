@@ -1,0 +1,43 @@
+{
+  "treinamento": "DST - DOENÇAS SEXUALMENTE TRANSMISSÍVEIS",
+  "id": 212,
+  "idChecklist": 124,
+  "perguntas": [
+    {
+      "pergunta": "4) Quem devemos procurar para realizar o tratamento de IST's?",
+      "opcoes": [
+        "Clínico Geral.",
+        "Dermatologista.",
+        "Cardiologista.",
+        "Psiquiatra."
+      ]
+    },
+    {
+      "pergunta": "3) Como podemos prevenir a IST's?",
+      "opcoes": [
+        "Tomar as vacinas.",
+        "Usar preservativos e visitar o médico regularmente ou quando apresentar algum sintoma que possa sugerir infecção.",
+        "Tomar pílula do dia seguinte.",
+        "Fazer o uso de anticoncepcional diário."
+      ]
+    },
+    {
+      "pergunta": "2) Assinale a alternativa que corresponde as IST's mais frequentes.",
+      "opcoes": [
+        "HIV e sapinho.",
+        "Alergia e tuberculose.",
+        "Sarampo, gripe e tosse.",
+        "Clamídia, Gonorreia, Tricomoníase e Sífilis."
+      ]
+    },
+    {
+      "pergunta": "1) O que são as IST's?",
+      "opcoes": [
+        "São causadas por uma gripe.",
+        "São infecções transmitidas através do contato sexual seja vaginal, oral ou anal, com pessoa contaminada de forma desprotegida.",
+        "Vírus causado por dividir utensílios pessoais.",
+        "Virose."
+      ]
+    }
+  ]
+}
