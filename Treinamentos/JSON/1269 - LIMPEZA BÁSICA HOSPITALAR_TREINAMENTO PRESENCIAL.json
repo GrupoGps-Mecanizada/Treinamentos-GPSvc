@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA BÁSICA HOSPITALAR_TREINAMENTO PRESENCIAL",
+  "id": 1269,
+  "idChecklist": 1036,
+  "perguntas": [
+    {
+      "pergunta": "5) POR QUE ADORNOS COMO ANÉIS, PULSEIRAS E RELÓGIOS SÃO PROIBIDOS EM AMBIENTES HOSPITALARES?",
+      "opcoes": [
+        "INTERFEREM NA COMUNICAÇÃO COM PACIENTES.",
+        "DIFICULTAM O USO DE MÁSCARAS.",
+        "PODEM ACUMULAR MICRORGANISMOS E DIFICULTAR A HIGIENIZAÇÃO ADEQUADA.",
+        "TORNAM O AMBIENTE DE TRABALHO MAIS INFORMAL."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL É A MEDIDA MAIS EFICAZ PARA PREVENIR A DISSEMINAÇÃO DE INFECÇÕES EM AMBIENTES HOSPITALARES?",
+      "opcoes": [
+        "USO MÍNIMO DE ADORNOS.",
+        "HIGIENIZAÇÃO DAS MÃOS.",
+        "LIMPEZA SEMANAL DE SUPERFÍCIES.",
+        "USO DE JALECO ESTERILIZADO."
+      ]
+    },
+    {
+      "pergunta": "3) A CLASSIFICAÇÃO DE ÁREAS HOSPITALARES EM CRÍTICAS, SEMICRÍTICAS E NÃO CRÍTICAS É BASEADA EM QUAL CRITÉRIO PRINCIPAL?",
+      "opcoes": [
+        "QUANTIDADE DE PESSOAS NA ÁREA.",
+        "TIPO DE EQUIPAMENTOS UTILIZADOS.",
+        "RISCO DE CONTAMINAÇÃO.",
+        "TAMANHO DA ÁREA."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL DOS ITENS ABAIXO NÃO É CONSIDERADO UM EPI (EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL) EM AMBIENTES HOSPITALARES?",
+      "opcoes": [
+        "LUVAS.",
+        "MÁSCARA CIRÚRGICA.",
+        "ÓCULOS DE PROTEÇÃO.",
+        "ANEL DE METAL."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL NR ESTABELECE DIRETRIZES PARA A SEGURANÇA E SAÚDE NO TRABALHO EM SERVIÇOS DE SAÚDE?",
+      "opcoes": [
+        "NR 24.",
+        "NR 32.",
+        "NR 15.",
+        "NR 10."
+      ]
+    }
+  ]
+}
