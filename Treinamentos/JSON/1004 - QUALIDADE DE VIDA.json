@@ -1,0 +1,52 @@
+{
+  "treinamento": "QUALIDADE DE VIDA",
+  "id": 1004,
+  "idChecklist": 778,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE É DESTACADO COMO UM BENEFÍCIO DE SE PREOCUPAR COM A QUALIDADE DE VIDA?",
+      "opcoes": [
+        "DIMINUIÇÃO DA EXPECTATIVA DE VIDA.",
+        "REDUÇÃO DOS RELACIONAMENTOS PESSOAIS.",
+        "AUMENTO DO ESTRESSE DIÁRIO.",
+        "AUMENTO DA PRODUTIVIDADE NO TRABALHO."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL DOS SEGUINTES FATORES NÃO CONTRIBUI PARA UMA VIDA SAUDÁVEL?",
+      "opcoes": [
+        "RELACIONAMENTOS INTERPESSOAIS POSITIVOS.",
+        "CONTROLE DO ESTRESSE.",
+        "SEDENTARISMO.",
+        "AUTOAVALIAÇÃO E REFLEXÃO."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É O PERÍODO RECOMENDADO PARA A PRÁTICA DE EXERCÍCIOS FÍSICOS?",
+      "opcoes": [
+        "PELO MENOS 30 MINUTOS, 5 VEZES POR SEMANA.",
+        "PELO MENOS 15 MINUTOS POR DIA.",
+        "30 MINUTOS, 3 VEZES POR SEMANA.",
+        "1 HORA DIARIAMENTE."
+      ]
+    },
+    {
+      "pergunta": "2) COMO LIDAR COM OSCILAÇÕES EMOCIONAIS?",
+      "opcoes": [
+        "IGNORANDO OS SENTIMENTOS NEGATIVOS.",
+        "EXPONDO TODOS OS PROBLEMAS A AMIGOS.",
+        "ENCARAR AS COISAS COM BOM HUMOR, TER MUITA PACIÊNCIA E CONTROLAR O ESTRESSE.",
+        "AUMENTANDO O ESTRESSE PARA CONFRONTAR DESAFIOS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É UM DOS FATORES DE RISCO PARA O DESENVOLVIMENTO DE DOENÇAS, DE ACORDO COM O TREINAMENTO?",
+      "opcoes": [
+        "EXCESSO DE ATIVIDADE FÍSICA.",
+        "ALIMENTAÇÃO RICA EM GORDURAS.",
+        "CONSUMO MODERADO DE FRUTAS E VERDURAS.",
+        "PRÁTICA REGULAR DE CHECKUPS MÉDICOS."
+      ]
+    }
+  ]
+}
