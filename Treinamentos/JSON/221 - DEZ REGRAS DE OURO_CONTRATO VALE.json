@@ -1,0 +1,52 @@
+{
+  "treinamento": "DEZ REGRAS DE OURO_CONTRATO VALE",
+  "id": 221,
+  "idChecklist": 133,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual o objetivo das Regras de Ouro?",
+      "opcoes": [
+        "Aumentar os Acidentes do Trabalho.",
+        "Reconhecimento, avaliação e monitoramento.",
+        "Eliminação/Redução de fatalidades e eventos de alto potencial atrelados a fatores comportamentais.",
+        "Descumprimento da Regra."
+      ]
+    },
+    {
+      "pergunta": "4) Sobre o que é a Regra de Ouro número 2?",
+      "opcoes": [
+        "Influência de Álcool, Drogas e Substâncias.",
+        "Ferramentas, máquinas e equipamentos.",
+        "Trabalho em Altura.",
+        "Utilização do celular na área."
+      ]
+    },
+    {
+      "pergunta": "3) Quantas Regras de Ouro existem?",
+      "opcoes": [
+        "Possuem sete (7) regras.",
+        "Possuem nenhuma regra, só cumprimos as Normas de Segurança (NR's).",
+        "Possuem dez (10) regras.",
+        "Possuem apenas uma (1) regra."
+      ]
+    },
+    {
+      "pergunta": "2) Quantas Regras de Ouro eu devo cumprir?",
+      "opcoes": [
+        "Somente 1 regra, está de bom grado.",
+        "Devo cumprir todas as Regras de Ouro.",
+        "Somente a Regra nº 01 (Nunca trabalhe sob influência de álcool, drogas e substâncias que diminuam minha aptidão no trabalho).",
+        "Não preciso cumprir nenhuma regra."
+      ]
+    },
+    {
+      "pergunta": "1) Quem deve cumprir as Regras de Ouro?",
+      "opcoes": [
+        "Somente os Empregados da Vale.",
+        "Somente os contratados e fornecedores.",
+        "Somente os contratados.",
+        "Todas as pessoas que trabalham dentro do site da Vale."
+      ]
+    }
+  ]
+}
