@@ -1,0 +1,52 @@
+{
+  "treinamento": "PONTOS CEGOS DE EMPILHADEIRAS_LOGÍSTICA",
+  "id": 91,
+  "idChecklist": 64,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais são os pontos cegos 7 e 8?",
+      "opcoes": [
+        "Estrutura traseira da cabine",
+        "Garfos",
+        "Bluespot",
+        "Banco"
+      ]
+    },
+    {
+      "pergunta": "4) Quais são os pontos cegos 1 e 2?",
+      "opcoes": [
+        "Estruturas da torre",
+        "Banco",
+        "Giroflex",
+        "Estrutura dianteira e o espelho retrovisor esquerdo"
+      ]
+    },
+    {
+      "pergunta": "3) Quantos pontos cegos existem na empilhadeira?",
+      "opcoes": [
+        "Nenhum",
+        "12",
+        "9",
+        "8"
+      ]
+    },
+    {
+      "pergunta": "2) Pontos cegos e distração é uma combinação perfeita para quê?",
+      "opcoes": [
+        "Acidente de trabalho",
+        "DDS - Diálogo Diário de Segurança",
+        "Parada de linha",
+        "Avaria"
+      ]
+    },
+    {
+      "pergunta": "1) Os pontos cegos estão presentes em quais ambientes?",
+      "opcoes": [
+        "Do trabalho",
+        "Artificial",
+        "Circulação",
+        "Natural"
+      ]
+    }
+  ]
+}
