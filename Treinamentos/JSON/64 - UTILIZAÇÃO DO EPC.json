@@ -1,0 +1,52 @@
+{
+  "treinamento": "UTILIZAÇÃO DO EPC",
+  "id": 64,
+  "idChecklist": 38,
+  "perguntas": [
+    {
+      "pergunta": "5 – Qual os cuidados com a guarda do EPC?",
+      "opcoes": [
+        "No final do turno de trabalho não preciso guardar a placa de sinalização.",
+        "Não preciso me preocupar com isso.",
+        "No final do turno de trabalho deve recolher a placa de sinalização e guardar no carro funcional ou DML (Deposito de material de limpeza).",
+        "Posso emprestar o meu EPI para meu colega de trabalho do próximo turno."
+      ]
+    },
+    {
+      "pergunta": "4 –  Marque a alternativa que NÃO é um EPC?",
+      "opcoes": [
+        "Placa de sinalização de piso molhado.",
+        "Óculos de Segurança.",
+        "Fita zebrada.",
+        "Cone de sinalização."
+      ]
+    },
+    {
+      "pergunta": "3 – Qual a importância do uso da placa de sinalização de piso molhado?",
+      "opcoes": [
+        "O uso da placa de sinalização não é obrigatória, uso quando eu quero.",
+        "Só é importante o uso quando for limpar o sanitário.",
+        "Não precisa usar.",
+        "O uso é obrigatório e essencial para evitarmos acidentes dos usuários que transitam no local."
+      ]
+    },
+    {
+      "pergunta": "2 – Qual é a forma correta de utilização da placa de sinalização?",
+      "opcoes": [
+        "Sempre utilizar a placa de sinalização, pelo menos 01 placa.",
+        "Sempre utilizar duas placas de sinalização, identificando o início e o final da limpeza e dividir o corredor em duas partes: área seca e área úmida.",
+        "Sempre utilizar duas placas de sinalização, identificando o início e o final da limpeza e pode ser mopear o corredor inteiro.",
+        "Se a limpeza do piso for rápida não é necessário utilizar a placa de sinalização."
+      ]
+    },
+    {
+      "pergunta": "1 – O que significa a sigla EPC?",
+      "opcoes": [
+        "Equipamento de Proteção.",
+        "Equipamento de Uso Individual.",
+        "Equipamento de Proteção Coletiva.",
+        "Equipamento de uso exclusivo."
+      ]
+    }
+  ]
+}
