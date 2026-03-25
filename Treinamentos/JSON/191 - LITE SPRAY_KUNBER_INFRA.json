@@ -1,0 +1,52 @@
+{
+  "treinamento": "LITE SPRAY_KUNBER_INFRA",
+  "id": 191,
+  "idChecklist": 111,
+  "perguntas": [
+    {
+      "pergunta": "5) Após utilizar o Lite Spray quais são os cuidados?",
+      "opcoes": [
+        "Devo diariamente esvaziar todo o produto químico que ficou no equipamento.",
+        "Retirar o refil da base para higienização mantendo a ergonomia. Para guardá-lo não é necessário retirar o produto químico de dentro do equipamento, evitando desperdícios.",
+        "Não é necessário nenhum cuidado ao finalizar o dia de trabalho.",
+        "Não é necessário higienizar os refis de microfibra."
+      ]
+    },
+    {
+      "pergunta": "4) Ao utilizar o Lite Spray para limpeza úmida do piso, quais são os cuidados?",
+      "opcoes": [
+        "Com o pano de algodão seco, aderido à base do Aplicador, passe com movimentos de cima para baixo.",
+        "Com a mão molhe o refil de microfibra num balde com produto diluído.",
+        "Levante o equipamento a uma certa altura do chão e acione o botão, passe a base com o refil de microfibra em movimentos de vai e vem.",
+        "Placa de sinalização posicionada com refil adequado, respeitar o limite do reservatório e acionar o botão para aplicar o produto. Faça movimentos de oito com o equipamento."
+      ]
+    },
+    {
+      "pergunta": "3) Quais são as possibilidades de refis para o Lite Spray?",
+      "opcoes": [
+        "Pano de algodão em tecido comum.",
+        "Refil de Microfibras eletrostática, lisa ou abrasiva e também para pó, além de refis descartáveis tanto para limpeza úmida quanto para limpeza seca.",
+        "Somente uma, de microfibra lisa.",
+        "Tecido de velcro abrasivo ao piso."
+      ]
+    },
+    {
+      "pergunta": "2) Qual o principal uso do Lite Spray?",
+      "opcoes": [
+        "É um equipamento que realiza a limpeza úmida e seca do piso, podendo escolher ou não utilizar o reservatório, pode variar a cor e o modelo do refil de microfibra de acordo com o tipo de limpeza.",
+        "Em qualquer área, obrigatório o uso de produto químico diluído.",
+        "Para limpeza de janelas.",
+        "Para limpeza da área externa."
+      ]
+    },
+    {
+      "pergunta": "1) Qual a estrutura do Lite Spray?",
+      "opcoes": [
+        "Cabo com reservatório para abastecer com produto químico diluído e base dobrável.",
+        "Cabo, base flexível com refil de dois lados separados por fitas isolantes.",
+        "Com 1,50 m de altura possui cabo com reservatório, base de alumínio articulada para os quatro lados, globo acionamento e punho conforto.",
+        "Botão de acionamento, sem base."
+      ]
+    }
+  ]
+}
