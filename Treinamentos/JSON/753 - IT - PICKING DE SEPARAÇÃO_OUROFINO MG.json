@@ -1,0 +1,52 @@
+{
+  "treinamento": "IT - PICKING DE SEPARAÇÃO_OUROFINO MG",
+  "id": 753,
+  "idChecklist": 535,
+  "perguntas": [
+    {
+      "pergunta": "5) POSSO DIGITAR AS INFORMAÇÕES E NÃO USAR O INFRAVERMELHO DO COLETOR PARA IMPUTAR AS INFORMAÇÕES? ",
+      "opcoes": [
+        "NÃO, POIS, POSSO SER INDUZIDO AO ERRO.",
+        "QUANDO MEU SUPERVISOR MANDAR.",
+        "SOMENTE QUANDO O MATERIAL ESTIVER SEM ETIQUETA.",
+        "QUANDO QUERO AGILIZAR O PROCESSO."
+      ]
+    },
+    {
+      "pergunta": "4) COM QUEM DEVO PEGAR AS ETIQUETAS DOS GRUPOS DE CARREGAMENTO?",
+      "opcoes": [
+        "COM MEU AMIGO.",
+        "COM O ASSISTENTE ADMINISTRATIVO.",
+        "COM O OPERADOR DE EMPILHADEIRA.",
+        "COM O CONFERENTE."
+      ]
+    },
+    {
+      "pergunta": "3) ONDE DEVO REALIZAR O PICKING DO MATERIAL?",
+      "opcoes": [
+        "NA ÁREA DA PRODUÇÃO.",
+        "NA ÁREA EXTERNA DO DEPÓSITO.",
+        "DENTRO DO ARMAZÉM E RETORNAR AS FRAÇÕES PARA OS ENDEREÇOS DE ORIGEM.",
+        "NA DOCA."
+      ]
+    },
+    {
+      "pergunta": "2)  É OBRIGATÓRIO A UTILIZAÇÃO DO COLETOR DE DADOS?",
+      "opcoes": [
+        "NÃO É OBRIGATÓRIO.",
+        "PREFIRO UTILIZAR O PICKLIST. ",
+        "DEPENDE DA SITUAÇÃO.",
+        "O USO É OBRIGATÓRIO."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE É PICKING? ",
+      "opcoes": [
+        "PICKING É O TERMO UTILIZADO PARA CRIAÇÃO DE GRADE DE CARREGAMENTO.",
+        "PICKING É O TERMO QUE DEFINE A SEPARAÇÃO DE ESTOQUE PARA A DISTRIBUIÇÃO.",
+        "PICKING É A CONFERÊNCIA DA MERCADORIA ANTES DO CARREGAMENTO.",
+        "NENHUMA DAS ALTERNATIVAS ANTERIORES."
+      ]
+    }
+  ]
+}
