@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR11.5. PRINCÍPIO DE FUNCIONAMENTO DA TRANSPALETEIRA ELÉTRICA",
+  "id": 251,
+  "idChecklist": 163,
+  "perguntas": [
+    {
+      "pergunta": "5) Como devo me posicionar para operar a transpaleteira?",
+      "opcoes": [
+        "Na frente do equipamento.",
+        "Sempre transitar com o corpo a frente do timão em diagonal, para maior visibilidade e controle sobre a transpaleteira, sempre que possível andar em sentido oposto aos garfos.",
+        "Com o pé próximo ao corpo da máquina.",
+        "Todas as alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) O que devo fazer antes de iniciar a utilização da transpaleteira elétrica?",
+      "opcoes": [
+        "Antes de iniciar a atividade fazer a inspeção (Checklist), todos os controles devem ser verificados, em caso de defeito ou avaria a máquina só poderá ser usada após o conserto.",
+        "Verificar somente a parte externa.",
+        "Verificar se está carregada.",
+        "Todas as alternativas."
+      ]
+    },
+    {
+      "pergunta": "3) Qual a velocidade máxima que uma transpaleteira elétrica poderá atingir?",
+      "opcoes": [
+        "2 km/h.",
+        "18 km/h.",
+        "A velocidade em alguns modelos de paleteira pode chegar até a 12 km/h.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) O que é transpaleteira elétrica?",
+      "opcoes": [
+        "É uma empilhadeira modificada.",
+        "É uma máquina que eleva materiais e carga.",
+        "É uma máquina que transporta pessoas.",
+        "Transpaleteira elétrica, é uma máquina com força motriz própria, projetado para elevar, e transportar materiais, específica para o transporte de mercadorias em paletes."
+      ]
+    },
+    {
+      "pergunta": "1) Qual é a função da transpaleteira?",
+      "opcoes": [
+        "Elevar cargas.",
+        "Carregar cargas e pessoas.",
+        "É uma máquina de grande utilidade, pois substitui, com vantagens, talhas, pontes rolantes, e também o próprio homem, pois realiza tarefas que ocupariam vários homens.",
+        "Todas as alternativas."
+      ]
+    }
+  ]
+}
