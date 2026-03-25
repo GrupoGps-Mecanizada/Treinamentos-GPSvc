@@ -1,0 +1,52 @@
+{
+  "treinamento": "ACIDENTE DE TRAJETO_LC",
+  "id": 756,
+  "idChecklist": 540,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL ALTERNATIVA SE CLASSIFICA COMO UMA DICA DE PREVENÇÃO DE ACIDENTES DE TRAJETO?  \n\n\n\n  ",
+      "opcoes": [
+        "NÃO OLHAR ONDE ESTÁ PISANDO.",
+        "ANDAR OLHANDO PARA O CELULAR.",
+        "USAR SALTOS MUITO ALTOS PARA IR TRABALHAR.",
+        "CUIDADO COM DEPRECIAÇÕES OU BURACOS NAS RUAS. "
+      ]
+    },
+    {
+      "pergunta": "4) QUAL ALTERNATIVA NÃO SE CLASSIFICA COMO UMA DICA DE PREVENÇÃO DE ACIDENTES DE TRAJETO? \n\n ",
+      "opcoes": [
+        "ATRAVESSE NA FAIXA DE PEDESTRES.",
+        "RESPEITE A SINALIZAÇÃO E AS REGRAS DE TRÂNSITO.",
+        "NÃO OLHAR ONDE ESTÁ PISANDO.",
+        "CUIDADO COM O USO DE CELULAR."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE O ACIDENTE DE TRAJETO PODE CAUSAR? \n\n",
+      "opcoes": [
+        "MORTE.",
+        "GRAVES FERIMENTOS .",
+        "AMPUTAÇÃO.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE DEVE SER FEITO CASO OCORRA O ACIDENTE DE TRAJETO? \n\n",
+      "opcoes": [
+        "LIGAR PARA OS MEUS AMIGOS CONTANDO O QUE ACONTECEU.",
+        "POSTAR NAS REDES SOCIAIS.",
+        "LIGAR PARA O MEU GESTOR E COMUNICÁ-LO.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE CLASSIFICA UM ACIDENTE DE TRAJETO? \n\n\n\n ",
+      "opcoes": [
+        "QUANDO ESTOU A CAMINHO DE UMA FESTA E TORÇO O PÉ.",
+        "QUANDO ESTOU INDO À ACADEMIA E TROPEÇO. ",
+        "QUANDO ESTOU INDO AO DENTISTA E CAIO NA RUA.",
+        "QUANDO ESTOU SAINDO DE CASA PARA O TRABALHO OU DO TRABALHO PARA CASA E ME ACIDENTO. "
+      ]
+    }
+  ]
+}
