@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA TERMINAL DE LEITOS_INFRA",
+  "id": 217,
+  "idChecklist": 129,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual a importância de realizar a Limpeza Terminal de Leitos?",
+      "opcoes": [
+        "Para que durante a estadia do paciente, ele se sinta confortável.",
+        "Para que fique registrado no formulário de limpeza.",
+        "É importante pois é a única limpeza que cumpre os princípios básicos de limpeza.",
+        "Para garantir a segurança do ambiente, evitando contaminações, reduzindo a proliferação de micro-organismos e prevenir a disseminação de infecção."
+      ]
+    },
+    {
+      "pergunta": "4) Quando devemos utilizar o kit azul para a limpeza terminal de leitos?",
+      "opcoes": [
+        "Retirar enxoval sujo e resíduos, além, da limpeza da escadinha de apoio e das rodas da cama.",
+        "Limpeza dos mobiliários.",
+        "Para limpeza exclusiva do colchão.",
+        "Para limpar o piso."
+      ]
+    },
+    {
+      "pergunta": "3) Qual alternativa está ERRADA sobre a limpeza da cama hospitalar?",
+      "opcoes": [
+        "Sempre iniciar pela limpeza dos mobiliários de apoio (mesa de refeição, criado mudo, etc) e somente depois iniciar a cama hospitalar.",
+        "Realizar somente a limpeza do colchão da cama hospitalar.",
+        "Todas as estruturas e colchão da cama hospitalar devem ser limpas, do sentido da cabeceira aos pés, com movimentos unidirecionais.",
+        "As rodinhas da cama são os últimos itens a serem limpos."
+      ]
+    },
+    {
+      "pergunta": "2) Sobre a utilização do kit amarelo, quais locais utilizamos na limpeza terminal de leitos?",
+      "opcoes": [
+        "Para coletar enxoval sujo.",
+        "Higienização dos mobiliários de apoio e da cama hospitalar.",
+        "Para limpeza dos pés e rodinhas da cama hospitalar.",
+        "Para limpeza exclusiva da escadinha de apoio e recolocar o enxoval limpo."
+      ]
+    },
+    {
+      "pergunta": "1) O que é limpeza terminal de leitos?",
+      "opcoes": [
+        "É a limpeza realizada enquanto o paciente está internado para manutenção do quarto pela equipe de higiene.",
+        "É a limpeza realizada com detergente por todo o chão do quarto hospitalar.",
+        "É limpeza somente dos mobiliários do quarto hospitalar.",
+        "É a limpeza completa realizada no sentido da cabeceira aos pés da cama hospitalar após a alta, óbito ou transferência do paciente."
+      ]
+    }
+  ]
+}
