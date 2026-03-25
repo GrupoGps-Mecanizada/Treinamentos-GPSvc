@@ -1,0 +1,52 @@
+{
+  "treinamento": "DESPERTE SUA CRIATIVIDADE_DO",
+  "id": 666,
+  "idChecklist": 452,
+  "perguntas": [
+    {
+      "pergunta": "5) Como a colaboração pode ajudar a estimular a criatividade?",
+      "opcoes": [
+        "Trabalhar sozinho é sempre melhor para ter ideias criativas.",
+        "A colaboração não tem relação com a criatividade.",
+        "Permite que diferentes perspectivas sejam compartilhadas, o que pode levar a ideias inovadoras.",
+        "Pode prejudicar a criatividade, já que muitas ideias podem acabar sendo descartadas."
+      ]
+    },
+    {
+      "pergunta": "4) O que deve ser feito com as ideias criativas que surgem em momentos inesperados?",
+      "opcoes": [
+        "Ignorá-las",
+        "Compartilhá-las imediatamente nas redes sociais.",
+        "Anotá-las em um caderno ou aplicativo de anotações.",
+        "Tentar implementá-las imediatamente."
+      ]
+    },
+    {
+      "pergunta": "3) Qual é a definição de criatividade?",
+      "opcoes": [
+        "A capacidade de seguir padrões pré-estabelecidos.",
+        "A habilidade de imitar o que já foi feito anteriormente.",
+        "A capacidade de criar, inventar ou produzir algo novo e original.",
+        "A habilidade de seguir instruções com precisão."
+      ]
+    },
+    {
+      "pergunta": "2) Por que é importante sair da zona de conforto para despertar a criatividade?",
+      "opcoes": [
+        "Porque a criatividade surge apenas em ambientes familiares.",
+        "Porque atividades novas e desconhecidas podem estimular a imaginação.",
+        "Porque a criatividade não é necessária em ambientes confortáveis.",
+        "Porque atividades novas e desconhecidas podem impedir o desenvolvimento da criatividade."
+      ]
+    },
+    {
+      "pergunta": "1) Qual técnica pode ajudar a despertar a criatividade?",
+      "opcoes": [
+        "Fazer sempre as mesmas atividades.",
+        "Ficar preso na zona de conforto.",
+        "Anotar as ideias que surgem em momentos inesperados.",
+        "Evitar colaborar com outras pessoas."
+      ]
+    }
+  ]
+}
