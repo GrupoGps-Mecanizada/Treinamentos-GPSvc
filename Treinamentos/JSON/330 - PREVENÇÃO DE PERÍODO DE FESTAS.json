@@ -1,0 +1,52 @@
+{
+  "treinamento": "PREVENÇÃO DE PERÍODO DE FESTAS",
+  "id": 330,
+  "idChecklist": 229,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais as medidas preventivas que ainda preciso ter por causa da pandemia?",
+      "opcoes": [
+        "Usar máscara somente quando eu achar que é necessário",
+        "Cumprir os protocolos sanitários e evitar grandes aglomerações",
+        "Frequentar lugares movimentados sem tomar os cuidados necessários",
+        "Não preciso tomar mais nenhum cuidado, pois a pandemia acabou"
+      ]
+    },
+    {
+      "pergunta": "4) Quais os cuidados que devo ter ao volante?",
+      "opcoes": [
+        "Manter uma distância segura do veículo da frente, não utilizar o celular enquanto estou no trajeto, respeitar o limite de velocidade e jamais dirigir embriagado(a)",
+        "O único cuidado que preciso ter é manter distância segura do veículo da frente",
+        "O único cuidado que preciso ter é não dirigir embriagado(a)",
+        "O único cuidado que preciso ter é não usar o celular"
+      ]
+    },
+    {
+      "pergunta": "3) Qual a importância de NÃO usar o celular ao volante?",
+      "opcoes": [
+        "Evitar distrações",
+        "Evitar acidentes",
+        "Proteger minha vida e das pessoas ao redor no trânsito",
+        "Todas as alternativas anteriores"
+      ]
+    },
+    {
+      "pergunta": "2) Por qual motivo é importante redobrar a atenção aos seus pertences pessoais?",
+      "opcoes": [
+        "Pois em período de festas o aumento de roubo e furto diminuem",
+        "Pois em período de festas o aumento de roubo e furto se intensificam",
+        "Para evitar ficar com os pertences nas mãos e atrapalhar na viagem",
+        "Para não correr o risco de derrubar e estragar"
+      ]
+    },
+    {
+      "pergunta": "1) O que acontece quando nossa atenção está voltada a fatores externos ou não estamos nas melhores condições físicas e psicológicas no trabalho?",
+      "opcoes": [
+        "Deixamos de ir trabalhar, pois ficamos desmotivados",
+        "Deixamos de aproveitar as festas de carnaval, pois ficamos preocupados com outras coisas;",
+        "Deixamos de perceber os riscos nos ambientes e ficamos vulneráveis a possíveis acidentes e ocorrências",
+        "Deixamos de aproveitar o tempo com a família nos momentos de descanso"
+      ]
+    }
+  ]
+}
