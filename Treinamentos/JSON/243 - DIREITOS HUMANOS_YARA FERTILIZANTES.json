@@ -1,0 +1,52 @@
+{
+  "treinamento": "DIREITOS HUMANOS_YARA FERTILIZANTES",
+  "id": 243,
+  "idChecklist": 155,
+  "perguntas": [
+    {
+      "pergunta": "5) Segundo o treinamento a sigla ECA se refere a qual segmento?",
+      "opcoes": [
+        "Estatuto Criança Alfabetizada.",
+        "Estudo e Certificação do Aprendiz.",
+        "Estatuto da Criança e do Adolescente.",
+        "Todas alternativas estão erradas."
+      ]
+    },
+    {
+      "pergunta": "4) Marque abaixo a alternativa que corresponde ao Art. 7º:",
+      "opcoes": [
+        "A Violência Sexual.",
+        "A Violência Física.",
+        "A Violência Patrimonial.",
+        "A Violência Moral."
+      ]
+    },
+    {
+      "pergunta": "3) Marque a alternativa correta correspondendo ao texto \"Entendida como qualquer conduta que ofenda sua integridade ou saúde corporal\".",
+      "opcoes": [
+        "Violência Moral.",
+        "Violência Patrimonial.",
+        "Violência Física.",
+        "Negligência, Imperícia e Desatenção."
+      ]
+    },
+    {
+      "pergunta": "2) Segundo o treinamento qual das ações abaixo não correspondem ao conjunto DIREITOS HUMANOS?",
+      "opcoes": [
+        "Tortura.",
+        "Crime culposo.",
+        "Provas ilícitas.",
+        "Direito ao Silêncio."
+      ]
+    },
+    {
+      "pergunta": "1) O que são DIREITOS HUMANOS?",
+      "opcoes": [
+        "São Direitos Civis.",
+        "São Normas que reconhecem e protegem a dignidade de todos os seres humanos.",
+        "São possibilidades de receber benefícios.",
+        "Todas as alternativas estão erradas."
+      ]
+    }
+  ]
+}
