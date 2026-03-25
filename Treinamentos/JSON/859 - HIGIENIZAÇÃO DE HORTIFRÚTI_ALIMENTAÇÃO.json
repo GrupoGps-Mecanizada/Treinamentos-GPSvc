@@ -1,0 +1,52 @@
+{
+  "treinamento": "HIGIENIZAÇÃO DE HORTIFRÚTI_ALIMENTAÇÃO",
+  "id": 859,
+  "idChecklist": 630,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL É A DILUIÇÃO CORRETA DA ÁGUA SALINA?",
+      "opcoes": [
+        "10 GRAMAS DE SAL, PARA 1 LITRO DE ÁGUA.",
+        "1 QUILOGRAMA DE SAL, PARA 5 LITRO DE ÁGUA.",
+        "1 GRAMA DE SAL, PARA 1 LITRO DE ÁGUA.",
+        "20 QUILOGRAMAS DE SAL, PARA 2 LITROS DE ÁGUA."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL SOLUÇÃO DEVEMOS UTILIZAR PARA A HIGIENIZAÇÃO CORRETA?",
+      "opcoes": [
+        "SOLUÇÃO DE VINAGRE.",
+        "SOLUÇÃO COM SANITIZANTE.",
+        "SOLUÇÃO DE ÁGUA.",
+        "SOLUÇÃO DE ÁLCOOL."
+      ]
+    },
+    {
+      "pergunta": "3) POR QUANTO TEMPO DEVEMOS HIGIENIZAR O ALIMENTO?",
+      "opcoes": [
+        "POR 5 MINUTOS.",
+        "POR 20 MINUTOS.",
+        "POR 8 MINUTOS.",
+        "DEVEMOS RESPEITAR O TEMPO QUE O FABRICANTE DETERMINA NO RÓTULO."
+      ]
+    },
+    {
+      "pergunta": "2) PARA QUE SERVE A ÁGUA SALINA?",
+      "opcoes": [
+        "PARA HIGIENIZAR O ALIMENTO.",
+        "PARA RETIRAR A TERRA DO ALIMENTO.",
+        "PARA RETIRAR LARVAS/INSETOS DO HORTIFRÚTI.",
+        "NENHUMA DAS ALTERNATIVAS ESTÃO CORRETAS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAIS ALIMENTOS DEVEM SER HIGIENIZADOS?",
+      "opcoes": [
+        "VERDURAS, LEGUMES E FRUTAS.",
+        "CARNE DE BOI, VERDURAS E LEGUMES.",
+        "VERDURAS, LEGUMES E OVOS.",
+        "FRUTAS, VERDURAS E FRANGO."
+      ]
+    }
+  ]
+}
