@@ -1,0 +1,52 @@
+{
+  "treinamento": "CAMPANHA ABRIL VERDE_SSMA",
+  "id": 220,
+  "idChecklist": 132,
+  "perguntas": [
+    {
+      "pergunta": "5) A Conscientização sobre Saúde e Segurança do Trabalho está focado em quais Colaboradores?",
+      "opcoes": [
+        "Somente para Colaboradores da área Industrial.",
+        "Somente para Colaboradores que sofrerem acidente do trabalho.",
+        "Somente para os Colaboradores.",
+        "De todos os Colaboradores, independente da sua área de atuação."
+      ]
+    },
+    {
+      "pergunta": "4) Qual é a data utilizada em memória das vítimas de acidente e doenças no trabalho?",
+      "opcoes": [
+        "13 de Abril.",
+        "30 de Maio.",
+        "24 de Abril.",
+        "28 de Abril."
+      ]
+    },
+    {
+      "pergunta": "3) Como nasceu o Movimento do Abril Verde?",
+      "opcoes": [
+        "Como uma resposta a existência de um grande número de vítimas de acidente do trabalho.",
+        "Com a preservação das Reservas Florestais no país.",
+        "Com grande quantidade de acidente de trânsito.",
+        "Após o aumento do Efeito Estufa."
+      ]
+    },
+    {
+      "pergunta": "2) No treinamento foram abordados 4 objetivos, escolha a opção que contém um dos objetivos:",
+      "opcoes": [
+        "Um dos objetivos da campanha é promover folga aos Colaboradores que estão expostos a riscos.",
+        "Um dos objetivos da campanha é conscientizar os Colaboradores de que não é necessário usar EPI.",
+        "Um dos objetivos da campanha é mostrar para a equipe que acidentes nunca acontecem.",
+        "Um dos objetivos é incentivar a Prevenção de Acidentes."
+      ]
+    },
+    {
+      "pergunta": "1) Campanha Abril Verde, vem com qual objetivo?",
+      "opcoes": [
+        "Traz o tema sobre o Câncer de Mama.",
+        "Conscientização sobre Saúde.",
+        "Conscientização sobre Saúde e Segurança no Trabalho.",
+        "Objetivo comercial de venda de roupas de cor Verde."
+      ]
+    }
+  ]
+}
