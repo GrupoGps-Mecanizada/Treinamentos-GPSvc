@@ -1,0 +1,52 @@
+{
+  "treinamento": "O PODER DA ESCOLHA_DDS1.SIPAT_REGIONAL AL",
+  "id": 224,
+  "idChecklist": 136,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual a chave para reconhecer nossos pontos cegos?",
+      "opcoes": [
+        "A chave é reconhecê-los e compreender quando e onde parar, verificar as informações antes de tomar uma decisão ou realizar uma ação.",
+        "A chave para reconhecer nossos pontos cegos é não reconhecê-los e não verificar as informações antes de tomar uma decisão ou realizar uma ação.",
+        "A chave para reconhecer nossos pontos cegos é usar óculos de proteção.",
+        "A chave para reconhecer nossos pontos cegos é pedindo orientação ao técnico de segurança."
+      ]
+    },
+    {
+      "pergunta": "4) Identifique quais das alternativas abaixo pode ser considerado um mau hábito:",
+      "opcoes": [
+        "Utilizar o corrimão.",
+        "Falar ao celular enquanto caminha.",
+        "Não obstruir corredores.",
+        "Sinalizar uma área molhada."
+      ]
+    },
+    {
+      "pergunta": "3) Qual das alternativas melhor completa a frase de acordo com o conteúdo visto no vídeo: \"Só temos que ficar atentos porque sempre tentamos evitar…\"?",
+      "opcoes": [
+        "Estresse mental.",
+        "Situação confortáveis.",
+        "Distrações.",
+        "Falar em público."
+      ]
+    },
+    {
+      "pergunta": "2) De acordo com o que foi visto no DDS, quantos por cento (%) de tudo que acontece na sua vida é de total responsabilidade sua?",
+      "opcoes": [
+        "10%",
+        "50%",
+        "80%",
+        "90%"
+      ]
+    },
+    {
+      "pergunta": "1) O Que é a SIPAT?",
+      "opcoes": [
+        "SIPAT é semana onde se comemora o dia do trabalhador.",
+        "SIPAT é semana de proteção auditiva do trabalhador.",
+        "SIPAT é Semana Interna de Prevenção de Acidentes, que visa a conscientização dos trabalhadores sobre a importância da prevenção aos Acidentes de Trabalho.",
+        "SIPAT é a Semana Externa de Prevenção de Acidentes, onde é desenvolvidos ações de prevenção aos nossos familiares."
+      ]
+    }
+  ]
+}
