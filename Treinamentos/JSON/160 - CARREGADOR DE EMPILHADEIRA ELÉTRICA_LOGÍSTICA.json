@@ -1,0 +1,52 @@
+{
+  "treinamento": "CARREGADOR DE EMPILHADEIRA ELÉTRICA_LOGÍSTICA",
+  "id": 160,
+  "idChecklist": 86,
+  "perguntas": [
+    {
+      "pergunta": "5) Antes de conectar a pistola na máquina o que se deve fazer?",
+      "opcoes": [
+        "Ligar a máquina.",
+        "Desligar máquina.",
+        "Inspecionar 360°.",
+        "Todas as alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) Para realizar a inspeção no carregador deve?",
+      "opcoes": [
+        "Inspecionar 360°.",
+        "Inspecionar 100°.",
+        "Inspecionar 200°.",
+        "Inspecionar 260°."
+      ]
+    },
+    {
+      "pergunta": "3) Se houver necessidade de interromper o carregamento, qual o botão deve ser acionado?",
+      "opcoes": [
+        "Verde.",
+        "Vermelho.",
+        "Azul.",
+        "Amarelo."
+      ]
+    },
+    {
+      "pergunta": "2) Para iniciar o carregamento, qual botão deve acionar?",
+      "opcoes": [
+        "Verde.",
+        "Vermelho.",
+        "Azul.",
+        "Amarelo."
+      ]
+    },
+    {
+      "pergunta": "1) Quanto tempo leva para uma recarga completa?",
+      "opcoes": [
+        "1:00h.",
+        "2:00h.",
+        "3:00h.",
+        "4:00h."
+      ]
+    }
+  ]
+}
