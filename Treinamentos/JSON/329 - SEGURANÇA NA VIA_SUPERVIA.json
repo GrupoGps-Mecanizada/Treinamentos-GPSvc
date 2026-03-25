@@ -1,0 +1,52 @@
+{
+  "treinamento": "SEGURANÇA NA VIA_SUPERVIA",
+  "id": 329,
+  "idChecklist": 228,
+  "perguntas": [
+    {
+      "pergunta": "5) Cite uma dica para se manter atento na circulação dos trens.",
+      "opcoes": [
+        "Avaliar onde a tensão do sistema é de 1000KVs.",
+        "Se mantenha circulando nas vias dos trens.",
+        "É preciso estar de olho na linha férrea.",
+        "Não tocar em cabos seccionados."
+      ]
+    },
+    {
+      "pergunta": "4) Como se localizar na via férrea?",
+      "opcoes": [
+        "Os itens de identificação estão marcados ao longo da via, é importante saber identifica-los.",
+        "Olhando nos postes.",
+        "Apenas informando o KM.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "3) Como se localizar na plataforma?",
+      "opcoes": [
+        "Verificar qualquer ponto de referência de onde estiver.",
+        "Apenas informar onde via rádio.",
+        "Sempre usar como referência a Estação Central do Brasil.",
+        "Informando a estação que você está."
+      ]
+    },
+    {
+      "pergunta": "2) Para comunicação, é fundamental verificar as condições dos aparelhos, como:",
+      "opcoes": [
+        "Celular e tablete.",
+        "Sinal do aparelho, nível de bateria.",
+        "Status e notificações.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "1) Para segurança dos Colaboradores, a quem devemos comunicar qualquer acesso indevido?",
+      "opcoes": [
+        "Somente é possível comunicar ao COSA.",
+        "Não é necessário acionar ninguém.",
+        "COSA ou acionar os órgãos de segurança pública.",
+        "COSE ou acionar os órgãos de segurança pública."
+      ]
+    }
+  ]
+}
