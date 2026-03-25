@@ -1,0 +1,52 @@
+{
+  "treinamento": "REGRAS QUE SALVAM VIDAS_6_BRASKEM",
+  "id": 233,
+  "idChecklist": 145,
+  "perguntas": [
+    {
+      "pergunta": "5) No local de trabalho qual é a porcentagem de acidentes com fatalidades que ocorrem por queda de funcionários?",
+      "opcoes": [
+        "15,5%",
+        "26,5%",
+        "35,5%",
+        "45,5%"
+      ]
+    },
+    {
+      "pergunta": "4) Em 2018, quais foram o número de fatalidades (mortes) por atividade de trabalho em altura, na construção?",
+      "opcoes": [
+        "778",
+        "238",
+        "138",
+        "338"
+      ]
+    },
+    {
+      "pergunta": "3) Sempre que fizer uso de escadas verticais, devo seguir a regra de:",
+      "opcoes": [
+        "Utilizar sem inspecionar.",
+        "Inspecionar só quando for possível.",
+        "Fazer uso dos 3 pontos de contato.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) Quais das práticas abaixo nos auxiliam na identificação de perigos e no controle dos riscos associados ao trabalho em altura?",
+      "opcoes": [
+        "Eu inspeciono meu equipamento de proteção contra quedas antes do uso.",
+        "Eu não planejo e não organizo minha atividade em altura.",
+        "Eu realizo o trabalho em altura com qualquer EPI.",
+        "Todas as alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "1) A partir de que ano, os acidentes com quedas passaram a ser considerados número \"UM\" em fatalidades (mortes) de acidentes do trabalho?",
+      "opcoes": [
+        "Ano de 2015.",
+        "Ano de 2018.",
+        "Ano de 2019.",
+        "Ano de 2021."
+      ]
+    }
+  ]
+}
