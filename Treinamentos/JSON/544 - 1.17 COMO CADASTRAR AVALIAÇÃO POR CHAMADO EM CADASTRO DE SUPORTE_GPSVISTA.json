@@ -1,0 +1,52 @@
+{
+  "treinamento": "1.17 COMO CADASTRAR AVALIAÇÃO POR CHAMADO EM CADASTRO DE SUPORTE_GPSVISTA",
+  "id": 544,
+  "idChecklist": 346,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais tipos de resposta temos no GPS Vista?",
+      "opcoes": [
+        "Somente escolha única.",
+        "Stars e thumbs.",
+        "Escolha única, múltipla escolha, stars, thumbs, texto simples e etc.",
+        "Todas as alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "4) Como vincular as avaliações aos chamados?",
+      "opcoes": [
+        "Basta selecionar opção chamados.",
+        "Escolhendo o tipo de avaliação por chamado.",
+        "Cadastrar a avaliação nas rotinas.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Quais os dados obrigatórios?",
+      "opcoes": [
+        "Nome da avaliação, tipo, data de liberação e questões.",
+        "Nome do local.",
+        "Somente as questões.",
+        "Somente a tarefa."
+      ]
+    },
+    {
+      "pergunta": "2) O que colocar no cadastro de avaliações?",
+      "opcoes": [
+        "Rotina e locais.",
+        "Somente o cadastro de estruturas.",
+        "Cadastro de tarefas.",
+        "Descrição, tipo, data de liberação e questões."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o objetivo do cadastro de avaliações?",
+      "opcoes": [
+        "Para cadastrar as rotinas.",
+        "Para cadastrar avaliações de locais e chamados.",
+        "Para cadastrar somente o Ux.",
+        "Para criar os procedimentos."
+      ]
+    }
+  ]
+}
