@@ -1,0 +1,52 @@
+{
+  "treinamento": "SEGURANÇA ESTILO DE VIDA_CRIMINOSO OPORTUNISTA",
+  "id": 198,
+  "idChecklist": 118,
+  "perguntas": [
+    {
+      "pergunta": "5) Os fatores que levam à realização de uma ação criminosa, são a motivação, técnica e oportunidade. Em qual desse fatores podemos interferir para dificultar a ação do criminoso?",
+      "opcoes": [
+        "Técnica.",
+        "Motivação.",
+        "Oportunidade.",
+        "Realização."
+      ]
+    },
+    {
+      "pergunta": "4) Como podemos aumentar a nossa segurança?",
+      "opcoes": [
+        "Não dando a devida atenção.",
+        "Agindo de forma dispersa.",
+        "Se expondo aos riscos.",
+        "Procurando conhecer melhor de que forma agem os criminosos."
+      ]
+    },
+    {
+      "pergunta": "3) O que podemos fazer para evitarmos uma abordagem do criminoso oportunista?",
+      "opcoes": [
+        "Andar distraído.",
+        "Deixar o celular a mostra servindo de atrativo.",
+        "Permanecer em lugares desertos, onde há pouca circulação de pessoas.",
+        "Ficar sempre atento, a fim de detectar atitudes suspeitas."
+      ]
+    },
+    {
+      "pergunta": "2) O criminoso oportunista age de que maneira?",
+      "opcoes": [
+        "Não tem o alvo determinado e age na oportunidade.",
+        "Escolhe alvo de forma seletiva e age no momento planejado.",
+        "Tem alvo determinado e age de qualquer forma.",
+        "Escolhe o alvo e age sofisticadamente."
+      ]
+    },
+    {
+      "pergunta": "1) Podemos definir oportunidade como:",
+      "opcoes": [
+        "Ocorrência ou mudança em um conjunto específico de circunstâncias.",
+        "Situação favorável para a realização de uma ação.",
+        "Efeito de incerteza nos objetivos.",
+        "Atividade realizada para determinar a adequação, suficiência e eficácia do assunto em questão para atingir os objetivos."
+      ]
+    }
+  ]
+}
