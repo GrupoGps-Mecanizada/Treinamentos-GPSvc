@@ -1,0 +1,52 @@
+{
+  "treinamento": "INTEGRAÇÃO DEPARTAMENTO PESSOAL _REGIONAL ABC",
+  "id": 1103,
+  "idChecklist": 875,
+  "perguntas": [
+    {
+      "pergunta": "5) COMO DEVO BATER MEU PONTO?",
+      "opcoes": [
+        "DEVO BATER O PONTO DE VEZ EM QUANDO.",
+        "NÃO PRECISO BATER O PONTO.",
+        "DEVO BATER O PONTO APENAS NA ENTRADA DO TURNO.",
+        "DEVO BATER O PONTO DIARIAMENTE E CORRETAMENTE PARA NÃO TER PROBLEMAS DE PAGAMENTO."
+      ]
+    },
+    {
+      "pergunta": "4) PARA AQUELES CONTRATOS QUE NÃO TENHA RESTAURANTE NO LOCAL, QUAL A FORMA DE PAGAMENTO DO VALE-REFEIÇÃO?",
+      "opcoes": [
+        "MESMO PROCEDIMENTO DO VALE-TRANSPORTE.",
+        "RECEBE SOMENTE APÓS UM ANO DA SUA CONTRATAÇÃO.",
+        "ANTES DE INICIAR AS ATIVIDADES.",
+        "TODAS AS ANTERIORES ESTÃO CORRETAS."
+      ]
+    },
+    {
+      "pergunta": "3) QUANDO COMEÇAMOS A TER O CRÉDITO DO VALE-TRANSPORTE NO CARTÃO DE BENEFÍCIOS?",
+      "opcoes": [
+        "LOGO QUE EU INICIAR AS ATIVIDADES.",
+        "DEPOIS DE UM ANO.",
+        "A PARTIR DO SEGUNDO MÊS DA MINHA CONTRATAÇÃO.",
+        "NÃO SERÁ FORNECIDO CARTÃO DE BENEFÍCIOS."
+      ]
+    },
+    {
+      "pergunta": "2) SE EU FOR ADMITIDO NA ÚLTIMA SEMANA DO MÊS, QUANDO IRÃO CREDITAR MEU VALE-TRANSPORTE?",
+      "opcoes": [
+        "NO SEXTO DIA ÚTIL, UM DIA APÓS MEU PAGAMENTO DE SALÁRIO.",
+        "DEPOIS DE UM ANO.",
+        "DEPOIS DE 30 DIAS DO MEU INÍCIO.",
+        "NÃO TEM DATA CERTA."
+      ]
+    },
+    {
+      "pergunta": "1) QUANDO TEREI O PRIMEIRO CRÉDITO DO MEU VALE-TRANSPORTE?",
+      "opcoes": [
+        "DEPOIS DE UM ANO.",
+        "DEPOIS DE 5 DIAS DO MEU INÍCIO.",
+        "DEPOIS DE 30 DIAS DO MEU INÍCIO.",
+        "NÃO TEM DATA CERTA."
+      ]
+    }
+  ]
+}
