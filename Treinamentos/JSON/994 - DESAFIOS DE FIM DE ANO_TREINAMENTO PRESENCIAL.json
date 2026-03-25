@@ -1,0 +1,52 @@
+{
+  "treinamento": "DESAFIOS DE FIM DE ANO_TREINAMENTO PRESENCIAL",
+  "id": 994,
+  "idChecklist": 769,
+  "perguntas": [
+    {
+      "pergunta": "5) ASSINALE A ALTERNATIVA INCORRETA:",
+      "opcoes": [
+        "HONRAR O COMPROMISSO COM O CLIENTE SEM FALTAR.",
+        "OS ATRASOS PREJUDICAM O RESTANTE DA EQUIPE.",
+        "O PLANEJAMENTO É NECESSÁRIO PARA HONRAR O COMPROMISSO.",
+        "ATRASAR FAZ PARTE EM PERÍODOS FESTIVOS."
+      ]
+    },
+    {
+      "pergunta": "4) ASSINALE A ALTERNATIVA INCORRETA:",
+      "opcoes": [
+        "ZONA DE CONFORTO PREJUDICA O COLABORADOR.",
+        "FLEXIBILIZAÇÃO DOS PROCEDIMENTOS ATENTA CONTRA SUA SEGURANÇA.",
+        "A ROTINA É UM PROBLEMA PARA A SEGURANÇA.",
+        "AS FÉRIAS TORNAM O SERVIÇO MAIS TRANQUILO."
+      ]
+    },
+    {
+      "pergunta": "3) DENTRE AS ALTERNATIVAS ABAIXO, O QUE DEVEMOS NOS ATENTAR NESTE PERÍODO?",
+      "opcoes": [
+        "SEGURANÇA FÍSICA NOS DESLOCAMENTOS.",
+        "NOSSA SATISFAÇÃO.",
+        "OS CONVITES PARA AS FESTAS.",
+        "ESTE PERÍODO NÃO EXIGE PREOCUPAÇÃO."
+      ]
+    },
+    {
+      "pergunta": "2) SE O COLABORADOR BEBER NO PERÍODO FESTIVO, QUAL É A ORIENTAÇÃO CORRETA ELE DEVE SEGUIR?",
+      "opcoes": [
+        "ANALISAR SE TEM CONDIÇÕES DE DIRIGIR.",
+        "CONDUZIR COM CUIDADO REDOBRADO.",
+        "TESTAR SUAS HABILIDADES.",
+        "NÃO DIRIGIR."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL A MAIOR CAUSA DOS ACIDENTES DE TRÂNSITO NO BRASIL?",
+      "opcoes": [
+        "CAUSAS NATURAIS.",
+        "FALTA DE ATENÇÃO À CONDUÇÃO.",
+        "MAL SÚBITO;",
+        "FALTA DE MANUTENÇÃO."
+      ]
+    }
+  ]
+}
