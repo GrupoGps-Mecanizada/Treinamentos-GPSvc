@@ -1,0 +1,52 @@
+{
+  "treinamento": "TABAGISMO: RISCOS E PREVENÇÃO",
+  "id": 1022,
+  "idChecklist": 796,
+  "perguntas": [
+    {
+      "pergunta": "5) ALÉM DE OFERECER SUPORTE MÉDICO, QUAL OUTRA AÇÃO É FUNDAMENTAL NO COMBATE AO TABAGISMO, DE ACORDO COM O TREINAMENTO?",
+      "opcoes": [
+        "PROMOÇÃO DE MARCAS DE CIGARRO MENOS NOCIVAS.",
+        "INCENTIVAR A EXPOSIÇÃO AO FUMO PASSIVO.",
+        "EDUCAÇÃO E CONSCIENTIZAÇÃO SOBRE OS RISCOS DO TABACO.",
+        "RESTRINGIR O ACESSO AOS PROGRAMAS DE CESSAÇÃO TABÁGICA."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL É A MELHOR MANEIRA DE EVITAR OS MALEFÍCIOS DO TABACO MENCIONADA NOTREINAMENTO?",
+      "opcoes": [
+        "AUMENTAR O CONSUMO DE TABACO LENTAMENTE.",
+        "IGNORAR OS PROGRAMAS DE CESSAÇÃO TABÁGICA.",
+        "PARAR DE FUMAR.",
+        "CONTINUAR FUMANDO MODERADAMENTE."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE É FUMO PASSIVO?",
+      "opcoes": [
+        "O ATO DE FUMAR OCASIONALMENTE.",
+        "A EXPOSIÇÃO INVOLUNTÁRIA À FUMAÇA DO TABACO.",
+        "O USO DE TABACO SEM A PRESENÇA DE NICOTINA.",
+        "A PRÁTICA DE FUMAR CHARUTOS"
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS SÃO ALGUMAS DAS CONSEQUÊNCIAS ASSOCIADAS AO TABAGISMO?",
+      "opcoes": [
+        "PROBLEMAS DE VISÃO E AUDIÇÃO.",
+        "DOENÇAS CARDÍACAS, CÂNCER DE PULMÃO E DOENÇAS RESPIRATÓRIAS.",
+        "LESÕES MUSCULARES.",
+        "PROBLEMAS DIGESTIVOS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É A PRINCIPAL CAUSA DO TABAGISMO?",
+      "opcoes": [
+        "FATORES CULTURAIS.",
+        "EXPOSIÇÃO AO FUMO PASSIVO.",
+        "DEPENDÊNCIA DA NICOTINA.",
+        "INFLUÊNCIA DO ESTILO DE VIDA."
+      ]
+    }
+  ]
+}
