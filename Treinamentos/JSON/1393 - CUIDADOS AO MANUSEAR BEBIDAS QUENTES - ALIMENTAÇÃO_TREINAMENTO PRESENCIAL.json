@@ -1,0 +1,52 @@
+{
+  "treinamento": "CUIDADOS AO MANUSEAR BEBIDAS QUENTES - ALIMENTAÇÃO_TREINAMENTO PRESENCIAL",
+  "id": 1393,
+  "idChecklist": 1149,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE FAZER SE DERRAMAR BEBIDA QUENTE NO CHÃO?",
+      "opcoes": [
+        "AVISAR, SINALIZAR E LIMPAR IMEDIATAMENTE.",
+        "DEIXAR SECAR SOZINHO.",
+        "PASSAR PANO SEM SINALIZAR.",
+        "ESPERAR OUTRA PESSOA LIMPAR."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE DEVEMOS FAZER AO SERVIR BEBIDAS QUENTES EM COPOS DESCARTÁVEIS?",
+      "opcoes": [
+        "USAR UMA COLHER PARA AUXILIAR.",
+        "SERVIR O MAIS RÁPIDO POSSÍVEL.",
+        "COLOCAR BASTANTE LÍQUIDO.",
+        "SEGURAR O COPO COM FIRMEZA."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE DEVEMOS VERIFICAR ANTES DE TRANSPORTAR UMA GARRAFA TÉRMICA CHEIA?",
+      "opcoes": [
+        "SE A TAMPA ESTÁ BEM FECHADA.",
+        "SE O LÍQUIDO ESTÁ ESFRIANDO.",
+        "SE ESTÁ LEVE.",
+        "SE A GARRAFA É NOVA."
+      ]
+    },
+    {
+      "pergunta": "2) COMO DEVEMOS ENCHER GARRAFAS TÉRMICAS COM BEBIDAS QUENTES?",
+      "opcoes": [
+        "COM PRESSA PARA NÃO PERDER TEMPO.",
+        "DEVAGAR E USANDO OS EQUIPAMENTOS DE PROTEÇÃO.",
+        "DE QUALQUER JEITO, CONTANTO QUE SEJA RÁPIDO.",
+        "SEM SE PREOCUPAR MUITO."
+      ]
+    },
+    {
+      "pergunta": "1) PARA MEXER COM BEBIDAS QUENTES COM SEGURANÇA NO FOGÃO, O QUE VOCÊ DEVE USAR?",
+      "opcoes": [
+        "UM PANO QUALQUER AO REDOR DAS MÃOS.",
+        "EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL CONFORME O PROCEDIMENTO.",
+        "NÃO PRECISA USAR NADA.",
+        "QUALQUER COISA QUE ESTIVER PERTO."
+      ]
+    }
+  ]
+}
