@@ -1,0 +1,52 @@
+{
+  "treinamento": "CAMPANHA_OUTUBRO ROSA-CÂNCER DE MAMA",
+  "id": 139,
+  "idChecklist": 79,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais são os fatores de maior risco?",
+      "opcoes": [
+        "Maior risco em mulheres, menarca precoce, histórico na família, primeira gestação após 30 anos, hábitos alimentares e obesidade.",
+        "Hipertensão, histórico na família e menarca precoce.",
+        "Excesso de exercício físico e tabagismo.",
+        "Dieta rica em fibras e pobre em gordura animal."
+      ]
+    },
+    {
+      "pergunta": "4) Sobre a prevenção podemos afirmar:",
+      "opcoes": [
+        "É importante que a mulher e homem conheçam sua mama e seja capaz de notar qualquer alteração, por isso a importância do autoexame das mamas.",
+        "O Ministério da Saude recomenda a mamografia de rastreamento a cada dois anos partir dos 20 anos de idade.",
+        "Exames de imagem não servem para complementar a mamografia.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "3) Quais os principais sinais e sintomas de câncer de mama?",
+      "opcoes": [
+        "Vermelhidão da pele e ausência de nódulo.",
+        "Inchaço da mama.",
+        "Secreções sanguinolentas ou serosas, edema, vermelhidão e alterações de humor.",
+        "Inchaço de toda ou parte da mama mesmo que não sinta um nódulo, Secreções sanguinolentas ou serosas, edema, vermelhidão, dor na mama ou mamilo e linfonodos aumentados."
+      ]
+    },
+    {
+      "pergunta": "2) Sobre o câncer de mama, podemos afirmar que:",
+      "opcoes": [
+        "Segundo o Instituto Nacional do câncer, todos terão câncer de mama.",
+        "Câncer é um crescimento rápido e desordenado das células.",
+        "Os exames de mamografias são inúteis no diagnóstico de câncer de mama.",
+        "Câncer de mama não tem nada haver com hereditariedade."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o objetivo da campanha do Outubro Rosa?",
+      "opcoes": [
+        "Campanha com objetivo de fazer com que todos passem a usar a cor rosa.",
+        "Campanha com objetivo de usa laço cor-de-rosa, símbolo internacional usado por indivíduos, empresas e organizações.",
+        "Campanha com o objetivo de alertar a sociedade sobre o diagnóstico precoce do câncer de mama, além de ressaltar a importância de olhar com atenção para a saúde.",
+        "Campanha com o objetivo comercial de venda de roupas de cor rosa."
+      ]
+    }
+  ]
+}
