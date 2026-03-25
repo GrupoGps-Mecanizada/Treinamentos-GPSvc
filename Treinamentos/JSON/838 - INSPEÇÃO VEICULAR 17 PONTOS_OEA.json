@@ -1,0 +1,52 @@
+{
+  "treinamento": "INSPEÇÃO VEICULAR 17 PONTOS_OEA",
+  "id": 838,
+  "idChecklist": 611,
+  "perguntas": [
+    {
+      "pergunta": "5) CITE 3 ITENS PARA CONFERÊNCIA:",
+      "opcoes": [
+        "PAREDE EXTERIOR; TETO DIANTEIRO E ESCAPAMENTO.",
+        "ÁREA DE CARROCERIA; EIXO DE QUINTA RODA E TANQUE DE COMBUSTÃO.",
+        "EIXO DE TRANSMISSÃO; FLUXO DE CÂMERA E CABINE DE REFRIGERAÇÃO.",
+        "MOTOR; PNEUS E PISO DA CABINE."
+      ]
+    },
+    {
+      "pergunta": "4) OS 17 PONTOS DE INSPEÇÃO SÃO ARQUIVADOS PARA FINS DE AUDITORIA EM QUAL LOCAL?",
+      "opcoes": [
+        "RECEITA FEDERAL.",
+        "GOVERNO FEDERAL.",
+        "JUSTIÇA FEDERAL.",
+        "NENHUMA DAS ALTERNATIVAS ACIMA."
+      ]
+    },
+    {
+      "pergunta": "3) QUAIS SÃO AS 3 MODALIDADES QUE O PROGRAMA BRASILEIRO OEA ESTA DIVIDIDO?",
+      "opcoes": [
+        "OEA NÍVEL 1;NÍVEL 2 E NÍVEL 3.",
+        "OEA SEGURANÇA; OEA CONFORMIDADE E OEA INTEGRADO.",
+        "OEA INTEGRADO; OEA EXPORTAÇÃO; OEA IMPORTAÇÃO.",
+        "OEA PLENO; OEA SEGURANÇA E OEA INTEGRADO."
+      ]
+    },
+    {
+      "pergunta": "2)  O PROGRAMA É DE ADESÃO:",
+      "opcoes": [
+        "VOLUNTÁRIA E OBJETIVA.",
+        "INVOLUNTÁRIA E SEM OBJETIVO.",
+        "INVOLUNTÁRIA E OBJETIVA.",
+        "NENHUMA DAS ALTERNATIVAS ACIMA."
+      ]
+    },
+    {
+      "pergunta": "1) QUEM PODE SE CERTIFICAR NO OEA?",
+      "opcoes": [
+        "IMPORTADOR; DIVISOR E TRANSPORTADOR.",
+        "EXPORTADOR; DIVISOR E TRANSPORTADOR.",
+        "IMPORTADOR; EXPORTADOR E TRANSPORTADOR.",
+        "ADUANEIROS; IMPORTADOR E EXPORTADOR."
+      ]
+    }
+  ]
+}
