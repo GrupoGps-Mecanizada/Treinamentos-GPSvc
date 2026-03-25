@@ -1,0 +1,52 @@
+{
+  "treinamento": "CABINE PRIMÁRIA - PARTE 2 - MÓDULO IV_ENGENHARIA",
+  "id": 1132,
+  "idChecklist": 905,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAIS SÃO OS TIPOS DE ÓLEO ISOLANTE MENCIONADOS NO TREINAMENTO?",
+      "opcoes": [
+        "PARAFÍNICO TIPO B E NAFTÊNICO TIPO A.",
+        "ÓLEO MINERAL E ÓLEO DE SILICONE.",
+        "ÓLEO VEGETAL E ÓLEO DE COCO.",
+        "ÓLEO DE GIRASSOL E ÓLEO DE MILHO."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL É A FUNÇÃO DO ÓLEO ISOLANTE NO TRANSFORMADOR?",
+      "opcoes": [
+        "SUSTENTAR AS PARTES MÓVEIS DO TRANSFORMADOR.",
+        "PROPORCIONAR UM MEIO CONDUTOR PARA O FLUXO DE ELÉTRONS.",
+        "ISOLAR E REFRIGERAR.",
+        "TRANSFERIR CALOR PARA O INTERIOR DO TANQUE DO TRANSFORMADOR."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É A TEMPERATURA CONSIDERADA CRÍTICA PARA O ÓLEO EM UM TRANSFORMADOR?",
+      "opcoes": [
+        "ACIMA DE 50°C.",
+        "ACIMA DE 80°C.",
+        "ACIMA DE 60°C.",
+        "ACIMA DE 100°C."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS SÃO OS PRINCIPAIS AGENTES DE CONTAMINAÇÃO DO ÓLEO ISOLANTE PARA O TRANSFORMADOR?",
+      "opcoes": [
+        "CALOR EXCESSIVO, ÁGUA E CONTAMINAÇÃO METÁLICA.",
+        "CALOR, UMIDADE E PAPELÃO.",
+        "PAPEL, VERNIZ E MADEIRA.",
+        "ASCAREL, SILICONE E ÓLEO MINERAL."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É A PRINCIPAL FUNÇÃO DO NÚCLEO NO TRANSFORMADOR?",
+      "opcoes": [
+        "PROPORCIONAR UM MEIO ISOLANTE ENTRE AS PARTES ENERGIZADAS.",
+        "SUSTENTAR AS BOBINAS E O NÚCLEO DO TRANSFORMADOR.",
+        "PERMITIR O FLUXO MAGNÉTICO DO ENROLAMENTO PRIMÁRIO PARA O SECUNDÁRIO.",
+        "TRANSFERIR CALOR DO EXTERIOR DO TANQUE PARA O NÚCLEO DO TRANSFORMADOR."
+      ]
+    }
+  ]
+}
