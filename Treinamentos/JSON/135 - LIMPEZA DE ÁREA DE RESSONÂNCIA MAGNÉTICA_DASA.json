@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA DE ÁREA DE RESSONÂNCIA MAGNÉTICA_DASA",
+  "id": 135,
+  "idChecklist": 75,
+  "perguntas": [
+    {
+      "pergunta": "5) Pedro realizará a limpeza do local próximo à sala de ressonância magnética. Ele carrega consigo um pano de microfibra úmido e as chaves que carrega em seu bolso sempre. Há algum risco para ele caso a porta esteja aberta?",
+      "opcoes": [
+        "Nenhum.",
+        "Não, pois está carregando nenhum equipamento de metal para limpeza.",
+        "Somente se houver paciente na sala de ressonância.",
+        "Sim, pois qualquer objeto de metal pode ser puxado para dentro da sala, incluindo suas chaves."
+      ]
+    },
+    {
+      "pergunta": "4) O que pode acontecer se a sala de ressonância estiver aberta quando estiver passando para fazer limpeza?",
+      "opcoes": [
+        "Objetos metálicos podem ser puxados para dentro da sala.",
+        "Os objetos metálicos podem causar acidentes, como quebrar a máquina de ressonância magnética.",
+        "Há um grande risco de que um acidente ocorra com o colaborador ao portar um objeto metálico nesse caso ao ser puxado para a sala.",
+        "Todas as alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Quando que o magneto está em funcionamento e deixa a área perigosa para transitar com objetos metálicos?",
+      "opcoes": [
+        "Somente quando o paciente está realizando o exame.",
+        "Nunca.",
+        "O magneto não oferece riscos para a rotina de limpeza.",
+        "Sempre! Mesmo que não haja paciente dentro da sala de ressonância ou barulho alto vindo da sala, o magneto permanece em funcionamento."
+      ]
+    },
+    {
+      "pergunta": "2) O que é importante fazer antes da limpeza do local?",
+      "opcoes": [
+        "Verificar com o responsável técnico da área de ressonância se é possível adentrar o local.",
+        "Limpeza da lixeira.",
+        "Verificar se há pacientes circulando no corredor.",
+        "Manusear os equipamentos médicos de alta tecnologia."
+      ]
+    },
+    {
+      "pergunta": "1) Qual a recomendação para realizar a limpeza de locais próximos à sala de ressonância magnética?",
+      "opcoes": [
+        "Não é recomendável fazer limpeza nesses locais.",
+        "Limpar uma vez por dia.",
+        "É sempre seguro quando a porta da sala de ressonância magnética estiver fechada.",
+        "Limpar desde que a porta esteja aberta e com auxílio de objetos metálicos, como rodo de metal."
+      ]
+    }
+  ]
+}
