@@ -1,0 +1,52 @@
+{
+  "treinamento": "RESTRIÇÕES AO TRANSELEVADOR_GRU AIRPORT",
+  "id": 1283,
+  "idChecklist": 1047,
+  "perguntas": [
+    {
+      "pergunta": "5) ASSINALE A ALTERNATICA CORRETA. TEMOS 2 TIPOS DE CAIXAS PARA ACOMODAR CARGAS COM PESO ABAIXO DE:",
+      "opcoes": [
+        "50 KG.",
+        "23 KG.",
+        "27 KG.",
+        "25 KG."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL PALETE DE PLÁSTICO NÃO PODE SER UTILIZADO PARA ARMAZENAR CARGAS NO TE?",
+      "opcoes": [
+        "PODEMOS UTILIZAR TODOS OS PALETES.",
+        "PALETE DE PLÁSTICO SUPERFÍCIE LISA.",
+        "PALETE DE PLÁSTICO COM PINO.",
+        "TODAS ESTÃO CORRETAS."
+      ]
+    },
+    {
+      "pergunta": "3) ASSINALE A ALTERNATIVA CORRETA. NÃO DEVEMOS ARMAZENAR CARGAS DE EMBARQUE, COMO:",
+      "opcoes": [
+        "RODÍZIO.",
+        "CAIXA DE PLÁSTICO.",
+        "MALAS COMUNS E DIPLOMÁTICAS.",
+        "TODAS ESTÃO CORRETAS."
+      ]
+    },
+    {
+      "pergunta": "2) ASSINALE A ALTERNATIVA CORRETA. NÃO DEVEMOS ARMAZENAR CARGAS \"COMAT\", TIPO:",
+      "opcoes": [
+        "PNEUS E BORRACHAS.",
+        "PAPELÃO, CAIXAS E PLÁSTICOS.",
+        "ÁGUA, BEBIDAS E GARRAFAS DE VIDROS.",
+        "NENHUMA DAS ALTERNAS."
+      ]
+    },
+    {
+      "pergunta": "1) ASSINALE A ALTERNATIVA CORRETA. NÃO DEVEMOS ARMAZENAR CARGAS NO TE ABAIXO DE:",
+      "opcoes": [
+        "ABAIXO DE 30 KG.",
+        "ABAIXO DE 50 KG.",
+        "ABAIXO DE 100 KG.",
+        "ABAIXO DE 70 KG."
+      ]
+    }
+  ]
+}
