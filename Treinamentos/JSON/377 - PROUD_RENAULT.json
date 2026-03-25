@@ -1,0 +1,52 @@
+{
+  "treinamento": "PROUD_RENAULT",
+  "id": 377,
+  "idChecklist": 271,
+  "perguntas": [
+    {
+      "pergunta": "5) O que é identidade de gênero?",
+      "opcoes": [
+        "É a forma como a pessoa manifesta socialmente a sua identidade de gênero",
+        "Se refere a alguns elementos do corpo",
+        "É a experiência subjetiva de uma pessoa a respeito de si mesma e das suas relações com outros gêneros",
+        "É o termo que está relacionado com as diferentes formas de atração afetiva"
+      ]
+    },
+    {
+      "pergunta": "4) Preconceito é crime. Qual é a lei que cita isso?",
+      "opcoes": [
+        "Lei n°6.718",
+        "Lei n°7.716",
+        "Preconceito não prevê crime",
+        "Nenhuma das alternativas acima"
+      ]
+    },
+    {
+      "pergunta": "3) O que significa expressão de gênero?",
+      "opcoes": [
+        "É a forma como a pessoa manifesta socialmente a sua identidade de gênero",
+        "Se refere a alguns elementos do corpo",
+        "É a experiência subjetiva de uma pessoa a respeito de si mesma",
+        "É o termo que está relacionado com as diferentes formas de atração afetiva"
+      ]
+    },
+    {
+      "pergunta": "2) O que são pessoas intersexo?",
+      "opcoes": [
+        "Representa pessoas transexuais",
+        "Representa pessoas que sentem atração pelo mesmo sexo",
+        "Representa pessoas que transitam pelo feminino e masculino, que nascem com órgão de ambos os sexos",
+        "Representa pessoas homossexuais"
+      ]
+    },
+    {
+      "pergunta": "1) Qual é o objetivo do projeto Proud da Renault?",
+      "opcoes": [
+        "Mostrar para o Colaborador o significado do nome",
+        "Compartilhar a importância da inclusão e diversidade no ambiente de trabalho",
+        "Conscientização sobre as mulheres",
+        "Nenhuma das opções acima"
+      ]
+    }
+  ]
+}
