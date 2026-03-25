@@ -1,0 +1,52 @@
+{
+  "treinamento": "LGPD – LEI GERAL DE PROTEÇÃO DE DADOS",
+  "id": 176,
+  "idChecklist": 96,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual o nome do órgão responsável por fiscalizar o cumprimento da Lei de Proteção de Dados?",
+      "opcoes": [
+        "Autoridade Nacional de Proteção de Dados.",
+        "Ordem Nacional de Proteção de Dados.",
+        "Agência Nacional de Proteção de Dados.",
+        "Direito Nacional de Proteção de Dados."
+      ]
+    },
+    {
+      "pergunta": "4) Qual o meio utilizado para obter informações sobre os dados pessoais de colaboradores da GPS?",
+      "opcoes": [
+        "Através do site da empresa.",
+        "Através do telefone.",
+        "Através de um colaborador.",
+        "Através do e-mail lgpd@gpssa.com.br"
+      ]
+    },
+    {
+      "pergunta": "3) O que o colaborador da GPS deve fazer com os dados pessoais a que tiver acesso?",
+      "opcoes": [
+        "Utilizar somente nos sistemas autorizados pelo seu empregador.",
+        "Falar para pessoas que não trabalham na empresa.",
+        "Mandar os dados para outras pessoas através do Whatsapp.",
+        "Utilizar o sms para compartilhar os dados."
+      ]
+    },
+    {
+      "pergunta": "2) Assinale o item que contém dados pessoais que devem ser protegidos por Lei.",
+      "opcoes": [
+        "Nome completo, telefone e local de trabalho.",
+        "Local de trabalho, nome completo e CPF.",
+        "Nome completo, CPF, endereço e telefone.",
+        "Nome dos dependentes, CPF e local de trabalho."
+      ]
+    },
+    {
+      "pergunta": "1) O que significa LGPD?",
+      "opcoes": [
+        "Lei Global de Pessoas em Desenvolvimento.",
+        "Lei Geral de Proteção de Dados Pessoais.",
+        "Lei Geral de Proteção de Direitos.",
+        "Lei Global de Pessoas e Direitos."
+      ]
+    }
+  ]
+}
