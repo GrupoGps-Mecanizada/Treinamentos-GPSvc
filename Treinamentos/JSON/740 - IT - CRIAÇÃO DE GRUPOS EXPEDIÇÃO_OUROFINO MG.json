@@ -1,0 +1,52 @@
+{
+  "treinamento": "IT - CRIAÇÃO DE GRUPOS EXPEDIÇÃO_OUROFINO MG",
+  "id": 740,
+  "idChecklist": 520,
+  "perguntas": [
+    {
+      "pergunta": "5) O que contém em um grupo?",
+      "opcoes": [
+        "A junção de todas as ordens de transportes, ou seja, todos os materiais que serão expedidos em um determinado veículo.",
+        "O nome da transportadora e veículo.",
+        "Todos os materiais expedidos do dia.",
+        "Todos os agendamentos do dia."
+      ]
+    },
+    {
+      "pergunta": "4) Em quais situações devemos “forçar” a criação das Ot’s?",
+      "opcoes": [
+        "Quando não sei o que fazer.",
+        "Quando o tipo de depósito está diferente do pré-definido pelo sistema.",
+        "Quando eu bem entender.",
+        "Quando as Ot’s já foram confirmadas."
+      ]
+    },
+    {
+      "pergunta": "3) Quais os possíveis problemas que impedem que o sistema crie as Ot’s automáticas?",
+      "opcoes": [
+        "Transações pendentes, Tr-zone, Transfer e depósito diferente da parametrização do sistema.",
+        "Apenas Tr-zone.",
+        "Falta de parametrização do sistema.",
+        "Nenhuma das afirmativas acima."
+      ]
+    },
+    {
+      "pergunta": "2) O que significa OT?",
+      "opcoes": [
+        "Ordem de transferência.",
+        "Ordem transitório.",
+        "Ordem de transação.",
+        "Ordem de transporte."
+      ]
+    },
+    {
+      "pergunta": "1) Qual transação no SAP utilizamos para criar as Ot’s dos grupos?",
+      "opcoes": [
+        "Lx02.",
+        "Lx39.",
+        "Lx36.",
+        "Lx32."
+      ]
+    }
+  ]
+}
