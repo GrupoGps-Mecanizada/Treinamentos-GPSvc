@@ -1,0 +1,52 @@
+{
+  "treinamento": "PROCEDIMENTO DE RECEBIMENTO E DESCARGA DE MILHO_INGREDION BALSANOVA",
+  "id": 382,
+  "idChecklist": 275,
+  "perguntas": [
+    {
+      "pergunta": "5) APÓS O CAMINHÃO PARADO, CHAVE GUARDADA, DESLIGADO E COM O CALÇOS. NOSSOS COLABORADORES FAZEM O QUE?",
+      "opcoes": [
+        "CHAMA O MOTORISTA PRA TOMAR CAFÉ.",
+        "ABREM AS BICAS DO CAMINHÃO.",
+        "ENTREGAM O RODO E A VASSOURA PARA O MOTORISTA.",
+        "TIRAM TODOS OS EPIS."
+      ]
+    },
+    {
+      "pergunta": "4) EM DIAS DE CHUVA QUEM É RESPONSÁVEL POR TIRAR A LONA?",
+      "opcoes": [
+        "O MOTORISTA.",
+        "NOSSO COLABORADOR.",
+        "O VIGIA.",
+        "O TÉCNICO DE SEGURANÇA."
+      ]
+    },
+    {
+      "pergunta": "3) QUANDO O MILHO É ESCOADO PELO O TOMBADOR, É NECESSÁRIO QUE:",
+      "opcoes": [
+        "UTILIZE A CORDA PARA TRAVAR E QUE NÃO VENHA ATINGIR O COLABORADOR.",
+        "ABRIR O TOMBADOR RÁPIDO PARA O MILHO ESCOAR RAPIDAMENTE.",
+        "NUNCA UTILIZAR AS CORDAS, POIS ELA FAZ PERDER MUITO TEMPO.",
+        "SEGURAR O TOMBADOR COM AS MÃOS E SEM CORDA."
+      ]
+    },
+    {
+      "pergunta": "2) AO COLOCAR OS CALÇOS NO PNEU DO CAMINHÃO, É NECESSÁRIO QUE O CAMINHÃO ESTEJA:",
+      "opcoes": [
+        "PARADO E O MOTOR LIGADO.",
+        "COM ELE EM MOVIMENTO.",
+        "PARADO E O MOTOR DESLIGADO.",
+        "TODAS AS ALTERNATIVAS ESTAO CORRETAS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL A 1ª COISA A SER FEITA QUANDO O CAMINHÃO ESTACIONA NA MOEGA?",
+      "opcoes": [
+        "COLOCAR OS CALÇOS NO PNEU.",
+        "PEGAR A CHAVE DO MOTORISTA.",
+        "ABRIR AS BICAS.",
+        "COLOCAR A PLACA DE PARE EM FRENTE AO CAMINHÃO."
+      ]
+    }
+  ]
+}
