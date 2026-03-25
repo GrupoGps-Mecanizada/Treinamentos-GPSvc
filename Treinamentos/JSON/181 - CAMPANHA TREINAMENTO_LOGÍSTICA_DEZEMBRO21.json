@@ -1,0 +1,52 @@
+{
+  "treinamento": "CAMPANHA TREINAMENTO_LOGÍSTICA_DEZEMBRO21",
+  "id": 181,
+  "idChecklist": 101,
+  "perguntas": [
+    {
+      "pergunta": "5) O que é um sinal de má operação dos equipamentos em um centro de distribuição?",
+      "opcoes": [
+        "Máquinas sempre quebradas.",
+        "Marcas de pneu no piso.",
+        "Improdutividade operacional.",
+        "Ausência de placas de sinalização."
+      ]
+    },
+    {
+      "pergunta": "4) O que o operador deve fazer ao identificar problema em seu equipamento?",
+      "opcoes": [
+        "Se houver possibilidade de operar, ignorar o problema para não perder produtividade.",
+        "Consertar, pois todo operador deve saber como reparar sua máquina.",
+        "Não fazer nada.",
+        "Informar ao supervisor e o responsável pela manutenção."
+      ]
+    },
+    {
+      "pergunta": "3) Qual das alternativas está errada?",
+      "opcoes": [
+        "Deve-se inspecionar o veículo antes do uso.",
+        "Deve-se observar o espaço de forma cuidadosa.",
+        "Não deve-se levar passageiros.",
+        "Pessoas não habilitadas podem operar empilhadeira desde que supervisionadas."
+      ]
+    },
+    {
+      "pergunta": "2) O que não é um risco relacionado à operação de empilhadeira?",
+      "opcoes": [
+        "Piso irregular.",
+        "Exposição a ruídos.",
+        "Cores chamativas.",
+        "Presença de rede elétrica próxima."
+      ]
+    },
+    {
+      "pergunta": "1) O que é direção preventiva?",
+      "opcoes": [
+        "Conjunto de medidas para prevenir acidentes de trânsito.",
+        "Prevenir acidentes através de perícia elevada.",
+        "Conhecer as leis e as normas do local em que está atuando.",
+        "Ter habilidade na condução dos veículos."
+      ]
+    }
+  ]
+}
