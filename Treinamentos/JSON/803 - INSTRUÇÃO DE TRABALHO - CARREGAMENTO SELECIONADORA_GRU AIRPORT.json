@@ -1,0 +1,52 @@
+{
+  "treinamento": "INSTRUÇÃO DE TRABALHO - CARREGAMENTO SELECIONADORA_GRU AIRPORT",
+  "id": 803,
+  "idChecklist": 582,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAIS OS COMANDOS PARA INICIAR A OPERAÇÃO SEGURA?",
+      "opcoes": [
+        "PIN E APERTE O BOTÃO VERDE.",
+        "PIN E APERTE O BOTÃO AZUL.",
+        "PIN E APERTE O BOTÃO AMARELO.",
+        "PIN E APERTE O BOTÃO VERMELHO."
+      ]
+    },
+    {
+      "pergunta": "4) ASSINALE A ALTERNATIVA CORRETA. NÃO PODEMOS DAR PAUSA NO CARREGADOR ANTES DE DESCONECTAR A BATERIA, PORQUE PODE OCASIONAR:",
+      "opcoes": [
+        "CHOQUE NO COLABORADOR.",
+        "DESCONFIGURAR O CARREGADOR.",
+        "ACELERA A RECARGA.",
+        "CONTINUAR O CARREGAMENTO."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL A LUVA (EPI) CORRETO PARA ABERTURA E MANUSEIO DE TAMPAS, CABOS E PLUGS?",
+      "opcoes": [
+        "LUVA DE VAQUETA.",
+        "LUVA PIGMENTADA.",
+        "LUVA NITRÍLICA.",
+        "LUVA DE RASPA."
+      ]
+    },
+    {
+      "pergunta": "2) ASSINALE A ALTERNATIVA QUE INDIQUE A SITUAÇÃO EM QUE É PROIBIDO RECARREGAR A SELECIONADORA:",
+      "opcoes": [
+        "LIGADA.",
+        "COM 80% DE CARGA.",
+        "COM 60% DE CARGA.",
+        "TODAS AS ALTERNATIVAS ESTÃO INCORRETAS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O VALOR MÍNIMO DE CARGA DA BATERIA QUE A SELECIONADORA DEVE ESTAR PARA SER CARREGADA?",
+      "opcoes": [
+        "15% DE CARGA.",
+        "25% DE CARGA.",
+        "35% DE CARGA.",
+        "45% DE CARGA."
+      ]
+    }
+  ]
+}
