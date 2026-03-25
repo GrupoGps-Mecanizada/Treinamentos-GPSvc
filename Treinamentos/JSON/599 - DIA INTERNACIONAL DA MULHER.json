@@ -1,0 +1,52 @@
+{
+  "treinamento": "DIA INTERNACIONAL DA MULHER",
+  "id": 599,
+  "idChecklist": 385,
+  "perguntas": [
+    {
+      "pergunta": "5) Quando uma mulher reconhece a sua força, ela se torna:",
+      "opcoes": [
+        "Uma fonte inesgotável de poder.",
+        "Uma fonte inesgotável de energia positiva.",
+        "Uma fonte inesgotável de inspiração.",
+        "Uma fonte inesgotável de produtividade."
+      ]
+    },
+    {
+      "pergunta": "4) As mulheres possuem diversas características, como por exemplo, a criatividade, flexibilidade, multifuncionalidade, persistência e a perspicácia, porém a mais importante de todas elas é:",
+      "opcoes": [
+        "Ser mulher.",
+        "Ser engraçada.",
+        "Ser carinhosa.",
+        "Ser forte."
+      ]
+    },
+    {
+      "pergunta": "3) Como as mulheres agem quando se deparam com um desafio na carreira?",
+      "opcoes": [
+        "Continuam lutando, com formosura, estratégia e persistência.",
+        "Continuam lutando, com estratégia, disciplina e persistência.",
+        "Desistem quando encontram um desafio.",
+        "Não há desafios na carreira das mulheres."
+      ]
+    },
+    {
+      "pergunta": "2) No treinamento citamos alguns exemplos de papéis que as mulheres desempenham. Como as mulheres realizam todos esses papeis?",
+      "opcoes": [
+        "Com pressa e coragem.",
+        "Com dedicação e coragem.",
+        "Com dedicação e empenho.",
+        "Com atenção e empenho."
+      ]
+    },
+    {
+      "pergunta": "1) Em qual dia é comemorado o dia internacional da mulher?",
+      "opcoes": [
+        "8 de março.",
+        "9 de março.",
+        "15 de março.",
+        "30 de março."
+      ]
+    }
+  ]
+}
