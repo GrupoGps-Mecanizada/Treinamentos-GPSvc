@@ -1,0 +1,52 @@
+{
+  "treinamento": "SSMA LC - ÓCULOS DE SEGURANÇA_LC",
+  "id": 559,
+  "idChecklist": 361,
+  "perguntas": [
+    {
+      "pergunta": "5) Como devemos guardar os óculos de segurança?",
+      "opcoes": [
+        "Deixa-los em cima de equipamentos e bancadas.",
+        "Guarda-los dentro da bolsinha e armazenar dentro de armário pessoal.",
+        "Descarta-los depois do uso.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "4) Ao realizar limpeza da Coifa assim como bancadas, ao utilizarmos produtos químicos o que devemos utilizar?",
+      "opcoes": [
+        "EPI.",
+        "EPC.",
+        "Óculos de segurança.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) Quais cuidados devemos tomar para a boa conservação dos óculos de segurança?",
+      "opcoes": [
+        "Ao terminar de utilizar levar para casa após o uso.",
+        "Limpar somente com papel macio e seco.",
+        "Não abandonar junto a fontes de calor.",
+        "Transportar no bolso traseiro da calça."
+      ]
+    },
+    {
+      "pergunta": "2) Quais procedimentos devemos tomar ao utilizarmos os óculos de segurança?",
+      "opcoes": [
+        "Requisitar sempre um modelo novo quando for utilizar.",
+        "Pedir emprestado ao colega quando for necessário.",
+        "Verificar se os óculos estão em perfeita condições de uso e o mesmo ajustar-se perfeitamente ao rosto.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "1) Qual a finalidade dos óculos de segurança dentro da cozinha na cocção dos alimentos?",
+      "opcoes": [
+        "Proteção contra respingos de óleos quente e água quente.",
+        "Proteger contra fungos e bactérias.",
+        "Proteção contra Radiação solar.",
+        "Nenhuma das alternativas."
+      ]
+    }
+  ]
+}
