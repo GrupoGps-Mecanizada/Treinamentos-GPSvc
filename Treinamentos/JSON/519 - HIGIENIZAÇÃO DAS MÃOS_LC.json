@@ -1,0 +1,52 @@
+{
+  "treinamento": "HIGIENIZAÇÃO DAS MÃOS_LC",
+  "id": 519,
+  "idChecklist": 322,
+  "perguntas": [
+    {
+      "pergunta": "5) Como devemos secar as mãos?",
+      "opcoes": [
+        "Com o avental.",
+        "Papel toalha.",
+        "Balançados as mãos.",
+        "Com uniforme."
+      ]
+    },
+    {
+      "pergunta": "4) Quais partes não devemos esquecer ao higienizar as mãos?",
+      "opcoes": [
+        "Dorso, palma da mão e unhas.",
+        "Unhas, polegar e antebraço.",
+        "Dorso, polegar e entre os dedos.",
+        "Palma das mãos, entre os dedos, unhas, dorso, antebraço, polegar e lateral das mãos."
+      ]
+    },
+    {
+      "pergunta": "3) Para que higienizamos as mãos?",
+      "opcoes": [
+        "Para eliminar vírus.",
+        "Para retirar sujidade.",
+        "Para eliminar bactéria.",
+        "Todas alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "2) Quais produtos utilizar para higienização das mãos?",
+      "opcoes": [
+        "Detergente + Álcool Gel.",
+        "Sabonete Bactericida + Álcool Gel.",
+        "Cloro + Álcool Gel.",
+        "Sabonete Bactericida + Detergente."
+      ]
+    },
+    {
+      "pergunta": "1) Quando devemos higienizar as mãos?",
+      "opcoes": [
+        "Ao sair do banheiro.",
+        "Ao trocar de função.",
+        "Ao pegar no celular.",
+        "Todas alternativas estão corretas."
+      ]
+    }
+  ]
+}
