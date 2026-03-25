@@ -1,0 +1,52 @@
+{
+  "treinamento": "GUIA BÁSICO: MICROSOFT TEAMS_TRADE&TALENTOS",
+  "id": 1493,
+  "idChecklist": 1233,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL COMANDO PODE SER DIGITADO NA BARRA DE PESQUISA PARA INICIAR UMA CHAMADA?",
+      "opcoes": [
+        "DIGITAR @LIGAR.",
+        "DIGITAR /CHAMAR.",
+        "DIGITAR  *CALL.",
+        "DIGITAR #INICIAR."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE AJUDA A TORNAR AS REUNIÕES NO TEAMS MAIS DINÂMICAS E INCLUSIVAS?",
+      "opcoes": [
+        "USO DE VÍDEOS LONGOS.",
+        "REAÇÕES COM EMOJIS, LEVANTAR A MÃO E CHAT.",
+        "INTERRUPÇÕES FREQUENTES.",
+        "APENAS COMUNICAÇÃO POR ÁUDIO."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É UMA VANTAGEM DE COMPARTILHAR DOCUMENTOS NO TEAMS?",
+      "opcoes": [
+        "TODOS PODEM EDITAR AO MESMO TEMPO, EM TEMPO REAL.",
+        "SÓ O REMETENTE PODE EDITAR.",
+        "PRECISA SAIR DO TEAMS PARA ABRIR O ARQUIVO.",
+        "OS ARQUIVOS NÃO SÃO SALVOS AUTOMATICAMENTE."
+      ]
+    },
+    {
+      "pergunta": "2) ONDE VOCÊ PODE AGENDAR UMA REUNIÃO NO TEAMS?",
+      "opcoes": [
+        "NO MENU \"CHAT\".",
+        "NA BARRA DE PESQUISA.",
+        "NO MENU \"ARQUIVOS\".",
+        "NO MENU \"CALENDÁRIO\"."
+      ]
+    },
+    {
+      "pergunta": "1) PARA MENCIONAR UMA PESSOA NO MICROSOFT TEAMS, O QUE DEVE SER USADO?",
+      "opcoes": [
+        "DIGITAR # SEGUIDO DO NOME DA PESSOA.",
+        "DIGITAR * SEGUIDO DO NOME DA PESSOA.",
+        "DIGITAR @ SEGUIDO DO NOME DA PESSOA.",
+        "DIGITAR / SEGUIDO DO NOME DA PESSOA."
+      ]
+    }
+  ]
+}
