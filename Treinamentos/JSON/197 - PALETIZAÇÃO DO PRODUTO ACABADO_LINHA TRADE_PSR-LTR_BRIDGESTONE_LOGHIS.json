@@ -1,0 +1,52 @@
+{
+  "treinamento": "PALETIZAÇÃO DO PRODUTO ACABADO_LINHA TRADE_PSR-LTR_BRIDGESTONE_LOGHIS",
+  "id": 197,
+  "idChecklist": 117,
+  "perguntas": [
+    {
+      "pergunta": "5) COMO DEVEMOS SEPARAR OS PNEUS NA ESTEIRA ANTES DE DISPOR NO PALET?",
+      "opcoes": [
+        "Por medida e tipo do pneu.",
+        "Apenas por medida do pneu.",
+        "Apenas pelo tipo de pneu.",
+        "Pneus aguardando disposição/vendas."
+      ]
+    },
+    {
+      "pergunta": "4) COMO DEVEMOS DISPOR A PILHA DE PNEUS NO PALET?",
+      "opcoes": [
+        "Apenas com o rótulo voltado para baixo.",
+        "Com os rótulos e o logo voltado para baixo.",
+        "Mantê-los bem alinhados, sempre com os rótulos visíveis e com o logo voltado para cima.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "3) COMO DEVE SER PREENCHIDO O CARTÃO BRANCO DE IDENTIFICAÇÃO DOS PRODUTOS TRADE?",
+      "opcoes": [
+        "Com letras legíveis, assinado pelo paletizador e conferente/líder da inspeção final.",
+        "Apenas assinado pelo líder.",
+        "Apenas assinado pelo Assistente Logístico.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) NA FALTA DE LONAS PARA ARMAZENAR OS PNEUS NO PALET, QUAL MATERIAL DEVERÁ SER UTILIZADO PARA PROTEGER CONTRA QUEDA DOS MESMOS?",
+      "opcoes": [
+        "Papelão.",
+        "Plástico bolha.",
+        "Filme \"stretch\".",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "1) SE O PNEU FOR DO MODELO PSR, QUANTOS PNEUS O COLABORADOR DEVERÁ TRANSPORTAR EM CADA BRAÇO?",
+      "opcoes": [
+        "Quatro pneus.",
+        "Dois pneus.",
+        "Três pneus.",
+        "Nenhuma das alternativas."
+      ]
+    }
+  ]
+}
