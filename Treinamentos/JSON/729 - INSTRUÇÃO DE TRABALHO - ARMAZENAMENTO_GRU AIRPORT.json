@@ -1,0 +1,52 @@
+{
+  "treinamento": "INSTRUÇÃO DE TRABALHO - ARMAZENAMENTO_GRU AIRPORT",
+  "id": 729,
+  "idChecklist": 513,
+  "perguntas": [
+    {
+      "pergunta": "5)Onde devemos armazenar as cargas IBC (Intermediate Bulk Container)?",
+      "opcoes": [
+        "IMCH10A01, IMCH10A02, IMCH10A03 e IMCH10A04.",
+        "IMCH12A01, IMCH12A02, IMCH12A03 e IMCH12A04.",
+        "IMCH11A01, IMCH11A02, IMCH11A03 e IMCH11A04.",
+        "IMCH09A01, IMCH09A02, IMCH09A03 e IMCH09A04."
+      ]
+    },
+    {
+      "pergunta": "4)Como deverá ser a equipe de atuação em uma análise de desvios e perdas?",
+      "opcoes": [
+        "Verificar se a carga esta descentralizada no palete do TE e armazenar com a etiqueta da carga virada para o lado contrário da visão do operador.",
+        "Verificar se a carga está centralizada no palete do TE e armazenar com a etiqueta da carga virada para o lado da visão do operador.",
+        "Verificar se a carga está centralizada no palete do TE e armazenar com a etiqueta da carga virada para o lado contrário da visão do operador.",
+        "Verificar se a carga esta descentralizada no palete do TE e armazenar com a etiqueta da carga virada para o lado do operador."
+      ]
+    },
+    {
+      "pergunta": "3)O que é terminantemente proibido em nossa operação?",
+      "opcoes": [
+        "É terminantemente proibido escanear a PCG ou a posição final no CMS.",
+        "É terminantemente proibido escanear a PCG ou a posição final no CMS, sendo obrigatório levar a carga até o destino e só então digitar o código de barras do local.",
+        "É terminantemente proibido digitar a PCG ou a posição final no CMS, sendo obrigatório levar a carga até o destino e só então escanear o código de barras do local.",
+        "É terminantemente proibido ouvir as ordens do meu Gestor Direto."
+      ]
+    },
+    {
+      "pergunta": "2) Qual é o passo a passo para armazenar a Carga Valor?",
+      "opcoes": [
+        "Armazenar a carga no BUFFER_CV/Armazenar a carga dentro do Cofre 01 ou Cofre 02.",
+        "Armazenar a carga dentro do Cofre 01 ou Cofre 02/Escanear a carga valor no recebimento.",
+        "Escanear a carga valor no recebimento/Armazenar a carga no BUFFER_CV/Armazenar a carga dentro do - Cofre 01 ou Cofre 02.",
+        "Armazenar a carga dentro do Cofre 01 ou Cofre 02/Armazenar a carga no BUFFER_CV."
+      ]
+    },
+    {
+      "pergunta": "1) Como a carga IBC (Intermediate Bulk Container) deve ser armazenada?",
+      "opcoes": [
+        "Toda carga IBC deve ser armazenada com o registro virado para trás (lado da parede).",
+        "Toda carga IBC deve ser armazenada com o registro virado para o lado esquerdo.",
+        "Toda carga IBC deve ser armazenada com o registro virado para a frente (lado do corredor).",
+        "Toda carga IBC deve ser armazenada com o registro virado para o lado direito."
+      ]
+    }
+  ]
+}
