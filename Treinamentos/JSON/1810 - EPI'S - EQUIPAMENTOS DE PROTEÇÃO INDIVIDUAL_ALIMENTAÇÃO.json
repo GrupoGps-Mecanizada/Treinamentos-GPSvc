@@ -1,0 +1,52 @@
+{
+  "treinamento": "EPI'S - EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL_ALIMENTAÇÃO",
+  "id": 1810,
+  "idChecklist": 1479,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE É O MANUAL DE EPI'S?",
+      "opcoes": [
+        "UM DOCUMENTO OPCIONAL E IRRELEVANTE.",
+        "UMA LISTA DE PRODUTOS DA UNIDADE.",
+        "UM RELATÓRIO DE AUDITORIA.",
+        "O DOCUMENTO OFICIAL COM ORIENTAÇÕES DE USO E CONSERVAÇÃO DOS EPI'S."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL ATITUDE REPRESENTA RESPONSABILIDADE DO COLABORADOR?",
+      "opcoes": [
+        "TRABALHAR SEM EPI QUANDO “É RAPIDINHO”.",
+        "USAR EPI'S SÓ QUANDO O GESTOR ESTIVER PRESENTE.",
+        "UTILIZAR O EPI CORRETAMENTE E CONSERVAR O EQUIPAMENTO.",
+        "SUBSTITUIR O EPI POR IMPROVISOS."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE O COLABORADOR DEVE FAZER AO PERCEBER QUE O EPI ESTÁ DANIFICADO?",
+      "opcoes": [
+        "CONTINUAR USANDO ATÉ O FIM DO TURNO.",
+        "TENTAR CONSERTAR POR CONTA PRÓPRIA.",
+        "SOLICITAR A TROCA IMEDIATAMENTE AO GESTOR.",
+        "EMPRESTAR O EPI DE OUTRO COLEGA."
+      ]
+    },
+    {
+      "pergunta": "2) COMO DEVE SER FEITO O REGISTRO DE ENTREGA DE EPI'S?",
+      "opcoes": [
+        "EM PAPEL ENTREGUE AO RH.",
+        "NO APLICATIVO GPSVC, COM ASSINATURA ELETRÔNICA.",
+        "APENAS VERBALMENTE AO GESTOR.",
+        "NÃO É NECESSÁRIO REGISTRAR."
+      ]
+    },
+    {
+      "pergunta": "1) PARA QUE SERVEM OS EPI'S?",
+      "opcoes": [
+        "PARA MELHORAR A PRODUTIVIDADE.",
+        "PARA DECORAR O UNIFORME.",
+        "PARA PROTEGER O COLABORADOR CONTRA RISCOS NO TRABALHO.",
+        "PARA SUBSTITUIR PROCEDIMENTOS SEGUROS."
+      ]
+    }
+  ]
+}
