@@ -1,0 +1,52 @@
+{
+  "treinamento": "SEGURANÇA NO TRÂNSITO_ENGENHARIA",
+  "id": 769,
+  "idChecklist": 549,
+  "perguntas": [
+    {
+      "pergunta": "5) ONDE VOCÊ PODE ARMAZENAR OS MATERIAIS DA EMPRESA NO CARRO?   ",
+      "opcoes": [
+        "EM CIMA DO BANCO DE PASSAGEIRO.",
+        "NO ASSOALHO.",
+        "EM QUALQUER LUGAR, CASO O CARRO ESTEJA DESOCUPADO.",
+        "SOMENTE NO PORTA-MALAS. "
+      ]
+    },
+    {
+      "pergunta": "4) EM CASO DE ACIDENTE NO TRÂNSITO DURANTE O EXPEDIENTE DE TRABALHO, QUEM DEVO COMUNICAR DE IMEDIATO?",
+      "opcoes": [
+        "BOMBEIRO.",
+        "SUPERIOR IMEDIATO.",
+        "POLÍCIA.",
+        "SAMU."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É A LEGISLAÇÃO DE TRÂNSITO BRASILEIRA?",
+      "opcoes": [
+        "NORMA REGULAMENTADORA.",
+        "MINISTÉRIO DO TRABALHO E EMPREGO.",
+        "JUSTIÇA DO TRABALHO.",
+        "CÓDIGO DE TRÂNSITO BRASILEIRO."
+      ]
+    },
+    {
+      "pergunta": "2) DURANTE A CONDUÇÃO DO VEÍCULO POSSO ATENDER O TELEFONE E CONTINUAR DIRIGINDO? ",
+      "opcoes": [
+        "SIM, POIS, NÃO EXISTE RISCO.",
+        "SIM, POIS, CONSIGO FAZER DUAS COISAS AO MESMO TEMPO. ",
+        "NÃO, É NECESSÁRIO ESTACIONAR E PARAR EM LOCAL PERMITIDO E SEGURO. APÓS O ENCERRAMENTO DA LIGAÇÃO, A CONDUÇÃO DO VEÍCULO PODE SER RETOMADA.",
+        "TODAS AS ALTERNATIVAS ESTÃO CORRETAS."
+      ]
+    },
+    {
+      "pergunta": "1) É PROIBIDO FUMAR NO INTERIOR DO VEÍCULO? ",
+      "opcoes": [
+        "SOMENTE O CONDUTOR PODE FUMAR NO INTERIOR DO VEÍCULO.",
+        "SOMENTE O PASSAGEIRO PODE FUMAR NO INTERIOR DO VEÍCULO.",
+        "É PROIBIDO FUMAR NO INTERIOR DO VEÍCULO TODO E QUALQUER OCUPANTE.",
+        "SOMENTE O CONDUTOR DO VEÍCULO NÃO PODE FUMAR."
+      ]
+    }
+  ]
+}
