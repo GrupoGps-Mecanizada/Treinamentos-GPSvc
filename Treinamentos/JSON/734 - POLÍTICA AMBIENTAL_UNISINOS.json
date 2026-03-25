@@ -1,0 +1,52 @@
+{
+  "treinamento": "POLÍTICA AMBIENTAL_UNISINOS",
+  "id": 734,
+  "idChecklist": 516,
+  "perguntas": [
+    {
+      "pergunta": "5) Conforme o que foi passado no treinamento, o que é conservação do meio ambiente?",
+      "opcoes": [
+        "É uma norma e um conjunto de ações que têm como objetivo a proteção da natureza mediante a utilização e o manejo racional de seus recursos.",
+        "É uma política para os homens pensarem antes de agir e um conjunto de ações que têm como objetivo a proteção da natureza mediante a utilização e o manejo irracional de seus recursos.",
+        "É um conjunto de políticas e ações que têm como objetivo a proteção da sociedade brasileira mediante a utilização e o manejo racional de seus recursos.",
+        "É um conjunto de políticas e ações que têm como objetivo a proteção da natureza mediante a utilização e o manejo racional de seus recursos."
+      ]
+    },
+    {
+      "pergunta": "4) Quais exemplos são citados no texto sobre desenvolvimento sustentável?",
+      "opcoes": [
+        "Reutilizar embalagens de plástico e fazer compostagem.",
+        "Reutilizar a água da máquina de lavar para outras tarefas.",
+        "Reflorestamento, investimento em fontes renováveis de energia e consumo consciente.",
+        "Utilizar lâmpadas florescentes e andar de bicicleta."
+      ]
+    },
+    {
+      "pergunta": "3) Quais são os objetivos da POLÍTICA AMBIENTAL UNISINOS?",
+      "opcoes": [
+        "Prevenção da poluição, conservação do meio ambiente, legislação vigente, melhoria contínua, desenvolvimento sustentável, transferência de conhecimentos e tecnologias para a comunidade.",
+        "Prevenção da poluição, conservação da natureza, legislação vigente, melhoria contínua, desenvolvimento sustentável, transferência de conhecimentos e tecnologias para a comunidade.",
+        "Prevenção da poluição, conservação do meio ambiente, legislação vigente, melhoria contínua, desenvolvimento sustentável, transferência de conhecimentos e tecnologias para a sociedade.",
+        "Prevenção da poluição sonora, conservação do meio ambiente, legislação vigente, melhoria contínua, desenvolvimento sustentável, transferência de conhecimentos e tecnologias para a comunidade."
+      ]
+    },
+    {
+      "pergunta": "2) O que a Universidade oportuniza atendendo à legislação vigente e outros requisitos aplicáveis, proporcionando a melhoria contínua do Sistema de Gestão Ambiental para o desenvolvimento sustentável?",
+      "opcoes": [
+        "Oportuniza a geração de empregos e a transferência de conhecimentos.",
+        "Oportuniza a geração e a transferência de conhecimentos e tecnologias para a comunidade.",
+        "Oportuniza a geração de bolsas de estudos e a transferência de conhecimentos.",
+        "Oportuniza a geração de conhecimentos técnicos para a comunidade."
+      ]
+    },
+    {
+      "pergunta": "1) A Universidade do Vale do Rio dos Sinos, ao promover e defender a vida, mantém o compromisso de agir em prol do que?",
+      "opcoes": [
+        "Da prevenção da poluição e da conservação do meio ambiente.",
+        "Da prevenção de doenças e da conservação do ambiente de trabalho.",
+        "Da prevenção de sujeira e conservação da limpeza.",
+        "Nenhuma das alternativas."
+      ]
+    }
+  ]
+}
