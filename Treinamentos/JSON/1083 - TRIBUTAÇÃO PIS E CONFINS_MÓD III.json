@@ -1,0 +1,52 @@
+{
+  "treinamento": "TRIBUTAÇÃO PIS E CONFINS_MÓD III",
+  "id": 1083,
+  "idChecklist": 854,
+  "perguntas": [
+    {
+      "pergunta": "5) ESSA ANÁLISE NO PORTAL NOS AJUDA A VALIDAR QUAL INFORMAÇÃO?",
+      "opcoes": [
+        "SE PRECISAMOS ALTERAR OU CRIAR NOVOS NOTAS PARA SEPARAR OS REGIMES.",
+        "SE PRECISAMOS EXCLUIR OU ALTERAR OS CR’S PARA SEPARAR OS REGIMES.",
+        "SE PRECISAMOS ALTERAR OU CRIAR NOVOS CR’S PARA SEPARAR OS REGIMES.",
+        "NÃO NOS AJUDA A VALIDAR NENHUMA INFORMAÇÃO."
+      ]
+    },
+    {
+      "pergunta": "4) PARA MELHORAR MINHA VISÃO DE ANÁLISE, ALÉM DE SELECIONAR O REGIME CR, CR E CÓD. SERVIÇO, QUAL DAS OPÇÕES ABAIXO POSSO SELECIONAR?",
+      "opcoes": [
+        "COLABORADOR.",
+        "EMPRESA.",
+        "CNPJ.",
+        "TIPO DE PRODUTO."
+      ]
+    },
+    {
+      "pergunta": "3) 3. DENTRO DO RELATÓRIO TEMOS DIVERSAS FORMAS DE REALIZAR A ANÁLISE. MARQUE A ALTERNATIVA QUE MOSTRE ALGUMAS  DESSAS FORMAS:",
+      "opcoes": [
+        "COLABORADOR; CNPJ E LÍDER.",
+        "CNPJ E CÓD.PRODUTO.",
+        "REGIME CR; CR E CÓD. SERVIÇO.",
+        "TODAS AS ALTERNATIVAS ANTERIORES."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL O NÚMERO E O NOME DO RELATÓRIO NO PORTAL GPS?",
+      "opcoes": [
+        "02.2.1 – MEDIÇÃO RESUMIDA.",
+        "03.2.1 – MEDIÇÃO RESUMIDA.",
+        "02.2.1 – MEDIÇÃO COMPLETA.",
+        "03.1.2 – MEDIÇÃO INCOMPLETA."
+      ]
+    },
+    {
+      "pergunta": "1) ONDE PODEMOS ENCONTRAR O RELATÓRIO PARA ANALISAR O CÓDIGO DE SERVIÇO?",
+      "opcoes": [
+        "NO APP GPS.",
+        "NA PASTA DO SHAREPOINT.",
+        "NO PORTAL GPS.",
+        "NA PASTA DO ONEDRIVE."
+      ]
+    }
+  ]
+}
