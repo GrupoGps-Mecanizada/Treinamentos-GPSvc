@@ -1,0 +1,52 @@
+{
+  "treinamento": "ASSINATURA E FINALIZAÇÃO DA FICHA - PORTAL E FAST_PROCESSO ADMISSIONAL",
+  "id": 857,
+  "idChecklist": 628,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL O CAMINHO NO CARD PARA GERAR OS CONTRATOS ASSINADOS?",
+      "opcoes": [
+        "5.30 CONTRATOS.",
+        "5.20 DOCUMENTAÇÃO PESSOAL.",
+        "5.81 GERAR CONTRATOS.",
+        "5.83 DOC ÚNICO."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL O NOME DO BOTÃO UTILIZADO PARA FINALIZAR A FICHA DO FAST?",
+      "opcoes": [
+        "ENCERRAR.",
+        "ENVIAR CONTRATO.",
+        "CONCLUIR ADMISSÃO.",
+        "FINALIZAR ATENDIMENTO."
+      ]
+    },
+    {
+      "pergunta": "3) COM QUE INTUITO DEVEMOS EFETUAR A INTEGRAÇÃO COM O COLABORADOR AO FIM DO PROCESSO?",
+      "opcoes": [
+        "PARA O COLABORADOR NÃO FALTAR.",
+        "SANAR DÚVIDA DO COLABORADOR E DIMINUIR IMPACTO NO CLIENTE.",
+        "PARA O MESMO NÃO TER QUE ASSINAR O CONTRATO.",
+        "NÃO É NECESSÁRIO A INTEGRAÇÃO."
+      ]
+    },
+    {
+      "pergunta": "2) EM QUAL TIPO DE ARQUIVO DEVEMOS SALVAR O CONTRATO?",
+      "opcoes": [
+        "PDF.",
+        "JPEG.",
+        "WORD.",
+        "TXT."
+      ]
+    },
+    {
+      "pergunta": "1) COM QUE INTUITO DEVEMOS FINALIZAR AS FICHAS DO FAST?",
+      "opcoes": [
+        "PAGAMENTO DE BENEFÍCIOS.",
+        "AGENDAR EXAMES.",
+        "DAR VISIBILIDADE DOS PROCESSOS CONCLUÍDOS.",
+        "LIBERAR FILA DE ATENDIMENTO."
+      ]
+    }
+  ]
+}
