@@ -1,0 +1,52 @@
+{
+  "treinamento": "HIGIENE GERAL DOS UTENSÍLIOS_ALIMENTAÇÃO",
+  "id": 327,
+  "idChecklist": 226,
+  "perguntas": [
+    {
+      "pergunta": "5) O conceito de Higienização é:",
+      "opcoes": [
+        "Remover as sujidades com água e detergente.",
+        "Remover as sujidades com água, sanitizante e detergente.",
+        "Remover as sujidades com lavagem a seco e borrifar sanitizante.",
+        "Remover as sujidades com água, soda cáustica e detergente."
+      ]
+    },
+    {
+      "pergunta": "4) Com relação a higiene geral do ambiente:",
+      "opcoes": [
+        "Devemos manter os ambientes limpos e áreas secas.",
+        "Buchas devem ser usadas para todas as áreas.",
+        "Os lixos devem ficar todos juntos para posterirormente esvaziar as lixeiras.",
+        "Geladeiras e equipamentos de frio não podem usar sanitizantes."
+      ]
+    },
+    {
+      "pergunta": "3) Para higienizar os equipamentos, devemos:",
+      "opcoes": [
+        "Lavar a seco para enferrujar as peças e borrifar álcool 70%.",
+        "Desmontar, borrifar peça a peça e secar logo após o uso.",
+        "Desmontar, lavar, escovar as peças, higienizar e secar logo após o uso.",
+        "Lavar, higienizar se der tempo até a troca do turno."
+      ]
+    },
+    {
+      "pergunta": "2) Quais itens são necessários em uma higienização?",
+      "opcoes": [
+        "Balde, rodo, vassoura com cabo de madeira, vassoura piaçava, pano descartável.",
+        "Cabo LT, rodinho de pia, pano de nylon, escova dupla face.",
+        "Borrifador, rodinho de pia, pano de algodão, rodo com cabo de plástico.",
+        "Escova de cerda natural, mop, papel descartável, fibra macia."
+      ]
+    },
+    {
+      "pergunta": "1) Qual a importância da sanitização?",
+      "opcoes": [
+        "Aumentar o trabalho na hora da limpeza.",
+        "Reduzir a carga microbiana presente nos utensílios.",
+        "Remove as sujidades.",
+        "Aumentar a ação do detergente."
+      ]
+    }
+  ]
+}
