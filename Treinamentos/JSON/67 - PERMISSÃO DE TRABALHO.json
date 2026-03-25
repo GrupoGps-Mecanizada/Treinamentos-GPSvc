@@ -1,0 +1,52 @@
+{
+  "treinamento": "PERMISSÃO DE TRABALHO",
+  "id": 67,
+  "idChecklist": 41,
+  "perguntas": [
+    {
+      "pergunta": "5) Assinale a alternativa VERDADEIRA",
+      "opcoes": [
+        "Ninguém é responsável por abrir Permissão de trabalho.",
+        "Posso trabalhar sem me preocupar em olhar os riscos da minha atividade.",
+        "É de responsabilidade de todos que no momento de alguma situação insegura, pare a atividade e comunique os envolvidos.",
+        "Não preciso usar EPI para realizar atividade no trabalho."
+      ]
+    },
+    {
+      "pergunta": "4) A atividade pode ser concluída após?",
+      "opcoes": [
+        "Remoção de equipamentos, resíduos e equipe do local, inspeção pelo Emitente e testes quando pertinente.",
+        "A saída de todos.",
+        "O equipamento quebrar ou danificar.",
+        "Duas horas após o início."
+      ]
+    },
+    {
+      "pergunta": "3) Quais são os personagens com responsabilidades definidas na PT?",
+      "opcoes": [
+        "Emitente e Co-emitente.",
+        "Emitente e Fiscal.",
+        "Emitente e Analista.",
+        "Apenas Co-emitente."
+      ]
+    },
+    {
+      "pergunta": "2) De acordo com o vídeo, quais são os três sentidos que devemos estar atentos?",
+      "opcoes": [
+        "Paladar, Tato e Audição.",
+        "Visão, Olfato e Audição.",
+        "Paladar, Tato e Olfato.",
+        "Olfato, Paladar e Visão."
+      ]
+    },
+    {
+      "pergunta": "1) A permissão de trabalho é um documento deve ser preenchido quando?",
+      "opcoes": [
+        "Antes da execução de alguma atividade operacional no trabalho, durante e depois da conclusão da atividade.",
+        "Ao final do mês de trabalho.",
+        "Na minha casa com a família.",
+        "Duas vezes ao mês."
+      ]
+    }
+  ]
+}
