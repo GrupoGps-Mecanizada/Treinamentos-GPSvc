@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR11.14. SEGURANÇA EM CASO DE CAPOTAMENTO",
+  "id": 260,
+  "idChecklist": 172,
+  "perguntas": [
+    {
+      "pergunta": "5) Se houver capotamento, qual a maneira correta de manter a estabilidade do equipamento?",
+      "opcoes": [
+        "Soltar o volante e ficar com as mãos livres.",
+        "Segurar de maneira firme no volante da empilhadeira para fixar melhor o corpo sobre o banco e aumentar a estabilidade do operador do equipamento sobre o banco.",
+        "Cruzar os braços.",
+        "Colocar as mãos no banco e no freio de mão."
+      ]
+    },
+    {
+      "pergunta": "4) Com base no treinamento, caso ocorra o capotamento, o que devo fazer?",
+      "opcoes": [
+        "Inclinar-se para o lado oposto do sentido da queda, auxiliando na força contraria ao movimento da empilhadeira e aumentando a estabilidade do operador sobre o equipamento.",
+        "Inclinar para o mesmo sentido do tombamento.",
+        "Gritar por socorro.",
+        "Todas as alternativas."
+      ]
+    },
+    {
+      "pergunta": "3) Se houver capotamento, qual é um dos procedimentos a serem seguidos?",
+      "opcoes": [
+        "Caso a empilhadeira venha a tombar, devo tentar pular do equipamento em movimento para me salvar.",
+        "Tirar o cinto imediatamente para pular do equipamento.",
+        "Não saltar ou pular do equipamento em movimento, pois pode ocasionar esmagamento. O mais seguro é se fixar ao banco da cabine pelo cinto de segurança.",
+        "Todas alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "2) Por que não devo operar a empilhadeira com os garfos totalmente no chão?",
+      "opcoes": [
+        "Para não danificar os garfos.",
+        "Para evitar que o mesmo colida com sua extremidade em irregularidades, lombadas, tachões e ocorra o tombamento lateral. O correto é o garfo a uma altura de 10 à 15 cm do piso.",
+        "Para não danificar o piso.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "1) É possível uma empilhadeira capotar?",
+      "opcoes": [
+        "Sim, a empilhadeira pode capotar se for operada de maneira inadequada.",
+        "Não, impossível ocorrer o capotamento.",
+        "Sim, mas somente se eu acelerar muito o equipamento.",
+        "Todas as alternativas estão corretas."
+      ]
+    }
+  ]
+}
