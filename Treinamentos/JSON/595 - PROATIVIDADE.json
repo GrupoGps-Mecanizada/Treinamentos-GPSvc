@@ -1,0 +1,52 @@
+{
+  "treinamento": "PROATIVIDADE",
+  "id": 595,
+  "idChecklist": 382,
+  "perguntas": [
+    {
+      "pergunta": "5) Por que as pessoas proativas usam o conhecimento sobre a cultura da empresa?",
+      "opcoes": [
+        "Para orientar seu processo de tomada de decisão, esperando uma ordem direta de um superior.",
+        "Para orientar suas atividades durante o dia a dia.",
+        "Para orientar seu processo de tomada de decisão, sem precisar esperar até que a ordem venha de um superior.",
+        "Para orientar suas atitudes em uma reunião de trabalho com a equipe."
+      ]
+    },
+    {
+      "pergunta": "4) Assinale a alternativa correta para completar a frase, seguindo o que foi dito no treinamento: “Sendo um profissional proativo, você não espera por oportunidades, você _______.",
+      "opcoes": [
+        "As desperdiça.",
+        "Pede por ajuda.",
+        "Se acomoda na sua zona de conforto.",
+        "As cria."
+      ]
+    },
+    {
+      "pergunta": "3) O que você precisa fazer para ser uma pessoa proativa?",
+      "opcoes": [
+        "A proatividade é uma habilidade, portanto, todos já nascem com ela.",
+        "A proatividade é uma habilidade, portanto, tudo que você precisa é se dedicar e ter paciência para desenvolvê-la;",
+        "A proatividade é uma habilidade, portanto, tudo que você precisa é não se dedicar e ter paciência para desenvolvê-la.",
+        "A proatividade não é uma habilidade, portanto, apenas algumas pessoas podem desenvolvê-la."
+      ]
+    },
+    {
+      "pergunta": "2) O que significa ser proativo?",
+      "opcoes": [
+        "Ser proativo é a capacidade de agir, de assumir responsabilidades e de planejar a tomada de decisões de forma a atingir um objetivo previamente estabelecido.",
+        "Ser proativo é apenas a capacidade de resolução de problemas, evitando prejuízo financeiro.",
+        "Ser proativo é a incapacidade de agir, assumir responsabilidades e de planejar tomadas de decisões.",
+        "Ser proativo é a capacidade de de agir, de não assumir responsabilidades e de não planejar a tomada de decisões."
+      ]
+    },
+    {
+      "pergunta": "1) O que significa proatividade?",
+      "opcoes": [
+        "Agir apenas quando sua ajuda for solicitada.",
+        "Agir em antecipação à soluções, necessidades ou mudanças futuras.",
+        "Agir em antecipação à problemas, necessidades ou mudanças futuras.",
+        "Agir apenas quando o problema estiver em estado crítico."
+      ]
+    }
+  ]
+}
