@@ -1,0 +1,52 @@
+{
+  "treinamento": "CUIDADOS AO USAR ESCADA MÓVEL_TREINAMENTO PRESENCIAL",
+  "id": 1509,
+  "idChecklist": 1249,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE FAZER SE NOTAR QUE A ESCADA ESTÁ QUEBRADA OU EM MÁ CONDIÇÃO?",
+      "opcoes": [
+        "USAR MESMO ASSIM.",
+        "TENTAR CONSERTAR SOZINHO.",
+        "AVISAR SEU SUPERVISOR IMEDIATAMENTE E NÃO USAR.",
+        "NENHUMA DAS ALTERNATIVAS ANTERIORES."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE FAZER SE PRECISAR PEGAR ALGO QUE ESTÁ LONGE ENQUANTO ESTÁ EM CIMA DA ESCADA?",
+      "opcoes": [
+        "ESTICAR O CORPO PARA ALCANÇAR.",
+        "DESCER E REPOSICIONAR A ESCADA.",
+        "PULAR DE UM DEGRAU PARA O OUTRO.",
+        "PEDIR PARA ALGUÉM TRAZER O ITEM."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE É IMPORTANTE AO SUBIR OU DESCER A ESCADA?",
+      "opcoes": [
+        "SUBIR CORRENDO PARA TERMINAR RÁPIDO.",
+        "PISAR NOS CANTOS DOS DEGRAUS PARA GANHAR ESPAÇO.",
+        "SEGURAR FIRME E SUBIR DEVAGAR.",
+        "CARREGAR O MÁXIMO DE PESO ENQUANTO SOBE."
+      ]
+    },
+    {
+      "pergunta": "2) ONDE VOCÊ DEVE APOIAR A ESCADA PARA USÁ-LA COM SEGURANÇA?",
+      "opcoes": [
+        "EM UMA SUPERFÍCIE FIRME E SECA.",
+        "EM QUALQUER SUPERFÍCIE, MOLHADA OU SECA.",
+        "NO MEIO DA COZINHA, ONDE TEM MAIS MOVIMENTO.",
+        "PERTO DE UMA PORTA, PARA APOIAR."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE VOCÊ DEVE FAZER ANTES DE USAR A ESCADA MÓVEL?",
+      "opcoes": [
+        "SUBIR DIRETO, SEM CHECAR.",
+        "VERIFICAR SE A ESCADA ESTÁ EM BOAS CONDIÇÕES.",
+        "CHAMAR ALGUÉM PARA AJUDAR.",
+        "PEGAR A MERCADORIA RAPIDAMENTE."
+      ]
+    }
+  ]
+}
