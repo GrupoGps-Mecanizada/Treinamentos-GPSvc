@@ -1,0 +1,52 @@
+{
+  "treinamento": "EMISSÃO DO RELATÓRIO DE SEPARAÇÃO_FURUKAWA ELETRIC LATAM",
+  "id": 972,
+  "idChecklist": 746,
+  "perguntas": [
+    {
+      "pergunta": "5) ASSINALE ABAIXO A ALTERNATIVA CORRETA. NO CAMPO PRIORIDADE INSERIMOS O NÚMERO DA PRIORIDADE:",
+      "opcoes": [
+        "DO MENOR PARA O MAIOR.",
+        "DO MAIOR PARA O MENOR.",
+        "NÃO INSERIMOS NÚMERO.",
+        "INSERIMOS UM NÚMERO ALEATÓRIO."
+      ]
+    },
+    {
+      "pergunta": "4) NO SISTEMA ORACLE, EM QUAL ORGANIZAÇÃO DEVE SER SELECIONADA PARA BUSCAR O RELATÓRIO MOVE ORDER?",
+      "opcoes": [
+        "ORGANIZAÇÃO A01.",
+        "ORGANIZAÇÃO A15.",
+        "ORGANIZAÇÃO A01 E A15.",
+        "NENHUMA DAS OPÇÕES ACIMA."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE QUER DIZER S.R.M?",
+      "opcoes": [
+        "SITUAÇÃO DE REQUISIÇÃO DE MATERIAIS.",
+        "SISTEMA DE REQUISITO DE MATÉRIAS.",
+        "SISTEMA DE REQUISIÇÃO DE MATERIAIS.",
+        "SITUAÇÃO DE RECUSA DE MATERIAIS."
+      ]
+    },
+    {
+      "pergunta": "2) EM QUE SISTEMA É REALIZADO O ENFILEIRAMENTO DAS LINHAS A SEREM CARREGADAS?",
+      "opcoes": [
+        "SISTEMA ORACLE.",
+        "SISTEMA S.R.M.",
+        "SISTEMA GPS.",
+        "NENHUMA DAS OPÇÕES ACIMA."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O PRINCIPAL OBJETIVO PARA ESTE TREINAMENTO?",
+      "opcoes": [
+        "DEMONSTRAR A FORMA INCORRETA PARA EMITIR O RELATÓRIO DE SEPARAÇÃO.",
+        "DEMONSTRAR A FORMA CORRETA PARA EMITIR O RELATÓRIO DE SEPARAÇÃO.",
+        "DEMONSTRAR A FORMA CORRETA DE EMITIR A PRODUTIVIDADE DA MOVE ORDER.",
+        "DEMONSTRAR A FORMA CORRETA DE VERIFICAR AS LINHAS DO SPAA."
+      ]
+    }
+  ]
+}
