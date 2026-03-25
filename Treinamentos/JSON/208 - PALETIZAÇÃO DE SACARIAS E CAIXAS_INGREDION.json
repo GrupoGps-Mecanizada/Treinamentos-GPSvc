@@ -1,0 +1,52 @@
+{
+  "treinamento": "PALETIZAÇÃO DE SACARIAS E CAIXAS_INGREDION",
+  "id": 208,
+  "idChecklist": 122,
+  "perguntas": [
+    {
+      "pergunta": "5) Após o término de montagem da mesa e conferência do operador de empilhadeira, se a mesa estiver desalinhada e com avarias, é necessário?",
+      "opcoes": [
+        "Rebater a mesa.",
+        "Sair e deixar a mesa do mesmo jeito.",
+        "Convencer o operador que a mesa está bem montada.",
+        "Montar a mesa no pallet quebrado."
+      ]
+    },
+    {
+      "pergunta": "4) Nas caixas de OSA e CWS, sempre conferir se a caixa está:",
+      "opcoes": [
+        "Pesada.",
+        "Etiquetada, rotulada, parte superior fechada, limpar com espanador.",
+        "Grande.",
+        "Com mal cheiro."
+      ]
+    },
+    {
+      "pergunta": "3) Qual verificação deve ser feita nas sacarias?",
+      "opcoes": [
+        "Peso, selagem e impressão nítida.",
+        "Cor da sacaria e peso.",
+        "Peso, tamanho e impressão.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "2) No treinamento orientamos a colocar bandeja plástica sobre o pallet, mas a bandeja é necessária em qual produção?",
+      "opcoes": [
+        "Sacaria de Milho.",
+        "Pregel e Dextrina.",
+        "Sacaria de avaria.",
+        "Nenhuma opção correta."
+      ]
+    },
+    {
+      "pergunta": "1) Qual é o máximo de pallets que se pode solicitar ao operador de empilhadeira?",
+      "opcoes": [
+        "15.",
+        "10.",
+        "8.",
+        "7."
+      ]
+    }
+  ]
+}
