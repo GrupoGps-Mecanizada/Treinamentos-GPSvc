@@ -1,0 +1,52 @@
+{
+  "treinamento": "ENTREVISTA DE SELEÇÃO I",
+  "id": 318,
+  "idChecklist": 217,
+  "perguntas": [
+    {
+      "pergunta": "5) Com base no treinamento, numa entrevista estruturada as perguntas situacionais são:",
+      "opcoes": [
+        "Perguntas que transmitem os valores da empresa.",
+        "Questões comportamentais, que permitem muitas interpretações.",
+        "Perguntas comportamentais, que sugerem uma situação ao Candidato.",
+        "Perguntas comportamentais, que deixam o Candidato mais à vontade."
+      ]
+    },
+    {
+      "pergunta": "4) Algumas questões devem ser observadas para que o momento da entrevista seja produtivo:",
+      "opcoes": [
+        "Local e horário que o Candidato chegou para a entrevista.",
+        "Local, horário marcado, integração do Colaborador e entrega de EPIs.",
+        "Local, horário marcado e apresentação do Candidato.",
+        "Local, horário marcado, apresentação da empresa e do entrevistador, e descrição de cargo."
+      ]
+    },
+    {
+      "pergunta": "3) De acordo com o treinamento o entrevistador deve conduzir a entrevista:",
+      "opcoes": [
+        "Formulando uma prova objetiva.",
+        "Formulando perguntas claras e que resgatem vivências e atividades já realizadas pelo Candidato.",
+        "Conversando informalmente com o Candidato.",
+        "Formulando perguntas sobre a vida pessoal e religiosa do Candidato."
+      ]
+    },
+    {
+      "pergunta": "2) No treinamento, vimos que além de conhecer a empresa, também é importante que o entrevistador:",
+      "opcoes": [
+        "Esteja na empresa há, pelo menos, cinco anos.",
+        "Também conheça previamente o Candidato.",
+        "Detenha tempo disponível para fazer uma entrevista demorada e bem detalhada.",
+        "Detenha informações sobre as atividades da função e sobre as peculiaridades do contrato, aonde a vaga está disponível."
+      ]
+    },
+    {
+      "pergunta": "1) Com base no treinamento, podemos dizer que um roteiro com perguntas predefinidas:",
+      "opcoes": [
+        "Auxilia na identificação de ex-Colaboradores no processo seletivo.",
+        "Auxilia na otimização do tempo e possibilita a coleta das informações necessárias, para contratações mais assertivas.",
+        "Auxilia na coleta de informações e dados para o processo de admissão.",
+        "Auxilia na otimização do tempo de deslocamento do Colaborador até o local de trabalho."
+      ]
+    }
+  ]
+}
