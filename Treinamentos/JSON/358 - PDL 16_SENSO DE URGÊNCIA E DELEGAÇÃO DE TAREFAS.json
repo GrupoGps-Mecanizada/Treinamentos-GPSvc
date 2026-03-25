@@ -1,0 +1,52 @@
+{
+  "treinamento": "PDL 16_SENSO DE URGÊNCIA E DELEGAÇÃO DE TAREFAS",
+  "id": 358,
+  "idChecklist": 256,
+  "perguntas": [
+    {
+      "pergunta": "5) Podemos dizer que delegar é",
+      "opcoes": [
+        "Tirar de sua responsabilidade, as coisas chatas do seu trabalho",
+        "Distribuir atividades, otimizando seu tempo e estimulando seus Colaboradores a tomarem decisões",
+        "Controlar todas as tarefas da equipe para saber quem errou e tomar as devidas providências",
+        "“Mandar” na equipe"
+      ]
+    },
+    {
+      "pergunta": "4) Com base no treinamento, podemos dizer que procrastinar é",
+      "opcoes": [
+        "Deixar para depois",
+        "Adiar",
+        "Fazer outro dia",
+        "Todas as alternativas"
+      ]
+    },
+    {
+      "pergunta": "3) No treinamento vimos que três pontos podem ajudar a desenvolver o senso de urgência, eles são:",
+      "opcoes": [
+        "Saber priorizar – conhecer os impactos do seu trabalho – deixar as desculpas de lado",
+        "Trabalhar em equipe – ser perfeccionista – saber sobre as atividades dos outros",
+        "Centralizar suas tarefas – organizar a rotina – ser conservador",
+        "Organizar tarefas – melhorar as desculpas – motivar o time"
+      ]
+    },
+    {
+      "pergunta": "2) De acordo com o treinamento, uma ferramenta de gestão é importante para",
+      "opcoes": [
+        "Para saber a quem procurar para solicitar ajuda",
+        "Para saber a quem delegar as tarefas",
+        "Para apoiar na gestão do tempo, na administração do seu senso de urgência e a organizar as prioridades",
+        "Para ter provas que estamos realizando nossas tarefas"
+      ]
+    },
+    {
+      "pergunta": "1) Vimos no treinamento que senso de urgência é",
+      "opcoes": [
+        "Saber fazer tudo ao mesmo tempo, sem atrasar nada e entregando o que acabar primeiro",
+        "Saber priorizar de maneira a entregar as tarefas mais importantes primeiro e não procrastinar",
+        "Fazer tudo o que seu líder pedir primeiro",
+        "Fazer o que já está no prazo final, esperando que os outros sinalizem o que você deve fazer primeiro"
+      ]
+    }
+  ]
+}
