@@ -1,0 +1,52 @@
+{
+  "treinamento": "CABINE PRIMÁRIA - PARTE 3 - MÓDULO IV_ENGENHARIA",
+  "id": 1133,
+  "idChecklist": 906,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL É A FINALIDADE DO TUBO DE SÍLICA-GEL NO TRANSFORMADOR?",
+      "opcoes": [
+        "INDICAR O VOLUME DE ÓLEO NO TANQUE.",
+        "REFRIGERAÇÃO DO ÓLEO ISOLANTE.",
+        "ABSORVER A UMIDADE DO AR.",
+        "SINALIZAR COM ALARME EM CASO DE PONTO CRÍTICO NO ÓLEO."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE SIGNIFICA \"O\" NAS OBSERVAÇÕES RELACIONADAS AOS VALORES ENCONTRADOS NOS ENSAIOS?",
+      "opcoes": [
+        "EVOLUÇÃO POSITIVA DO ÓLEO.",
+        "NÃO DETECTADO.",
+        "CRESCIMENTO DOS GASES.",
+        "SUPEROU OS VALORES DE REFERÊNCIA."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE INDICA A MUDANÇA DE COR DA SÍLICA-GEL NO SECADOR DE AR?",
+      "opcoes": [
+        "A PRESENÇA DE GASES DISSOLVIDOS NO ÓLEO.",
+        "A NECESSIDADE DE TROCAR O ÓLEO DO TRANSFORMADOR.",
+        "A SATURAÇÃO PELA ABSORÇÃO DE UMIDADE.",
+        "O AUMENTO DA TEMPERATURA AMBIENTE."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL É A FUNÇÃO DOS RADIADORES NO TRANSFORMADOR?",
+      "opcoes": [
+        "TRANSFERIR CALOR PARA FORA DO TANQUE.",
+        "ARMAZENAR O ÓLEO ISOLANTE.",
+        "REFORÇAR AS CHAPAS DO TANQUE.",
+        "ABSORVER A UMIDADE DO AR."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É A FINALIDADE DO BALONETE NO TRANSFORMADOR?",
+      "opcoes": [
+        "REFRIGERAÇÃO DO ÓLEO ISOLANTE.",
+        "INDICAÇÃO DO NÍVEL DE ÓLEO.",
+        "COMPENSAR VARIAÇÕES DE VOLUME DE ÓLEO.",
+        "ABSORVER UMIDADE DO AR."
+      ]
+    }
+  ]
+}
