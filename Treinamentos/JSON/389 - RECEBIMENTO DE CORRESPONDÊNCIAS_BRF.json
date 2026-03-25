@@ -1,0 +1,52 @@
+{
+  "treinamento": "RECEBIMENTO DE CORRESPONDÊNCIAS_BRF",
+  "id": 389,
+  "idChecklist": 282,
+  "perguntas": [
+    {
+      "pergunta": "5) Quem é o profissional responsável em fazer a entrega da correspondência?",
+      "opcoes": [
+        "Controlador de acesso.",
+        "Recepcionista.",
+        "Porteiro.",
+        "Vigilante."
+      ]
+    },
+    {
+      "pergunta": "4) Quais dados devem constar no livro de protocolos?",
+      "opcoes": [
+        "Nome do Colaborador BRF.",
+        "Nome da empresa e vigilante.",
+        "Data, horário e nome do responsável pelo recebimento.",
+        "Escala e horário do vigilante."
+      ]
+    },
+    {
+      "pergunta": "3) No ato da entrega no que o vigilante deve se atentar?",
+      "opcoes": [
+        "Não registrar a entrega do volume.",
+        "Registrar em caderno de protocolo a entrega do volume.",
+        "Deixar o volume na sala de segurança patrimonial.",
+        "Aguardar que alguma pessoa procure pela correspondência."
+      ]
+    },
+    {
+      "pergunta": "2) Após fazer a comunicação da chegada de uma correspondência, o que o vigilante deverá fazer?",
+      "opcoes": [
+        "Descartar a correspondência.",
+        "Violar para saber o que tem dentro do volume.",
+        "Entregar para qualquer pessoa.",
+        "Deverá se deslocar com a respondência para ser entregue ao setor responsável."
+      ]
+    },
+    {
+      "pergunta": "1) O que o vigilante deve fazer quando receber algum tipo de correspondência?",
+      "opcoes": [
+        "Deverá guardar na Portaria.",
+        "Levar para casa.",
+        "Receber e de imediato comunicar o setor responsável.",
+        "Deixar exposto do lado externo da portaria."
+      ]
+    }
+  ]
+}
