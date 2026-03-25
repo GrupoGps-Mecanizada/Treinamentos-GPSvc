@@ -1,0 +1,52 @@
+{
+  "treinamento": "ESTUDAR VALE A PENA.AUTODESENVOLVIMENTO",
+  "id": 270,
+  "idChecklist": 182,
+  "perguntas": [
+    {
+      "pergunta": "5) Antes de começar os estudos qual etapa é importante?",
+      "opcoes": [
+        "Planejar.",
+        "Ter dinheiro.",
+        "Ter tempo.",
+        "Sonhar."
+      ]
+    },
+    {
+      "pergunta": "4) Complete a frase citada no treinamento. Estudar gera mais ______?",
+      "opcoes": [
+        "Confiança.",
+        "Amor.",
+        "Insensibilidade.",
+        "Alegria."
+      ]
+    },
+    {
+      "pergunta": "3) Assinale a alternativa CORRETA relacionado a importância de estudar.",
+      "opcoes": [
+        "Estudar é um momento com você mesmo, que agrega ao seu caminho e motiva a correr atrás dos seus sonhos, além de criar liberdade de escolha.",
+        "Estudar pode gerar depressão, pois quanto mais conhecimento mais tristeza pelo mundo.",
+        "Estudar não é para qualquer idade, somente os jovens tem acesso a isso.",
+        "Estudar é um investimento para a empresa e não para minha vida."
+      ]
+    },
+    {
+      "pergunta": "2) O estudo mantém ativo qual parte do corpo humano?",
+      "opcoes": [
+        "Braços.",
+        "Cérebro.",
+        "Pernas.",
+        "Coração."
+      ]
+    },
+    {
+      "pergunta": "1) O treinamento cita uma doença que pode ser evitada com a prática de estudos, qual é ela?",
+      "opcoes": [
+        "Câncer.",
+        "Alzheimer.",
+        "Paralisia.",
+        "AIDS."
+      ]
+    }
+  ]
+}
