@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA SEGURA EM SALAS DE RESSONÂNCIA MAGNÉTICA",
+  "id": 1657,
+  "idChecklist": 1358,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAL KIT DEVE SER USADO NA LIMPEZA DA SALA DE RM?",
+      "opcoes": [
+        "KIT DA SALA DE CURATIVOS.",
+        "KIT EXCLUSIVO ROTULADO COMO “MR SAFE”.",
+        "QUALQUER ITEM DO ALMOXARIFADO.",
+        "KIT DE USO GERAL DO HOSPITAL."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE O PROFISSIONAL DEVE FAZER ANTES DE INICIAR A LIMPEZA NA SALA DE RM?",
+      "opcoes": [
+        "APRESENTAR-SE À EQUIPE DE RESSONÂNCIA.",
+        "ENTRAR COM BALDE COMUM.",
+        "ESPERAR ALGUÉM CHAMAR.",
+        "LER UM AVISO NA PORTA."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE PODE ACONTECER SE UM OBJETO METÁLICO ENTRAR NA SALA DE RM?",
+      "opcoes": [
+        "ELE SERÁ DESMAGNETIZADO.",
+        "SERÁ DETECTADO POR SENSORES E BLOQUEADO.",
+        "NADA, SE FOR PEQUENO.",
+        "PODE SER PUXADO VIOLENTAMENTE E CAUSAR ACIDENTES."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL OBJETO PESSOAL É PROIBIDO NA ÁREA DA RM?",
+      "opcoes": [
+        "AVENTAL IMPERMEÁVEL.",
+        "MÁSCARA CIRÚRGICA.",
+        "RELÓGIO COM PULSEIRA METÁLICA.",
+        "TOUCA DE PROTEÇÃO."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE TORNA A SALA DE RM UM AMBIENTE DE ALTO RISCO?",
+      "opcoes": [
+        "USO DE PRODUTOS QUÍMICOS.",
+        "CAMPO MAGNÉTICO EXTREMAMENTE POTENTE.",
+        "FALTA DE ILUMINAÇÃO.",
+        "EQUIPAMENTOS CORTANTES NO LOCAL."
+      ]
+    }
+  ]
+}
