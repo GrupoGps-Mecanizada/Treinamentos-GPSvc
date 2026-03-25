@@ -1,0 +1,52 @@
+{
+  "treinamento": "SSMA LC - CHOQUE ELÉTRICO_LC",
+  "id": 565,
+  "idChecklist": 366,
+  "perguntas": [
+    {
+      "pergunta": "5) Quem pode realizar manutenção no equipamento elétrico?",
+      "opcoes": [
+        "Qualquer pessoa.",
+        "Equipe especializada.",
+        "Nutricionista.",
+        "Pelo Colaborador."
+      ]
+    },
+    {
+      "pergunta": "4) Que cuidados devemos tomar para evitar choque elétrico?",
+      "opcoes": [
+        "Ligar vários equipamentos na mesma tomada e remendar os fios com durex.",
+        "Inspecionar o equipamento se possui boas condições de uso, ligar um equipamento por vez na tomada e desligar da tomada após o uso.",
+        "Usar equipamentos com fios descascados ou derretidos.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) O que devemos fazer depois de utilizarmos o equipamento elétrico?",
+      "opcoes": [
+        "Desligar e higienizar.",
+        "Guardar sem higienizar.",
+        "Higienizar sem desligar.",
+        "Limpar e desligar."
+      ]
+    },
+    {
+      "pergunta": "2) O que devemos fazer antes de iniciar a higienização de um equipamento elétrico?",
+      "opcoes": [
+        "Desligar o equipamento da tomada e colocar os EPI’s apropriados.",
+        "Só colocar os EPI’s apropriados.",
+        "Só avisar a equipe que vou higienizar o equipamento.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "1) O que devemos verificar antes de usar um equipamento elétrico?",
+      "opcoes": [
+        "Se eles estão limpos.",
+        "Se estão em boas condições de uso.",
+        "Usar sem verificar.",
+        "Nenhuma das alternativas."
+      ]
+    }
+  ]
+}
