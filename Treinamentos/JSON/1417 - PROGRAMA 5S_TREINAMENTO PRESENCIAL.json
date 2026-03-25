@@ -1,0 +1,52 @@
+{
+  "treinamento": "PROGRAMA 5S_TREINAMENTO PRESENCIAL",
+  "id": 1417,
+  "idChecklist": 1172,
+  "perguntas": [
+    {
+      "pergunta": "5) COMO APLICAR NO DIA A DIA O PROGRAMA 5S?",
+      "opcoes": [
+        "MANTENDO NOSSO AMBIENTE LIMPO E ORGANIZADO, IDENTIFICANDO CADA COISA EM SEU LUGAR.",
+        "DEIXANDO TUDO BAGUNÇADO.",
+        "MANTENDO NOSSO AMBIENTE LIMPO E SEM ORGANIZAÇÃO.",
+        "NENHUMA DAS ALTERNATIVAS ANTERIORES."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL O 2º SENSO?",
+      "opcoes": [
+        "SEISO - LIMPEZA.",
+        "SEITON - ORGANIZAÇÃO.",
+        "SEIRI - UTILIZAÇÃO.",
+        "SHITSUKE - DISCIPLINA."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE O PRIMEIRO SENSO – SEIRI/UTILIZAÇÃO NOS ENSINA?",
+      "opcoes": [
+        "MISTURAR TODOS OS OBJETOS E DOCUMENTO.",
+        "MANTER O AMBIENTE LIMPO.",
+        "PADRONIZAÇÃO.",
+        "SEPARAR O NECESSÁRIO DO NÃO NECESSÁRIO."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS OS 5 SENSOS?",
+      "opcoes": [
+        "SEIRI – SIELO – SEISO – KARO - SHITSUKE.",
+        "SEIRI – MASTER – SEISO – SEITON - SHITSUKE.",
+        "SEIRI – SEITON – SEISO – SEIKETSU – SHITSUKE.",
+        "SEIRI – SEITON – SEISO – POLO - SHITSUKE."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE É 5S?",
+      "opcoes": [
+        "É UM PROGRAMA QUE AS EMPRESAS BUSCAM PARA DESORGANIZAR OS SEUS COLABORADORES.",
+        "É UM PROGRAMA QUE VISA MELHORAR A ORGANIZAÇÃO, LIMPEZA E EFICIÊNCIA NO LOCAL DE TRABALHO.",
+        "É UM PROGRAMA QUE NÃO VAI NOS AGREGAR NADA.",
+        "NENHUMA DAS ALTERNATIVAS ANTERIORES."
+      ]
+    }
+  ]
+}
