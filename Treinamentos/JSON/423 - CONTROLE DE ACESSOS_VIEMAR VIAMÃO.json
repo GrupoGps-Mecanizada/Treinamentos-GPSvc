@@ -1,0 +1,52 @@
+{
+  "treinamento": "CONTROLE DE ACESSOS_VIEMAR VIAMÃO",
+  "id": 423,
+  "idChecklist": 316,
+  "perguntas": [
+    {
+      "pergunta": "5) Identificação e Registro do Notebook, deve conter quais informações?",
+      "opcoes": [
+        "Marca, Modelo, Serial, Setor e Assinatura do Gestor responsável pela visita ou prestação de serviço.",
+        "Não precisa fazer nenhum controle de Notebook na portaria.",
+        "Todos os visitantes e prestadores tem acesso liberado e sem controle de Notebook e ferramentas.",
+        "Somente o controle visual, sem registro de entrada e saída de Notebook."
+      ]
+    },
+    {
+      "pergunta": "4) É permitido o acesso de funcionários em Férias ou de Atestado na Viemar?",
+      "opcoes": [
+        "Sim, o acesso é liberado para todos.",
+        "Todos os funcionários tem acesso ao administrativo.",
+        "Se o líder do funcionário liberar verbalmente poderá acessar a fábrica.",
+        "Não liberar acesso e comunicar de Imediato o RH; Casiane, Luiz, Ingredi, Zuzete ou Sandra."
+      ]
+    },
+    {
+      "pergunta": "3) Em caso de acesso fora da faixa de horário de liberação de acesso, como devemos proceder?",
+      "opcoes": [
+        "Liberar o acesso mediante autorização verbal.",
+        "Comunicar o coordenador do funcionário e o mesmo fará a liberação via sistema ou e-mail.",
+        "Liberar acesso com crachá reserva e não fazer o registro.",
+        "Todas as Alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "2) Acesso Negado, Inválido, Intervenção, Afastamento, o Vigilante ou ASP da Portaria 2 deve:",
+      "opcoes": [
+        "Liberar o acesso a fábrica com cartão mestre.",
+        "Pedir autorização de acesso ao gestor do Colaborador.",
+        "De Imediato contatar os Responsáveis do RH: Casiane, Luiz, Ingredi, Zuzete ou Sandra.",
+        "Comunicar o colega do monitoramento."
+      ]
+    },
+    {
+      "pergunta": "1) Em caso de Acesso Negado do funcionário na Portaria 1, qual a forma correta de proceder?",
+      "opcoes": [
+        "Liberar o acesso por conta própria.",
+        "Encaminhar o funcionário para o vestiário.",
+        "Mandar o funcionário voltar para sua casa.",
+        "Encaminhar o funcionário para a Portaria 2 para fazer o filtro no GerAcesso."
+      ]
+    }
+  ]
+}
