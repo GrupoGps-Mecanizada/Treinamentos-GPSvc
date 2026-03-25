@@ -1,0 +1,52 @@
+{
+  "treinamento": "PDL1_CHA",
+  "id": 80,
+  "idChecklist": 53,
+  "perguntas": [
+    {
+      "pergunta": "5) Estudos mostram que as pessoas são contratadas por suas competências técnicas e desligadas por:",
+      "opcoes": [
+        "Suas habilidades básicas.",
+        "Suas competências comportamentais.",
+        "Suas competências lógicas.",
+        "Não atingir suas metas."
+      ]
+    },
+    {
+      "pergunta": "4) Em resumo não adianta apenas ser bom tecnicamente, mas também é fundamental:",
+      "opcoes": [
+        "Se relacionar com as lideranças.",
+        "Se relacionar com o mercado.",
+        "Se relacionar com as pessoas ao nosso redor.",
+        "Se relacionar com as pessoas que podem me promover."
+      ]
+    },
+    {
+      "pergunta": "3) De acordo com o treinamento, podemos dizer que habilidade é:",
+      "opcoes": [
+        "Saber. É o domínio de ferramentas e métodos para realizar uma atividade.",
+        "Saber fazer. É o domínio de ferramentas e métodos para realizar uma atividade.",
+        "Saber fazer. É o domínio das ferramentas da empresa.",
+        "Fazer. É o domínio de ferramentas e métodos para realizar uma atividade."
+      ]
+    },
+    {
+      "pergunta": "2) Conforme treinamento, a sigla CHA, significa:",
+      "opcoes": [
+        "Conhecimento, Habilidade e Atitude.",
+        "Conhecimento, Harmonia e Atitude.",
+        "Capacitação, Habilidade e Atitude.",
+        "Competência, Habilidade e Atitude."
+      ]
+    },
+    {
+      "pergunta": "1) Baseado no treinamento, escolha a alternativa VERDADEIRA:",
+      "opcoes": [
+        "Competência é o conjunto de habilidades que possibilitam desempenhar determinada função.",
+        "Competência é o conjunto de conhecimentos que possibilitam desempenhar determinada função.",
+        "Competência é o conjunto de conhecimentos, habilidades e atitudes que possibilitam desempenhar determinada função.",
+        "Competência é o conjunto qualidades que possibilitam desempenhar determinada função."
+      ]
+    }
+  ]
+}
