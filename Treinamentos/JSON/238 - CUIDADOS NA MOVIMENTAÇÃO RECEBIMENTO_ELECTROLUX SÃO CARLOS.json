@@ -1,0 +1,52 @@
+{
+  "treinamento": "CUIDADOS NA MOVIMENTAÇÃO RECEBIMENTO_ELECTROLUX SÃO CARLOS",
+  "id": 238,
+  "idChecklist": 150,
+  "perguntas": [
+    {
+      "pergunta": "5) O que o operador pode fazer no dia a dia para evitar avarias no clamp?",
+      "opcoes": [
+        "Estar portando os EPI’s da atividade e fazer checklist.",
+        "Utilizar a pressão indicada para movimentação, aferir a pressão do clamp, movimentar os produtos na base do EPS.",
+        "Aferir a pressão do clamp, movimentar os produtos de qualquer maneira.",
+        "Utilizar a pressão indicada para movimentação, certificar que está portando os EPI's."
+      ]
+    },
+    {
+      "pergunta": "4) Ao movimentar os produtos da esteira para área de leitura, qual é o processo correto a realizar?",
+      "opcoes": [
+        "Aproximar a clamp no bloco, escolher qualquer pressão para clampagem.",
+        "Escolher a pressão correta para clampagem, movimentar da esteira para o solo em altura maior de 2 metros de altura.",
+        "Aproximar a clamp no bloco, escolher a pressão correta para clampagem, movimentar da esteira para o chão em altura próximo ao solo, alivia a pressão com bloco próximo ao solo.",
+        "Aproximar a clamp no bloco, movimentar da esteira para o chão em alta velocidade."
+      ]
+    },
+    {
+      "pergunta": "3) Para realizar a \"clampagem\" do produto ou bloco, a clamp deve estar:",
+      "opcoes": [
+        "Desalinhada para baixo, assim facilita a movimentação.",
+        "Aberta e desalinhada para baixo.",
+        "Alinhada na horizontal em 90°, para não danificar as bases e cantoneiras do produto.",
+        "Desalinhada para cima em ângulo de 45° para facilitar o ajuste."
+      ]
+    },
+    {
+      "pergunta": "2) Conforme treinamento, podemos dizer que:",
+      "opcoes": [
+        "As avarias causadas no processo não devem ser movimentadas de qualquer maneira, pois, são produtos recuperáveis.",
+        "As avarias acontecem raramente e podemos movimenta-las de qualquer maneira.",
+        "As avarias são sofridas apenas no transporte da fábrica para o CD.",
+        "As avarias acontecem somente no carregamento manual."
+      ]
+    },
+    {
+      "pergunta": "1) Baseado no treinamento, escolha a alternativa VERDADEIRA:",
+      "opcoes": [
+        "Avaria é qualquer dano ou estrago, deterioração ou desgaste que ocorra aos carrinhos e empilhadeiras.",
+        "Avaria é qualquer dano ou estrago, na pintura das lavadoras e fogões no momento da fabricação.",
+        "Avaria é qualquer dano ou estrago, que aconteça na casa do consumidor final.",
+        "Avaria é qualquer dano, estrago ou desgaste que ocorra a algo. Neste caso a cada fogão e lavadora."
+      ]
+    }
+  ]
+}
