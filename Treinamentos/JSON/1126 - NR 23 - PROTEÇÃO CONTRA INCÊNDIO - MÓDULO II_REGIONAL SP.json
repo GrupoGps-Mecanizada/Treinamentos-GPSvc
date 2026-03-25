@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR 23 - PROTEÇÃO CONTRA INCÊNDIO - MÓDULO II_REGIONAL SP",
+  "id": 1126,
+  "idChecklist": 899,
+  "perguntas": [
+    {
+      "pergunta": "5) QUAIS EXTINTORES SÃO VERSÁTEIS E EFICAZES PARA EXTINGUIR INCÊNDIOS EM MATERIAIS SÓLIDOS (CLASSE A), LÍQUIDOS INFLAMÁVEIS (CLASSE B) E EQUIPAMENTOS ELÉTRICOS ENERGIZADOS (CLASSE C)?",
+      "opcoes": [
+        "EXTINTOR DE ÁGUA PRESSURIZADA.",
+        "EXTINTORES DE DIÓXIDO DE CARBONO (CO2).",
+        "EXTINTORES TIPO ABC.",
+        "EXTINTORES DE PÓ QUÍMICO."
+      ]
+    },
+    {
+      "pergunta": "4) ASSINALE ABAIXO A ALTERNATIVA QUE INDIQUE TODAS AS CLASSES DO FOGO:",
+      "opcoes": [
+        "A; B; C.",
+        "A; B; C; D.",
+        "A; B; C; D; K.",
+        "A; B."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É O SIGNIFICADO DA SIGLA PAE?",
+      "opcoes": [
+        "PLANO DE ANDAMENTO DE EMERGÊNCIA.",
+        "PLANO DE ABANDONO DE EMERGÊNCIA.",
+        "PROTEÇÃO DE ABANDONO DE EMERGÊNCIA.",
+        "PROTEÇÃO DE ANDAMENTO DE EMERGÊNCIA."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE AS PLACAS DE SINALIZAÇÃO VERDE INDICAM?",
+      "opcoes": [
+        "SEGURANÇA E ORIENTAÇÕES DE EMERGÊNCIA.",
+        "PROTEÇÃO E COMBATE A INCÊNDIO.",
+        "PROTEÇÃO E SEGURANÇA.",
+        "APENAS SEGURANÇA."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O GRUPO FORMADO POR COLABORADORES, QUE VOLUNTARIAMENTE SE CREDENCIAM A PARTICIPAR DAS AÇÕES DE COMBATE A INCÊNDIO PROMOVIDO PELA ORGANIZAÇÃO?",
+      "opcoes": [
+        "GRUPO DE APOIO EM CASOS DE INCÊNDIOS.",
+        "GRUPO DE APOIO A RISCOS.",
+        "GRUPO DE MANUTENÇÃO.",
+        "BRIGADA DE INCÊNDIO."
+      ]
+    }
+  ]
+}
