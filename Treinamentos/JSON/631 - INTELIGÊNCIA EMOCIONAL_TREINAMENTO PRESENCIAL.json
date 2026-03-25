@@ -1,0 +1,52 @@
+{
+  "treinamento": "INTELIGÊNCIA EMOCIONAL_TREINAMENTO PRESENCIAL",
+  "id": 631,
+  "idChecklist": 417,
+  "perguntas": [
+    {
+      "pergunta": "5) Assinale a alternativa CORRETA sobre resiliência:",
+      "opcoes": [
+        "Resiliência é a capacidade de enfrentamento das adversidades, é a superação do sofrimento.",
+        "A inteligência emocional não nos ajuda a desenvolver a resiliência.",
+        "A resiliência não é a transformação e crescimento diante da experiência dolorosa.",
+        "Resiliência não é a habilidade de adaptação que o indivíduo tem diante das mudanças que ocorrem em nossa vida."
+      ]
+    },
+    {
+      "pergunta": "4) Quando se pratica a inteligência emocional no local de trabalho, você:",
+      "opcoes": [
+        "Não resolve de forma assertiva um problema complicado com o colega.",
+        "Não tem um bom relacionamento com as pessoas a sua volta.",
+        "Não aprende a lidar melhor com seu líder.",
+        "Resolve de forma assertiva um problema complicado com o colega."
+      ]
+    },
+    {
+      "pergunta": "3) Quais os 5 pilares essenciais para o desenvolvimento da inteligência emocional?",
+      "opcoes": [
+        "Autoconhecimento, controle emocional, autoavaliação, respeito e motivação.",
+        "Autoconsciência, autogerenciamento, relacionamentos, talento e gestão de tempo.",
+        "Autoconhecimento emocional, controle emocional, automotivação, reconhecimento das emoções, habilidades pessoais.",
+        "Flexibilidade, adaptabilidade, resiliência, motivação e respeito."
+      ]
+    },
+    {
+      "pergunta": "2) Por que é importante tirar vantagens das próprias emoções?",
+      "opcoes": [
+        "Não é importante tirar vantagens das emoções.",
+        "Porque tirar vantagens das emoções, melhora o seu relacionamento com as pessoas, desperta amizades e empatia, além de não trazer arrependimentos.",
+        "Porque tirar vantagens das emoções não melhora o relacionamento com as pessoas.",
+        "Porque tirar vantagens das emoções traz arrependimentos e dificuldades de relacionamento com o próximo."
+      ]
+    },
+    {
+      "pergunta": "1) O que é inteligência emocional?",
+      "opcoes": [
+        "Habilidade que permite que as pessoas gerenciem melhor seus sentimentos e a forma que agirão com base neles.",
+        "Habilidade que consiste em não conhecer nossos próprios sentimentos.",
+        "A inteligência emocional é uma ferramenta que podemos desenvolver, mas não nos auxilia em nada.",
+        "A inteligência emocional é não ter controle das emoções."
+      ]
+    }
+  ]
+}
