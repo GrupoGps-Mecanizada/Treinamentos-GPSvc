@@ -1,0 +1,52 @@
+{
+  "treinamento": "DELEGAÇÃO PLANEJADA",
+  "id": 278,
+  "idChecklist": 190,
+  "perguntas": [
+    {
+      "pergunta": "5) Na Delegação Planejada é importante estimular e oferecer autonomia, mas além disso, o que é necessário lembrar?",
+      "opcoes": [
+        "Reconhecer a variedade das habilidades, Estimular a criatividade e estar aberto a novas gestões.",
+        "Reconhecer a variedade das habilidades, Estimular a criatividade e estar aberto a novas formas de resolver problemas.",
+        "Reconhecer a variedade de colaboradores, Estimular a criatividade e estar aberto a novas formas de resolver problemas.",
+        "Reconhecer a variedade das habilidades, Estimular os erros e estar aberto a novas formas de resolver problemas."
+      ]
+    },
+    {
+      "pergunta": "4) Segundo o autor Ken Blanchard, quais são os 4 níveis diferentes do desenvolvimento de Colaboradores?",
+      "opcoes": [
+        "Principiante empolgado; Aprendiz decepcionado; Colaborador eficaz e Desenvolvimento realizador.",
+        "Principiante empolgado; Aprendiz satisfeito; Colaborador capaz e cauteloso e Desenvolvimento realizador.",
+        "Principiante frustrado; Aprendiz decepcionado; Colaborador capaz e cauteloso e Desenvolvimento realizador.",
+        "Principiante empolgado; Aprendiz decepcionado; Colaborador capaz e cauteloso e Desenvolvimento realizador."
+      ]
+    },
+    {
+      "pergunta": "3) Qual é o comportamento necessário para a Delegação Planejada?",
+      "opcoes": [
+        "É necessário apenas passar a demanda para quem estiver disponível.",
+        "É necessário identificar os pontos de qualidades e pontos a melhorar da sua Equipe.",
+        "É necessário ver quem está mais alegre e empolgado.",
+        "É necessário saber quem não se preocupa com a constante satisfação do cliente."
+      ]
+    },
+    {
+      "pergunta": "2) Como a Delegação Planejada pode auxiliar na produtividade e desenvolvimento organizacional?",
+      "opcoes": [
+        "Com responsabilidades compartilhadas é potencializada as entregas com mais agilidade e qualidade.",
+        "Com responsabilidades compartilhadas o desenvolvimento da equipe, é diminuída as entregas com menos agilidade e qualidade.",
+        "Pois as pessoas se envolvem mais.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "1) Qual é o intuito da Delegação Planejada?",
+      "opcoes": [
+        "O intuito é delegar críticas.",
+        "O intuito é delegar atividades sem programação.",
+        "O intuito é desenvolver a equipe, dando confiança no potencial dos Colaboradores.",
+        "O intuito é desenvolver a equipe, e retê-los em suas respectivas áreas."
+      ]
+    }
+  ]
+}
