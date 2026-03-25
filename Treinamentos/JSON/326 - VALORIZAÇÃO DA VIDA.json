@@ -1,0 +1,52 @@
+{
+  "treinamento": "VALORIZAÇÃO DA VIDA",
+  "id": 326,
+  "idChecklist": 225,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual é o telefone de contato do CVV (centro de valorização da vida)?",
+      "opcoes": [
+        "199",
+        "805",
+        "008",
+        "188"
+      ]
+    },
+    {
+      "pergunta": "4) Por que é importante deixar as pessoas confortáveis para falar sobre seus sentimentos?",
+      "opcoes": [
+        "Pois quando se sentem confortáveis, incentivamos elas a pedirem ajuda em seus momentos de fraqueza",
+        "Para resolver seus problemas",
+        "Para poder conversar mais",
+        "Nenhuma das opções acima"
+      ]
+    },
+    {
+      "pergunta": "3) O que é transtorno Bipolar?",
+      "opcoes": [
+        "São momentos de tristeza apenas",
+        "São momentos de grande felicidade",
+        "São momentos de tristeza profunda, alternada com uma agitação extrema",
+        "São momentos de agonia"
+      ]
+    },
+    {
+      "pergunta": "2) O que a depressão afeta?",
+      "opcoes": [
+        "Afeta a sua visão",
+        "Afeta negativamente como você se sente, como você pensa ou age",
+        "Afeta seus sentidos gustativos",
+        "Afeta o desenvolvimento físico"
+      ]
+    },
+    {
+      "pergunta": "1) Em casos de crise, qual é a melhor atitude a ser tomada?",
+      "opcoes": [
+        "Fazer uma caminhada",
+        "Apenas sair para espairecer",
+        "Busque ajuda, sem ter vergonha",
+        "Sair de perto de todos"
+      ]
+    }
+  ]
+}
