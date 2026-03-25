@@ -1,0 +1,52 @@
+{
+  "treinamento": "CAÇA PREDATÓRIA: UMA AMEAÇA À BIODIVERSIDADE DA PARAÍBA",
+  "id": 1433,
+  "idChecklist": 1182,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE FAZER AO PRESENCIAR CAÇA ILEGAL?",
+      "opcoes": [
+        "AJUDAR OS CAÇADORES PARA EVITAR CONFLITOS.",
+        "IGNORAR, POIS A CAÇA É NATURAL.",
+        "APENAS MONITORAR A CAÇA.",
+        "COMUNICAR GESTORES E MONITORAR A ÁREA."
+      ]
+    },
+    {
+      "pergunta": "4) QUAIS SÃO OS IMPACTOS DA CAÇA PREDATÓRIA?",
+      "opcoes": [
+        "EXTINÇÃO DE ESPÉCIES E DESEQUILÍBRIO ECOLÓGICO.",
+        "AUMENTO DA POPULAÇÃO DE ANIMAIS SILVESTRES.",
+        "MELHORIA NA BIODIVERSIDADE LOCAL.",
+        "NENHUM IMPACTO RELEVANTE PARA A NATUREZA."
+      ]
+    },
+    {
+      "pergunta": "3) QUAIS LEIS PROÍBEM A CAÇA NO BRASIL?",
+      "opcoes": [
+        "LEI DE CRIMES FINANCEIROS.",
+        "CÓDIGO DE TRÂNSITO BRASILEIRO.",
+        "LEI 5.197/67 E LEI 9.605/98.",
+        "ESTATUTO DO DESARMAMENTO."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL BIOMA DA PARAÍBA É MAIS AFETADO PELA CAÇA PREDATÓRIA?",
+      "opcoes": [
+        "A MATA ATLÂNTICA.",
+        "A CAATINGA.",
+        "A AMAZÔNIA.",
+        "O CERRADO."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE É A CAÇA PREDATÓRIA?",
+      "opcoes": [
+        "PRÁTICA ILEGAL DE CAPTURAR OU MATAR ANIMAIS, AMEAÇANDO A BIODIVERSIDADE.",
+        "ATIVIDADE RECREATIVA QUE AUMENTA A POPULAÇÃO DE ANIMAIS SILVESTRES.",
+        "MÉTODO DE CONSERVAÇÃO AMBIENTAL PARA EQUILIBRAR ECOSSISTEMAS.",
+        "PRÁTICA QUE NÃO AFETA A FAUNA E A FLORA DA PARAÍBA."
+      ]
+    }
+  ]
+}
