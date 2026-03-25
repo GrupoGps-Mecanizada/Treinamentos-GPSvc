@@ -1,0 +1,52 @@
+{
+  "treinamento": "COLAGEM FRONTAL DE VOLANTES",
+  "id": 650,
+  "idChecklist": 436,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual processo de finalização dos volantes?",
+      "opcoes": [
+        "Limpeza, inspeção e destinação ao posto seguinte.",
+        "Limpeza e retrabalho.",
+        "Destinação ao posto seguinte.",
+        "Colagem de canaleta."
+      ]
+    },
+    {
+      "pergunta": "4) Qual ferramenta utilizamos para realizar o acabamento da colagem?",
+      "opcoes": [
+        "Borracha.",
+        "Pano.",
+        "Pincel.",
+        "Cutuco."
+      ]
+    },
+    {
+      "pergunta": "3) Qual o tempo máximo de aquecimento por região para ativação da cola?",
+      "opcoes": [
+        "4 segundos.",
+        "10 segundos.",
+        "5 segundos.",
+        "8 segundos."
+      ]
+    },
+    {
+      "pergunta": "2) Em qual região a cola de contato deve ser aplicada?",
+      "opcoes": [
+        "Aplicar cola de contato em toda extremidade do couro e PU.",
+        "Aplicar a cola de contato no couro.",
+        "Aplicar a cola de contato na PU.",
+        "Aplicar a cola de contato na região das teclas."
+      ]
+    },
+    {
+      "pergunta": "1) Qual é o primeiro passo para iniciar o processo de colagem de volantes?",
+      "opcoes": [
+        "Colar a parte superior.",
+        "Retirar o volante da arara e inspecionar o processo anterior.",
+        "Colar a parte inferior.",
+        "Ativar a cola."
+      ]
+    }
+  ]
+}
