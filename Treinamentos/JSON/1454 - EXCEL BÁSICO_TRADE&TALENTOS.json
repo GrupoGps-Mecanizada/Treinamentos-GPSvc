@@ -1,0 +1,52 @@
+{
+  "treinamento": "EXCEL BÁSICO_TRADE&TALENTOS",
+  "id": 1454,
+  "idChecklist": 1202,
+  "perguntas": [
+    {
+      "pergunta": "5) COMO PODEMOS MUDAR A COR DE FUNDO DE UMA CÉLULA NO EXCEL?",
+      "opcoes": [
+        "CLICANDO COM O BOTÃO DIREITO E ESCOLHENDO \"CLASSIFICAR\".",
+        "ATRAVÉS DO BOTÃO “PREENCHIMENTO DE COR” NA GUIA “PÁGINA INICIAL”.",
+        "DIGITANDO =COR(A1) NA CÉLULA DESEJADA.",
+        "USANDO O ATALHO CTRL + F."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL DOS SEGUINTES TIPOS DE DADOS PODE SER INSERIDO EM UMA CÉLULA DO EXCEL?",
+      "opcoes": [
+        "APENAS TEXTO.",
+        "APENAS NÚMEROS.",
+        "TEXTO, NÚMEROS E FÓRMULAS.",
+        "APENAS FÓRMULAS."
+      ]
+    },
+    {
+      "pergunta": "3) COMO VOCÊ INSERE UM GRÁFICO EM UMA PLANILHA DO EXCEL?",
+      "opcoes": [
+        "SELECIONANDO OS DADOS E PRESSIONANDO CTRL + G.",
+        "INDO ATÉ A GUIA \"INSERIR\" E ESCOLHENDO O TIPO DE GRÁFICO DESEJADO.",
+        "DIGITANDO =GRÁFICO(A1:D10) EM UMA CÉLULA.",
+        "USANDO O BOTÃO DIREITO DO MOUSE E SELECIONANDO \"NOVO GRÁFICO\"."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL DAS OPÇÕES ABAIXO É UM EXEMPLO DE COMANDO DE FÓRMULA BÁSICA NO EXCEL?",
+      "opcoes": [
+        "DIGITAR =SOMA E SELECIONAR AS CÉLULAS, POR EXEMPLO, (A1:A5).",
+        "DIGITAR =VIDEO E SELECIONAR AS CÉLULAS, POR EXEMPLO, (A1:A5).",
+        "DIGITAR =TEXTO E SELECIONAR AS CÉLULAS, POR EXEMPLO, (A1:A5).",
+        "DIGITAR =EMAIL E SELECIONAR AS CÉLULAS, POR EXEMPLO, (A1:A5)."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É A FUNÇÃO PRINCIPAL DO EXCEL?",
+      "opcoes": [
+        "EDITAR IMAGENS.",
+        "CRIAR APRESENTAÇÕES DE SLIDES.",
+        "GERIR E ANALISAR DADOS EM TABELAS.",
+        "PRODUZIR VÍDEOS."
+      ]
+    }
+  ]
+}
