@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA INDUSTRIAL: LIMPEZA EM ÁREAS INDUSTRIAIS (I-OP 286)_TREINAMENTO PRESENCIAL",
+  "id": 1661,
+  "idChecklist": 1362,
+  "perguntas": [
+    {
+      "pergunta": "5) PARA QUE SERVE SEPARAR OS RESÍDUOS DURANTE A LIMPEZA?",
+      "opcoes": [
+        "PARA FACILITAR O DESCARTE CORRETO.",
+        "PARA AUMENTAR O TRABALHO.",
+        "PARA IGNORAR OS TIPOS DE RESÍDUOS.",
+        "PARA NÃO USAR CONTENTORES."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE DEVEMOS FAZER ANTES DE LAVAR O PISO?",
+      "opcoes": [
+        "COMEÇAR A LAVAR SEM VERIFICAR NADA.",
+        "IDENTIFICAR ONDE ESTÃO O CHUVEIRO DE EMERGÊNCIA E O LAVA-OLHOS.",
+        "IGNORAR OS EQUIPAMENTOS DE SEGURANÇA.",
+        "LAVAR SEM INSPECIONAR AS MANGUEIRAS."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL EQUIPAMENTO DE PROTEÇÃO USAMOS PARA MANUSEAR RESÍDUOS QUÍMICOS?",
+      "opcoes": [
+        "CAPACETE.",
+        "LUVA DE VAQUETA.",
+        "LUVA DE PVC DE CANO LONGO.",
+        "ÓCULOS."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE FAZEMOS PRIMEIRO ANTES DE COMEÇAR A LIMPEZA?",
+      "opcoes": [
+        "COMEÇAR A VARRER.",
+        "AVALIAR O LOCAL E PLANEJAR O TRABALHO.",
+        "LAVAR O PISO.",
+        "SEPARAR OS RESÍDUOS."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE PODEMOS FAZER PARA ECONOMIZAR TEMPO DURANTE A LIMPEZA DE UMA ÁREA GRANDE?",
+      "opcoes": [
+        "USAR APENAS AS MÃOS PARA RECOLHER OS RESÍDUOS.",
+        "SEPARAR OS MATERIAIS NECESSÁRIOS ANTES DE COMEÇAR O TRABALHO.",
+        "IGNORAR A INSPEÇÃO DAS FERRAMENTAS.",
+        "NÃO USAR EQUIPAMENTOS DE PROTEÇÃO."
+      ]
+    }
+  ]
+}
