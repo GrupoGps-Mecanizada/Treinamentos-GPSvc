@@ -1,0 +1,52 @@
+{
+  "treinamento": "VALE-TRANSPORTE_GPSVC",
+  "id": 1803,
+  "idChecklist": 1472,
+  "perguntas": [
+    {
+      "pergunta": "5) CASO O COLABORADOR NÃO UTILIZE TODO O VALOR DO VALE-TRANSPORTE EM UM MÊS:",
+      "opcoes": [
+        "O VALOR NÃO UTILIZADO É PERDIDO.",
+        "O DESCONTO SERÁ SEMPRE DE 6%, INDEPENDENTEMENTE DO USO.",
+        "O VALOR INTEGRAL SERÁ CREDITADO NOVAMENTE NO MÊS SEGUINTE.",
+        "NO MÊS SEGUINTE SERÁ CREDITADA APENAS A DIFERENÇA NECESSÁRIA, CONSIDERANDO SALDO E AJUSTES."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL É O PERCENTUAL PADRÃO DE DESCONTO DO VALE-TRANSPORTE SOBRE O SALÁRIO BASE?",
+      "opcoes": [
+        "3%.",
+        "5%.",
+        "6%.",
+        "10%."
+      ]
+    },
+    {
+      "pergunta": "3) EM RELAÇÃO À FORMA DE PAGAMENTO DO VALE-TRANSPORTE, É CORRETO AFIRMAR QUE:",
+      "opcoes": [
+        "NOS DOIS PRIMEIROS MESES É PAGO EM DINHEIRO NA CONTA E, APÓS ESSE PERÍODO, EM CARTÃO DE BENEFÍCIOS.",
+        "É SEMPRE PAGO POR MEIO DE CARTÃO DE BENEFÍCIOS.",
+        "É PAGO SOMENTE APÓS TRÊS MESES DE VÍNCULO.",
+        "O FORMATO DE PAGAMENTO NÃO SE ALTERA AO LONGO DO CONTRATO."
+      ]
+    },
+    {
+      "pergunta": "2) QUANDO  VALE-TRANSPORTE É CREDITADO?",
+      "opcoes": [
+        "NO PRIMEIRO DIA ÚTIL DO MÊS DE UTILIZAÇÃO.",
+        "JUNTO COM O PAGAMENTO DO SALÁRIO MENSAL.",
+        "NO DIA 20 DE CADA MÊS.",
+        "ATÉ O ÚLTIMO DIA ÚTIL DO MÊS ANTERIOR AO MÊS DE UTILIZAÇÃO."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É A FINALIDADE DO VALE-TRANSPORTE CONCEDIDO?",
+      "opcoes": [
+        "CUSTEAR QUALQUER TIPO DE DESLOCAMENTO DO COLABORADOR.",
+        "SER UTILIZADO APENAS EM VIAGENS A SERVIÇO.",
+        "CUSTEAR EXCLUSIVAMENTE O TRAJETO DE IDA E VOLTA ENTRE RESIDÊNCIA E LOCAL DE TRABALHO.",
+        "COMPLEMENTAR O SALÁRIO MENSAL."
+      ]
+    }
+  ]
+}
