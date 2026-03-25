@@ -1,0 +1,52 @@
+{
+  "treinamento": "1.20 COMO CADASTRAR IOT NO PORTAL WEB_GPSVISTA",
+  "id": 533,
+  "idChecklist": 335,
+  "perguntas": [
+    {
+      "pergunta": "5) Onde é definido o parâmetro dos sensores:",
+      "opcoes": [
+        "Pelo próprio GPS Vista.",
+        "O fornecedor responsável define os parâmetros de alertas e o GPS Vista gera as tarefas.",
+        "No cadastro de rotinas definir o tempo dos sensores.",
+        "Todas as alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "4) Como vincular os IOT as rotinas do GPS Vista?",
+      "opcoes": [
+        "Não existe vinculo.",
+        "Cadastrar os procedimentos padrões.",
+        "No cadastro do sensor já escolher qual a tarefa.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Quais são os dados obrigatórios?",
+      "opcoes": [
+        "Tarefa, categoria, subcategoria, marca e modelo do sensor.",
+        "Valores dos equipamentos.",
+        "Somente a marca e modelo.",
+        "Nome do sensor, código do sensor, local e tarefa."
+      ]
+    },
+    {
+      "pergunta": "2) O que colocar no cadastro de IOT?",
+      "opcoes": [
+        "A codificação dos sensores.",
+        "O nome do sensor.",
+        "Nome das rotinas.",
+        "Procedimentos."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o Objetivo do cadastro de IOT?",
+      "opcoes": [
+        "Criar tarefas.",
+        "Integrar o IOT a plataforma do GPS Vista e gerar as tarefas.",
+        "Para cadastrar os procedimentos dos IOT.",
+        "Para abrir chamados no Vista."
+      ]
+    }
+  ]
+}
