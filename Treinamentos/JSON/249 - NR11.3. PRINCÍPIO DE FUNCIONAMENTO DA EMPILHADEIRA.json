@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR11.3. PRINCÍPIO DE FUNCIONAMENTO DA EMPILHADEIRA",
+  "id": 249,
+  "idChecklist": 161,
+  "perguntas": [
+    {
+      "pergunta": "5) O que é o Triângulo de estabilidade?",
+      "opcoes": [
+        "O ponto específico que não deixa a máquina sofrer tombamento frontal.",
+        "É a área formada por três (03) pontos de suspensão da máquina: Pino de articulação do eixo traseiro e cada uma das rodas dianteiras.",
+        "O ponto específico que não deixa a máquina sofrer tombamento lateral.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) A capacidade de elevação de uma empilhadeira é afetada por?",
+      "opcoes": [
+        "Peso da carga e distância do centro de gravidade da carga (centro da carga).",
+        "Não há interferência, posso elevar todos os materiais independente do peso.",
+        "Preciso da autorização do meu líder para elevar uma carga de peso desconhecido.",
+        "Não é afetada, pois depende da placa indicativa da máquina."
+      ]
+    },
+    {
+      "pergunta": "3) Em relação ao contrapeso da empilhadeira:",
+      "opcoes": [
+        "Posso adicionar mais peso ao contrapeso para poder movimentar materiais mais pesados.",
+        "Não há contrapeso nas empilhadeiras elétricas.",
+        "O contrapeso é formado pela própria estrutura do veículo (combustão) ou pela bateria (elétrica).",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) Marque a alternativa correta sobre o princípio de funcionamento da empilhadeira:",
+      "opcoes": [
+        "O centro de rotação ou o apoio da gangorra é o operador da máquina.",
+        "O centro de rotação ou o apoio da gangorra são os garfos.",
+        "O centro de rotação ou o apoio da gangorra é o centro das rodas traseiras.",
+        "O centro de rotação ou o apoio da gangorra é o centro das rodas dianteiras."
+      ]
+    },
+    {
+      "pergunta": "1) Marque a alternativa correta sobre o princípio de funcionamento da empilhadeira:",
+      "opcoes": [
+        "É somente para erguer material.",
+        "Posso adicionar mais peso ao corpo da empilhadeira para aguentar mais peso.",
+        "A empilhadeira é construída sob o princípio da gangorra, onde a carga colocada nos garfos é equilibrada pelo peso da máquina.",
+        "Todas as alternativas."
+      ]
+    }
+  ]
+}
