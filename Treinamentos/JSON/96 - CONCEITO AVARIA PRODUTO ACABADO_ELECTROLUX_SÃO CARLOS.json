@@ -1,0 +1,52 @@
+{
+  "treinamento": "CONCEITO AVARIA PRODUTO ACABADO_ELECTROLUX_SÃO CARLOS",
+  "id": 96,
+  "idChecklist": 70,
+  "perguntas": [
+    {
+      "pergunta": "5) Com base no treinamento, sobre o custo das avarias, podemos afirmar que?",
+      "opcoes": [
+        "Todas as avarias têm um custo e meu trabalho não tem como minimizar isso.",
+        "Todas as avarias têm um custo e depende de minha ação no dia a dia para evitá-la.",
+        "Todas as avarias têm um custo, dependendo dos caminhões.",
+        "Todas as avarias têm um custo, com exceção da linha colorida."
+      ]
+    },
+    {
+      "pergunta": "4) De acordo com o treinamento, avarias tipo S, são avarias irreversíveis. O que as avarias classificadas como tipo S, provocam nos produtos?",
+      "opcoes": [
+        "Estas avarias provocam a devolução do cliente.",
+        "Estas avarias provocam problemas no baú do caminhão.",
+        "Estas avarias provocam o descarte do produto no qual é vendido como sucata.",
+        "Estas avarias provocam o descarte de toda linha de produção."
+      ]
+    },
+    {
+      "pergunta": "3) Quando os produtos não seguem um fluxo normal de compra e venda, por causa de suas avarias. E são encaminhados para área de descarte, podemos dizer que são produtos que sofreram avaria do tipo:",
+      "opcoes": [
+        "Avaria tipo D.",
+        "Avarias tipo B.",
+        "Avarias tipo S.",
+        "Avarias tipo C."
+      ]
+    },
+    {
+      "pergunta": "2) Conforme treinamento, podemos dizer que avarias do tipo A são?",
+      "opcoes": [
+        "São as avarias que acontecem em maior volume, na embalagem, nas etiquetas, nas cantoneiras, na base ou tampo de EPS.",
+        "São as avarias que acontecem raramente, na fábrica e no CD.",
+        "São as avarias sofridas no caminhão.",
+        "São as avarias que acontecem em maior volume, na Black Friday."
+      ]
+    },
+    {
+      "pergunta": "1) Baseado no treinamento, escolha a alternativa VERDADEIRA?",
+      "opcoes": [
+        "Avaria é qualquer dano ou estrago, deterioração ou desgaste que ocorra nas empilhadeiras.",
+        "Avaria é qualquer dano ou estrago, na pintura das lavadoras e fogões no momento da fabricação.",
+        "Avaria é qualquer dano ou estrago, que aconteça na casa do consumidor final.",
+        "Avaria é qualquer dano ou estrago, deterioração ou desgaste que ocorra no fogão e lavadora."
+      ]
+    }
+  ]
+}
