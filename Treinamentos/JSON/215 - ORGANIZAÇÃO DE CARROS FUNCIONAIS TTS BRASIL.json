@@ -1,0 +1,52 @@
+{
+  "treinamento": "ORGANIZAÇÃO DE CARROS FUNCIONAIS TTS BRASIL",
+  "id": 215,
+  "idChecklist": 127,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais materiais devem ser armazenados na prateleira intermediária?",
+      "opcoes": [
+        "Borrifadores, balde azul e sacos de lixo.",
+        "Fibra verde inteira, escova lavatina e balde amarelo.",
+        "Óculos de segurança, máscara, refil de lamelo, panos de microfibra limpos.",
+        "Materiais descartáveis para reposição e abastecimento, como: papel higiênico, papel toalha, sabonete líquido e álcool gel."
+      ]
+    },
+    {
+      "pergunta": "4) Quais são os materiais que compõem o kit amarelo?",
+      "opcoes": [
+        "Fibra branca, pano de microfibra amarelo, luvas amarelas e balde amarelo.",
+        "Fibra verde cortada, fibra branca, luvas amarelas e balde verde.",
+        "Fibra branca, escova manual, escova lavatina e balde azul.",
+        "Fibra branca, fibra verde, balde azul e pano de microfibra azul."
+      ]
+    },
+    {
+      "pergunta": "3) Quais são os materiais que compõem o kit azul?",
+      "opcoes": [
+        "Fibra branca, escova lavatina, pano de microfibra verde e balde verde.",
+        "Fibra azul, balde de 4 litros azul, luva azul, pano de microfibra azul, fibra verde cortada, escova manual e jarra de apoio.",
+        "Fibra verde inteira, luvas verdes e pano de microfibra azul.",
+        "Fibra branca, jarra de apoio, pano de microfibra azul e sacos plásticos de lixo."
+      ]
+    },
+    {
+      "pergunta": "2) Marque a alternativa que contém os 4 (quatro) níveis que compõem a área limpa do carro funcional?",
+      "opcoes": [
+        "Coletor, gaveta, base mop e prateleira inferior.",
+        "Encosto para base do mop, coletor, gaveta e prateleira.",
+        "Prateleira superior, gavetas, prateleira intermediária e prateleira inferior.",
+        "Prateleira superior, base mop, coletor e gavetas."
+      ]
+    },
+    {
+      "pergunta": "1) Qual alternativa está INCORRRETA sobre Carros Funcionais?",
+      "opcoes": [
+        "O carro funcional possui divisões de área limpa e área suja para armazenamento e organização dos materiais, com o objetivo de evitar contaminação cruzada.",
+        "O carro funcional foi desenvolvido para otimizar a produtividade das atividades de limpeza e conservação.",
+        "O carro funcional serve de apoio no transporte dos materiais e cabos.",
+        "Todos materiais são armazenados lá ao longo da semana de trabalho, por isso o espaço destinado a coleta."
+      ]
+    }
+  ]
+}
