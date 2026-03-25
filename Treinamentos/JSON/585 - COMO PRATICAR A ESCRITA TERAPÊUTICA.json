@@ -1,0 +1,52 @@
+{
+  "treinamento": "COMO PRATICAR A ESCRITA TERAPÊUTICA",
+  "id": 585,
+  "idChecklist": 373,
+  "perguntas": [
+    {
+      "pergunta": "5) Como podemos praticar essa escrita?",
+      "opcoes": [
+        "Sendo guiados por nossos pais ou amigos.",
+        "Sendo guiados pelo nosso líder.",
+        "Individualmente, ou sendo guiados por um profissional.",
+        "Apenas sendo guiados por um profissional."
+      ]
+    },
+    {
+      "pergunta": "4) Na escrita terapêutica só se pode escrever sobre as tristezas. Essa afirmação é:",
+      "opcoes": [
+        "Falsa, pois, também podemos escrever sobre nossas alegrias.",
+        "Verdadeira, pois, ela serve apenas como uma forma de desabafo.",
+        "Falsa, pois, também podemos escrever sobre nossos medos.",
+        "Verdadeira, pois, essa escrita serve apenas para sabermos o que nos deixa triste."
+      ]
+    },
+    {
+      "pergunta": "3) Para praticar a escrita terapêutica você precisa ser escritor?",
+      "opcoes": [
+        "Sim, pois, preciso conhecer as estruturas de um texto.",
+        "Não, mas preciso pelo menos ter experiência com a escrita.",
+        "Não, apenas preciso estar aberto e ser capaz de me expressar através das palavras escritas.",
+        "Não, apenas preciso estar fechado e ser capaz de me expressar através das palavras escritas."
+      ]
+    },
+    {
+      "pergunta": "2) Mostramos no treinamento alguns benefícios de se praticar a escrita terapêutica. Assinale abaixo a alternativa que contenha duas delas.",
+      "opcoes": [
+        "Alivia a ansiedade e te auxilia a encontrar soluções para os problemas.",
+        "Alivia a ansiedade e melhora as dores de cabeça.",
+        "Auxilia a encontrar soluções para os problemas e ajuda na memória.",
+        "Ajuda no raciocínio lógico e alivia a ansiedade."
+      ]
+    },
+    {
+      "pergunta": "1) O que é escrita terapêutica?",
+      "opcoes": [
+        "É escrever uma redação.",
+        "É escrever sobre nossos sentimentos de forma livre.",
+        "É escrever sobre nossos sentimentos, se preocupando com a estrutura do texto.",
+        "É o texto que o profissional escreve sobre você na terapia."
+      ]
+    }
+  ]
+}
