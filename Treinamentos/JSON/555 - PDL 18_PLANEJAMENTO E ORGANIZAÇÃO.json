@@ -1,0 +1,52 @@
+{
+  "treinamento": "PDL 18_PLANEJAMENTO E ORGANIZAÇÃO",
+  "id": 555,
+  "idChecklist": 357,
+  "perguntas": [
+    {
+      "pergunta": "5) Com base no treinamento, o planejamento e a organização:",
+      "opcoes": [
+        "Se complementam, mas devemos ter um mínimo de disciplina para alcançarmos os nossos objetivos.",
+        "São habilidades distintas, onde o Colaborador deve ter disciplina para conseguir alguma delas.",
+        "São duas habilidades distintas, onde o líder busca o planejamento e seu liderado a organização.",
+        "São habilidades que posso adquirir, não sendo necessário saber onde quero chegar, pois, o objetivo ficará claro no meio do percurso."
+      ]
+    },
+    {
+      "pergunta": "4) O que vai auxiliar para que eu tenha uma rotina mais organizada?",
+      "opcoes": [
+        "Não ter um objetivo claro, deixando as situações que ocorrem conduzirem minha vida.",
+        "Pular etapas para ganhar tempo.",
+        "Fazer questionamentos sobre o que eu posso manter ou descartar.",
+        "Fazendo tudo sozinho, pois, a liderança deixa claro que temos total autonomia e não precisamos de nenhum tipo de auxílio."
+      ]
+    },
+    {
+      "pergunta": "3) De acordo com o treinamento, qual é o conceito de organização?",
+      "opcoes": [
+        "É saber aproveitar as oportunidades para alcançar os objetivos.",
+        "É ter disciplina para permanecer no caminho, pois o ideal é “não ficar parado”.",
+        "Direcionar e viabilizar a conquista de um objetivo.",
+        "Organização é colocar cada coisa em seu lugar."
+      ]
+    },
+    {
+      "pergunta": "2) Por que é importante fazer um planejamento?",
+      "opcoes": [
+        "Para entender o que aconteceu no passado e traçar uma rota alternativa para futuro, evitando riscos ocasionais.",
+        "Para entender, antecipar e prever o que pode acontecer no futuro. Além de prever os riscos que podemos correr.",
+        "Para conseguir alcançar os objetivos em um prazo de até seis meses.",
+        "Para conseguir maior engajamento dos Colaboradores."
+      ]
+    },
+    {
+      "pergunta": "1) Com base no treinamento, o conceito de planejamento é:",
+      "opcoes": [
+        "Ato de criar estratégias para direcionar e viabilizar a conquista de um objetivo.",
+        "Ato de criar estratégias para desenvolvimento e organização pessoal.",
+        "Ato de criar estratégias para ter uma rotina sem imprevistos.",
+        "Ato de criar estratégias para colocar “cada coisa em seu lugar”."
+      ]
+    }
+  ]
+}
