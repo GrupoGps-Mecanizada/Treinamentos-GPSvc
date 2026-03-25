@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR11.1. INTRODUÇÃO",
+  "id": 247,
+  "idChecklist": 159,
+  "perguntas": [
+    {
+      "pergunta": "5) Um dos critérios do candidato à vaga de Operador de empilhadeira é?",
+      "opcoes": [
+        "Não é necessário ter curso em uma instituição, pois a empresa o habilitará e não possui a CNH (Carteira Nacional de Habilitação).",
+        "Ter o Curso de operador de empilhadeira em uma instituição externa, que o habilitará a essa função e possui a CNH (Carteira Nacional de Habilitação).",
+        "As duas primeiras alternativas.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "4) Quando o equipamento não tem condições operacionais, o que poderá ocorrer?",
+      "opcoes": [
+        "Poderá ocorrer um acidente com perdas materiais e humanas, pois é uma das causas envolvendo acidentes com empilhadeiras.",
+        "Não é preciso cuidado, pois há muitas empilhadeiras reservas.",
+        "É responsabilidade da liderança e da Segurança do Trabalho averiguar se tem condições operacionais.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) Qual o objetivo do treinamento de NR 11?",
+      "opcoes": [
+        "Somente liberação para trabalhar com a empilhadeira, rebocador ou transpaleteira.",
+        "Não há objetivo claro do treinamento.",
+        "Sensibilizar os Operadores de equipamentos de transporte e armazenagem de materiais quanto a necessidade de prevenção de perdas, controle e percepção dos riscos.",
+        "Todas as alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) Marque uma das causas de acidente com empilhadeira.",
+      "opcoes": [
+        "Os acidentes não ocorrem.",
+        "Operador não treinado adequadamente, não conhece as Instruções de Trabalho.",
+        "Não observância das regras básicas de segurança.",
+        "Alternativas B e C."
+      ]
+    },
+    {
+      "pergunta": "1) A operação segura de empilhadeira é de importância para quem?",
+      "opcoes": [
+        "Somente do operador de empilhadeira.",
+        "Dos pedestres que circulam na empresa.",
+        "A operação segura de Empilhadeira é de importância fundamental para a segurança de TODOS.",
+        "Nenhuma das alternativas."
+      ]
+    }
+  ]
+}
