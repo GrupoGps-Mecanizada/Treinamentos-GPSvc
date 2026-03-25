@@ -1,0 +1,52 @@
+{
+  "treinamento": "LIMPEZA CONCORRENTE_UNIMED",
+  "id": 627,
+  "idChecklist": 413,
+  "perguntas": [
+    {
+      "pergunta": "5) Quanto a limpeza concorrente em salas de endoscopia, quem realiza a limpeza das macas e equipamentos?",
+      "opcoes": [
+        "A equipe de higienização Top Service.",
+        "A supervisora de limpeza da Top Service.",
+        "A equipe da Unimed.",
+        "O médico de plantão."
+      ]
+    },
+    {
+      "pergunta": "4) Qual dos itens abaixo não é utilizado em uma limpeza de pisos?",
+      "opcoes": [
+        "Balde azul para piso.",
+        "Multibac BP.",
+        "Rodo.",
+        "Fibra azul."
+      ]
+    },
+    {
+      "pergunta": "3) Qual o processo físico ou químico, que destrói todos nos microrganismos patogênicos em superfícies?",
+      "opcoes": [
+        "Limpeza.",
+        "Desinfecção.",
+        "Faxina.",
+        "Aspiração."
+      ]
+    },
+    {
+      "pergunta": "2) Qual a limpeza realizada diariamente com finalidade de limpar, organizar o ambiente e repor materiais faltantes?",
+      "opcoes": [
+        "Limpeza imediata.",
+        "Limpeza terminal.",
+        "Limpeza de desinfecção.",
+        "Limpeza concorrente."
+      ]
+    },
+    {
+      "pergunta": "1) Quando ocorre a limpeza concorrente em blocos cirúrgicos?",
+      "opcoes": [
+        "Deve ocorrer duas vezes ao dia.",
+        "Durante a cirurgia, para manter o ambiente limpo e desinfetado.",
+        "Antes do primeiro procedimento do dia e ao término de cada cirurgia.",
+        "Conforme o cronograma de trabalho."
+      ]
+    }
+  ]
+}
