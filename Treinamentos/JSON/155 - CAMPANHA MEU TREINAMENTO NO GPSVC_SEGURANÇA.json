@@ -1,0 +1,52 @@
+{
+  "treinamento": "CAMPANHA MEU TREINAMENTO NO GPSVC_SEGURANÇA",
+  "id": 155,
+  "idChecklist": 81,
+  "perguntas": [
+    {
+      "pergunta": "5) Do que se trata a campanha \"Meu treinamento no GPSvc\"?",
+      "opcoes": [
+        "Uma campanha destinada apenas a Gerentes e coordenadores.",
+        "Uma campanha de contratação de mão de obra.",
+        "Uma campanha que tem como objetivo limitar o acesso aos treinamentos.",
+        "Uma campanha que permite que o colaborador elabore um vídeo de treinamento e concorra a um prêmio, compartilhando seu conhecimento sobre o assunto."
+      ]
+    },
+    {
+      "pergunta": "4) Baseado no treinamento, qual a validade das Placas balísticas?",
+      "opcoes": [
+        "Em geral 5 anos ou se receber um único disparo de arma de fogo.",
+        "Em geral 1 ano ou se receber um único disparo de arma de fogo.",
+        "Em geral 5 anos mesmo se receber disparo de arma de fogo.",
+        "Em geral 15 anos ou se receber um único disparo de arma de fogo."
+      ]
+    },
+    {
+      "pergunta": "3) Como a Norma Regulamentadora 6 Equipamento de Proteção Individual, do Ministério do Trabalho, define o colete à prova de balas?",
+      "opcoes": [
+        "EPI obrigatório para os vigilantes que trabalhem portando arma de fogo.",
+        "EPI obrigatório para os vigilantes que trabalhem sem portar arma de fogo.",
+        "EPI obrigatório para os porteiros que trabalhem portando arma de fogo.",
+        "EPI opcional para os vigilantes que trabalhem portando arma de fogo."
+      ]
+    },
+    {
+      "pergunta": "2) Um colete balístico que recebe disparo de arma de fogo deve ser?",
+      "opcoes": [
+        "Descartado.",
+        "Reutilizado, até a data da validade.",
+        "Reutilizado, desde que em bom estado de conservação.",
+        "Reutilizado e reaproveitado."
+      ]
+    },
+    {
+      "pergunta": "1) Qual a função do colete balístico ou colete à prova de balas?",
+      "opcoes": [
+        "Proteger a região do tórax e os principais órgãos vitais do corpo humano contra projéteis.",
+        "Deixar o vigilante com uma postura mais operacional, gerando assim uma maior prevenção do local protegido.",
+        "Proteger o vigilante contra agressões verbais desferida contra sua pessoa durante o horário de expediente.",
+        "Trazer mais imponência com o uniforme para minimizar aproximações de invasores."
+      ]
+    }
+  ]
+}
