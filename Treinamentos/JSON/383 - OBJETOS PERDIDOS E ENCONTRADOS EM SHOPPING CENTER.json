@@ -1,0 +1,52 @@
+{
+  "treinamento": "OBJETOS PERDIDOS E ENCONTRADOS EM SHOPPING CENTER",
+  "id": 383,
+  "idChecklist": 276,
+  "perguntas": [
+    {
+      "pergunta": "5) Quando encontrar um objeto esquecido nos banheiros ou em algum outro lugar DEVO:",
+      "opcoes": [
+        "Pedir para a segurança chamar meu líder.",
+        "Segurar o objeto na mão.",
+        "Informar onde encontrei o objeto perdido.",
+        "Todas as alternativas anteriores"
+      ]
+    },
+    {
+      "pergunta": "4) Ao transportar um objeto que foi encontrado ao local de recolhimento, NÃO devo:",
+      "opcoes": [
+        "Passar em locais monitorados por câmeras.",
+        "Fazer desvio de trajeto.",
+        "Segurar o objeto na mão.",
+        "Obter informações de onde o objeto foi encontrado."
+      ]
+    },
+    {
+      "pergunta": "3) Ao higienizar as mesas da Praça de alimentação DEVO:",
+      "opcoes": [
+        "Jogar tudo no lixo.",
+        "Separar o que me interessa e colocar no bolso.",
+        "Prestar atenção no que as pessoas falam.",
+        "Cuidar para não jogar nenhum cartão ou objeto esquecido pelo cliente no lixo."
+      ]
+    },
+    {
+      "pergunta": "2) Quando o cliente voltar e pedir pelo objeto que perdeu você DEVE:",
+      "opcoes": [
+        "Dizer que não sei de nada.",
+        "Dizer para se direcionar ao local que meu líder irá me informar.",
+        "Dizer para ele não perder as coisas e que joguei no lixo.",
+        "Dizer que encontrei e que vou buscar no armário para entregar a ele."
+      ]
+    },
+    {
+      "pergunta": "1) Ao encontrar um objeto perdido por cliente DEVO:",
+      "opcoes": [
+        "Guardar no bolso..",
+        "Jogar no lixo.",
+        "Segurar o objeto na mão e chamar o meu líder para entregar.",
+        "Guardar comigo e entregar para o primeiro cliente que vier pedir."
+      ]
+    }
+  ]
+}
