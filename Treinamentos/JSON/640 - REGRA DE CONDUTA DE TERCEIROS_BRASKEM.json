@@ -1,0 +1,52 @@
+{
+  "treinamento": "REGRA DE CONDUTA DE TERCEIROS_BRASKEM",
+  "id": 640,
+  "idChecklist": 426,
+  "perguntas": [
+    {
+      "pergunta": "5) Caso queira saber mais sobre o Código de Conduta de Terceiros da Braskem, qual página da internet deve acessar?",
+      "opcoes": [
+        "Devo acessar as redes sociais da Braskem.",
+        "Devo acessar a intranet da Braskem.",
+        "Devo acessar o site www.braskem.com.br.",
+        "O Código de Conduta de Terceiros não está disponível online."
+      ]
+    },
+    {
+      "pergunta": "4) Qual o canal disponível para denúncia de violação das Leis Anticorrupção ou das Políticas da Braskem?",
+      "opcoes": [
+        "No Brasil é através do número 0800 377 8021 ou site (www.linhadeeticabraskem.com).",
+        "No Brasil é apenas através no número 0800 377 8021.",
+        "No Brasil é através do site (www.braskem.com.br).",
+        "A Braskem não tem um canal disponível para denúncia."
+      ]
+    },
+    {
+      "pergunta": "3) A Braskem não tolera nenhuma forma de suborno ou corrupção. Sabendo disso, assinale abaixo uma alternativa que demonstre uma prática proibida:",
+      "opcoes": [
+        "Conversar com um cliente de forma respeitosa.",
+        "Solicitar ou aceitar qualquer montante ou item de valor, direta ou indiretamente.",
+        "Negociar com um fornecedor de forma honesta.",
+        "Solicitar ou aceitar qualquer ajuda de um colega de trabalho."
+      ]
+    },
+    {
+      "pergunta": "2) Como a Braskem espera que os Terceiros façam negócios?",
+      "opcoes": [
+        "De maneira honesta e amigável, respeitando apenas o meio ambiente.",
+        "De maneira honesta e ética, não respeitando os Direitos Humanos.",
+        "De maneira honesta e ética, respeitando os Direitos Humanos e o meio ambiente.",
+        "De maneira simples e rápida, sem se preocupar com os Direitos Humanos e meio ambiente."
+      ]
+    },
+    {
+      "pergunta": "1) De acordo com o treinamento, a Braskem apoia e atua de acordo com acordos e tratados internacionais, assinale abaixo a alternativa que contém um exemplo de um acordo/tratado:",
+      "opcoes": [
+        "Declaração Universal dos Direitos Humanos.",
+        "Declaração Universal dos Direitos Trabalhistas.",
+        "Declaração Universal dos Direitos Empresariais.",
+        "Declaração Universal dos Direitos Ambientais."
+      ]
+    }
+  ]
+}
