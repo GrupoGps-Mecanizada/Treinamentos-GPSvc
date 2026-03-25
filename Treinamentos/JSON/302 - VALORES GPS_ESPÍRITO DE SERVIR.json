@@ -1,0 +1,52 @@
+{
+  "treinamento": "VALORES GPS_ESPÍRITO DE SERVIR",
+  "id": 302,
+  "idChecklist": 213,
+  "perguntas": [
+    {
+      "pergunta": "5) Nossa humildade garante comportamentos sem arrogância e isso significa?",
+      "opcoes": [
+        "Ser respeitoso.",
+        "Ser altruísta.",
+        "Ser humilde, comprometido, honesto, paciente e ter a capacidade de perdoar.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "4) Qual é a missão do Grupo GPS?",
+      "opcoes": [
+        "Todos, servindo com Orgulho e Dedicação nos tornando essenciais aos nossos Clientes.",
+        "Atender o Cliente com energia e dinamismo todos os dias.",
+        "Todos, garantindo satisfação completa do Cliente.",
+        "Todos, com alegria e resiliência atendendo o Cliente para sempre."
+      ]
+    },
+    {
+      "pergunta": "3) Ao que está associado o Espírito de servir?",
+      "opcoes": [
+        "Está associado a necessidade do cliente.",
+        "Está associado apenas a atividade.",
+        "Está associado a capacidade da empresa e dos profissionais de serem úteis, de não identificar as necessidades dos clientes e garantir benefícios mútuos.",
+        "Está associado a capacidade da empresa e dos profissionais de serem úteis, identificar as necessidades dos Clientes e garantir benefícios mútuos."
+      ]
+    },
+    {
+      "pergunta": "2) Dentre os comportamentos citados, quais foram três comportamentos dados pelo especialista James Hunter?",
+      "opcoes": [
+        "Gentileza, Respeito e Altruísmo.",
+        "Capacidade de servir, ser arrogante e paciente.",
+        "Saber perdoar, Comprometimento e Ressentimento.",
+        "Humildade, Perdão e fazer as coisas darem certo."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o conceito de Espírito de servir?",
+      "opcoes": [
+        "Espírito de servir é crescer a empresa.",
+        "É a capacidade de trabalhar em favor de alguém, de uma instituição ou uma ideia.",
+        "É a missão de realizar o que precisa ser feito.",
+        "Nenhuma das alternativas acima."
+      ]
+    }
+  ]
+}
