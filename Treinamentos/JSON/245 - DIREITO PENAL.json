@@ -1,0 +1,52 @@
+{
+  "treinamento": "DIREITO PENAL",
+  "id": 245,
+  "idChecklist": 157,
+  "perguntas": [
+    {
+      "pergunta": "5) Segundo o Art. 157 do código penal se configura LATROCÍNIO quando:",
+      "opcoes": [
+        "Quando a vítima está em serviço de transporte de valores e o agente conhece tal circunstância.",
+        "Quando o furto foi cometido com destruição e rompimento de obstáculo.",
+        "Quando o roubo é qualificado havendo violência ou ameaça é exercida com emprego de arma.",
+        "Quando o roubo é seguido de morte, ocorre quando a violência do agente resulta em morte."
+      ]
+    },
+    {
+      "pergunta": "4) Segundo o Art.25 do Código Penal, entende-se que quando usando-se moderadamente os meios necessários, repelindo injusta agressão, atual ou iminente referem-se a qual excludente de ilicitude?",
+      "opcoes": [
+        "Legítima defesa.",
+        "Negligência.",
+        "Crime culposo.",
+        "Lesão corporal."
+      ]
+    },
+    {
+      "pergunta": "3) Marque a alternativa correta onde sinaliza as formas de violação do dever de cuidado, ou mais conhecidas como modalidades de culpa do CRIME CULPOSO.",
+      "opcoes": [
+        "Imprudência, desatenção e habilitação.",
+        "Desatenção, aptidão e habilitação.",
+        "Imprudência, Imperícia e negligência.",
+        "Negligência, Imperícia e desatenção."
+      ]
+    },
+    {
+      "pergunta": "2) Qual o conceito de CRIME?",
+      "opcoes": [
+        "É toda ação que pode ser executada para se ajudar.",
+        "É toda ação ou emissão que fere o bem protegido pela lei, ou seja, a vida, o patrimônio e o direito.",
+        "É quando o sujeito deixa de cumprir o seu dever e perde seus direitos.",
+        "É a falta de aptidão física."
+      ]
+    },
+    {
+      "pergunta": "1) Segundo o Art. 5º, todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo a inviolabilidade do direito...?",
+      "opcoes": [
+        "À Vida, à liberdade à união, e à saúde.",
+        "À Vida, à liberdade, à igualdade, à segurança e à propriedade.",
+        "À Saúde, à união e à vida.",
+        "Todas as alternativas."
+      ]
+    }
+  ]
+}
