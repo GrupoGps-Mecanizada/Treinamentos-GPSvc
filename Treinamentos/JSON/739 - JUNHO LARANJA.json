@@ -1,0 +1,52 @@
+{
+  "treinamento": "JUNHO LARANJA",
+  "id": 739,
+  "idChecklist": 519,
+  "perguntas": [
+    {
+      "pergunta": "5) Em casos de pacientes anêmicos, a transfusão esta associada à:",
+      "opcoes": [
+        "Circulação com glóbulos brancos.",
+        "Urgências com hemoglobina total bem alta no hemograma.",
+        "Urgências com hemoglobina total bem baixa no hemograma.",
+        "Procedimentos oncológicos."
+      ]
+    },
+    {
+      "pergunta": "4) Qual tipo de avaliação é recomendada para estabelecer as causas e do tratamento adequado para a Leucemia?",
+      "opcoes": [
+        "Avaliação médica.",
+        "Avaliação Psicológica.",
+        "Avaliação física.",
+        "Avaliação neurológica."
+      ]
+    },
+    {
+      "pergunta": "3) Assinale a alternativa que completa a frase. “A leucemia é um tipo de câncer que acontece no sangue, quando”:",
+      "opcoes": [
+        "Alguns glóbulos brancos (responsáveis por combater infecções) são produzidos de forma controlada, perdendo sua função protetora e substituindo os glóbulos saudáveis.",
+        "Alguns glóbulos brancos (responsáveis por combater infecções) são produzidos de forma descontrolada, perdendo sua função protetora e substituindo os glóbulos saudáveis.",
+        "Alguns glóbulos vermelhos (responsáveis por combater infecções) são produzidos de forma descontrolada, perdendo sua função protetora e substituindo os glóbulos saudáveis.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) Os principais sintomas da anemia são:",
+      "opcoes": [
+        "Cansaço, tontura, falta de apetite, palidez de pele e mucosas (pálpebras e gengivas). Em crianças, fique atento para a dificuldade no aprendizado e concentração, pode ser uma consequência de anemia",
+        "Cansaço, tontura e aumento do apetite.",
+        "Cansaço, tontura, falta de apetite e palidez de pele.",
+        "Todas as alternativas estão incorretas."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o objetivo da campanha?",
+      "opcoes": [
+        "Informar a importância dos alimentos ricos em ferro.",
+        "Difundir informações sobre a anemia e a leucemia, doenças causadas por alterações nas células sanguíneas.",
+        "Falar sobre doenças como anemia e hipertensão.",
+        "Nenhuma das alternativas."
+      ]
+    }
+  ]
+}
