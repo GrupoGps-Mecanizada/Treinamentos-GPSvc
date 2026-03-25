@@ -1,0 +1,52 @@
+{
+  "treinamento": "TREINAMENTO RESÍDUO PERFURO CORTANTES_RS E SC",
+  "id": 244,
+  "idChecklist": 156,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais são os Perfuro cortantes?",
+      "opcoes": [
+        "Algodão.",
+        "Travessa.",
+        "Seringa, escalpes e ampolas de vidros.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "4) Quais são as principais doenças que podem ser transmitidas pelo Resíduo Perfuro Cortante?",
+      "opcoes": [
+        "HIV, Hepatite B e C.",
+        "Asma.",
+        "Depressão.",
+        "AVC."
+      ]
+    },
+    {
+      "pergunta": "3) Qual é o EPI obrigatório para limpeza hospitalar?",
+      "opcoes": [
+        "Protetor de concha.",
+        "Luvas Látex.",
+        "Capacete de Segurança.",
+        "Colete refletivo."
+      ]
+    },
+    {
+      "pergunta": "2) Onde é realizado acondicionamento dos Resíduos Perfuro Cortantes?",
+      "opcoes": [
+        "Lixeira.",
+        "Caixas coletoras.",
+        "Saco de lixo.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "1) EM QUAL GRUPO OS RESÍDUOS PERFURO CORTANTES PERTENCEM PELA CLASSIFICAÇÃO DA ANVISA?",
+      "opcoes": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ]
+    }
+  ]
+}
