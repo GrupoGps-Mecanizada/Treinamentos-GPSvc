@@ -1,0 +1,52 @@
+{
+  "treinamento": "TOMADA DE DECISÃO NA LIDERANÇA",
+  "id": 978,
+  "idChecklist": 753,
+  "perguntas": [
+    {
+      "pergunta": "5) UMA ALTERNATIVA É CONSIDERADA VIÁVEL QUANDO:",
+      "opcoes": [
+        "É A MAIS BARATA.",
+        "É A MAIS RÁPIDA DE IMPLEMENTAR.",
+        "TEM O MENOR RISCO.",
+        "É A QUE MAIS ATENDE AOS OBJETIVOS DA DECISÃO ."
+      ]
+    },
+    {
+      "pergunta": "4) UM LÍDER EFICAZ É AQUELE QUE:",
+      "opcoes": [
+        "TOMA TODAS AS DECISÕES SOZINHO.",
+        "CONSULTA OS OUTROS APENAS QUANDO NECESSÁRIO.",
+        "CONSIDERA AS OPINIÕES DOS OUTROS, MAS, TOMA AS DECISÕES SOZINHO.",
+        "CONSULTA OS OUTROS ANTES DE TOMAR UMA DECISÃO."
+      ]
+    },
+    {
+      "pergunta": "3) UMA DECISÃO EFICAZ É AQUELA QUE:",
+      "opcoes": [
+        "É TOMADA DE FORMA RÁPIDA E IMPULSIVA.",
+        "É BASEADA EM EVIDÊNCIAS E LEVA EM CONSIDERAÇÃO TODOS OS FATORES RELEVANTES.",
+        "É TOMADA DE ACORDO COM A OPINIÃO DA MAIORIA.",
+        "É TOMADA DE ACORDO COM A OPINIÃO DO LÍDER."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS SÃO AS HABILIDADES ESPECÍFICAS QUE LÍDERES EFICAZES PRECISAM DESENVOLVER PARA TOMAR DECISÕES EFICAZES?",
+      "opcoes": [
+        "PENSAMENTO CRÍTICO, RESOLUÇÃO DE PROBLEMAS, COMUNICAÇÃO E INFLUÊNCIA.",
+        "PENSAMENTO CRÍTICO, COMUNICAÇÃO E INFLUÊNCIA.",
+        "RESOLUÇÃO DE PROBLEMAS, COMUNICAÇÃO E INFLUÊNCIA.",
+        "PENSAMENTO CRÍTICO E RESOLUÇÃO DE PROBLEMAS."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O PRIMEIRO PASSO DO PROCESSO DE TOMADA DE DECISÃO?",
+      "opcoes": [
+        "GERAÇÃO DE ALTERNATIVAS.",
+        "DEFINIÇÃO DOS OBJETIVOS.",
+        "IDENTIFICAÇÃO DO PROBLEMA.",
+        "ANÁLISE DAS ALTERNATIVAS."
+      ]
+    }
+  ]
+}
