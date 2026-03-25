@@ -1,0 +1,52 @@
+{
+  "treinamento": "SEGURANÇA PREVENTIVA_SEGURANÇA",
+  "id": 162,
+  "idChecklist": 88,
+  "perguntas": [
+    {
+      "pergunta": "5) Podemos afirmar que são cinco características faciais, quais são elas?",
+      "opcoes": [
+        "Nariz, olhos, pés, mãos e sobrancelhas.",
+        "Olhos, boca, ombros, mãos e nariz.",
+        "Cabelos, sobrancelhas, olhos, formato das orelhas e nariz.",
+        "Formato das orelhas, braços, ombros, mãos e olhos."
+      ]
+    },
+    {
+      "pergunta": "4) De acordo com o treinamento, quais são as cinco características gerais das pessoas:",
+      "opcoes": [
+        "Sexo, altura, cor da pele, tamanho dos pés e voz.",
+        "Altura, cor da roupa, voz, cor do calçado e sexo.",
+        "Cor da pele, cor do calçado, tamanho dos pés, olhos e altura.",
+        "Cor da roupa, altura, voz, cor do calçado e cor da pele."
+      ]
+    },
+    {
+      "pergunta": "3) O descuido sempre gera vulnerabilidades. São exemplos de descuidos comuns no posto de trabalho:",
+      "opcoes": [
+        "Falar no rádio HT sobre assuntos relacionados ao posto de serviço.",
+        "Cumprimentar as pessoas com bom dia, boa tarde e boa noite.",
+        "Ser educado e atencioso com as pessoas.",
+        "Falar ao celular durante o trabalho e se distrair por qualquer motivo no posto de trabalho."
+      ]
+    },
+    {
+      "pergunta": "2) Dos itens abaixo, quais são atitudes suspeitas de pessoas com intenção de cometer um crime?",
+      "opcoes": [
+        "Disfarçar de personagem de desenho animado e sorrir para o vigilante.",
+        "Sofrer um mal súbito próximo do vigilante e pedir ajuda.",
+        "Informar que está perdido ao vigilante e pedir informação da localização.",
+        "Passar várias vezes na mesma área e pedir informações sem nexo para distrair o vigilante."
+      ]
+    },
+    {
+      "pergunta": "1) Quais os dois principais objetivos da Segurança Patrimonial?",
+      "opcoes": [
+        "Proteger os bens patrimoniais físicos e os bens patrimoniais intangíveis.",
+        "Proteger a integridade físicas das pessoas e os bens patrimoniais.",
+        "Proteger os bens intangíveis e tangíveis.",
+        "Proteger os bens patrimoniais e pessoais intangíveis."
+      ]
+    }
+  ]
+}
