@@ -1,0 +1,52 @@
+{
+  "treinamento": "CARREGAMENTO DE CAMINHÕES - SUCATA COMPACTADA_NOVELIS",
+  "id": 890,
+  "idChecklist": 663,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE FAZER ANTES DE MOVIMENTAR QUALQUER CARGA COM A EMPILHADEIRA?",
+      "opcoes": [
+        "CHECKLIST DA EMPILHADEIRA E AVALIAR TODOS OS ITENS COM MUITA ATENÇÃO.",
+        "ORGANIZAR A CARGA.",
+        "TOMAR CAFÉ.",
+        "ABASTECER A LINHA DE PRODUÇÃO."
+      ]
+    },
+    {
+      "pergunta": "4) ONDE O MOTORISTA DO CAMINHÃO DEVE FICAR?",
+      "opcoes": [
+        "PRÓXIMO AO EMPILHADOR.",
+        "DENTRO DA ÁREA DA COMPACTADORA.",
+        "EM CIMA DA CARROCERIA DO CAMINHÃO.",
+        "DENTRO DO CAMINHÃO OU EM LOCAL DESTINADO PELA FÁBRICA PARA O MOTORISTA."
+      ]
+    },
+    {
+      "pergunta": "3) QUANTAS CINTAS DEVEM SER COLOCADAS EM CADA FILEIRA DE FARDOS DE BRIQUETES?",
+      "opcoes": [
+        "DUAS.",
+        "UMA.",
+        "TRÊS.",
+        "QUATRO."
+      ]
+    },
+    {
+      "pergunta": "2) PARA QUE SERVE A ATIVIDADE DO GPSVISTA?",
+      "opcoes": [
+        "PARA VER O QUE ESTÁ SENDO FEITO.",
+        "AVALIAR A QUANTIDADE DE FARDOS CARREGADOS, QUANTIDADE DE TEMPO PARA TODO O CARREGAMENTO E PARA GERAR UM CHECKLIST DE COMO O FARDO FOI CARREGADO.",
+        "PARA TER O CONTROLE DA EMPILHADEIRA.",
+        "PARA CONTABILIZAR QUANTOS OPERADORES REALIZAM A ATIVIDADE."
+      ]
+    },
+    {
+      "pergunta": "1) QUEM DEVE REALIZAR A ABERTURA E O FECHAMENTO DO SIDER?",
+      "opcoes": [
+        "O CLIENTE.",
+        "O MOTORISTA.",
+        "O OPERADOR DE EMPILHADEIRA.",
+        "O TÉCNICO DE SEGURANÇA DO TRABALHO."
+      ]
+    }
+  ]
+}
