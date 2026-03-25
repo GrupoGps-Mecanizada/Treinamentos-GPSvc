@@ -1,0 +1,52 @@
+{
+  "treinamento": "ATENDIMENTO AO CLIENTE_REGIONAL GOIÁS",
+  "id": 608,
+  "idChecklist": 394,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual conduta pode levar a perder um Cliente?",
+      "opcoes": [
+        "Preço alto.",
+        "Atendimento ineficiente.",
+        "Qualidade ruim do produto.",
+        "Falta de mercadoria."
+      ]
+    },
+    {
+      "pergunta": "4) Em situações difíceis, devemos manter:",
+      "opcoes": [
+        "Controle emocional.",
+        "Gírias e apelidos.",
+        "Vocabulário adequado.",
+        "Expressões de insegurança."
+      ]
+    },
+    {
+      "pergunta": "3) Não é considerado uma boa prática de atendimento:",
+      "opcoes": [
+        "Educação.",
+        "Empatia.",
+        "Vocabulário inadequado.",
+        "Disponibilidade para atender."
+      ]
+    },
+    {
+      "pergunta": "2) O que é considerado vocabulário inadequado?",
+      "opcoes": [
+        "Gírias, português formal e código Q.",
+        "Português formal, gírias e apelidos.",
+        "Apelidos, código Q e português formal.",
+        "Código Q, gírias e apelidos."
+      ]
+    },
+    {
+      "pergunta": "1) Qual das alternativas abaixo NÃO é um ponto para um bom atendimento?",
+      "opcoes": [
+        "Qualidade.",
+        "Eficiência.",
+        "Excelência.",
+        "Eficácia."
+      ]
+    }
+  ]
+}
