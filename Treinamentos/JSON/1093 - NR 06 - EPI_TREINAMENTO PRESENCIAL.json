@@ -1,0 +1,52 @@
+{
+  "treinamento": "NR 06 - EPI_TREINAMENTO PRESENCIAL",
+  "id": 1093,
+  "idChecklist": 864,
+  "perguntas": [
+    {
+      "pergunta": "5) SÃO EXEMPLOS DE EPC:",
+      "opcoes": [
+        "ESCADA E ANDAIME.",
+        "CAPACETE ACOPLADO C/ABAFADOR DE RUÍDO.",
+        "LUVEX, LUVAS E MACACÃO.",
+        "CORRIMÃO, EXTINTOR DE INCÊNDIO, PLACAS DE SINALIZAÇÃO E KIT DE PRIMEIRO SOCORROS."
+      ]
+    },
+    {
+      "pergunta": "4) QUAIS SÃO OS EPI’S OBRIGATÓRIOS PARA REALIZAR TRABALHO EM ALTURA?",
+      "opcoes": [
+        "CINTO DE SEGURANÇA E BOTINA ANTIDERRAPANTE.",
+        "PLATAFORMA ELEVATÓRIA.",
+        "ÓCULOS, LUVAS, CRACHÁ DE ACESSO E UNIFORME.",
+        "UNIFORME, CAPACETE, CINTO DE SEGURANÇA C/TALABARTE E TRAVA QUEDAS, ÓCULOS DE SEGURANÇA, BOTINA DE SEGURANÇA E LUVAS."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE SIGNIFICA CA?",
+      "opcoes": [
+        "COMUNICAÇÃO DE APROVAÇÃO.",
+        "CERTIFICADO DE APROVAÇÃO.",
+        "CERTIFICADO AVULSO DE EPI.",
+        "CERTIFICADO DE ATUALIZAÇÃO DE EPC."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS SÃO OS RISCOS QUE DEVEM SER LEVANTADOS PARA ADEQUAÇÃO DOS EPI’S?",
+      "opcoes": [
+        "RISCOS FÍSICOS, QUÍMICOS, BIOLÓGICOS, ERGONÔMICOS E DE ACIDENTES.",
+        "APENAS RISCO DE ACIDENTES DE TRABALHO.",
+        "APENAS RISCO DE QUEDA.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1) QUEM FAZ A ESCOLHA/INDICAÇÃO DOS EPI’S?",
+      "opcoes": [
+        "O TRABALHADOR.",
+        "O GESTOR DO CONTRATO E O SETOR DE COMPRAS.",
+        "SESMT, APÓS OUVIR O TRABALHADOR E A CIPA.",
+        "O MTE (MINISTÉRIO DO TRABALHO E EMPREGO)."
+      ]
+    }
+  ]
+}
