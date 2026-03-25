@@ -1,0 +1,52 @@
+{
+  "treinamento": "LGPD APLICADA AO TI - MÓDULO IV",
+  "id": 352,
+  "idChecklist": 251,
+  "perguntas": [
+    {
+      "pergunta": "5) Para a adequação do Grupo GPS à LGPD a TI deve",
+      "opcoes": [
+        "Implantar cultura de segurança da informação",
+        "Escrever artigos",
+        "Compartilhar dados com a ANPD",
+        "Criar cláusulas"
+      ]
+    },
+    {
+      "pergunta": "4) É permitido",
+      "opcoes": [
+        "Emprestar senhas",
+        "Usar computadores pessoais na rede GPS",
+        "Emprestar e-mail",
+        "Nenhuma das alternativas"
+      ]
+    },
+    {
+      "pergunta": "3) É proibido",
+      "opcoes": [
+        "Usar senhas fortes",
+        "Utilizar dupla autenticação",
+        "Salvar dados em computador pessoal",
+        "Todas as anteriores"
+      ]
+    },
+    {
+      "pergunta": "2) Antes de liberar qualquer acesso a TI deverá",
+      "opcoes": [
+        "Contatar o financeiro",
+        "Contatar o comercial",
+        "Verificar com o CEO",
+        "Verificar as matrizes de acesso e função"
+      ]
+    },
+    {
+      "pergunta": "1) Para comunicar um incidente com dados",
+      "opcoes": [
+        "Deverá ser aberto um chamado",
+        "Enviar por e-mail ao líder",
+        "Contatar a ANPD",
+        "Nenhuma das alternativas"
+      ]
+    }
+  ]
+}
