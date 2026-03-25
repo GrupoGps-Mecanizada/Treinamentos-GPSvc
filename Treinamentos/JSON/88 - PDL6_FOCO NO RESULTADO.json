@@ -1,0 +1,52 @@
+{
+  "treinamento": "PDL6_FOCO NO RESULTADO",
+  "id": 88,
+  "idChecklist": 61,
+  "perguntas": [
+    {
+      "pergunta": "5) Você leu, que algumas ferramentas poderão ajudar na construção da sua rotina, e seu principal desafio é:",
+      "opcoes": [
+        "Participar de todas as reuniões.",
+        "Se manter produtivo no trabalho e focado nos resultados.",
+        "Ver redes sociais e responder WhatsApp.",
+        "Ficar informado do que acontece na empresa."
+      ]
+    },
+    {
+      "pergunta": "4) No treinamento aprendemos que “Ter certa dose de disciplina, decidir o que é relevante para fazer, decidir em qual situação dizer não e que exceção abrir em determinado momento”, é:",
+      "opcoes": [
+        "Administração de Conflitos.",
+        "Administração do Negócio.",
+        "Administração do Tempo.",
+        "Administração e Gestão de contratos."
+      ]
+    },
+    {
+      "pergunta": "3) Existem diversas ferramentas para criar e organizar sua rotina. Para realizar melhor suas atividades, compromissos e tarefas, escolha:",
+      "opcoes": [
+        "A ferramenta mais colorida.",
+        "A ferramenta que mais reduz custos.",
+        "A ferramenta mais moderna que você conhece.",
+        "A ferramenta que você melhor se adapta."
+      ]
+    },
+    {
+      "pergunta": "2) Após realizar treinamento, podemos dizer que foco no resultado é:",
+      "opcoes": [
+        "Muitas vezes é necessário dizer não para muitas coisas que nos tiram o foco.",
+        "Responder a todos no WhatsApp.",
+        "Ter os colaboradores satisfeitos.",
+        "Reduzir tudo o que não é importante na operação."
+      ]
+    },
+    {
+      "pergunta": "1) De acordo com o treinamento, os profissionais que buscam entregar bons resultados precisam ter:",
+      "opcoes": [
+        "Coragem e determinação para reunião com o cliente.",
+        "Coragem de fazer cortes nos custos.",
+        "Coragem, determinação, saber priorizar e não desviar o caminho.",
+        "Saber priorizar o atendimento."
+      ]
+    }
+  ]
+}
