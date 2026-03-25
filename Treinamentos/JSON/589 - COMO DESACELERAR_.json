@@ -1,0 +1,52 @@
+{
+  "treinamento": "COMO DESACELERAR?",
+  "id": 589,
+  "idChecklist": 377,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual dica NÃO pode te auxiliar a desacelerar?",
+      "opcoes": [
+        "Definir prioridades.",
+        "Organizar melhor suas atividades e metas.",
+        "Finalize todas as atividades em apenas um dia, mesmo que fique até mais tarde.",
+        "Utilizar de forma correta seu tempo."
+      ]
+    },
+    {
+      "pergunta": "4) Quais dicas podem te auxiliar a desacelerar?",
+      "opcoes": [
+        "Nestas situações, apenas deixar as atividades para depois.",
+        "Definir prioridades; organizar atividades de forma que possa realiza-las.",
+        "Trabalhar devagar, porém até mais tarde.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "3) Conhecer suas limitações e pontos de destaque, vai te ajudar a encontrar o quê?",
+      "opcoes": [
+        "Encontrar a sua atividade perfeita.",
+        "Encontrar pessoas que são parecidas.",
+        "O equilíbrio necessário para se desorganizar e definir melhor suas metas de forma que sejam possíveis de alcançar e em seguida comemora-las.",
+        "O equilíbrio necessário para se organizar e definir melhor suas metas de forma que sejam possíveis de alcançar e em seguida comemora-las."
+      ]
+    },
+    {
+      "pergunta": "2) Não devemos chegar no limite do desgaste, para isso é necessário:",
+      "opcoes": [
+        "Conhecer nossas limitações e pontos de destaque.",
+        "Conhecer os pontos de destaque e fraqueza dos outros.",
+        "Para mostrar que você consegue realizar tudo.",
+        "Para saber até onde consegue chegar."
+      ]
+    },
+    {
+      "pergunta": "1) Atualmente, mesmo realizando muitas tarefas no dia, costumamos sentir algumas sensações ruins, como:",
+      "opcoes": [
+        "Somente desgaste físico.",
+        "Frustração, cansaço, desgaste físico, desgaste psicológico e insatisfação com a vida.",
+        "Nenhuma, todos os dias a sensação é de prazer.",
+        "Nenhuma das alternativas acima."
+      ]
+    }
+  ]
+}
