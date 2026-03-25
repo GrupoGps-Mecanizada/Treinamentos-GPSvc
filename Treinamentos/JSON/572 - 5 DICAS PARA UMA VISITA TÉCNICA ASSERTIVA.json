@@ -1,0 +1,52 @@
+{
+  "treinamento": "5 DICAS PARA UMA VISITA TÉCNICA ASSERTIVA",
+  "id": 572,
+  "idChecklist": 371,
+  "perguntas": [
+    {
+      "pergunta": "5) Durante a visita, o que deve ser feito?",
+      "opcoes": [
+        "Se comunicar por mensagem constantemente com a equipe técnica, enviando respostas de dúvidas esclarecidas em tempo real, não prestando atenção completa no momento com o Cliente.",
+        "Ficar próximo ao Cliente, demonstrar confiança e entendimento do negócio.",
+        "Uma vez dentro do espaço do Cliente, podem ser retirados os EPIs.",
+        "Não é necessário tirar suas dúvidas, pois, a visita técnica tem o intuito de ser somente uma apresentação do Cliente para as empresas concorrendo ao processo de prestação de serviços."
+      ]
+    },
+    {
+      "pergunta": "4) Sobre o objetivo do Relatório de visita técnica, qual alternativa está INCORRETA?",
+      "opcoes": [
+        "Definir metodologias para propor soluções em pessoas, equipamentos e tecnologias de acordo com a necessidade do Cliente.",
+        "Analisar os dados levantados.",
+        "Dimensionar soluções com recursos humanos e tecnológicos de questões levantadas tanto em edital e constatadas em Visita Técnica.",
+        "O relatório não tem necessidade de análise, é simplesmente um documento de pré-requisito por parte do Cliente para finalização da Visita Técnica."
+      ]
+    },
+    {
+      "pergunta": "3) Qual alternativa está INCORRETA sobre o que deve ser feito antes da visita técnica?",
+      "opcoes": [
+        "Não é necessário ler o edital ou demais documentos, pois, tudo será esclarecido pelo Cliente durante a visita.",
+        "Ler minuciosamente edital, RFP e anexos são a chave de sucesso para um projeto técnico vencedor e anotar dúvidas.",
+        "Pesquisar e conhecer bem quem é o Cliente.",
+        "Atentar-se aos EPIs e exigências para participar na Visita Técnica."
+      ]
+    },
+    {
+      "pergunta": "2) Sobre o objetivo da visita técnica, está INCORRETO:",
+      "opcoes": [
+        "Tem o intuito de ajudar o Cliente prever as melhores opções para que contrate sem que haja o envio de propostas, somente pelo o modo que nos apresentamos na visita.",
+        "Observar e tornar o projeto a ser apresentado mais estratégico.",
+        "Tirar dúvidas e esclarecer pontos presentes no edital.",
+        "Identificar as necessidades do Cliente, conhecendo o espaço onde atuaremos com nossos serviços."
+      ]
+    },
+    {
+      "pergunta": "1) O que é visita técnica?",
+      "opcoes": [
+        "É a visita que a contratante realiza nos escritórios da contratada, para avaliação.",
+        "Oportunidade concedida pelo Cliente para que as empresas de prestação de serviço em processo de concorrência possam conhecer o local em que prestarão serviços.",
+        "Não ocorre em todos os segmentos.",
+        "É um processo que acontece no momento em que a contratante assina o termo de serviços com a contratada."
+      ]
+    }
+  ]
+}
