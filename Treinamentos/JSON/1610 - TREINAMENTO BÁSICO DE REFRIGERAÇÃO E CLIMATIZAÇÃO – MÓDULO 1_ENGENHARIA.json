@@ -1,0 +1,52 @@
+{
+  "treinamento": "TREINAMENTO BÁSICO DE REFRIGERAÇÃO E CLIMATIZAÇÃO – MÓDULO 1_ENGENHARIA",
+  "id": 1610,
+  "idChecklist": 1313,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE É ENTROPIA?",
+      "opcoes": [
+        "A CAPACIDADE DE UM SISTEMA DE PRODUZIR FRIO.",
+        "A ENERGIA TOTAL DISPONÍVEL EM UM SISTEMA.",
+        "O GRAU DE DESORDEM OU ALEATORIEDADE DE UM SISTEMA.",
+        "A PRESSÃO INTERNA DE UM GÁS COMPRIMIDO."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL A FUNÇÃO DA 0ª LEI DA TERMODINÂMICA?",
+      "opcoes": [
+        "DETERMINAR A QUANTIDADE DE ENERGIA NUM SISTEMA FECHADO.",
+        "ESTABELECER O CONCEITO DE EQUILÍBRIO TÉRMICO ENTRE CORPOS.",
+        "MEDIR A ENTROPIA NO ZERO ABSOLUTO.",
+        "CONTROLAR O FLUXO DE CALOR ENTRE LÍQUIDOS."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE SIGNIFICA A SIGLA HVAC?",
+      "opcoes": [
+        "HEAT VARIATION AND AIR CONTROL.",
+        "HEATING, VACUUM AND AIR CONTROL.",
+        "HEATING, VENTILATION AND AIR CONDITIONING.",
+        "HIGH VELOCITY AIR CONTROL."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS SÃO AS TRÊS FORMAS DE TRANSFERÊNCIA DE CALOR?",
+      "opcoes": [
+        "CONDUÇÃO, CONVECÇÃO E RADIAÇÃO.",
+        "IRRADIAÇÃO, DISSIPAÇÃO E PRESSÃO.",
+        "RADIAÇÃO, EXPANSÃO E CONDUÇÃO.",
+        "ADVECÇÃO, DIFUSÃO E FRICÇÃO."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É O PRINCÍPIO DA 1ª LEI DA TERMODINÂMICA?",
+      "opcoes": [
+        "A ENERGIA PODE SER CRIADA DO NADA.",
+        "A ENERGIA NÃO SE CRIA NEM SE DESTRÓI, APENAS SE TRANSFORMA.",
+        "O CALOR SÓ PODE SER TRANSFERIDO POR CONDUÇÃO.",
+        "O FRIO É UMA FORMA DE ENERGIA."
+      ]
+    }
+  ]
+}
