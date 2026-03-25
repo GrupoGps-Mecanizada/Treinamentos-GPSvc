@@ -1,0 +1,52 @@
+{
+  "treinamento": "IT - COURRIER IMPORTAÇÃO. REV00_GRU AIRPORT",
+  "id": 1263,
+  "idChecklist": 1030,
+  "perguntas": [
+    {
+      "pergunta": "5) ASSINALE A ALTERNATIVA CORRETA. O COLABORADOR DEVE REALIZAR A SEGREGAÇÃO DE CARGAS CONFORME:",
+      "opcoes": [
+        "SOLICITAÇÃO DO ENCARREGADO GPS.",
+        "SOLICITAÇÃO DE GRU.",
+        "SOLICITAÇÃO DO ÓRGÃO ANUENTE.",
+        "SOLICITAÇÃO DO COLEGA."
+      ]
+    },
+    {
+      "pergunta": "4) ASSINALE A ALTERNATIVA CORRETA. AS CARGAS DEVEM SER SEPARADAS POR:",
+      "opcoes": [
+        "HOUSE E AWB.",
+        "HOUSE E BOLOTA.",
+        "PCG E BOLOTA.",
+        "NENHUMA DAS ALTERNATIVAS ACIMA."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE DEVE SER FEITO NOS PALLETS DISPONÍVEIS NO COURIER?",
+      "opcoes": [
+        "DESCARTÁ-LOS.",
+        "ENTREGAR AO TRANSPORTADOR.",
+        "DEIXAR ESPALHADOS.",
+        "REALIZAR TRIAGEM CONFORME IT-MAN-023-GPS REFORMA DE PALETES."
+      ]
+    },
+    {
+      "pergunta": "2) DEVE-SE VERIFICAR AS CARGAS PRIORITÁRIAS ATRAVÉS DE INSPEÇÃO VISUAL, TAIS COMO: ETIQUETA IATA DE TEMPERATURA, QUE INDICA QUAIS TIPOS DE CARGA?",
+      "opcoes": [
+        "CARGA SECA E FÁRMACO.",
+        "CARGA SECA E PERECÍVEL.",
+        "CARGAS FARMACÊUTICAS OU PERECÍVEIS DE QUALQUER NATUREZA.",
+        "TODAS ESTÃO CORRETAS."
+      ]
+    },
+    {
+      "pergunta": "1) ASSINALE A ALTERNATIVA CORRETA. A GPS DEVE GARANTIR QUE TODOS OS EQUIPAMENTOS QUE ENTRAM NO COURIER IMPORTAÇÃO SEJAM DEVIDAMENTE INFORMADOS PRONTAMENTE AO:",
+      "opcoes": [
+        "AO SUPERVISOR GPS.",
+        "AO SUPERVISOR GRU.",
+        "AO AOC GPS.",
+        "AOC GRU."
+      ]
+    }
+  ]
+}
