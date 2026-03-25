@@ -1,0 +1,52 @@
+{
+  "treinamento": "POSTURA OPERACIONAL",
+  "id": 57,
+  "idChecklist": 32,
+  "perguntas": [
+    {
+      "pergunta": "4) A higiene pessoal também é muito importante. Qual alternativa apresenta orientações adequadas para os homens?",
+      "opcoes": [
+        "Brincos pequenos e discretos, barba feita e bigodes aparados na linha dos lábios.",
+        "Cabelos cortados e penteados, sem cobrir o lóbulo da orelha, unhas sempre limpas e cortadas e barba feita.",
+        "Unhas sempre limpas e cortadas, maquiagem leve e discreta e bigodes aparados.",
+        "Bigode e barba conforme a moda, cabelos penteados e unhas limpas."
+      ]
+    },
+    {
+      "pergunta": "3) A higiene pessoal também é muito importante. Qual alternativa apresenta orientações adequadas para as mulheres?",
+      "opcoes": [
+        "Maquiagem deve ser leve, brincos pequenos e discretos, cabelos penteados com corte curto ou preso.",
+        "Brincos pequenos e discretos, bigodes aparados na linha dos lábios, os piercings devem ser evitados.",
+        "Maquiagem deve ser leve, os piercings devem ser evitados e manter a barba feita.",
+        "Brincos pequenos e discretos, maquiagem deve ser leve, as unhas compridas e com esmalte escuro."
+      ]
+    },
+    {
+      "pergunta": "2) Qual das alternativas apresenta dicas corretas de cuidados com o uniforme?",
+      "opcoes": [
+        "Calças bem passadas, meias brancas, gravata alinhada e com gola fechada.",
+        "Camisas limpas e bem passadas, blazer ajustado e desabotoado, calças com barras por fazer.",
+        "Meias pretas e sapatos engraxados, camisa com gola desabotoada e sem gravata.",
+        "Camisas limpas e bem passadas, calças passadas com um vinco só e barras feitas, meias pretas e sapatos engraxados."
+      ]
+    },
+    {
+      "pergunta": "1) Quais são os 3 itens importantes para uma ótima postura operacional?",
+      "opcoes": [
+        "Pontualidade, disciplina e regras.",
+        "Utilização correta do uniforme, higiene pessoal e postura.",
+        "Relacionamento, diversão e horário de refeições.",
+        "Cumprir procedimentos, conversas descontraídas e atitudes pró-ativas."
+      ]
+    },
+    {
+      "pergunta": "5) Qual das alternativas apresenta dicas de uma postura adequada?",
+      "opcoes": [
+        "Fumar e utilizar o celular durante o expediente.",
+        "Tocar nas pessoas sempre que for recepciona-las.",
+        "Antecipe a expectativa do Cliente e esteja pronto para recebê-lo, tratando-o sempre por senhor ou senhora.",
+        "Ande sempre de um lado para o outro, sem preocupação com o que acontece ao redor."
+      ]
+    }
+  ]
+}
