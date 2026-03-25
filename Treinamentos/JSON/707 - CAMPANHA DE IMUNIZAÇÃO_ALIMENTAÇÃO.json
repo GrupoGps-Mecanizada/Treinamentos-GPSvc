@@ -1,0 +1,52 @@
+{
+  "treinamento": "CAMPANHA DE IMUNIZAÇÃO_ALIMENTAÇÃO",
+  "id": 707,
+  "idChecklist": 491,
+  "perguntas": [
+    {
+      "pergunta": "5)  DEVO PARTICIPAR DAS CAMPANHAS DE IMUNIZAÇÃO? ",
+      "opcoes": [
+        "SIM, SEMPRE QUE CONVOCADO.",
+        "SÓ QUANDO A VACINA FOR A QUE GOSTO.",
+        "NÃO, TENHO MEDO DE AGULHAS.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "4) ONDE POSSO ME VACINAR GRATUITAMENTE? ",
+      "opcoes": [
+        "NOS HOSPITAIS PARTICULARES.",
+        "EM QUALQUER EMPRESA QUE EU TRABALHAR.",
+        "NA UNIDADE BÁSICA DE SAÚDE MAIS PRÓXIMA DE SUA RESIDÊNCIA.",
+        "TODAS AS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "3) QUAIS DOENÇAS FORAM ERRADICADAS PELA VACINAÇÃO DA POPULAÇÃO? \n\n ",
+      "opcoes": [
+        "VARÍOLA, POLIOMIELITE DENTRE OUTRAS.",
+        "NENHUMA DOENÇA FOI IRRADIADA.",
+        "BRONQUITE, FEBRE, TOSSE DENTRE OUTRAS.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "2) AS VACINAS NO BRASIL FUNCIONAM? ",
+      "opcoes": [
+        "NÃO, É SÓ PARA GASTAR DINHEIRO.",
+        "SIM, EVITAM DIVERSAS DOENÇAS E AUXILIA NOSSO SISTEMA IMUNOLÓGICO.",
+        "NÃO, AS PESSOAS CONTINUAM DOENTES.",
+        "NENHUMA DAS ALTERNATIVAS."
+      ]
+    },
+    {
+      "pergunta": "1) POR QUE DEVO ME VACINAR? ",
+      "opcoes": [
+        "NÃO DEVO ME VACINAR.",
+        "NÃO DEVO, PORQUE NÃO FUNCIONA.",
+        "PARA ME AJUDAR A CRESCER E FICAR MAIS FORTE.",
+        "PARA ME PROTEGER DE DOENÇAS."
+      ]
+    }
+  ]
+}
