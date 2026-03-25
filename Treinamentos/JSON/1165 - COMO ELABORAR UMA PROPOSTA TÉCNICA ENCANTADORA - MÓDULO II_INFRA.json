@@ -1,0 +1,52 @@
+{
+  "treinamento": "COMO ELABORAR UMA PROPOSTA TÉCNICA ENCANTADORA - MÓDULO II_INFRA",
+  "id": 1165,
+  "idChecklist": 934,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE SÃO AS PREMISSAS EM UM PROJETO?",
+      "opcoes": [
+        "ELEMENTOS DE DECORAÇÃO.",
+        "RELATÓRIOS DE RESULTADOS.",
+        "CRONOGRAMAS DE EXECUÇÃO.",
+        "DADOS ESTRATÉGICOS QUE DETERMINAM OS PARÂMETROS DO PROJETO."
+      ]
+    },
+    {
+      "pergunta": "4) ONDE SE PODE ENCONTRAR REFERÊNCIAS PARA DETERMINAR A FREQUÊNCIA DAS ATIVIDADES?",
+      "opcoes": [
+        "EM MANUAIS DE PROCESSOS E TEMPOS PADRÕES.",
+        "EM REVISTAS DE MODA.",
+        "EM GUIAS DE BLOG.",
+        "EM PROGRAMAS DE TELEVISÃO."
+      ]
+    },
+    {
+      "pergunta": "3) POR QUE É IMPORTANTE INCLUIR TECNOLOGIAS E INOVAÇÕES NA METODOLOGIA?",
+      "opcoes": [
+        "PARA AUMENTAR A BUROCRACIA.",
+        "PARA REDUZIR A PRODUTIVIDADE.",
+        "PARA MELHORAR A QUALIDADE E AUMENTAR A PRODUTIVIDADE.",
+        "PARA COMPLICAR OS PROCESSOS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS SÃO OS DADOS IMPORTANTES PARA CONSTRUIR UMA METODOLOGIA EFICAZ?",
+      "opcoes": [
+        "DADOS METEOROLÓGICOS.",
+        "DADOS FINANCEIROS DO CLIENTE.",
+        "DADOS DE MAPEAMENTO DAS ÁREAS E CARACTERÍSTICAS ESPECÍFICAS.",
+        "DADOS DE TRÁFEGO NA INTERNET."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE A METODOLOGIA DO PROJETO AJUDA A CONSTRUIR NA PROPOSTA TÉCNICA?",
+      "opcoes": [
+        "ORÇAMENTO INICIAL.",
+        "FUNDAMENTOS DO PROJETO.",
+        "CRONOGRAMA DE EXECUÇÃO.",
+        "RELATÓRIO DE RESULTADOS."
+      ]
+    }
+  ]
+}
