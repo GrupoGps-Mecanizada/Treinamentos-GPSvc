@@ -1,0 +1,52 @@
+{
+  "treinamento": "DIPLOMACIA ESTRATÉGICA_DO",
+  "id": 667,
+  "idChecklist": 453,
+  "perguntas": [
+    {
+      "pergunta": "5) Como é possível desenvolver as habilidades de diplomacia estratégica?",
+      "opcoes": [
+        "Apenas por meio de experiências práticas.",
+        "Apenas por meio de cursos formais.",
+        "Apenas por meio de treinamentos específicos.",
+        "Por meio de uma combinação de experiências práticas, cursos e treinamentos específicos."
+      ]
+    },
+    {
+      "pergunta": "4) Qual é a importância da habilidade de adaptação na diplomacia estratégica?",
+      "opcoes": [
+        "Ela ajuda a lidar com situações imprevistas e encontrar soluções criativas para problemas complexos.",
+        "Ela permite que você se comunique de forma clara e precisa.",
+        "Ela permite que você imponha suas decisões aos outros.",
+        "Ela ajuda a identificar os interesses e necessidades das outras partes envolvidas."
+      ]
+    },
+    {
+      "pergunta": "3) Por que é importante investir no desenvolvimento das habilidades de diplomacia estratégica?",
+      "opcoes": [
+        "Porque isso permite que você imponha suas decisões aos outros.",
+        "Porque isso ajuda a resolver conflitos e promover interesses nacionais e internacionais.",
+        "Porque isso permite que você se comunique de forma clara e precisa.",
+        "Porque isso ajuda a identificar os interesses e necessidades das outras partes envolvidas."
+      ]
+    },
+    {
+      "pergunta": "2) Quais habilidades são essenciais para um diplomata estratégico?",
+      "opcoes": [
+        "Habilidades de comunicação, adaptação e argumentação.",
+        "Habilidades de liderança, persuasão e imposição.",
+        "Habilidades de negociação, persuasão e pensamento crítico.",
+        "Habilidades de comunicação, negociação, adaptação e pensamento estratégico."
+      ]
+    },
+    {
+      "pergunta": "1) Qual é a definição de diplomacia estratégica?",
+      "opcoes": [
+        "A arte de convencer os outros a aceitar suas ideias.",
+        "A habilidade de antecipar as consequências de suas ações.",
+        "O uso da comunicação e da negociação para alcançar objetivos específicos em um ambiente político ou empresarial complexo.",
+        "A capacidade de impor suas decisões aos outros."
+      ]
+    }
+  ]
+}
