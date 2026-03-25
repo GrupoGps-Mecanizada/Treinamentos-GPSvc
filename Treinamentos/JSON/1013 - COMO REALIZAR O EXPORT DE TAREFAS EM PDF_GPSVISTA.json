@@ -1,0 +1,52 @@
+{
+  "treinamento": "COMO REALIZAR O EXPORT DE TAREFAS EM PDF_GPSVISTA",
+  "id": 1013,
+  "idChecklist": 787,
+  "perguntas": [
+    {
+      "pergunta": "5) QUANTAS TAREFAS EU POSSO SELECIONAR?",
+      "opcoes": [
+        "DE 1 A 10 TAREFAS.",
+        "DE 1 A 11 TAREFAS.",
+        "DE 1 A 15 TAREFAS.",
+        "DE 1 A 20 TAREFAS."
+      ]
+    },
+    {
+      "pergunta": "4) ONDE FICA O FILTRO PARA EXTRAIR O RELATÓRIO?",
+      "opcoes": [
+        "NA PARTE INFERIOR DA TELA.",
+        "NA PARTE SUPERIOR DA TELA.",
+        "NA PARTE CENTRAL DA TELA.",
+        "NÃO EXISTE FILTRO."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE ACONTECE APÓS SELECIONAR E EXPORTAR AS TAREFAS DESEJADAS NO GPSVISTA?",
+      "opcoes": [
+        "OS DADOS SÃO DELETADOS DO SISTEMA.",
+        "É NECESSÁRIO AGUARDAR A CONFIRMAÇÃO DO ADMINISTRADOR.",
+        "É PRECISO REIMPRIMIR OS REGISTROS.",
+        "RECEBE-SE AUTOMATICAMENTE UM E-MAIL COM O HISTÓRICO DA EXECUÇÃO DESSAS TAREFAS."
+      ]
+    },
+    {
+      "pergunta": "2) ONDE É POSSÍVEL ENCONTRAR A OPÇÃO PARA EXPORTAR O HISTÓRICO DAS TAREFAS NO GPSVISTA?",
+      "opcoes": [
+        "NA ABA DE USUÁRIOS.",
+        "NA ABA DE RELATÓRIOS.",
+        "NA ABA DE TAREFAS, NO MENU ESQUERDO.",
+        "NA ABA CONTROLE."
+      ]
+    },
+    {
+      "pergunta": "1)  O QUE O PDF GERADO NO GPSVISTA CONTÉM SOBRE AS TAREFAS EXPORTADAS?",
+      "opcoes": [
+        "SOMENTE O NÚMERO DA TAREFA E O TIPO DE SERVIÇO.",
+        "INFORMAÇÕES GERAIS, NÚMERO DA TAREFA, TIPO DE SERVIÇO, LOCAL, PEC, CR, HIERARQUIA DE INSCRIÇÃO, INFORMAÇÕES, USUÁRIO E HORÁRIOS DE EXECUÇÃO.",
+        "APENAS O HISTÓRICO DE EXECUÇÃO DAS TAREFAS.",
+        "NENHUMA INFORMAÇÃO RELEVANTE."
+      ]
+    }
+  ]
+}
