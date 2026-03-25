@@ -1,0 +1,52 @@
+{
+  "treinamento": "POP.CARREGAMENTO MANUAL DE LINHA BRANCA_ELECTROLUX SÃO CARLOS",
+  "id": 237,
+  "idChecklist": 149,
+  "perguntas": [
+    {
+      "pergunta": "5) Com base no treinamento, podemos afirmar que:",
+      "opcoes": [
+        "Todos os resíduos de strech (plástico) devem ser jogados sobre a doca.",
+        "Todos os resíduos de strech (plástico) devem ser jogados no contentor de strech alocado no enclausuramento.",
+        "Todos os resíduos de strech (plástico) devem ser jogados em qualquer lugar.",
+        "Todos os resíduos de strech (plástico) devem ser jogados dentro da carreta."
+      ]
+    },
+    {
+      "pergunta": "4) Quais pontos de atenção devem ser observados quando movimentar os produtos no carrinho?",
+      "opcoes": [
+        "Observar se o motorista está próximo do caminhão.",
+        "Observar se a nota fiscal e os lacres estão corretos.",
+        "Manter uma distância de 1,50 m do colega, campo de visão livre e movimentar-se pelo centro da plataforma (doca).",
+        "Não manter distância do colega, pois o carregamento deve ser realizado o mais rápido possível."
+      ]
+    },
+    {
+      "pergunta": "3) Com quantas pessoas deve ser realizado a atividade de carregamento no terceiro nível?",
+      "opcoes": [
+        "Apenas uma pessoa.",
+        "Com três pessoas.",
+        "Somente com duas pessoas.",
+        "Com toda a equipe."
+      ]
+    },
+    {
+      "pergunta": "2) Conforme treinamento, podemos dizer que o POP significa?",
+      "opcoes": [
+        "Procedimento Operacional Padrão.",
+        "Protocolo Operacional Produtivo.",
+        "Performance Operativa Padronizada.",
+        "Plano de Operação Produtivo."
+      ]
+    },
+    {
+      "pergunta": "1) Baseado no treinamento, escolha a alternativa VERDADEIRA:",
+      "opcoes": [
+        "Os EPI's necessários para a atividade são: Luva, protetor auricular e calçado de segurança.",
+        "Os EPI's necessários para a atividade são: Luva, uniforme refletivo, cinta lombar e calçado de segurança.",
+        "Os EPI's necessários para a atividade é somente o calçado de segurança.",
+        "Os EPI's necessários para a atividade é somente a luva."
+      ]
+    }
+  ]
+}
