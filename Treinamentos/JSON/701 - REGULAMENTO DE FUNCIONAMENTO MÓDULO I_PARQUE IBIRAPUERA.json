@@ -1,0 +1,52 @@
+{
+  "treinamento": "REGULAMENTO DE FUNCIONAMENTO MÓDULO I_PARQUE IBIRAPUERA",
+  "id": 701,
+  "idChecklist": 485,
+  "perguntas": [
+    {
+      "pergunta": "5) O ACESSO DE VEÍCULOS FORA DOS HORÁRIOS E PORTÕES PERMITIDOS É TOTALMENTE VEDADO, EXCETO ALGUMAS ENTIDADES E SITUAÇÕES, COMO:",
+      "opcoes": [
+        "OBJETOS ESQUECIDOS EM ALGUM LUGAR DO PARQUE.",
+        "FILA EM ALGUMA ENTRADA ESPECÍFICA.",
+        "VISITANTES PARA ACAMPAR. ",
+        "AMBULÂNCIAS."
+      ]
+    },
+    {
+      "pergunta": "4) POR QUAIS PORTÕES OS USUÁRIOS COM DEFICIÊNCIA OU MOBILIDADE REDUZIDA TEM ACESSO AO PARQUE? ",
+      "opcoes": [
+        "POR TODOS OS PORTÕES DO PARQUE, APENAS DEVE RESPEITAR OS HORÁRIOS DE CADA UM.",
+        "POR TODOS OS PORTÕES, INDEPENDENTE DOS HORÁRIOS ESTABELECIDOS DE CADA UM.",
+        "PELOS PORTÕES 3, 5, 7 E 10.",
+        "PELOS PORTÕES 1, 2, 3, 4, 4 A, 5 E 10."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL A VELOCIDADE MÁXIMA PERMITIDA PARA VEÍCULOS CIRCULAR DENTRO DAS DEPENDÊNCIAS DO PARQUE?",
+      "opcoes": [
+        "8 KM/H.",
+        "10 KM/H.",
+        "20 KM/H.",
+        "30 HM/H."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS OS PORTÕES DE ACESSO DO SETOR “A”? ",
+      "opcoes": [
+        "PORTÕES 1, 2, 3, 4, 4 A, 5 E 10.",
+        "PORTÕES 6, 7, 8, 9 E 9 A.",
+        "PORTÕES 1,2, 4, 4 A E 10.",
+        "APENAS OS PORTÕES 1, 2 E 3."
+      ]
+    },
+    {
+      "pergunta": "1) EM RELAÇÃO AOS HORÁRIOS DO PARQUE, ASSINALE A ALTERNATIVA CORRETA: ",
+      "opcoes": [
+        "O PARQUE E A ADMINISTRAÇÃO POSSUEM FUNCIONAMENTO DIÁRIO DAS 5H ÀS 22H. ",
+        "O PARQUE TEM FUNCIONAMENTO DIÁRIO DAS 5H ÀS 22H E ADMINISTRAÇÃO DAS 08H ÀS 18H.",
+        "O PARQUE TEM FUNCIONAMENTO DIÁRIO DAS 5H ÀS 24H E ADMINISTRAÇÃO DAS 08H ÀS 18H.",
+        "O PARQUE TEM FUNCIONAMENTO DIÁRIO DAS 5H ÀS 24H E ADMINISTRAÇÃO DAS 08H ÀS 20H. "
+      ]
+    }
+  ]
+}
