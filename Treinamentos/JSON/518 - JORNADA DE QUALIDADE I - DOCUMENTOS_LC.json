@@ -1,0 +1,52 @@
+{
+  "treinamento": "JORNADA DE QUALIDADE I - DOCUMENTOS_LC",
+  "id": 518,
+  "idChecklist": 321,
+  "perguntas": [
+    {
+      "pergunta": "5) Onde fica o arquivo morto de documentos?",
+      "opcoes": [
+        "Na unidade operacional.",
+        "Não devemos ter arquivo morto, todos os documentos devem ser descartados.",
+        "O arquivo morto vai depender do tipo de documento a ser armazenado e pode ser que seja na unidade operacional ou sede administrativa.",
+        "Nenhuma das anteriores."
+      ]
+    },
+    {
+      "pergunta": "4) As fichas de EPI podem ser descartadas após preenchimento total da planilha?",
+      "opcoes": [
+        "Não, a mesma deve ser guardada enquanto o Colaborador estiver ativo na empresa. E após a saída do Colaborador, esses documentos devem estar em arquivo morto.",
+        "Sim, podem ser descartadas.",
+        "Não, deve ser guardada até o desligamento do Colaborador.",
+        "Depende se o Colaborador foi desligado por justa causa ou não."
+      ]
+    },
+    {
+      "pergunta": "3) Por quanto tempo devemos armazenar as planilhas de controle produtivo?",
+      "opcoes": [
+        "Após preenchimento devem ser imediatamente descartadas.",
+        "Devem ser armazenadas por 3 meses, sendo mês atual e dois meses anteriores.",
+        "Sim, desde que estejam revestidas em saco cristal ou fita filme.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) Onde estão descritos os principais documentos de controle de qualidade?",
+      "opcoes": [
+        "Estão descritos no caderno de integração.",
+        "Estão descritos nos POPs (procedimento operacional padronizado) e MBPP (Manual de Boas Práticas) LC.",
+        "Estão descritos nas normas técnicas.",
+        "Não há documentos de qualidade."
+      ]
+    },
+    {
+      "pergunta": "1) Como os documentos da qualidade devem ser armazenados?",
+      "opcoes": [
+        "Em pastas de forma desorganizada.",
+        "Devem ser armazenados em meio físico (pastas) ou online (pastas separadas por assuntos).",
+        "Somente online.",
+        "Nenhuma das alternativas."
+      ]
+    }
+  ]
+}
