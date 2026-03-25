@@ -1,0 +1,52 @@
+{
+  "treinamento": "REGRAS DE OURO_AGRÁRIA",
+  "id": 1475,
+  "idChecklist": 1223,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE É PROIBIDO COM FERRAMENTAS?",
+      "opcoes": [
+        "USAR CORRETAMENTE.",
+        "GUARDAR LIMPAS.",
+        "IMPROVISAR OU USAR COM DEFEITO.",
+        "EMPRESTAR."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL DESSAS É UMA ATIVIDADE CRÍTICA?",
+      "opcoes": [
+        "ENVIAR E-MAILS.",
+        "TRABALHO EM ALTURA.",
+        "FAZER RELATÓRIO.",
+        "LIMPAR A MESA."
+      ]
+    },
+    {
+      "pergunta": "3) QUANDO POSSO TIRAR UM DISPOSITIVO DE SEGURANÇA?",
+      "opcoes": [
+        "QUANDO ATRAPALHAR.",
+        "QUANDO ESTIVER COM PRESSA.",
+        "QUANDO ESTIVER QUENTE.",
+        "NUNCA."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE É NECESSÁRIO ANTES DE MEXER EM UM EQUIPAMENTO?",
+      "opcoes": [
+        "DESLIGAR O BOTÃO.",
+        "CHAMAR UM COLEGA.",
+        "BLOQUEAR, IDENTIFICAR E TESTAR ENERGIA.",
+        "LER O MANUAL."
+      ]
+    },
+    {
+      "pergunta": "1) PARA QUE SERVEM AS REGRAS DE OURO DA AGRÁRIA?",
+      "opcoes": [
+        "MELHORAR A PRODUÇÃO.",
+        "EVITAR ATRASOS.",
+        "PROTEGER A VIDA E A SEGURANÇA.",
+        "AJUDAR NA LIMPEZA."
+      ]
+    }
+  ]
+}
