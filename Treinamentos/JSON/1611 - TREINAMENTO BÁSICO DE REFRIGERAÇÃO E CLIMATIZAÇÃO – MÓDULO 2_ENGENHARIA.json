@@ -1,0 +1,52 @@
+{
+  "treinamento": "TREINAMENTO BÁSICO DE REFRIGERAÇÃO E CLIMATIZAÇÃO – MÓDULO 2_ENGENHARIA",
+  "id": 1611,
+  "idChecklist": 1314,
+  "perguntas": [
+    {
+      "pergunta": "5) EM QUAL TIPO DE SISTEMA O FLUIDO REFRIGERANTE RESFRIA DIRETAMENTE O AR DO AMBIENTE?",
+      "opcoes": [
+        "EXPANSÃO DIRETA.",
+        "EXPANSÃO INDIRETA.",
+        "SISTEMA MULTI-SPLIT.",
+        "SISTEMA CHILLER."
+      ]
+    },
+    {
+      "pergunta": "4) QUAL FLUIDO REFRIGERANTE É CONSIDERADO NATURAL E COM MENOR IMPACTO AMBIENTAL?",
+      "opcoes": [
+        "R-22.",
+        "R-134A.",
+        "AMÔNIA.",
+        "R-410A."
+      ]
+    },
+    {
+      "pergunta": "3) QUAIS SÃO OS TIPOS DE COMPRESSORES VOLUMÉTRICOS CITADOS?",
+      "opcoes": [
+        "ALTERNATIVO, ROTATIVO, SCROLL E PARAFUSO.",
+        "AXIAL, CENTRÍFUGO, ALTERNATIVO E TÉRMICO.",
+        "HERMÉTICO, SEMI-HERMÉTICO, ABERTO E SELADO.",
+        "PALHETAS, PISTÃO, CENTRÍFUGO E HERMÉTICO."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL É A FUNÇÃO DO EVAPORADOR EM UM SISTEMA DE AR-CONDICIONADO?",
+      "opcoes": [
+        "LIBERAR O CALOR PARA O AMBIENTE EXTERNO.",
+        "ABSORVER O CALOR DO AR AMBIENTE.",
+        "CONTROLAR A PRESSÃO DO FLUIDO REFRIGERANTE.",
+        "AUMENTAR A TEMPERATURA DO FLUIDO."
+      ]
+    },
+    {
+      "pergunta": "1) QUAL É A SEQUÊNCIA CORRETA DO CICLO DE COMPRESSÃO DE VAPOR?",
+      "opcoes": [
+        "CONDENSAÇÃO → COMPRESSÃO → EXPANSÃO → EVAPORAÇÃO.",
+        "COMPRESSÃO → EVAPORAÇÃO → EXPANSÃO → CONDENSAÇÃO.",
+        "COMPRESSÃO → CONDENSAÇÃO → EXPANSÃO → EVAPORAÇÃO.",
+        "EVAPORAÇÃO → COMPRESSÃO → CONDENSAÇÃO → EXPANSÃO."
+      ]
+    }
+  ]
+}
