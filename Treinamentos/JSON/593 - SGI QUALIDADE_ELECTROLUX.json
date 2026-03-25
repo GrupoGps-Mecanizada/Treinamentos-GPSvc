@@ -1,0 +1,52 @@
+{
+  "treinamento": "SGI QUALIDADE_ELECTROLUX",
+  "id": 593,
+  "idChecklist": 380,
+  "perguntas": [
+    {
+      "pergunta": "5) Em qual documento está definido as tratativas para realização de treinamentos SGI junto aos terceiros?",
+      "opcoes": [
+        "No procedimento Competência, Treinamento e Conscientização de Pessoal.",
+        "No Standard Work da minha atividade.",
+        "Nas Regras de Ouro do Cliente.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "4) Qual o nome do indicador de satisfação do consumidor Electrolux?",
+      "opcoes": [
+        "O indicador de satisfação do consumidor Electrolux é o CStar.",
+        "O indicador de satisfação do consumidor Electrolux é o Irá.",
+        "O indicador de satisfação do consumidor Electrolux é o NRFT e QIC.",
+        "Todas as alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) Onde é divulgada a Política da Qualidade Electrolux?",
+      "opcoes": [
+        "A política é divulgada nos murais da planta e no site Electrolux.",
+        "A política não é divulgada.",
+        "A política da Qualidade Electrolux é divulgada somente nos times do Cliente.",
+        "Nenhuma das alternativas acima."
+      ]
+    },
+    {
+      "pergunta": "2) Quais documentos estão dentro do SGI?",
+      "opcoes": [
+        "Somente os documentos referentes à área da Qualidade.",
+        "Documentos referente às áreas da Qualidade, Segurança e Meio ambiente.",
+        "Somente os documentos referentes à área de Segurança e Meio ambiente.",
+        "Todas as alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "1) O que é SGI?",
+      "opcoes": [
+        "É o sistema de gerenciamento de não conformidades.",
+        "É o sistema de gestão integrada da Electrolux.",
+        "É o sistema de gerenciamento do Grupo GPS.",
+        "É o sistema de gestão integrado In-Haus/Top Service."
+      ]
+    }
+  ]
+}
