@@ -1,0 +1,52 @@
+{
+  "treinamento": "REGRAS DE OURO EMPILHADEIRA_ELECTROLUX",
+  "id": 394,
+  "idChecklist": 287,
+  "perguntas": [
+    {
+      "pergunta": "5) Segundo a Regra de Ouro nº 4",
+      "opcoes": [
+        "Somente a buzina deverá estar funcionando",
+        "É obrigatório o uso da buzina em esquinas, acessos da fábrica e cruzamentos",
+        "Devo fazer o checklist",
+        "Nenhuma das alternativas"
+      ]
+    },
+    {
+      "pergunta": "4) Quantas Regras de Ouro possuí o vídeo?",
+      "opcoes": [
+        "10.",
+        "09.",
+        "06.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "3) Qual regra se refere ao limite de velocidade das empilhadeiras?",
+      "opcoes": [
+        "Todas as regras",
+        "Regra de Ouro nº 6 e 9.",
+        "Regra de Ouro nº 3.",
+        "Nenhuma das alternativas."
+      ]
+    },
+    {
+      "pergunta": "2) Sobre o que se refere a regra de ouro nº 7?",
+      "opcoes": [
+        "Usar EPI’s",
+        "Não correr.",
+        "Ler o procedimento.",
+        "Movimentação de carga."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o objetivo das Regras de Ouro na condição de empilhadeiras?",
+      "opcoes": [
+        "Melhorias na produção.",
+        "Evitar tombamento de produtos.",
+        "Instruir os Colaboradores referente a procedimentos seguros na movimentação de materiais com o uso de empilhadeira.",
+        "Todas as alternativas."
+      ]
+    }
+  ]
+}
