@@ -1,0 +1,52 @@
+{
+  "treinamento": "INTEGRAÇÃO LOGHIS_BRIDGESTONE",
+  "id": 241,
+  "idChecklist": 153,
+  "perguntas": [
+    {
+      "pergunta": "5) EM SITUAÇÃO DE EMERGÊNCIA, NO DERRAMENTO DE PRODUTOS QUÍMICOS, DEVEMOS CHAMAR:",
+      "opcoes": [
+        "SEGURANÇA PATRIMONIAL 9333.",
+        "RAMAL 9111.",
+        "GEM RAMAL 5333.",
+        "O LÍDER OU SUPERVISOR."
+      ]
+    },
+    {
+      "pergunta": "4) TODOS OS PRODUTOS QUÍMICOS DEVEM POSSUIR QUAL DOCUMENTO?",
+      "opcoes": [
+        "IRPF.",
+        "NOTA FISCAL.",
+        "FISPQ.",
+        "REGISTRO DE COMPRA."
+      ]
+    },
+    {
+      "pergunta": "3) O QUE É CONSIDERADO RUÍDO?",
+      "opcoes": [
+        "TODO SOM DESAGRADÁVEL OU INCOMPREENSÍVEL AOS NOSSOS OUVIDOS.",
+        "TODO RUÍDO APARTIR DE 90 DECIBÉIS.",
+        "TODO SOM DE QUALQUER VOLUME.",
+        "TODO SOM AGRADÁVEL AOS NOSSO OUVIDOS."
+      ]
+    },
+    {
+      "pergunta": "2) QUAIS SÃO AS POSSÍVEIS CONSEQUÊNCIAS CAUSADAS POR ACIDENTE AO TRABALHADOR?",
+      "opcoes": [
+        "PERDA DE VERBA SALARIAL.",
+        "PERDA DE UMA OPORTUNIDADE DE PROMOÇÃO NA EMPRESA.",
+        "DANO AO EQUIPAMENTO DA EMPRESA.",
+        "INCAPACIDADE PARCIAL, INCAPACIDADE TEMPORÁRIA, INCAPACIDADE PERMANENTE E MORTE."
+      ]
+    },
+    {
+      "pergunta": "1) NÃO SEGUIR PROCEDIMENTOS DE SEGURANÇA, É UM EXEMPLO DE:",
+      "opcoes": [
+        "COMPORTAMENTO SEGURO.",
+        "COMPORTAMENTO INSEGURO.",
+        "COMPORTAMENTO INDIVIDUAL.",
+        "GANHO COM TEMPO DE PRODUÇÃO."
+      ]
+    }
+  ]
+}
