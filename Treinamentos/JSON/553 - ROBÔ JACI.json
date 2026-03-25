@@ -1,0 +1,52 @@
+{
+  "treinamento": "ROBÔ JACI",
+  "id": 553,
+  "idChecklist": 355,
+  "perguntas": [
+    {
+      "pergunta": "5) Qual funcionalidade possui maior eficácia para agir em áreas com incidência de sombra?",
+      "opcoes": [
+        "Desinfecção de ar.",
+        "UV-C.",
+        "Desinfecção de piso.",
+        "Ozônio."
+      ]
+    },
+    {
+      "pergunta": "4) Em quais funcionalidades o robô “JACI” deve trabalhar sem circulação de pessoas?",
+      "opcoes": [
+        "Ozônio e desinfecção de piso.",
+        "UV-C e ozônio.",
+        "UV-C e desinfecção de ar.",
+        "Desinfecção de ar e desinfecção de piso."
+      ]
+    },
+    {
+      "pergunta": "3) Quais são as funções de utilização do robô “JACI”?",
+      "opcoes": [
+        "UV-C, Co2, desinfecção de ar e desinfecção de piso.",
+        "UV-C, ozônio, umidificador de ar e desinfecção de piso.",
+        "UV-C, ozônio, desinfecção de ar e limpeza terminal.",
+        "UV-C, ozônio, desinfecção de ar e desinfecção de piso."
+      ]
+    },
+    {
+      "pergunta": "2) Qual a sequência de passos preliminares para a operação do robô “JACI”?",
+      "opcoes": [
+        "Nível de água, conectar em tomada 220v, conectar o tablet à rede “WI-FI JACI”, selecionar função.",
+        "Selecionar função, nível de água, conectar o tablet à rede “WI-FI JACI”, conectar em tomada 110v.",
+        "Nível de água, conectar em tomada 110v, conectar o tablet à rede “WI-FI JACI”, selecionar função.",
+        "Conectar o tablet à rede “WI-FI JACI”, nível de água, conectar em tomada 110v, selecionar função."
+      ]
+    },
+    {
+      "pergunta": "1) Qual a utilidade do robô JACI na limpeza de ambientes hospitalares?",
+      "opcoes": [
+        "Limpeza terminal em áreas com alto risco de contaminação por vírus e bactérias.",
+        "Limpeza concorrente em áreas com alto risco de contaminação por vírus e bactéria.",
+        "Limpeza terminal em áreas sem risco de contaminação por vírus e bactérias.",
+        "Nenhuma das alternativas está correta."
+      ]
+    }
+  ]
+}
