@@ -1,0 +1,52 @@
+{
+  "treinamento": "CULTURA DO FEEDBACK CONTÍNUO_TRADE&TALENTOS",
+  "id": 1603,
+  "idChecklist": 1306,
+  "perguntas": [
+    {
+      "pergunta": "5) O QUE É ESSENCIAL PARA QUE O FEEDBACK SEJA UMA FERRAMENTA DE CRESCIMENTO?",
+      "opcoes": [
+        "QUE SEJA DADO SEMPRE EM PÚBLICO.",
+        "QUE TENHA FOCO APENAS NAS CRÍTICAS.",
+        "QUE EXISTA UM AMBIENTE SEGURO E DE CONFIANÇA.",
+        "QUE SEJA FEITO APENAS PELO LÍDER."
+      ]
+    },
+    {
+      "pergunta": "4) O QUE REPRESENTA A LETRA “C” NA TÉCNICA SCI?",
+      "opcoes": [
+        "CONTEXTO.",
+        "CONSEQUÊNCIA.",
+        "COMPORTAMENTO.",
+        "COMUNICAÇÃO."
+      ]
+    },
+    {
+      "pergunta": "3) QUAL É OBJETIVO PRINCIPAL DO FEEDBACK?",
+      "opcoes": [
+        "AJUDAR NA EVOLUÇÃO, GERANDO CONSCIÊNCIA E PROMOVENDO MELHORIA CONTÍNUA.",
+        "CORRIGIR ERROS IMEDIATAMENTE.",
+        "GARANTIR QUE TODOS CONCORDEM COM A LIDERANÇA.",
+        "REDUZIR CONVERSAS INFORMAIS NO TRABALHO."
+      ]
+    },
+    {
+      "pergunta": "2) QUAL É A FÓRMULA CITADA PARA DAR UM FEEDBACK EFICAZ?",
+      "opcoes": [
+        "SITUAÇÃO + SUGESTÃO + IMPACTO.",
+        "COMPORTAMENTO + RESULTADO + AÇÃO.",
+        "PROBLEMA + CONSEQUÊNCIA + SOLUÇÃO.",
+        "FATO + IMPACTO + SUGESTÃO."
+      ]
+    },
+    {
+      "pergunta": "1) O QUE SIGNIFICA FEEDBACK CONTÍNUO?",
+      "opcoes": [
+        "RETORNO DADO APENAS EM AVALIAÇÕES ANUAIS.",
+        "TRANSFORMAR O RETORNO EM UMA PRÁTICA CONSTANTE DE APRENDIZADO E EVOLUÇÃO.",
+        "APONTAR ERROS DE FORMA FREQUENTE.",
+        "CONVERSAS INFORMAIS ENTRE COLEGAS SEM OBJETIVO CLARO."
+      ]
+    }
+  ]
+}
