@@ -1,0 +1,52 @@
+{
+  "treinamento": "SEGURANÇA DE PRODUTOS QUÍMICOS_DIPHOTERINE",
+  "id": 264,
+  "idChecklist": 176,
+  "perguntas": [
+    {
+      "pergunta": "5) Quais partes do corpo o Diphoterine pode ser utilizado?",
+      "opcoes": [
+        "Rosto.",
+        "Braços.",
+        "Pernas.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "4) O lacre do Diphoterine deve ser rompido e a válvula deve ser acionada apenas quando:",
+      "opcoes": [
+        "O colaborador entrar em contato com Ácido, Soda, Acetonitrila, Furfural, Hipoclorito, Sufolane, TBC.",
+        "O colaborador souber que vai estar em área de risco.",
+        "O colaborador tiver contato com qualquer produto químico.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) Quanto ocorrer o contato químico com Ácido, Soda, Acetonitrila, Furfural, Hipoclorito, Sufolane e TBC, qual a PRIMEIRA coisa a ser feita?",
+      "opcoes": [
+        "Aplicar rapidamente todo o conteúdo de Diphoterine que estiver no frasco direto na área afetada.",
+        "Avisar a liderança.",
+        "Ir para o chuveiro de emergência.",
+        "Todas as alternativas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "2) Quanto as características do Diphoterine, qual alternativa está CORRETA?",
+      "opcoes": [
+        "Descontamina sem liberação de calor.",
+        "Expulsa o produto agressor da pele/olhos.",
+        "Não é toxico.",
+        "As alternativas acima estão corretas."
+      ]
+    },
+    {
+      "pergunta": "1) O Diphoterine é?",
+      "opcoes": [
+        "É um descontaminante químico utilizado em primeiros socorros emergenciais em caso de contato com produto químico tais como: Ácido, Soda, Acetonitrila, Furfural, Hipoclorito, Sufolane, TBC.",
+        "Um tipo de roupa/macacão usado para proteção física para produtos químicos.",
+        "Um cinto de segurança, para proteção em altura.",
+        "As alternativas acima estão corretas."
+      ]
+    }
+  ]
+}
