@@ -1,0 +1,52 @@
+{
+  "treinamento": "PREENCHIMENTO DE CHECKLIST_LOGHIS",
+  "id": 337,
+  "idChecklist": 236,
+  "perguntas": [
+    {
+      "pergunta": "5) Devo preencher o checklist todos os dias?",
+      "opcoes": [
+        "Sim.",
+        "Não.",
+        "Somente uma parte.",
+        "Apenas o que o Colaborador souber."
+      ]
+    },
+    {
+      "pergunta": "4) Qual a importância do checklist?",
+      "opcoes": [
+        "Dar mais trabalho para o Colaborador.",
+        "Garantir que o equipamento esteja em condições seguras para iniciar o trabalho bem como a maior disponibilidade do seu equipamento para suas atividades.",
+        "O checklist é importante só para empresa.",
+        "Todas as respostas estão corretas."
+      ]
+    },
+    {
+      "pergunta": "3) Durante o preenchimento do checklist caso identificar um item critico, o que devo fazer?",
+      "opcoes": [
+        "Neste caso não é necessário fazer nenhum procedimento.",
+        "Continuo trabalhando com equipamento até realizarem o reparo.",
+        "Interrompo as minhas atividades, pois o equipamento não está em condições segura para operação e aciono a liderança para devida tratativa.",
+        "Nenhuma das respostas anteriores."
+      ]
+    },
+    {
+      "pergunta": "2) Qual é a dica para o preenchimento correto do checklist?",
+      "opcoes": [
+        "A dica é ler corretamente todos os itens e analisar todos os campos que necessitam de preenchimento.",
+        "A dica é não preencher o checklist, porque você trabalha com segurança.",
+        "A dica é copiar o checklist do dia anterior.",
+        "A dica é pedir para o supervisor preencher."
+      ]
+    },
+    {
+      "pergunta": "1) O que é o checklist?",
+      "opcoes": [
+        "Lista de serviços a serem realizados.",
+        "Lista de itens a serem comprados.",
+        "Lista de verificação de equipamentos (maquinas, caminhões etc).",
+        "Nenhuma das repostas anteriores."
+      ]
+    }
+  ]
+}
