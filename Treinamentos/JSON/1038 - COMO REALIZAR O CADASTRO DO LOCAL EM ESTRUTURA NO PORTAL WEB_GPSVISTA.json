@@ -1,0 +1,52 @@
+{
+  "treinamento": "COMO REALIZAR O CADASTRO DO LOCAL EM ESTRUTURA NO PORTAL WEB_GPSVISTA",
+  "id": 1038,
+  "idChecklist": 812,
+  "perguntas": [
+    {
+      "pergunta": "5) ONDE É SUGERIDO CADASTRAR INFORMAÇÕES COMO METRAGEM QUADRADA, LATITUDE E LONGITUDE DE UM LOCAL?",
+      "opcoes": [
+        "NO MOMENTO DE \"DESPAUSAR\" A ESTRUTURA.",
+        "NO PRIMEIRO NÍVEL DO CADASTRO.",
+        "NO BOTÃO \"MAIS\".",
+        "NO BOTÃO \"MENOS\""
+      ]
+    },
+    {
+      "pergunta": "4)  O QUE INDICA QUE UM AMBIENTE ESTÁ GERANDO TAREFA NO GPSVISTA?",
+      "opcoes": [
+        "A COR VERDE.",
+        "A COR AZUL.",
+        "O BOTÃO \"MAIS\".",
+        "A BARRA DE PESQUISA."
+      ]
+    },
+    {
+      "pergunta": "3) COMO É POSSÍVEL ATIVAR UM LOCAL \"PAUSADO\" PARA GERAR ATIVIDADES?",
+      "opcoes": [
+        "CLICANDO NO BOTÃO \"MAIS\".",
+        "REALIZANDO UM NOVO CADASTRO.",
+        "\"DESPAUSANDO\" A ESTRUTURA SUPERIOR OU EXATAMENTE O LOCAL QUE VOCÊS DESEJAM GERAR A ATIVIDADE.",
+        "SOLICITANDO AO SUPORTE DO CENTRO DE EXCELÊNCIA."
+      ]
+    },
+    {
+      "pergunta": "2) O QUE ACONTECE QUANDO UM LOCAL ESTÁ \"PAUSADO\"?",
+      "opcoes": [
+        "O LOCAL ESTÁ DISPONÍVEL PARA ATIVIDADES.",
+        "A ESTRUTURA SUPERIOR É ATIVADA AUTOMATICAMENTE.",
+        "AS TAREFAS SÃO EXECUTADAS AUTOMATICAMENTE.",
+        "O LOCAL ESTÁ INATIVO E NÃO PODE GERAR TAREFAS."
+      ]
+    },
+    {
+      "pergunta": "1)  QUAL A SEQUÊNCIA RECOMENDADA PARA CADASTRAR UM LOCAL NO GPSVISTA?",
+      "opcoes": [
+        "ESTADO, AMBIENTE, PRÉDIO, UNIDADE.",
+        "ESTADO, UNIDADE, PRÉDIO, AMBIENTE.",
+        "AMBIENTE, UNIDADE, PRÉDIO, ESTADO.",
+        "UNIDADE, ESTADO, PRÉDIO, AMBIENTE."
+      ]
+    }
+  ]
+}
