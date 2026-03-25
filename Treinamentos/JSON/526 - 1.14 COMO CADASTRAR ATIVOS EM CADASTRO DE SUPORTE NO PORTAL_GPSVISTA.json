@@ -1,0 +1,52 @@
+{
+  "treinamento": "1.14 COMO CADASTRAR ATIVOS EM CADASTRO DE SUPORTE NO PORTAL_GPSVISTA",
+  "id": 526,
+  "idChecklist": 328,
+  "perguntas": [
+    {
+      "pergunta": "5) Para colocar os dados de cada ativo, é necessário:",
+      "opcoes": [
+        "Criar o ativo em estrutura e especificar todos os dados cadastrais de gestão de ativos.",
+        "Somente as informações de marca e modelo bastam.",
+        "Criar em materiais os dados da quantidade de ativos existentes.",
+        "Criar uma tarefa e especificar os dados do ativo nas mesmas."
+      ]
+    },
+    {
+      "pergunta": "4) Como vincular os ativos as rotinas?",
+      "opcoes": [
+        "Em estrutura, clicar em criar ativos e vincular os equipamentos a determinados locais.",
+        "Basta criar os ativos em suporte.",
+        "Cadastrar os ativos em qualificações.",
+        "Nenhuma das alternativas anteriores."
+      ]
+    },
+    {
+      "pergunta": "3) Quais os dados obrigatórios para realizar o cadastro?",
+      "opcoes": [
+        "Nome do Ativo, categoria, subcategoria, marca e modelo.",
+        "Nome do Ativo.",
+        "Valores dos equipamentos.",
+        "Somente a Marca e modelo."
+      ]
+    },
+    {
+      "pergunta": "2) O que colocar no cadastro de ativos?",
+      "opcoes": [
+        "Ativos.",
+        "Ferramentas.",
+        "Qualificações.",
+        "Cadastro de rotinas."
+      ]
+    },
+    {
+      "pergunta": "1) Qual o objetivo do cadastro de ativos?",
+      "opcoes": [
+        "Para cadastrar as tarefas.",
+        "Para cadastrar todo o catálogo de equipamentos existentes no contrato.",
+        "Para cadastrar as rotinas de ativos.",
+        "Para criar atividades de ativos de refrigeração."
+      ]
+    }
+  ]
+}
