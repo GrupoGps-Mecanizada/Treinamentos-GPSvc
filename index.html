@@ -2,214 +2,337 @@
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>GPS — Gabarito de Treinamentos</title>
-<link href="https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+<title>GPS — Gabarito</title>
 <style>
-*{margin:0;padding:0;box-sizing:border-box}
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
 :root{
-  --bg:#f4f6fb;--surface:#fff;--card:#fff;--border:#e2e6f0;
-  --accent:#2563eb;--green:#059669;--muted:#8a93a8;--text:#1a1f36;
-  --highlight:rgba(37,99,235,0.07);--shadow:0 1px 4px rgba(0,0,0,0.07);
+  --bg:#eef0f4;--surface:#fff;
+  --accent:#1e40af;--accent2:#3b82f6;--accent-dim:#dbeafe;
+  --green:#16a34a;--green-dim:#dcfce7;--green-bd:#86efac;
+  --text:#0f172a;--sub:#475569;--muted:#94a3b8;
+  --border:#e2e8f0;--radius:14px;
+  --shadow:0 2px 8px rgba(15,23,42,.08),0 1px 2px rgba(15,23,42,.04);
+  --shadow-md:0 4px 16px rgba(15,23,42,.12),0 2px 4px rgba(15,23,42,.06);
 }
-body{background:var(--bg);color:var(--text);font-family:'Inter',sans-serif;min-height:100vh}
-body::before{content:'';position:fixed;top:-200px;left:-200px;width:600px;height:600px;
-  background:radial-gradient(circle,rgba(37,99,235,0.05) 0%,transparent 70%);pointer-events:none;z-index:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--text);font-family:Arial,'Helvetica Neue',Helvetica,sans-serif;font-size:14px;line-height:1.5;min-height:100vh}
 
-.wrap{max-width:880px;margin:0 auto;padding:52px 20px 80px;position:relative;z-index:1}
-
-/* HEADER */
-.header{text-align:center;margin-bottom:44px}
-.logo{display:inline-flex;align-items:center;gap:8px;background:rgba(37,99,235,0.08);
-  border:1px solid rgba(37,99,235,0.18);border-radius:100px;padding:6px 18px;
-  font-size:11px;font-weight:600;letter-spacing:.1em;color:var(--accent);text-transform:uppercase;margin-bottom:18px}
-.logo::before{content:'◉';font-size:9px;animation:blink 2s infinite}
-@keyframes blink{0%,100%{opacity:1}50%{opacity:.3}}
-h1{font-family:'Syne',sans-serif;font-size:clamp(26px,5vw,44px);font-weight:800;
-  letter-spacing:-.02em;line-height:1.1;color:var(--text);margin-bottom:8px}
-h1 span{color:var(--accent)}
-.sub{color:var(--muted);font-size:15px;font-weight:400;margin-bottom:26px}
-.stats{display:flex;justify-content:center;gap:40px}
-.stat-n{font-family:'Syne',sans-serif;font-size:32px;font-weight:800;color:var(--accent)}
-.stat-l{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-top:2px}
-
-/* SEARCH */
-.search-wrap{position:relative;margin-bottom:10px}
-.search-icon{position:absolute;left:18px;top:50%;transform:translateY(-50%);color:var(--muted);font-size:16px;pointer-events:none}
-#searchInput{width:100%;background:var(--surface);border:1.5px solid var(--border);border-radius:14px;
-  padding:17px 50px 17px 50px;font:500 15px 'Inter',sans-serif;color:var(--text);outline:none;
-  box-shadow:var(--shadow);transition:border-color .2s,box-shadow .2s}
-#searchInput::placeholder{color:var(--muted)}
-#searchInput:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(37,99,235,0.1)}
-.clear-btn{position:absolute;right:14px;top:50%;transform:translateY(-50%);
-  background:var(--border);border:none;border-radius:6px;color:var(--muted);
-  cursor:pointer;padding:5px 10px;font-size:11px;display:none;transition:all .15s}
-.clear-btn:hover{background:var(--accent);color:#fff}
-.clear-btn.show{display:block}
-
-/* TAGS */
-.tags{display:flex;flex-wrap:wrap;gap:7px;margin-bottom:24px}
-.tag{background:var(--surface);border:1px solid var(--border);border-radius:100px;
-  padding:5px 14px;font-size:12px;color:var(--muted);cursor:pointer;
-  box-shadow:var(--shadow);transition:all .15s}
-.tag:hover{border-color:var(--accent);color:var(--accent);background:var(--highlight)}
-
-/* RESULTS INFO */
-.results-info{font-size:13px;color:var(--muted);margin-bottom:16px;height:20px}
-.results-info span{color:var(--accent);font-weight:600}
-
-/* CARDS */
-.card{background:var(--card);border:1px solid var(--border);border-radius:16px;
-  margin-bottom:10px;overflow:hidden;transition:border-color .2s,box-shadow .2s;
-  box-shadow:var(--shadow);animation:up .22s ease}
-@keyframes up{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:none}}
-.card:hover{border-color:#c7d2fe;box-shadow:0 4px 16px rgba(37,99,235,0.08)}
-.card.open{border-color:#93c5fd;box-shadow:0 4px 20px rgba(37,99,235,0.12)}
-
-.card-header{display:flex;align-items:center;gap:14px;padding:18px 22px;cursor:pointer;user-select:none}
-.card-idx{flex-shrink:0;width:34px;height:34px;background:var(--highlight);border:1px solid rgba(37,99,235,0.15);
-  border-radius:9px;display:flex;align-items:center;justify-content:center;
-  font-family:'Syne',sans-serif;font-size:12px;font-weight:700;color:var(--accent)}
-.card-name{flex:1;font-family:'Syne',sans-serif;font-size:14px;font-weight:700;
-  line-height:1.3;transition:color .15s;min-width:0;color:var(--text)}
-.card:hover .card-name,.card.open .card-name{color:var(--accent)}
-.card-badge{flex-shrink:0;background:var(--bg);border:1px solid var(--border);
-  border-radius:100px;padding:3px 11px;font-size:11px;color:var(--muted);white-space:nowrap}
-.card-arrow{flex-shrink:0;color:var(--muted);font-size:13px;transition:transform .25s}
-.card.open .card-arrow{transform:rotate(180deg)}
-
-.card-body{max-height:0;overflow:hidden;transition:max-height .4s cubic-bezier(0.4,0,0.2,1)}
-.card.open .card-body{max-height:3000px}
-.card-divider{border:none;border-top:1px solid var(--border);margin:0 22px}
-.questions{padding:14px 22px 22px;display:flex;flex-direction:column;gap:9px}
-
-.q{background:var(--bg);border:1px solid var(--border);border-radius:11px;padding:14px 16px;transition:border-color .15s}
-.q:hover{border-color:#bfdbfe}
-.q-text{font-size:13.5px;color:var(--text);line-height:1.55;margin-bottom:9px;font-weight:400}
-.q-ans{display:flex;align-items:flex-start;gap:8px;background:rgba(5,150,105,0.06);
-  border:1px solid rgba(5,150,105,0.2);border-radius:8px;padding:9px 13px}
-.q-check{color:var(--green);font-size:13px;flex-shrink:0;margin-top:1px;font-weight:700}
-.q-ans-text{font-size:13.5px;color:#065f46;line-height:1.5;font-weight:500}
-
-/* EMPTY */
-.empty{text-align:center;padding:64px 0;color:var(--muted)}
-.empty-ico{font-size:44px;margin-bottom:16px;opacity:.5}
-.empty h3{font-family:'Syne',sans-serif;font-size:17px;color:var(--text);margin-bottom:6px}
-
-mark{background:rgba(37,99,235,0.15);color:#1d4ed8;border-radius:3px;padding:0 2px}
-
-@media(max-width:600px){
-  .stats{gap:24px}
-  .card-header{padding:14px 16px;gap:10px}
-  .questions{padding:10px 16px 16px}
-  h1{font-size:26px}
+/* ── HEADER ── */
+.header{
+  background:linear-gradient(135deg,#1e3a8a 0%,#1d4ed8 60%,#2563eb 100%);
+  padding:14px 16px 12px;
+  position:sticky;top:0;z-index:100;
+  box-shadow:0 4px 20px rgba(30,58,138,.35);
 }
+.header-top{display:flex;align-items:center;gap:10px;margin-bottom:11px}
+.brand-badge{background:rgba(255,255,255,.15);border:1px solid rgba(255,255,255,.25);border-radius:8px;padding:4px 10px;font-size:11px;font-weight:700;color:rgba(255,255,255,.9);letter-spacing:.06em}
+.header-title{font-size:18px;font-weight:700;color:#fff;margin-left:auto}
+.total-badge{background:rgba(255,255,255,.2);border-radius:100px;padding:3px 11px;font-size:11px;color:#fff;white-space:nowrap}
+
+/* search */
+.search-wrap{position:relative}
+.s-ico{position:absolute;left:12px;top:50%;transform:translateY(-50%);font-size:14px;color:rgba(255,255,255,.6);pointer-events:none}
+#searchInput{
+  width:100%;background:rgba(255,255,255,.15);border:1.5px solid rgba(255,255,255,.25);
+  border-radius:10px;padding:10px 38px 10px 36px;
+  font:400 14px Arial,sans-serif;color:#fff;outline:none;-webkit-appearance:none;
+}
+#searchInput::placeholder{color:rgba(255,255,255,.5)}
+#searchInput:focus{background:rgba(255,255,255,.22);border-color:rgba(255,255,255,.5)}
+.clr{position:absolute;right:10px;top:50%;transform:translateY(-50%);background:rgba(255,255,255,.25);border:none;border-radius:6px;color:#fff;cursor:pointer;padding:3px 9px;font-size:11px;display:none}
+.clr.on{display:block}
+
+/* ── WRAP ── */
+.wrap{max-width:520px;margin:0 auto;padding:12px 12px 100px}
+
+/* tags */
+.tags{display:flex;gap:6px;overflow-x:auto;padding:10px 0 4px;scrollbar-width:none}
+.tags::-webkit-scrollbar{display:none}
+.tag{
+  background:var(--surface);border:1.5px solid var(--border);border-radius:100px;
+  padding:5px 14px;font-size:12px;font-weight:600;color:var(--sub);
+  cursor:pointer;white-space:nowrap;flex-shrink:0;transition:all .15s;
+}
+.tag.active,.tag:active{background:var(--accent);color:#fff;border-color:var(--accent)}
+
+/* info bar */
+.info{font-size:12px;color:var(--muted);margin:8px 0 10px;display:flex;justify-content:space-between;align-items:center}
+.info b{color:var(--accent);font-weight:700}
+
+/* ── CARD ── */
+.card{
+  background:var(--surface);border:1.5px solid var(--border);
+  border-radius:var(--radius);margin-bottom:8px;
+  overflow:hidden;box-shadow:var(--shadow);
+  transition:border-color .15s,box-shadow .15s;
+}
+.card.open{border-color:var(--accent2);box-shadow:var(--shadow-md),0 0 0 3px var(--accent-dim)}
+
+.card-head{display:flex;align-items:center;padding:13px 14px;cursor:pointer;gap:10px;user-select:none}
+
+.card-seq{
+  flex-shrink:0;min-width:30px;height:30px;
+  background:linear-gradient(135deg,var(--accent),var(--accent2));
+  border-radius:8px;display:flex;align-items:center;justify-content:center;
+  font-size:11px;font-weight:700;color:#fff;
+}
+.card.open .card-seq{background:linear-gradient(135deg,#16a34a,#22c55e)}
+
+.card-info{flex:1;min-width:0}
+.card-name{font-size:13px;font-weight:700;color:var(--text);line-height:1.3}
+.card.open .card-name{color:var(--accent)}
+.card-meta{font-size:11px;color:var(--muted);margin-top:2px}
+
+.card-arr{color:var(--muted);font-size:12px;flex-shrink:0;transition:transform .22s}
+.card.open .card-arr{transform:rotate(180deg);color:var(--accent)}
+
+/* body */
+.card-body{max-height:0;overflow:hidden;transition:max-height .35s cubic-bezier(.4,0,.2,1)}
+.card.open .card-body{max-height:6000px}
+.qs-wrap{border-top:1.5px solid var(--border);padding:14px 14px 16px}
+
+/* question item */
+.q-item{margin-bottom:14px;padding-bottom:14px;border-bottom:1px solid var(--border)}
+.q-item:last-child{margin-bottom:0;padding-bottom:0;border-bottom:none}
+
+.q-header{display:flex;align-items:flex-start;gap:8px;margin-bottom:8px}
+.q-num{
+  flex-shrink:0;width:22px;height:22px;border-radius:6px;
+  background:var(--accent-dim);color:var(--accent);
+  font-size:11px;font-weight:700;display:flex;align-items:center;justify-content:center;margin-top:1px;
+}
+.q-text{font-size:13px;font-weight:600;color:var(--text);line-height:1.45;flex:1}
+
+/* answer — ONLY correct answer shown */
+.answer-box{
+  display:flex;align-items:flex-start;gap:9px;
+  background:var(--green-dim);border:1.5px solid var(--green-bd);
+  border-radius:10px;padding:9px 12px;
+}
+.ans-icon{
+  flex-shrink:0;width:20px;height:20px;border-radius:50%;
+  background:var(--green);display:flex;align-items:center;justify-content:center;
+  color:#fff;font-size:11px;font-weight:700;margin-top:1px;
+}
+
+.ans-text{font-size:13px;font-weight:600;color:#14532d;line-height:1.4;flex:1}
+
+/* empty / loading */
+.empty{text-align:center;padding:56px 20px;color:var(--muted)}
+.empty-ico{font-size:40px;margin-bottom:14px;opacity:.45}
+.empty h3{font-size:15px;color:var(--sub);margin-bottom:6px;font-weight:700}
+.empty p{font-size:13px}
+
+/* ── BOTTOM NAV ── */
+.nav-bar{
+  position:fixed;bottom:0;left:50%;transform:translateX(-50%);
+  width:100%;max-width:520px;
+  background:rgba(255,255,255,.97);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+  border-top:1.5px solid var(--border);
+  padding:10px 14px env(safe-area-inset-bottom,4px);
+  display:none;gap:8px;z-index:200;
+  box-shadow:0 -4px 20px rgba(15,23,42,.08);
+}
+.nav-bar.show{display:flex}
+.nav-btn{
+  flex:1;background:var(--accent);color:#fff;border:none;border-radius:10px;
+  padding:11px 8px;font:700 13px Arial,sans-serif;cursor:pointer;
+  display:flex;align-items:center;justify-content:center;gap:5px;
+  transition:background .1s;
+}
+.nav-btn:active{background:#1e3a8a}
+.nav-btn:disabled{background:var(--border);color:var(--muted);cursor:default}
+.nav-btn.x-btn{flex:0 0 46px;background:var(--bg);color:var(--sub);border:1.5px solid var(--border);font-size:16px;padding:11px 0}
+.nav-btn.x-btn:active{background:#e2e8f0}
+
+/* highlight */
+mark{background:#fef08a;color:#713f12;border-radius:2px;padding:0 2px}
 </style>
 </head>
 <body>
-<div class="wrap">
-  <div class="header">
-    <div class="logo">Grupo GPS</div>
-    <h1>Gabarito de <span>Treinamentos</span></h1>
-    <p class="sub">Pesquise pelo nome do treinamento e confira as respostas</p>
-    <div class="stats">
-      <div class="stat"><div class="stat-n">74</div><div class="stat-l">Temas</div></div>
-      <div class="stat"><div class="stat-n">369</div><div class="stat-l">Perguntas</div></div>
-    </div>
-  </div>
 
+<div class="header">
+  <div class="header-top">
+    <span class="brand-badge">GPS</span>
+    <span class="header-title">Gabarito</span>
+    <span class="total-badge" id="totalChip">…</span>
+  </div>
   <div class="search-wrap">
-    <span class="search-icon">🔍</span>
-    <input id="searchInput" type="text" placeholder="Buscar treinamento... ex: ética, EPI, saúde, acidente">
-    <button class="clear-btn" id="clearBtn" onclick="clearSearch()">✕ limpar</button>
+    <span class="s-ico">&#128269;</span>
+    <input id="searchInput" type="search" placeholder="Buscar treinamento..." autocomplete="off" autocorrect="off" autocapitalize="off">
+    <button class="clr" id="clrBtn" onclick="clearSearch()">&#10005;</button>
   </div>
-
-  <div class="tags" id="tags"></div>
-  <div class="results-info" id="info"></div>
-  <div id="list"></div>
+  <div style="text-align:right;margin-top:6px;font-size:9px;color:rgba(255,255,255,.45);letter-spacing:.02em">Desenvolvido por Warlison Abreu &mdash; Mecanizada</div>
 </div>
 
+<div class="wrap">
+  <div class="tags" id="tagsEl"></div>
+  <div class="info">
+    <span id="infoCount"></span>
+    <span id="infoLabel" style="color:var(--accent);font-weight:600"></span>
+  </div>
+  <div id="listEl"><div class="empty"><div class="empty-ico">&#8987;</div><h3>Carregando...</h3></div></div>
+</div>
+
+<div class="nav-bar" id="navBar">
+  <button class="nav-btn" id="prevBtn" onclick="navigate(-1)">&#8592; Anterior</button>
+  <button class="nav-btn x-btn" onclick="closeActive()">&#10005;</button>
+  <button class="nav-btn" id="nextBtn" onclick="navigate(1)">Pr&#243;ximo &#8594;</button>
+</div>
+
+<script src="data.js"></script>
 <script>
-const D = {"DIA INTERNACIONAL DA MULHER":[{"p":"1) Em qual dia é comemorado o dia internacional da mulher?","r":"8 de março."},{"p":"2) No treinamento citamos alguns exemplos de papéis que as mulheres desempenham. Como as mulheres realizam todos esses papeis?","r":"Com dedicação e empenho."},{"p":"3) Como as mulheres agem quando se deparam com um desafio na carreira?","r":"Continuam lutando, com estratégia, disciplina e persistência."},{"p":"4) As mulheres possuem diversas características, como por exemplo, a criatividade, flexibilidade, multifuncionalidade, persistência e a perspicácia, porém a mais importante de todas elas é:","r":"Ser mulher."},{"p":"5) Quando uma mulher reconhece a sua força, ela se torna:","r":"Uma fonte inesgotável de inspiração."}],"USO RACIONAL DA ÁGUA_SUSTENTABILIDADE":[{"p":"1) Qual a porcentagem do volume de água da Terra próprio para consumo?","r":"Apenas 1%."},{"p":"2) Quantos litros de água disperdiçamos ao não fechar a torneira enquanto escovamos os dentes?","r":"25 litros."},{"p":"3) Qual o tempo ideial de banho para economizar água?","r":"De 5 a 10 minutos no máximo."},{"p":"4) Devemos utilizar a máquina de lavar roupa e louça apenas quando:","r":"Tiver roupa e louça suficiente para ocupar a capacidade total das máquinas."},{"p":"5) Não podemos mudar a atitude das pessoas, mas podemos mudar:","r":"A nossa percepção sobre as situações."}],"MARÇO LILÁS - PREVENÇÃO DO CÂNCER DO COLO DO ÚTERO":[{"p":"1) ASSINALE A ALTERNATIVA CORRETA. O CÂNCER DO COLO DO ÚTERO É:","r":"O TERCEIRO TIPO DE CÂNCER MAIS COMUM ENTRE AS MULHERES NO BRASIL."},{"p":"2) QUAL É O PRINCIPAL FATOR RELACIONADO AO DESENVOLVIMENTO DO CÂNCER DO COLO DO ÚTERO?","r":"INFECÇÃO PELO HPV."},{"p":"3) QUAL DAS ALTERNATIVAS ABAIXO MOSTRA UM SINTOMA POSSÍVEL DO CÂNCER DO COLO DO ÚTERO?","r":"SANGRAMENTO VAGINAL ANORMAL."},{"p":"4) SOBRE A PREVENÇÃO DO CÂNCER DO COLO DO ÚTERO, É CORRETO AFIRMAR QUE:","r":"A VACINA CONTRA O HPV É OFERECIDA GRATUITAMENTE PELO SUS PARA MENINAS E MENINOS DE 9 A 14 ANOS."},{"p":"5) POR QUE A PARTICIPAÇÃO DOS HOMENS É IMPORTANTE NA PREVENÇÃO DO CÂNCER DO COLO DO ÚTERO?","r":"TODAS AS ALTERNATIVAS ANTERIORES."}],"DIREITOS HUMANOS_RESPEITO NAS RELAÇÕES":[{"p":"1) O que são Direitos Humanos?","r":"Direitos Humanos é um conjunto de direitos reconhecidos como os mais básicos e imprescindíveis para a vida humana no planeta."},{"p":"2) Quais são as pessoas que podem se beneficiar destes direitos?","r":"Todas as pessoas independentemente da sua cor, gênero, nacionalidade, religião, orientação sexual, estes direitos são válidos desde o nascimento de todos os indivíduos;"},{"p":"3) No Brasil, os direitos são assegurados através da:","r":"Constituição Federal;"},{"p":"4) Qual é o contato do Disque Direitos Humanos e qual seu horário de funcionamento?","r":"N°100 e ele funciona 24h;"},{"p":"5) Qual o nome da lei vigorada para violência doméstica contra mulher?","r":"Lei Maria da Penha;"}],"DIA NACIONAL DE COMBATE AO ALCOOLISMO":[{"p":"1) QUAL É A DATA EM QUE O DIA NACIONAL DE COMBATE AO ALCOOLISMO É CELEBRADO NO BRASIL?","r":"18 DE FEVEREIRO."},{"p":"2) ASSINALE ABAIXO A ALTERNATIVA CORRETA. O TREINAMENTO SUGERE QUE O ALCOOLISMO:","r":"PODE PREJUDICAR NÃO APENAS O INDIVÍDUO, MAS TAMBÉM A SOCIEDADE COMO UM TODO."},{"p":"3) QUAL É A SUGESTÃO CENTRAL DO TREINAMENTO SOBRE COMO A SOCIEDADE PODE AJUDAR NO COMBATE AO ALCOOLISMO?","r":"SUBSTITUINDO A EMPATIA PELA COMPREENSÃO E PROMOVENDO UM AMBIENTE DE APOIO."},{"p":"4) QUAIS SÃO ALGUMAS DAS CONSEQUÊNCIAS MENCIONADAS NO TREINAMENTO SOBRE O ABUSO DE ÁLCOOL?","r":"PROBLEMAS FAMILIARES E PREJUÍZOS NO DESEMPENHO ACADÊMICO."},{"p":"5) O QUE É ENFATIZADO COMO CRUCIAL PARA CONSTRUIR UMA REDE DE APOIO EFICAZ PARA AQUELES QUE ENFRENTAM O ALCOOLISMO?","r":"COMPREENDER QUE A DEPENDÊNCIA QUÍMICA É TRATÁVEL E OFERECER APOIO EMOCIONAL."}],"TRABALHO ANÁLOGO À ESCRAVIDÃO":[{"p":"1) ASSINALE A ALTERNATIVA CORRETA. DE ACORDO COM O MINISTÉRIO DO TRABALHO E EMPREGO, O NÚMERO DE RESGATES DE PESSOAS EM SITUAÇÃO ANÁLOGA À ESCRAVIDÃO:","r":"TEM AUMENTADO A CADA ANO."},{"p":"2) QUAL É A DEFINIÇÃO DE TRABALHO ANÁLOGO À ESCRAVIDÃO?","r":"\"É CARACTERIZADO PELA SUBMISSÃO DE ALGUÉM A TRABALHOS FORÇADOS OU A JORNADA EXAUSTIVA, QUER SUJEITANDO-O A CONDIÇÕES DEGRADANTES DE TRABALHO\"."},{"p":"3) ASSINALE QUAL DAS CARACTERÍSTICAS DO TRABALHO ANÁLOGO À ESCRAVIDÃO ABAIXO É FALSA:","r":"OPÇÃO QUANTO À MODALIDADE DE TRABALHO HÍBRIDO."},{"p":"4) ASSINALE QUAL É A CONDIÇÃO USUAL DAS PESSOAS QUE ENFRENTAM A SITUAÇÃO DE TRABALHO ANÁLOGO À ESCRAVIDÃO:","r":"SÃO PESSOAS EM CONDIÇÕES DE ALTA VULNERABILIDADE SOCIOECONÔMICA, SEJAM ELAS JOVENS, IDOSOS, HOMENS E/OU MULHERES."},{"p":"5) QUAL DAS ALTERNATIVAS ABAIXO NÃO REPRESENTA UM CANAL DE DENÚNCIA DE CASOS DE TRABALHO ANÁLOGO À ESCRAVIDÃO?","r":"ONG - ORGANIZAÇÃO DAS NAÇÕES GERAIS."}],"FEVEREIRO ROXO - LÚPUS, ALZHEIMER E FIBROMIALGIA":[{"p":"1) O \"FEVEREIRO ROXO\" DESTACA TRÊS CONDIÇÕES DE SAÚDE. QUAIS SÃO ELAS?","r":"LÚPUS, FIBROMIALGIA E ALZHEIMER."},{"p":"2) SOBRE O LÚPUS, É CORRETO AFIRMAR QUE:","r":"É UMA DOENÇA AUTOIMUNE QUE AFETA PRINCIPALMENTE MULHERES JOVENS, ENTRE 20 E 40 ANOS."},{"p":"3) QUAIS DOS SEGUINTES SINTOMAS SÃO CARACTERÍSTICOS DA FIBROMIALGIA?","r":"DORES GENERALIZADAS, FADIGA E ALTERAÇÕES DE HUMOR."},{"p":"4) ASSINALE ABAIXO A ALTERNATIVA CORRETA. O ALZHEIMER É CARACTERIZADO POR:","r":"LAPSOS DE MEMÓRIA, DESORIENTAÇÃO E PERDA GRADUAL DE AUTONOMIA."},{"p":"5) QUAL MENSAGEM PRINCIPAL O \"FEVEREIRO ROXO\" BUSCA TRANSMITIR?","r":"A IMPORTÂNCIA DE BUSCAR INFORMAÇÃO E CONSCIENTIZAÇÃO SOBRE LÚPUS, FIBROMIALGIA E ALZHEIMER."}],"LGPD – LEI GERAL DE PROTEÇÃO DE DADOS":[{"p":"1) O que significa LGPD?","r":"Lei Geral de Proteção de Dados Pessoais."},{"p":"2) Assinale o item que contém dados pessoais que devem ser protegidos por Lei.","r":"Nome completo, CPF, endereço e telefone."},{"p":"3) O que o colaborador da GPS deve fazer com os dados pessoais a que tiver acesso?","r":"Utilizar somente nos sistemas autorizados pelo seu empregador."},{"p":"4) Qual o meio utilizado para obter informações sobre os dados pessoais de colaboradores da GPS?","r":"Através do e-mail lgpd@gpssa.com.br"},{"p":"5) Qual o nome do órgão responsável por fiscalizar o cumprimento da Lei de Proteção de Dados?","r":"Autoridade Nacional de Proteção de Dados."}],"CÓDIGO DE ÉTICA E CONDUTA":[{"p":"1) Quais locais você pode acessar o código de Ética e Conduta?","r":"No Site do Grupo GPS e aplicativo GPSvc."},{"p":"2) Para quem se aplica o Código de Ética e Conduta?","r":"Aplicável a todos, sem distinção de área, nível hierárquico ou tipo de relação com o Grupo GPS."},{"p":"3) Para que serve o código de conduta?","r":"O Código de Ética e Conduta estabelece os princípios éticos e as normas de conduta, de forma a orientar as nossas relações internas e externas, com base em nossa Missão, Visão e Valores."},{"p":"4) Na relação com os Colaboradores e Ambiente de Trabalho, qual alternativa está correta?","r":"Todas as alternativas acima estão corretas."},{"p":"5) Em caso de constatação de violação de normas e procedimentos, qual o canal pode ser acionado?","r":"O Canal de ética pode ser acessado pelo telefone 0800 049 4200 ou por meio do site www.canaldeetica.com.br/grupogps/."}],"O QUE É SEGURANÇA DO TRABALHO_ACIDENTE ZERO":[{"p":"1) QUAL É O PRINCIPAL OBJETIVO DESSA PÍLULA DE CONHECIMENTO?","r":"PROMOVER O COMPORTAMENTO SEGURO."},{"p":"2) O QUE É SEGURANÇA PATRIMONIAL?","r":"REFERE-SE À PROTEÇÃO DE BENS MATERIAIS, PROPRIEDADES, E ATIVOS DE UMA ORGANIZAÇÃO OU PESSOA."},{"p":"3) O QUE É SEGURANÇA DO TRABALHO?","r":"DIZ RESPEITO À PROTEÇÃO DA INTEGRIDADE FÍSICA DOS COLABORADORES NO EXERCÍCIO DE SUAS FUNÇÕES, EVITANDO OU MINIMIZANDO A POSSIBILIDADE DE OCORRÊNCIA DE ACIDENTES OU DOENÇAS DO TRABALHO."},{"p":"4) ASSINALE ABAIXO A ALTERNATIVA CORRETA QUE DIZ RESPEITO ÀS ATIVIDADES QUE UM PROFISSIONAL DE SEGURANÇA DO TRABALHO FAZ PARA GARANTIR A SEGURANÇA DOS COLABORADORES:","r":"REALIZAM INSPEÇÕES REGULARES DOS EQUIPAMENTOS, DESENVOLVEM PROGRAMAS DE TREINAMENTO PARA PASSAR PROCEDIMENTOS CORRETOS, IMPLEMENTAM POLÍTICAS DE SEGURANÇA, FAZEM AVALIAÇÃO DOS RISCOS, ETC."},{"p":"5) PARA GARANTIR A EFICÁCIA DA SEGURANÇA DO TRABALHO, O GRUPO GPS SEGUE QUAIS PREMISSAS:","r":"OS NOSSOS COLABORADORES SÃO NOSSO MAIOR VALOR; A SEGURANÇA E SAÚDE NO TRABALHO É UM BEM INEGOCIÁVEL; EM RELAÇÃO AO MEIO AMBIENTE DEVEMOS CUIDAR, PRESERVAR E EDUCAR."}],"SEGURANÇA DA INFORMAÇÃO":[{"p":"1) PELO QUE A SEGURANÇA DA INFORMAÇÃO É RESPONSÁVEL?","r":"MANTER A SEGURANÇA DE DADOS, CONSCIENTIZAR E ORQUESTRAR O PROCESSO DE RECUPERAÇÃO EM CASO DE DESASTRES."},{"p":"2) A SEGURANÇA DA INFORMAÇÃO É COMPOSTO POR QUANTOS PILARES?","r":"3 PILARES."},{"p":"3) QUAIS SÃO OS COMPONENTES DO PRIMEIRO PILAR DE SEGURANÇA?","r":"CONFIDENCIALIDADE, INTEGRIDADE E DISPONIBILIDADE."},{"p":"4) COMO ADQUIRIR BOAS PRÁTICAS DE SEGURANÇA DENTRO DA COMPANHIA?","r":"ESTEJA ATENTO AO “CÓDIGO DE ÉTICA E CONDUTA”, ALÉM DOS PROCESSOS DE SEGURANÇA ESTABELECIDOS PELA COMPANHIA."},{"p":"5)  QUAL E-MAIL DEVE SER USADO PARA REPORTAR SUSPEITAS OU ATAQUES CIBERNÉTICOS?","r":"(VCSEGURO@GPSSA.COM.BR)."}],"JANEIRO BRANCO - CONSCIENTIZAÇÃO SOBRE SAÚDE MENTAL":[{"p":"1) O QUE REALMENTE SIGNIFICA TER SAÚDE MENTAL?","r":"ORGANIZAR EMOÇÕES E MANTER EQUILÍBRIO MESMO EM MOMENTOS DE CRISE."},{"p":"2) POR QUE O MÊS DE JANEIRO FOI ESCOLHIDO PARA A CAMPANHA JANEIRO BRANCO?","r":"PORQUE SIMBOLIZA RECOMEÇO, RENOVAÇÃO E PLANEJAMENTO."},{"p":"3) O QUE O “BRANCO” SIMBOLIZA NA CAMPANHA?","r":"UMA FOLHA EM BRANCO, REPRESENTANDO A CHANCE DE REESCREVER VIVÊNCIAS E QUEBRAR TABUS."},{"p":"4) QUAL É A PRINCIPAL MENSAGEM QUE A CAMPANHA BUSCA TRANSMITIR SOBRE PEDIR AJUDA?","r":"PEDIR AJUDA NÃO É FRAQUEZA, MAS CORAGEM E MATURIDADE."},{"p":"5) A “SÍNDROME DE BURNOUT” É MENCIONADA NO TREINAMENTO COMO:","r":"UM ADOECIMENTO CAUSADO PELA SOBRECARGA, CUJOS CASOS AUMENTARAM SIGNIFICATIVAMENTE NOS ÚLTIMOS ANOS."}],"INTELIGÊNCIA EMOCIONAL_SAÚDE MENTAL":[{"p":"1) O que é inteligência emocional?","r":"É a habilidade para conhecer os seus próprios sentimentos e ações diante da vida."},{"p":"2) No que a inteligência emocional auxilia?","r":"Através dela você gerência os seus sentimentos, controla reações, potencializa aspectos positivos da própria personalidade."},{"p":"3) O que você ganha ao desenvolver a inteligência emocional?","r":"Você cria relacionamentos mais saudáveis e consegue tomar decisões mais assertivas."},{"p":"4) O que é necessário para desenvolver a inteligência emocional?","r":"Autoconsciência e autorregulação das emoções."},{"p":"5) Cite uma prática para desenvolver a inteligência emocional.","r":"Ter empatia."}],"DEZEMBRO VERMELHO: LUTA CONTRA AIDS":[{"p":"1) QUAL É O PRINCIPAL OBJETIVO DO DEZEMBRO VERMELHO?","r":"PROMOVER A CONSCIENTIZAÇÃO SOBRE A AIDS E COMBATER O ESTIGMA ASSOCIADO AO HIV."},{"p":"2) QUAIS SÃO AS PRINCIPAIS VIAS DE TRANSMISSÃO DO HIV MENCIONADAS NO TREINAMENTO?","r":"COMPARTILHAMENTO DE AGULHAS, TRANSMISSÃO VERTICAL E RELAÇÕES SEXUAIS SEM PROTEÇÃO."},{"p":"3) COMO A SOCIEDADE PODE AJUDAR NA LUTA CONTRA A AIDS?","r":"UNINDO-SE PARA PROMOVER A EDUCAÇÃO, TESTAGEM REGULAR E COMBATE À DISCRIMINAÇÃO."},{"p":"4) POR QUE O ESTIGMA AINDA REPRESENTA UM DESAFIO NA LUTA CONTRA A AIDS?","r":"PORQUE IMPEDE O ACESSO AO DIAGNÓSTICO PRECOCE, TRATAMENTO E APOIO NECESSÁRIO."},{"p":"5) QUAL É A IMPORTÂNCIA DA EDUCAÇÃO, ESPECIALMENTE ENTRE OS JOVENS, NA PREVENÇÃO DO HIV?","r":"PARA GARANTIR QUE AS FUTURAS GERAÇÕES ESTEJAM EQUIPADAS COM O CONHECIMENTO NECESSÁRIO PARA SE PROTEGEREM E APOIAREM OS OUTROS."}],"FUNÇÃO E IMPORTÂNCIA DA ÁGUA_ALIMENTAÇÃO SAUDÁVEL":[{"p":"1) Qual a porcentagem de água no peso de uma criança?","r":"80% do peso corporal."},{"p":"2) Qual a porcentagem de água no peso de um adulto?","r":"60% do peso corporal."},{"p":"3) Qual a porcentagem aproximada de água na composição da urina?","r":"95% da composição da urina."},{"p":"4) O que significa sentir sede para o nosso corpo?","r":"É um sinal de desidratação."},{"p":"5) O que podemos colocar dentro da água para que fique com um gosto “melhor”?","r":"Pedaços de frutas."}],"ANTICORRUPÇÃO":[{"p":"1) O QUE É ANTICORRUPÇÃO?","r":"PRÁTICAS ÉTICAS E TRANSPARENTES NAS ORGANIZAÇÕES."},{"p":"2) QUAL É O COMPROMISSO DA EMPRESA COM A ANTICORRUPÇÃO?","r":"AGIR DE MANEIRA ÉTICA E RESPONSÁVEL."},{"p":"3) O QUE É VEDADO PELO CÓDIGO DE ÉTICA E CONDUTA DA EMPRESA EM RELAÇÃO A BENEFÍCIOS?","r":"ACEITAR VANTAGENS PARA INFLUENCIAR DECISÕES DE NEGÓCIO."},{"p":"4) QUAL É O CICLO ANTICORRUPÇÃO NA ORGANIZAÇÃO, CONFORME MENCIONADO NO TREINAMENTO?","r":"PREVENIR, DETECTAR E PUNIR."},{"p":"5) O QUE O ATO DE CORRUPÇÃO PODE ACARRETAR PARA OS ENVOLVIDOS, DE ACORDO COM O TREINAMENTO?","r":"IMPLICAÇÕES LEGAIS, COMO DEMISSÃO, QUEBRA DE CONTRATO E MEDIDAS JUDICIAIS."}],"O QUE ESPERAR DE UM NOVO ANO":[{"p":"1) ASSINALE A ALTERNATIVA CORRETA. O ANO NOVO É UM MOMENTO DE:","r":"OPORTUNIDADES E DE CRESCIMENTO."},{"p":"2) O QUE NOS AJUDARÁ A DEFINIR NOSSAS METAS PARA O ANO NOVO?","r":"REFLETIRMOS SOBRE O ANO QUE PASSOU. POR EXEMPLO, SE PERGUNTAR (O QUE VOCÊ CONQUISTOU? QUAIS FORAM SEUS DESAFIOS E APRENDIZADOS?)."},{"p":"3) COMO DEVEM SER AS  NOSSAS METAS?","r":"METAS CLARAS E ESPECÍFICAS."},{"p":"4) O QUE TE MANTERÁ MOTIVADO E CONFIANTE?","r":"CELEBRAR AS PEQUENAS VITÓRIAS."},{"p":"5) ASSINALE A ALTERNATIVA CORRETA. PRATICAR A GRATIDÃO PODE AUMENTAR SEU:","r":"BEM-ESTAR EMOCIONAL."}],"NOVEMBRO AZUL - CONSCIENTIZAÇÃO SOBRE O CÂNCER DE PRÓSTATA":[{"p":"1) QUAL É O OBJETIVO PRINCIPAL DO NOVEMBRO AZUL?","r":"CONSCIENTIZAR SOBRE O CÂNCER DE PRÓSTATA."},{"p":"2) QUAIS SÃO OS SINAIS MAIS COMUNS DO CÂNCER DE PRÓSTATA?","r":"DIFICULDADE PARA URINAR E JATO DE URINA ENFRAQUECIDO."},{"p":"3) A PARTIR DE QUAL IDADE HOMENS SEM FATORES DE RISCO DEVEM INICIAR OS EXAMES DE ROTINA PARA CÂNCER DE PRÓSTATA?","r":"AOS 50 ANOS SEM FATORES DE RISCO E AOS 45 COM FATORES DE RISCO."},{"p":"4) QUAL É O EXAME RECOMENDADO PARA O DIAGNÓSTICO DO CÂNCER DE PRÓSTATA?","r":"EXAME DE SANGUE PSA E TOQUE RETAL."},{"p":"5) POR QUE MUITOS CASOS DE CÂNCER DE PRÓSTATA SÃO DIAGNOSTICADOS TARDIAMENTE?","r":"POR DESINFORMAÇÃO, MEDO OU VERGONHA DE PROCURAR AJUDA MÉDICA."}],"COMPORTAMENTO E POSTURA NO AMBIENTE DE TRABALHO":[{"p":"1) ASSINALE ABAIXO A ALTERNATIVA CORRETA. TER UM COMPORTAMENTO ADEQUADO E UMA POSTURA POSITIVA NÃO APENAS CONTRIBUI PARA UM AMBIENTE DE TRABALHO SAUDÁVEL, MAS TAMBÉM É ESSENCIAL PARA:","r":"ALCANÇAR O SUCESSO PROFISSIONAL."},{"p":"2) POR QUE MANTER UMA BOA APARÊNCIA É IMPORTANTE?","r":"PORQUE DEMONSTRA CUIDADO E RESPEITO PELO AMBIENTE DE TRABALHO."},{"p":"3) O QUE É A BASE DO CORPORTAMENTO PROFISSIONAL?","r":"O RESPEITO PELOS COLEGAS, SUPERIORES E CLIENTES."},{"p":"4) CUMPRIR PRAZOS E COMPROMISSOS DEMONSTRA O QUE?","r":"RESPONSABILIDADE E PROFISSIONALISMO."},{"p":"5) MANTER SEU ESPAÇO DE TRABALHO ORGANIZADO E SER EFICIENTE NA GESTÃO DO TEMPO AJUDA NO QUE?","r":"A AUMENTAR A PRODUTIVIDADE E A DEMONSTRAR COMPROMETIMENTO."}],"DISCRIMINAÇÃO RACIAL_RESPEITO NAS RELAÇÕES":[{"p":"1) De maneira geral, a qual ideia o racismo está ligado?","r":"Está ligado a ideia de que existe superioridade entre as diferentes raças e tons de pele. Inferiorizando equivocadamente determinados grupos."},{"p":"2) Qual conceito de Preconceito?","r":"É o ato de julgar algo ou alguém sem conhecê-lo, criando um estereótipo."},{"p":"3) Qual conceito de Discriminação?","r":"É o ato de segregar, separar ou dar prioridades e tratamento diferenciado em razão da raça."},{"p":"4) Para o que costumam usar o estereótipo de uma pessoa?","r":"O Estereótipo é muito usado para definir e limitar pessoas."},{"p":"5) Qual é o Artigo que enquadra o Racismo como crime?","r":"Artigo 5º."}],"POSTURA OPERACIONAL":[{"p":"1) Quais são os 3 itens importantes para uma ótima postura operacional?","r":"Utilização correta do uniforme, higiene pessoal e postura."},{"p":"2) Qual das alternativas apresenta dicas corretas de cuidados com o uniforme?","r":"Camisas limpas e bem passadas, calças passadas com um vinco só e barras feitas, meias pretas e sapatos engraxados."},{"p":"3) A higiene pessoal também é muito importante. Qual alternativa apresenta orientações adequadas para as mulheres?","r":"Maquiagem deve ser leve, brincos pequenos e discretos, cabelos penteados com corte curto ou preso."},{"p":"4) A higiene pessoal também é muito importante. Qual alternativa apresenta orientações adequadas para os homens?","r":"Cabelos cortados e penteados, sem cobrir o lóbulo da orelha, unhas sempre limpas e cortadas e barba feita."},{"p":"5) Qual das alternativas apresenta dicas de uma postura adequada?","r":"Antecipe a expectativa do Cliente e esteja pronto para recebê-lo, tratando-o sempre por senhor ou senhora."}],"DIFERENÇA ENTRE INCIDENTE E ACIDENTE_ACIDENTE ZERO":[{"p":"1) O QUE É UM INCIDENTE NO CONTEXTO DE SEGURANÇA DO TRABALHO?","r":"UM EVENTO QUE PODERIA TER RESULTADO EM UM ACIDENTE, MAS FOI INTERROMPIDO ANTES DE CAUSAR DANOS."},{"p":"2) O QUE É UM ACIDENTE NO CONTEXTO DE SEGURANÇA DO TRABALHO?","r":"UM EVENTO QUE RESULTA EM LESÕES PESSOAIS, DANOS À PROPRIEDADE OU PERDA DE TEMPO DE TRABALHO."},{"p":"3) O QUE SÃO \"ATOS INSEGUROS\" NO CONTEXTO DE SEGURANÇA DO TRABALHO?","r":"AÇÕES REALIZADAS POR COLABORADORES QUE COLOCAM EM RISCO A SEGURANÇA NO AMBIENTE DE TRABALHO."},{"p":"4) O QUE É UMA \"CONDIÇÃO INSEGURA\" NO CONTEXTO DE SEGURANÇA DO TRABALHO?","r":"ASPECTOS DO AMBIENTE DE TRABALHO QUE REPRESENTAM RISCO À SEGURANÇA DOS COLABORADORES."},{"p":"5) COMO É POSSÍVEL GARANTIR A SEGURANÇA E O BEM-ESTAR DOS COLABORADORES NO AMBIENTE DE TRABALHO?","r":"REALIZANDO AVALIAÇÕES DE RISCO E IMPLEMENTANDO PROCEDIMENTOS ADEQUADOS."}],"CANAL DE ÉTICA":[{"p":"1) PARA QUE SERVE O CANAL DE ÉTICA DO GRUPO GPS?","r":"PARA OS COLABORADORES POSSAM RELATAR SUAS PREOCUPAÇÕES, COMPORTAMENTOS INADEQUADOS E VIOLAÇÕES DE POLÍTICAS."},{"p":"2) COMO É POSSÍVEL ACESSAR O CANAL DE ÉTICA DO GRUPO GPS?","r":"TODAS AS ALTERNATIVAS ANTERIORES."},{"p":"3) QUEM PODE UTILIZAR O CANAL DE ÉTICA DO GRUPO GPS?","r":"TODAS AS ALTERNATIVAS ANTERIORES."},{"p":"4) DEVO TER MEDO DE DENUNCIAR OU TEMER POR ALGUMA REPRESÁLIA?","r":"NUNCA, POIS, O CANAL É TOTALMENTE IMPARCIAL E PRESERVA SEU ANONIMATO, GARANTE O SIGILO E NÃO HÁ NENHUM TIPO DE RETALIAÇÃO."},{"p":"5) COMO SÃO TRATADAS AS DENÚNCIAS?","r":"TODAS AS ALTERNATIVAS ANTERIORES."}],"LER (DORT) E LOMBALGIA_SAÚDE":[{"p":"1)  SEGUNDO O MINISTÉRIO DA SAÚDE, QUAIS SÃO OS DISTÚRBIOS QUE MAIS CAUSAM AFASTAMENTO DO TRABALHO?","r":"LOMBALGIA E LER/DORT."},{"p":"2) ONDE GERALMENTE OCORRE A LER?","r":"NO TRABALHO."},{"p":"3) QUAIS OS SINTOMAS DA LOMBALGIA?","r":"DORES NAS COSTAS QUE PODEM IRRADIAR PARA AS PERNAS."},{"p":"4) PARA EVITAR QUE UM COLABORADOR SEJA ACOMETIDO POR DORT, É NECESSÁRIO QUE O LOCAL ESTEJA:","r":"SEGURO, CONFORTÁVEL E OS COLABORADORES DEVEM SER BEM ORIENTADOS EM RELAÇÃO À POSTURA."},{"p":"5) QUAIS SÃO AS ARTICULAÇÕES MAIS AFETADAS PELA LER OU DORT?","r":"OMBRO, COTOVELO E PUNHO."}],"EXPLORAÇÃO SEXUAL E ABUSO INFANTIL":[{"p":"1) ASSINALE ABAIXO QUAL DAS FORMAS NÃO SE CONFIGURA COMO EXPLORAÇÃO SEXUAL DE CRIANÇAS E ADOLESCENTES:","r":"POR MEIO DA EDUCAÇÃO."},{"p":"2) QUAL É A LEGISLAÇÃO BRASILEIRA QUE DEFINE QUE O ABUSO, VIOLÊNCIA E EXPLORAÇÃO SEXUAL DE CRIANÇAS E ADOLESCENTES, SÃO ENQUADRADOS PENALMENTE COMO CORRUPÇÃO DE MENORES E ATENTADO VIOLENTO AO PUDOR?","r":"CÓDIGO PENAL BRASILEIRO."},{"p":"3) ASSINALE ABAIXO A ALTERNATIVA CORRETA, QUE REPRESENTA UM POSSÍVEL DANO PSICOLÓGICO NA VÍTIMA DE ABUSO SEXUAL INFANTIL:","r":"TODAS AS ALTERNATIVAS ESTÃO CORRETAS."},{"p":"4) QUAL DAS ALTERNATIVAS ABAIXO NÃO REPRESENTA UM LOCAL DE REDE DE APOIO PARA CRIANÇAS E ADOLESCENTES, VÍTIMAS DE EXPLORAÇÃO SEXUAL E ABUSO?","r":"DELEGACIA DO IDOSO."},{"p":"5) POR QUE É IMPORTANTE PERMANECER ATENTO QUANTO À ALGUNS COMPORTAMENTOS DA CRIANÇA, POR EXEMPLO: ATENTAR QUANTO À SINAIS DE ISOLAMENTO SOCIAL E  HIPERSEXUALIZAÇÃO?","r":"PARA ACABAR COM A EXPLORAÇÃO E ABUSO INFANTIL."}],"CAMPANHA_OUTUBRO ROSA-CÂNCER DE MAMA":[{"p":"1) Qual o objetivo da campanha do Outubro Rosa?","r":"Campanha com o objetivo de alertar a sociedade sobre o diagnóstico precoce do câncer de mama, além de ressaltar a importância de olhar com atenção para a saúde."},{"p":"2) Sobre o câncer de mama, podemos afirmar que:","r":"Câncer é um crescimento rápido e desordenado das células."},{"p":"3) Quais os principais sinais e sintomas de câncer de mama?","r":"Inchaço de toda ou parte da mama mesmo que não sinta um nódulo, Secreções sanguinolentas ou serosas, edema, vermelhidão, dor na mama ou mamilo e linfonodos aumentados."},{"p":"4) Sobre a prevenção podemos afirmar:","r":"É importante que a mulher e homem conheçam sua mama e seja capaz de notar qualquer alteração, por isso a importância do autoexame das mamas."},{"p":"5) Quais são os fatores de maior risco?","r":"Maior risco em mulheres, menarca precoce, histórico na família, primeira gestação após 30 anos, hábitos alimentares e obesidade."}],"SETEMBRO AMARELO - PREVENÇÃO AO SUICÍDIO":[{"p":"1) QUAL É O PRINCIPAL OBJETIVO DA CAMPANHA SETEMBRO AMARELO?","r":"CONSCIENTIZAR A POPULAÇÃO SOBRE A IMPORTÂNCIA DE FALAR SOBRE SAÚDE MENTAL E PREVENIR O SUICÍDIO."},{"p":"2) QUAL FOI O MOTIVO DA ESCOLHA DA COR AMARELA PARA SIMBOLIZAR O MÊS DE PREVENÇÃO AO SUICÍDIO?","r":"POR CAUSA DA HISTÓRIA DE MIKE EMME, QUE TINHA UM MUSTANG AMARELO E TIROU A PRÓPRIA VIDA."},{"p":"3) QUAIS FATORES CONTRIBUEM PARA O ADOECIMENTO MENTAL NA SOCIEDADE ATUAL?","r":"A PRESSÃO POR PRODUTIVIDADE, COMPARAÇÕES NAS REDES SOCIAIS E MEDO DE FRACASSAR."},{"p":"4) QUAL ATITUDE PODE SER ESSENCIAL PARA AJUDAR ALGUÉM EM SOFRIMENTO","r":"ESTAR PRESENTE E OFERECER ESCUTA EMPÁTICA, MESMO SEM DIZER NADA."},{"p":"5) QUAL SERVIÇO OFERECE APOIO EMOCIONAL GRATUITO E SIGILOSO 24 HORAS POR DIA NO BRASIL?","r":"CVV – CENTRO DE VALORIZAÇÃO DA VIDA, PELO NÚMERO 188."}],"PESSOA COM DEFICIÊNCIA_RESPEITO NAS RELAÇÕES":[{"p":"1) Marque a alternativa que se refere à uma conduta correta para Pessoa com Transtorno do Espectro Autista:","r":"Se fizer alguma brincadeira, explique o sentido do que está dizendo, para não a deixe confusa."},{"p":"2) Com relação ao que vimos no treinamento, assinale qual das frases abaixo está INCORRETA:","r":"O Brasil é considerado um dos países mais atrasados do mundo no que diz respeito a legislação para PcD."},{"p":"3) Segundo o novo modelo psicossocial, baseado na Lei Brasileira de Inclusão, qual o prazo de impedimento de natureza física, mental, intelectual ou sensorial (auditiva e visual)?","r":"De longo prazo."},{"p":"4) As empresas precisam cumprir a Lei de Cotas (Lei 8.213/91), que está presente no artigo 93. Para qual categoria de pessoas se destina essa Lei?","r":"Pessoas com deficiência ou pessoas reabilitadas pelo INSS."},{"p":"5) Qual a terminologia correta para ser utilizada em referência às pessoas com perda parcial ou total de audição?","r":"Pessoa com deficiência auditiva."}],"VIOLÊNCIA CONTRA A MULHER_RESPEITO NAS RELAÇÕES":[{"p":"1) O que é violência contra mulher?","r":"É qualquer ação ou conduta baseada no gênero que cause morte, dano ou sofrimento físico, sexual ou psicológico a mulher"},{"p":"2) O que caracteriza violência física?","r":"Condutas que ofendem a integridade e a saúde corporal da mulher"},{"p":"3) O que caracteriza violência sexual?","r":"Tentativas ou atos sexuais que sejam realizados sem o consentimento da mulher."},{"p":"4) Qual é o contato da central de atendimento à Mulher?","r":"180"},{"p":"5) Qual é a Lei de proteção a violência contra a mulher que foi criada em 2006?","r":"Lei Maria da Penha"}],"DIFERENÇA ENTRE PERIGO E RISCO_ACIDENTE ZERO":[{"p":"1) QUAL A DEFINIÇÃO DE \"PERIGO\" DE ACORDO COM O TREINAMENTO?","r":"A FONTE OU SITUAÇÃO COM POTENCIAL PARA PROVOCAR DANOS."},{"p":"2) O QUE É RISCO, DE ACORDO COM O TREINAMENTO?","r":"A COMBINAÇÃO DA PROBABILIDADE E DA CONSEQUÊNCIA DE UM EVENTO PERIGOSO."},{"p":"3) QUAL É O PRIMEIRO PASSO QUE O TREINAMENTO MOSTRA PARA ELIMINAR PERIGOS E REDUZIR OS RISCOS?","r":"AVALIAR E IDENTIFICAR TODOS OS PERIGOS PRESENTES NA FÁBRICA."},{"p":"4) O QUE ENVOLVE PROCEDIMENTOS OPERACIONAIS SEGUROS?","r":"DESENVOLVER PADRÕES DE SEGURANÇA ESTABELECIDOS."},{"p":"5) POR QUE É CRUCIAL EDUCAR OS COLABORADORES SOBRE OS PERIGOS?","r":"PARA REDUZIR OS RISCOS."}],"ABORDAGEM DE IMPRENSA":[{"p":"1) O QUE É ABORDAGEM DE IMPRENSA?","r":"É QUANDO VOCÊ É ABORDADO POR ALGUM ÓRGÃO DE IMPRENSA OU MÍDIA."},{"p":"2) QUANDO VOCÊ FOR ABORDADO PELA IMPRENSA, O QUE VOCÊ DEVE FAZER?","r":"DEVO DIRECIONA-LOS PARA ASSESSORIA DE IMPRENSA."},{"p":"3) NO CONTATO COM A IMPRENSA, O QUE É MAIS IMPORTANTE?","r":"QUE É EXPRESSAMENTE PROIBIDO PRESTAR QUALQUER TIPO DE INFORMAÇÃO."},{"p":"4) QUAL É O CANAL DA ASSESSORIA DE IMPRENSA?","r":"IMPRENSA@GPSSA.COM.BR"},{"p":"5) O QUE UMA ABORDAGEM DE IMPRENSA REQUER?","r":"RESPONSABILIDADE E PRUDÊNCIA."}],"COMUNICAÇÃO NÃO VIOLENTA_SAÚDE MENTAL":[{"p":"1) O que é comunicação não violenta?","r":"É estar aberto ao diálogo, expressando os seus desejos e as suas necessidades, mas respeitando as dos outros também."},{"p":"2) O que é importante identificar na comunicação não violenta?","r":"É fundamental identificar sua forma de falar, suas reações e emoções nos relacionamentos com as outras pessoas."},{"p":"3) O que a comunicação não violenta defende?","r":"Defende expressões com saídas positivas, focando na solução dos problemas, sem buscar culpados e sem ofensas."},{"p":"4) Cite um exemplo do que devemos evitar para não disseminar uma comunicação violenta:","r":"A criação de estereótipos, que define um profissional a um rótulo."},{"p":"5) Qual é o passo inicial para que não tenhamos uma comunicação violenta?","r":"O passo inicial é observar."}],"COMPORTAMENTO SEGURO EM PERÍODOS FESTIVOS":[{"p":"1) QUAL DAS ATITUDES ABAIXO AJUDA A GARANTIR A SEGURANÇA DURANTE VIAGENS NAS FESTAS E FERIADOS?","r":"FAZER REVISÃO NO CARRO ANTES DE PEGAR A ESTRADA."},{"p":"2) POR QUE É IMPORTANTE MANTER A ATENÇÃO NO TRABALHO DURANTE OS PERÍODOS FESTIVOS?","r":"PORQUE A REDUÇÃO DE EQUIPES EXIGE MAIS ATENÇÃO PARA EVITAR ERROS E ACIDENTES."},{"p":"3) QUAL PRÁTICA É RECOMENDADA DURANTE AS COMEMORAÇÕES?","r":"EVITAR EXAGEROS E VERIFICAR A PROCEDÊNCIA DAS LOJAS."},{"p":"4) QUAL ATITUDE É RECOMENDADA PARA PROTEGER SEUS PERTENCES EM ÉPOCAS FESTIVAS?","r":"EVITAR LOCAIS ISOLADOS E MAL ILUMINADOS."},{"p":"5) O QUE DEVE SER FEITO SE A PESSOA FOR ESCALADA PARA TRABALHAR DURANTE UM FERIADO?","r":"CUMPRIR O HORÁRIO E FICAR ATENTO ÀS MUDANÇAS NO TRAJETO."}],"JULHO AMARELO - CONSCIENTIZAÇÃO SOBRE HEPATITES VIRAIS":[{"p":"1) QUAL É O OBJETIVO DA CAMPANHA JULHO AMARELO?","r":"CONSCIENTIZAR SOBRE AS HEPATITES VIRAIS."},{"p":"2) POR QUE A COR AMARELA FOI ESCOLHIDA PARA REPRESENTAR A CAMPANHA?","r":"POR SIMBOLIZAR A ICTERÍCIA, UM SINTOMA DAS HEPATITES."},{"p":"3) QUANTOS TIPOS PRINCIPAIS DE HEPATITES VIRAIS SÃO MENCIONADOS NO TREINAMENTO?","r":"5."},{"p":"4) QUAL É A PRINCIPAL VIA DE TRANSMISSÃO DA HEPATITE B?","r":"RELAÇÕES SEXUAIS SEM CAMISINHA E USO DE OBJETOS CORTANTES COMPARTILHADOS."},{"p":"5) COMO É FEITO O DIAGNÓSTICO DAS HEPATITES VIRAIS?","r":"POR EXAME DE SANGUE."}],"DIVERSIDADE DE GÊNERO_RESPEITO NAS RELAÇÕES":[{"p":"1) O que significa o termo diversidade de gênero?","r":"É uma maneira inclusiva de utilizar para toda a orientação e diversidade sexual, identidade e expressão de gênero, sem a necessidade de especificar cada uma destas pluralidades."},{"p":"2) Qual o significado da letra “Q”?","r":"Representa pessoas Queer, são pessoas que não se rotulam e nem se encaixam em rótulos definidos."},{"p":"3) O que é identidade de gênero?","r":"É o entendimento que a pessoa tem sobre ela mesma, como ela se reconhece e deseja ser reconhecida socialmente, seja mulher, homem ou transgênero."},{"p":"4) O que é “nome social”?","r":"É o prenome adotado e que corresponde à forma pela qual a pessoa se reconhece e é reconhecida por sua comunidade."},{"p":"5) No treinamento vimos que é importante conhecer e seguir o procedimento do seu Cliente. Além disso, qual atitude cabe a você colocar em prática?","r":"Exercer o respeito a todas as pessoas."}],"DILUIÇÃO DE PRODUTOS QUÍMICOS_INFRA":[{"p":"1) Em qual processo de diluição de produtos químicos utilizamos a válvula pump?","r":"No processo de diluição manual."},{"p":"2) Para que serve a Tabela de Diluição?","r":"Para saber a proporção correta de diluição específica de cada produto."},{"p":"3) O que podemos encontrar no documento FISPQ (Ficha de Informação e Segurança de Produtos Químicos)?","r":"Todas estão corretas."},{"p":"4) Escolha a alternativa abaixo que está ERRADA sobre a Diluição de Produtos Químicos","r":"Ao diluir, não precisa usar EPIs."},{"p":"5) Um produto químico quando diluído de forma incorreta pode:","r":"Todas alternativas acima."}],"CORDÃO DE GIRASSOL":[{"p":"1) EM QUAL ANO FOI SANSIONADA A LEI QUE FORMALIZA O USO DO CORDÃO COM DESENHO DE GIRASSÓIS COMO IDENTIFICAÇÃO DE PESSOAS COM DEFICIÊNCIAS OCULTAS?","r":"NO ANO DE 2023."},{"p":"2) O QUE SÃO DEFICIÊNCIAS OCULTAS?","r":"SÃO TODAS AS DEFICIÊNCIAS QUE NÃO SÃO POSSÍVEIS DE SEREM IDENTIFICADAS FISICAMENTE, MESMO QUE ESTAS DOENÇAS TENHAM ALGUMAS CARACTERÍSTICAS ESPECÍFICAS."},{"p":"3) ASSINALE ABAIXO A ALTERNATIVA QUE MOSTRE ALGUNS EXEMPLOS DE DEFICIÊNCIAS OCULTAS:","r":"TRANSTORNO DO ESPECTRO AUTISTA (TEA), PESSOAS SURDAS, FOBIAS EXTREMAS E DOENÇAS CRÔNICAS."},{"p":"4) O QUE O USO DO CORDÃO DE GIRASSÓIS TRAZ?","r":"MAIS EMPATIA E AUXÍLIO NO RECONHECIMENTO DA CONDIÇÃO DAQUELA PESSOA, ELE \"REPRESENTA UM IMPORTANTE PASSO PARA A INCLUSÃO E CONSCIENTIZAÇÃO\"."},{"p":"5) O USO DO CORDÃO DE GIRASSÓIS É OBRIGATÓRIO?","r":"O USO DO SÍMBOLO DO CORDÃO DE GIRASSOL É OPCIONAL E A SUA AUSÊNCIA NÃO PREJUDICA NO EXERCÍCIO DE DIREITOS E GARANTIAS PREVISTOS EM LEIS."}],"JUNHO LARANJA - CONSCIENTIZAÇÃO SOBRE A ANEMIA E LEUCEMIA":[{"p":"1) O QUE CARACTERIZA A ANEMIA?","r":"A REDUÇÃO DOS GLÓBULOS VERMELHOS OU DA HEMOGLOBINA."},{"p":"2) ENTRE OS SINTOMAS ABAIXO, QUAL DELES SE ENCAIXA NA CONDIÇÃO DA ANEMIA?","r":"FADIGA CONSTANTE E PALIDEZ NA PELE."},{"p":"3) QUAL É O TIPO DE CÉLULA DO SANGUE AFETADO DIRETAMENTE PELA LEUCEMIA?","r":"GLÓBULOS BRANCOS."},{"p":"4) QUAL É A PRINCIPAL FORMA DE PREVENIR A ANEMIA?","r":"TER UMA ALIMENTAÇÃO EQUILIBRADA E RICA EM FERRO."},{"p":"5) DE ACORDO COM OS DADOS APRESENTADOS, QUANTOS CASOS DE LEUCEMIA SÃO DIAGNOSTICADOS ANUALMENTE NO BRASIL?","r":"CERCA DE 10 MIL CASOS."}],"DIVERSIDADE ETÁRIA_RESPEITO NAS RELAÇÕES":[{"p":"1) O QUE SIGNIFICA DIVERSIDADE ETÁRIA?","r":"É MAIS UM PILAR DA DIVERSIDADE E DIZ RESPEITO ÀS QUESTÕES QUE ENVOLVEM AS DIFERENÇAS DE IDADES E GERAÇÕES, SEJAM ELAS DE PESSOAS \"MAIS JOVENS\" OU DAS \"MAIS VELHAS\"."},{"p":"2) QUANDO O TERMO ETARISMO É UTILIZADO?","r":"ESTE TERMO É UTILIZADO QUANDO ESTAMOS NOS REFERINDO SOBRE O PRECONCEITO DE IDADE, TANTO EM RELAÇÃO ÀS PESSOAS “MAIS JOVENS”, COMO EM RELAÇÃO ÀS PESSOAS “MAIS VELHAS”."},{"p":"3) É COMUM O PENSAMENTO DE QUE AS PESSOAS “MAIS VELHAS” JÁ SABEM SOBRE TUDO E QUE NÃO PRECISAM DE TREINAMENTO E DESENVOLVIMENTO. SEGUINDO ESSE PENSAMENTO, O QUE ESSAS PESSOAS ACABAM PERDENDO?","r":"PERDEM A OPORTUNIDADE DE SE ATUALIZAREM."},{"p":"4) O QUE É UM AMBIENTE MULTIGERACIONAL?","r":"SE TRATA DO LOCAL ONDE HÁ JUNÇÃO DE DIFERENTES GERAÇÕES E ISSO PODE TRAZER GRANDES DESAFIOS E BENEFÍCIOS."},{"p":"5) SEGUNDO O TREINAMENTO, A VALORIZAÇÃO DO PROFISSIONAL DEVE ESTAR FOCADA NO QUE?","r":"NA ENERGIA, CAPACIDADE E MATURIDADE PARA DESEMPENHAR SUAS FUNÇÕES E NA ENTREGA DE RESULTADOS ADEQUADOS, INDEPENDENTEMENTE DE SUA IDADE."}],"DIVERSIDADE CULTURAL_RESPEITO NAS RELAÇÕES":[{"p":"1) Por que é importante ter um nível de entendimento sobre outras culturas?","r":"Para que nos ajude a compreender diferentes perspectivas dentro do mundo em que vivemos."},{"p":"2) Assinale abaixo a alternativa FALSA:","r":"Conhecer sobre diversidade cultural só dificulta a convivência social."},{"p":"3) No Brasil, quais culturas são mais presentes?","r":"Indígena, africana e europeia."},{"p":"4) Marque a alternativa abaixo que mostre atitude que NÃO APOIA a diversidade cultural:","r":"Sempre imponha aos outros, valores pessoais que possam entrar em conflito ou ser inconsistentes com outras culturas."},{"p":"5) Qual das alternativas abaixo indica um MITO sobre a diversidade cultural?","r":"Refugiados são criminosos, terroristas, extremistas ou ameaça ao estado do bem-estar social de uma determinada nação."}],"USO RACIONAL DE PAPEL_SUSTENTABILIDADE":[{"p":"1) QUAL DAS ALTERNATIVAS A SEGUIR REPRESENTA UMA PRÁTICA MENCIONADA NO TREINAMENTO PARA REDUZIR O USO DE PAPEL?","r":"PRIORIZAR A COMUNICAÇÃO DIGITAL OFERECIDA PELO GRUPO GPS."},{"p":"2) QUAL DAS FERRAMENTAS DIGITAIS MENCIONADAS NO TREINAMENTO AJUDA NA ELIMINAÇÃO DE RELATÓRIOS DE TAREFAS FÍSICOS?","r":"GPSVISTA."},{"p":"3) O QUE É SUGERIDO COMO UMA PRÁTICA PARA ECONOMIZAR PAPEL DE ALTA QUALIDADE?","r":"UTILIZAR RASCUNHOS PARA ANOTAÇÕES INTERNAS."},{"p":"4) QUAL É O OBJETIVO PRINCIPAL DO USO DE ASSINATURAS DIGITAIS?","r":"ECONOMIZAR PAPEL E TEMPO NO PROCESSO DE ASSINATURA DE DOCUMENTOS."},{"p":"5) O QUE É DESTACADO COMO UM COMPROMISSO FUNDAMENTAL PARA PROMOVER A SUSTENTABILIDADE E A RESPONSABILIDADE AMBIENTAL?","r":"PRIORIZAÇÃO DA COMUNICAÇÃO DIGITAL E PRÁTICAS CONSCIENTES."}],"POLÍTICA DE SUSTENTABILIDADE_GRUPO GPS":[{"p":"1) QUAL É O OBJETIVO DA POLÍTICA DE SUSTENTABILIDADE DO GRUPO GPS?","r":"DEFINIR PRINCÍPIOS E DIRETRIZES PARA PRÁTICAS CORPORATIVAS DE SUSTENTABILIDADE."},{"p":"2) QUAIS SÃO OS PILARES DE SUSTENTABILIDADE DA ATIVIDADE EMPRESARIAL DA COMPANHIA?","r":"INOVAÇÃO, CAPACITAÇÃO E PARCERIAS."},{"p":"3) QUAIS SÃO ALGUNS DOS MECANISMOS UTILIZADOS PELA COMPANHIA NA ATUAÇÃO RELACIONADA A OBJETIVOS AMBIENTAIS, SOCIAIS, E DE GESTÃO?","r":"AUDITORIAS E QSSMA."},{"p":"4) QUEM COMPARTILHA A RESPONSABILIDADE PELO CUMPRIMENTO DAS NORMAS E OBJETIVOS DA POLÍTICA DE SUSTENTABILIDADE?","r":"ADMINISTRAÇÃO, COLABORADORES, E FORNECEDORES."},{"p":"5) COMO É FEITO O MONITORAMENTO DO EVENTUAL DESCUMPRIMENTO DA POLÍTICA DE SUSTENTABILIDADE?","r":"ATRAVÉS DO CANAL DE ÉTICA, QUE PODE SER ACESSADO PELO TELEFONE 0800 049 4200 OU PELO SITE (HTTPS://WWW.CANALDEETICA.COM.BR/GRUPOGPS/)."}],"MAIO AMARELO - SEGURANÇA NO TRÂNSITO":[{"p":"1) QUAL É O OBJETIVO PRINCIPAL DO MOVIMENTO MAIO AMARELO?","r":"CONSCIENTIZAR SOBRE SEGURANÇA NO TRÂNSITO."},{"p":"2) QUANDO A ONU DECRETOU A DÉCADA DE AÇÃO PARA SEGURANÇA NO TRÂNSITO, QUE INSPIROU A CRIAÇÃO DO MAIO AMARELO?","r":"2011."},{"p":"3) QUAL É O SIGNIFICADO DA COR AMARELA PARA O MOVIMENTO MAIO AMARELO?","r":"SIMBOLIZA ATENÇÃO E ADVERTÊNCIA NO TRÂNSITO."},{"p":"4) SEGUNDO OS DADOS, QUANTAS PESSOAS MORREM EM ACIDENTES DE TRÂNSITO EM MÉDIA POR ANO NO BRASIL?","r":"MAIS DE 30 MIL."},{"p":"5) QUAL É UMA MEDIDA SIMPLES QUE PODE REDUZIR EM ATÉ 50% O RISCO DE MORTE EM CASO DE ACIDENTE DE TRÂNSITO?","r":"USO DO CINTO DE SEGURANÇA."}],"COMO DESACELERAR?":[{"p":"1) Atualmente, mesmo realizando muitas tarefas no dia, costumamos sentir algumas sensações ruins, como:","r":"Frustração, cansaço, desgaste físico, desgaste psicológico e insatisfação com a vida."},{"p":"2) Não devemos chegar no limite do desgaste, para isso é necessário:","r":"Conhecer nossas limitações e pontos de destaque."},{"p":"3) Conhecer suas limitações e pontos de destaque, vai te ajudar a encontrar o quê?","r":"O equilíbrio necessário para se organizar e definir melhor suas metas de forma que sejam possíveis de alcançar e em seguida comemora-las."},{"p":"4) Quais dicas podem te auxiliar a desacelerar?","r":"Definir prioridades; organizar atividades de forma que possa realiza-las."},{"p":"5) Qual dica NÃO pode te auxiliar a desacelerar?","r":"Finalize todas as atividades em apenas um dia, mesmo que fique até mais tarde."}],"POLÍTICA SGI":[{"p":"1) A política de Gestão Integrada do Grupo GPS é aplicada para quais Colaboradores?","r":"Todos os Colaboradores do Grupo GPS"},{"p":"2) Quantas diretrizes foram citadas no vídeo?","r":"Oito"},{"p":"3) Complete a frase. PRESERVAR A SUA RENTABILIDADE ATRAVÉS","r":"Através do cumprimento de metas econômicas"},{"p":"4) Baseado no treinamento assinale a alternativa CORRETA sobre SGI","r":"A política de SGI possui premissas que depende da minha participação efetiva para que ela possa acontecer"},{"p":"5) Qual local você pode acessar a política de SGI?","r":"No site do Grupo GPS www.gpssa.com.br"}],"ABRIL VERDE - PREVENÇÃO DE ACIDENTES E DOENÇAS NO TRABALHO":[{"p":"1) QUAL É O OBJETIVO PRINCIPAL DO MOVIMENTO \"ABRIL VERDE\"?","r":"CONSCIENTIZAR SOBRE A IMPORTÂNCIA DA SEGURANÇA E SAÚDE NO TRABALHO."},{"p":"2) POR QUE O MÊS DE ABRIL FOI ESCOLHIDO PARA O MOVIMENTO \"ABRIL VERDE\"?","r":"PORQUE, NO DIA 28 DE ABRIL DE 1969, OCORREU UM GRAVE ACIDENTE DE TRABALHO NOS EUA."},{"p":"3) O QUE DEVE SER FEITO EM RELAÇÃO AO USO DE EPI'S?","r":"UTILIZAR TODOS OS EPI'S RECOMENDADOS E VERIFICAR SE ESTÃO AJUSTADOS E EM BOM ESTADO."},{"p":"4) CONFORME A NR 01, O QUE UM COLABORADOR PODE FAZER DIANTE DE UMA SITUAÇÃO PERIGOSA?","r":"COMUNICAR IMEDIATAMENTE AO LÍDER E RECUSAR A TAREFA."},{"p":"5) O QUE O DNA DE SEGURANÇA DA EMPRESA ENFATIZA?","r":"QUE OS COLABORADORES SÃO O MAIOR VALOR E QUE A SEGURANÇA E SAÚDE NO TRABALHO SÃO INEGOCIÁVEIS."}],"ASSÉDIO MORAL E SEXUAL":[{"p":"1) O que é preciso para as ações agressivas serem caracterizadas como assédio moral?","r":"As ações agressivas devem ocorrer repetidamente ou por tempo prolongado, com a intenção de prejudicar."},{"p":"2) Assinale a alternativa que mostre as 3 formas que o assédio moral pode se manifestar no trabalho:","r":"Assédio moral vertical, assédio moral horizontal e assédio moral misto."},{"p":"3) Assinale abaixo a alternativa que mostra um exemplo de ação que podemos ter para evitar o assédio moral no trabalho:","r":"Praticar de forma constante a capacitação relacionada a liderança, postura e saúde mental."},{"p":"4) Assinale a alternativa que mostre as 2 formas que o assédio sexual pode se manifestar no trabalho:","r":"Assédio sexual por chantagem e assédio sexual por intimidação."},{"p":"5) Assinale abaixo a alternativa que mostra um exemplo de ação que podemos ter para evitar o assédio sexual no trabalho:","r":"Não fazer comentários ou perguntas que possam ser indelicadas e até mesmo abordagens que possam caracterizar intimidade não adequada ao ambiente de trabalho."}],"MARÇO LILÁS_PREVENÇÃO DO COLO DE ÚTERO":[{"p":"1) Qual o mês de conscientização sobre a importância de se prevenir contra o câncer do colo do útero?","r":"Março."},{"p":"2) Qual o objetivo da campanha?","r":"Reduzir o número de mortes por câncer de colo do útero e promover a prevenção desde cedo."},{"p":"3) Quando a doença está em estágio avançado, ela começa a apresentar alguns sintomas como:","r":"Dor abdominal associada a problemas intestinais e urinários, sangramento vaginal, secreções vaginais anormais, menstruação irregular etc."},{"p":"4) Qual a principal forma de prevenção e identificação do câncer de colo de útero?","r":"Exame preventivo e Papanicolau, no qual é feita a coleta de células do colo do útero para detectar se há alguma infecção ou variação nesses tecidos."},{"p":"5) Quando deve ser realizado o exame de Papanicolau?","r":"O Papanicolau deve ser feito de 3 em 3 anos, por todas as mulheres com idades acima de 25 anos e que possuem vida sexual ativa."}],"QUALIDADE DE VIDA":[{"p":"1) QUAL É UM DOS FATORES DE RISCO PARA O DESENVOLVIMENTO DE DOENÇAS, DE ACORDO COM O TREINAMENTO?","r":"ALIMENTAÇÃO RICA EM GORDURAS."},{"p":"2) COMO LIDAR COM OSCILAÇÕES EMOCIONAIS?","r":"ENCARAR AS COISAS COM BOM HUMOR, TER MUITA PACIÊNCIA E CONTROLAR O ESTRESSE."},{"p":"3) QUAL É O PERÍODO RECOMENDADO PARA A PRÁTICA DE EXERCÍCIOS FÍSICOS?","r":"PELO MENOS 30 MINUTOS, 5 VEZES POR SEMANA."},{"p":"4) QUAL DOS SEGUINTES FATORES NÃO CONTRIBUI PARA UMA VIDA SAUDÁVEL?","r":"SEDENTARISMO."},{"p":"5) O QUE É DESTACADO COMO UM BENEFÍCIO DE SE PREOCUPAR COM A QUALIDADE DE VIDA?","r":"AUMENTO DA PRODUTIVIDADE NO TRABALHO."}],"JANEIRO BRANCO":[{"p":"1) Qual o objetivo da Campanha Janeiro Branco?","r":"Chamar a atenção da humanidade para as questões e necessidades relacionadas à Saúde Mental e Emocional das pessoas."},{"p":"2) Quais cuidados devemos ter no nosso dia a dia para preservarmos a nossa saúde mental?","r":"Fazer exercícios físicos, leitura, ações compartilhadas de cuidado, manter ativa uma rede de apoio socioafetiva e etc."},{"p":"3) O que o Janeiro Branco traz como inspiração?","r":"Inspira as pessoas a fazerem reflexões acerca das suas vidas."},{"p":"4) Por qual motivo a cor branca foi escolhida para representar a campanha Janeiro Branco?","r":"Por representar “folhas ou telas em branco” sobre as quais podemos projetar, escrever ou desenhar expectativas, desejos, histórias ou mudanças."},{"p":"5) Segundo a OMS (Organização Mundial de Saúde) qual é a definição de saúde?","r":"Saúde é um estado de completo bem-estar físico, mental e social, e não apenas a ausência de doença."}],"LIDERANÇA INCLUSIVA":[{"p":"1) QUAL É O PRINCIPAL OBJETIVO DA LIDERANÇA INCLUSIVA?","r":"TODAS AS ALTERNATIVAS ESTÃO CORRETAS."},{"p":"2) QUAIS SÃO OS BENEFÍCIOS DA LIDERANÇA INCLUSIVA?","r":"TODAS AS ALTERNATIVAS ESTÃO CORRETAS."},{"p":"3) QUAIS SÃO OS DESAFIOS DA LIDERANÇA INCLUSIVA?","r":"TODAS AS ALTERNATIVAS ESTÃO CORRETAS."},{"p":"4) QUAL É A PRINCIPAL DIFERENÇA ENTRE LIDERANÇA INCLUSIVA E LIDERANÇA TRADICIONAL?","r":"A LIDERANÇA INCLUSIVA É MAIS FOCADA NA DIVERSIDADE E NA INCLUSÃO, ENQUANTO A LIDERANÇA TRADICIONAL É MAIS FOCADA NA EFICIÊNCIA E NA PRODUTIVIDADE."},{"p":"5) QUAL É A PRINCIPAL VANTAGEM DA LIDERANÇA INCLUSIVA PARA AS EMPRESAS?","r":"TODAS AS ALTERNATIVAS ESTÃO CORRETAS."}],"SEGURANÇA ESTILO DE VIDA_CRIMINOSO OPORTUNISTA":[{"p":"1) Podemos definir oportunidade como:","r":"Situação favorável para a realização de uma ação."},{"p":"2) O criminoso oportunista age de que maneira?","r":"Não tem o alvo determinado e age na oportunidade."},{"p":"3) O que podemos fazer para evitarmos uma abordagem do criminoso oportunista?","r":"Ficar sempre atento, a fim de detectar atitudes suspeitas."},{"p":"4) Como podemos aumentar a nossa segurança?","r":"Procurando conhecer melhor de que forma agem os criminosos."},{"p":"5) Os fatores que levam à realização de uma ação criminosa, são a motivação, técnica e oportunidade. Em qual desse fatores podemos interferir para dificultar a ação do criminoso?","r":"Oportunidade."}],"CAMPANHA NOVEMBRO AZUL":[{"p":"1) Qual o objetivo da campanha de Novembro Azul?","r":"Campanha com o objetivo de alertar a sociedade sobre o diagnóstico precoce do câncer de próstata, além de ressaltar a importância de olhar com atenção para a saúde."},{"p":"2) Sobre o câncer de próstata, podemos afirmar que:","r":"Câncer de próstata é o tumor que afeta a próstata"},{"p":"3) Quais os principais sintomas do câncer de próstata?","r":"Dores ao urinar, vontade de urinar com frequência, presença de sangue/sêmen, dor óssea, mas pode não ter nenhum sintoma por isso a importância dos exames."},{"p":"4) Quais são os fatores de maior risco?","r":"Idade acima de 60 anos, histórico familiar, homens negros sofrem maior incidência e obesidade."},{"p":"5) Sobre a prevenção podemos afirmar:","r":"É importante que o homem a partir de 45 anos realize regularmente os exames PSA e exame retal."}],"CONCENTRAÇÃO E FOCO PARA EVITAR ACIDENTES":[{"p":"1)  POR QUE A CONCENTRAÇÃO É CONSIDERADA UMA HABILIDADE VITAL NO AMBIENTE DE TRABALHO?","r":"MINIMIZA OS RISCOS DE ERROS E ACIDENTES."},{"p":"2) QUAL É A IMPORTÂNCIA DE CONHECER OS RISCOS POTENCIAIS NO AMBIENTE DE TRABALHO?","r":"PARA EVITAR CONTRATEMPOS."},{"p":"3) QUAL DAS SEGUINTES AÇÕES É UMA DICA PRÁTICA PARA MANTER A CONCENTRAÇÃO?","r":"DEFINIR PRIORIDADES PARA AS TAREFAS DIÁRIAS."},{"p":"4) POR QUE O TREINAMENTO CONTÍNUO É MENCIONADO COMO IMPORTANTE NO TREINAMENTO?","r":"PORQUE AUMENTA A CONFIANÇA E A CAPACIDADE DE TOMAR DECISÕES CONSCIENTES."},{"p":"5)  QUAL É A IMPORTÂNCIA DE MANTER UM AMBIENTE DE TRABALHO ORGANIZADO?","r":"CONTRIBUI PARA UMA MENTE CLARA E FOCADA."}],"VALORIZAÇÃO DA VIDA":[{"p":"1) Em casos de crise, qual é a melhor atitude a ser tomada?","r":"Busque ajuda, sem ter vergonha"},{"p":"2) O que a depressão afeta?","r":"Afeta negativamente como você se sente, como você pensa ou age"},{"p":"3) O que é transtorno Bipolar?","r":"São momentos de tristeza profunda, alternada com uma agitação extrema"},{"p":"4) Por que é importante deixar as pessoas confortáveis para falar sobre seus sentimentos?","r":"Pois quando se sentem confortáveis, incentivamos elas a pedirem ajuda em seus momentos de fraqueza"},{"p":"5) Qual é o telefone de contato do CVV (centro de valorização da vida)?","r":"188"}],"CUIDADO COM AS MÃOS NO TRABALHO":[{"p":"1) A MAIORIA dos acidentes acontece por qual motivo?","r":"A maioria ocorre por descuido, falta de atenção, tédio e descumprimento das normas de segurança."},{"p":"2) Quais são as situações mais comuns de acidente com as mãos?","r":"Situações mais comuns de lesão ocorrem com ferramentas de corte, uso incorreto de ferramentas, uso de ferramentas quebradas, uso de joias, contato com áreas quentes, máquinas rotativas e cansaço."},{"p":"3) De acordo com o treinamento, assinale a alternativa CORRETA:","r":"Não é difícil se prevenir de acidentes, na maioria dos casos com atenção e bom senso é possível se prevenir."},{"p":"4) Por que existem tipos de luvas diferentes para proteção?","r":"Porque para cada tipo de trabalho existe uma luva projetada para proteger de um risco específico e elas podem evitar cortes, queimaduras, abrasões e contato com produtos químicos."},{"p":"5) Se ocorrer algum acidente ou incidente no trabalho, o que deve ser feito?","r":"Deve comunicar IMEDIATAMENTE o Líder e Técnico de Segurança."}],"CONCEITO 5S":[{"p":"1) O QUE É 5S?","r":"É UMA METODOLOGIA DE GESTÃO QUE VISA MELHORAR A ORGANIZAÇÃO, LIMPEZA E EFICIÊNCIA NO LOCAL DE TRABALHO."},{"p":"2) QUAL É O PRIMEIRO SENSO DO CONCEITO 5S?","r":"SEIRI - SENSO DE UTILIZAÇÃO"},{"p":"3) QUAL EXEMPLO REPRESENTA O SENSO DE UTILIZAÇÃO.","r":"DEIXAR NA MESA APENAS O QUE É NECESSÁRIO NO DIA A DIA."},{"p":"4) O QUE REPRESENTA O TERCEIRO CONCEITO DA METODOLOGIA 5S?","r":"REPRESENTA O SENSO DE LIMPEZA."},{"p":"5) QUAIS SÃO OS NOMES ORIGINAIS DA METODOLOGIA 5S?","r":"1. SEIRI; 2. SEITON; 3. SEISO; 4. SEIKETSU; 5. SHITSUKE."}],"COMO PRIORIZAR TAREFAS":[{"p":"1) Por que é importante sabermos priorizar nossas tarefas?","r":"Para alcançarmos nossas metas e objetivos."},{"p":"2) Qual o primeiro passo no processo de priorização de tarefas?","r":"O primeiro passo é listar todas as suas tarefas e identificar as mais importantes."},{"p":"3) Devemos priorizar as tarefas com base na urgência ou na importância?","r":"Devemos priorizar as tarefas com base na importância em relação aos seus objetivos."},{"p":"4) O que devemos fazer antes de aceitar novos projetos?","r":"Antes de aceitar novos projetos devemos avaliar se essa tarefa irá prejudicar nosso planejamento, resultando no atraso de nossas entregas."},{"p":"5) Qual é a técnica de gestão de tempo que é citada no treinamento?","r":"Técnica Pomodoro, que ensina a focar em uma tarefa por determinado tempo e tirar 5 minutos de pausa."}],"JULHO AMARELO_PREVENÇÃO HEPATITES":[{"p":"1) QUAL A FINALIDADE DA CAMPANHA?","r":"FINALIDADE DE REFORÇAR AS AÇÕES DE VIGILÂNCIA, PREVENÇÃO E CONTROLE DAS HEPATITES VIRAIS."},{"p":"2) O QUE É A HEPATITE?","r":"É UMA INFLAMAÇÃO DO FÍGADO QUE PODE SER CAUSADA POR VÍRUS OU PELO USO DE ALGUNS MEDICAMENTOS, ÁLCOOL E OUTRAS DROGAS, ASSIM COMO POR DOENÇAS AUTOIMUNES, METABÓLICAS OU GENÉTICAS."},{"p":"3) NEM SEMPRE A DOENÇA APRESENTA SINTOMAS, MAS QUANDO APARECEM, QUAIS SÃO?","r":"CANSAÇO, FEBRE, MAL-ESTAR, TONTURA, ENJOO, VÔMITOS, DOR ABDOMINAL, PELE E OLHOS AMARELADOS, URINA ESCURA E FEZES CLARAS."},{"p":"4) SOBRE A HEPATITE B QUAL É A PRINCIPAL MEDIDA DE PREVENÇÃO?","r":"VACINA É A PRINCIPAL MEDIDA DE PREVENÇÃO, SENDO EFICAZ E SEGURA."},{"p":"5) EXISTE VACINA CONTRA A HEPATITE C?","r":"NÃO EXISTE VACINA PARA HEPATITE C."}],"PREVENÇÃO DE PERÍODO DE FESTAS":[{"p":"1) O que acontece quando nossa atenção está voltada a fatores externos ou não estamos nas melhores condições físicas e psicológicas no trabalho?","r":"Deixamos de perceber os riscos nos ambientes e ficamos vulneráveis a possíveis acidentes e ocorrências"},{"p":"2) Por qual motivo é importante redobrar a atenção aos seus pertences pessoais?","r":"Pois em período de festas o aumento de roubo e furto se intensificam"},{"p":"3) Qual a importância de NÃO usar o celular ao volante?","r":"Todas as alternativas anteriores"},{"p":"4) Quais os cuidados que devo ter ao volante?","r":"Manter uma distância segura do veículo da frente, não utilizar o celular enquanto estou no trajeto, respeitar o limite de velocidade e jamais dirigir embriagado(a)"},{"p":"5) Quais as medidas preventivas que ainda preciso ter por causa da pandemia?","r":"Cumprir os protocolos sanitários e evitar grandes aglomerações"}],"UTILIZAÇÃO DO EPI":[{"p":"1) Qual luva devo utilizar para a coleta de resíduos?","r":"Luva azul."},{"p":"2) O que significa a sigla EPI?","r":"Equipamento de Proteção Individual."},{"p":"3) A utilização do EPI...","r":"É obrigatória, devendo ser utilizado na realização de todas as atividades de limpeza."},{"p":"4) Quando o óculos de segurança deve ser utilizado?","r":"Na limpeza de superfícies aéreas (acima da altura dos meus olhos) para evitar respingos e poeira."},{"p":"5) Quais os cuidados na conservação dos EPIs?","r":"No final do turno de trabalho guardar os EPIs limpos, higienizados e separados."}],"VALORES GPS_DISCIPLINA":[{"p":"1) Para o que serve as Normas e Procedimentos?","r":"Serve como bússola e como uma diretriz para que você seja guiado de forma segura."},{"p":"2) Quais são os benefícios que geramos aplicando na prática a Disciplina?","r":"Eficiência, eficácia e efetividade."},{"p":"3) Qual o benefício da eficiência?","r":"Manter o foco nos custos envolvidos e evitando desperdícios, usando apenas os recursos disponíveis."},{"p":"4) Qual o benefício da eficácia?","r":"Mantém sua atenção no resultado do que está sendo produzido e na qualidade final."},{"p":"5) O que é Disciplina?","r":"É fazer o que precisa ser feito, com competência e comprometimento necessário."}],"PROCEDIMENTO DE BLOQUEIO, IDENTIFICAÇÃO E TESTE (LOTOTO) - MÓD III_REGIONAL SP":[{"p":"1)  QUAIS SÃO AS CORES DOS CADEADOS MENCIONADOS NO TREINAMENTO?","r":"VERDE, VERMELHO, AMARELO E ROSA."},{"p":"2) QUAL É A FUNÇÃO PRINCIPAL DO BLOQUEIO DE ENERGIA UTILIZANDO CADEADOS?","r":"A FUNÇÃO PRINCIPAL É EVITAR ACIDENTES DE TRABALHO, SINALIZANDO E PREVENINDO O ACESSO DE PROFISSIONAIS AOS EQUIPAMENTOS DESLIGADOS OU EM MANUTENÇÃO."},{"p":"3) ASSINALE A ALTERNATIVA CORRETA. OS COMPORTAMENTOS INACEITÁVEIS RELACIONADOS À SEGURANÇA E AO PROTOCOLO DE BLOQUEIO E ETIQUETAGEM DE ENERGIA SÃO:","r":"TODAS AS ALTERNATIVAS ESTÃO CORRETAS."},{"p":"4) CONFORME O TREINAMENTO, O QUE OS TRABALHADORES DEVEM FAZER EM CASO DE DÚVIDAS OU SITUAÇÕES DE RISCO RELACIONADAS AO BLOQUEIO DE ENERGIA?","r":"OS TRABALHADORES DEVEM INTERROMPER SUAS ATIVIDADES E PROCURAR AJUDA COM SEU SUPERIOR IMEDIATO PARA ESCLARECER DÚVIDAS OU LIDAR COM SITUAÇÕES DE RISCO."},{"p":"5) QUAL COR DE CADEADO REPRESENTA A EQUIPE DE MANUTENÇÃO ELÉTRICA?","r":"CADEADO VERMELHO."}],"DIREITO DE RECUSA NA EXECUÇÃO DA ATIVIDADE":[{"p":"1) QUANDO VOCÊ PODE RECUSAR EM REALIZAR UMA ATIVIDADE?","r":"QUANDO A ATIVIDADE PODE IMPACTAR NEGATIVAMENTE SUA INTEGRIDADE FÍSICA, SAÚDE MENTAL OU QUE CARACTERIZE DESVIO DE FUNÇÃO."},{"p":"2) O QUE É IMPORTANTE SABER PARA QUE POSSA EFETUAR A RECUSA DE UMA ATIVIDADE?","r":"É IMPORTANTE SABER SOBRE SEU CARGO E SUAS ATIVIDADES, E SABER FAZER A ANÁLISE DE RISCO."},{"p":"3) ALEGAR QUE A ATIVIDADE NÃO FAZ PARTE DO SEU ESCOPO DE TRABALHO, É O SUFICIENTE PARA RECUSAR REALIZA-LA?","r":"NÃO, PARA A RECUSA SER LEGÍTIMA, É NECESSÁRIO QUE A TAREFA APRESENTE RISCOS CONCRETOS E SUBSTANCIAIS AO COLABORADOR."},{"p":"4) QUANDO A RECUSA NÃO VAI TE CAUSAR NENHUMA INFRAÇÃO?","r":"QUANDO A ATIVIDADE EXPOR O COLABORADOR A RISCOS DE SAÚDE E SEGURANÇA."},{"p":"5) É IMPORTANTE RESSALTAR QUE O DIREITO DE RECUSA DEVE SER EXERCIDO COM:","r":"CAUTELA E CONSCIÊNCIA."}],"PROCEDIMENTO DE BLOQUEIO, IDENTIFICAÇÃO E TESTE (LOTOTO) - MÓD II_REGIONAL SP":[{"p":"1) QUANTOS PASSOS SÃO NECESSÁRIOS PARA O CONTROLE DE ENERGIAS?","r":"SÃO NECESSÁRIOS 6 PASSOS."},{"p":"2) CONFORME O TREINAMENTO, IDENTIFIQUE OS PROCEDIMENTOS MENCIONADOS PARA UM PROCESSO SEGURO:","r":"IDENTIFICAR AS ENERGIAS, DESLIGAR/DESENERGIZAR, BLOQUEAR/ETIQUETAR, LIBERAR AS ENERGIAS RESIDUAIS, VERIFICAR/TESTAR, BLOQUEIO E ETIQUETAGEM."},{"p":"3) QUAL É O TERCEIRO PASSO DO PROCEDIMENTO DE SEGURANÇA LOTOTO?","r":"PROCEDIMENTO DE DESLIGAMENTO."},{"p":"4) QUAL É O OBJETIVO DE IDENTIFICAR AS CORES DOS CADEADOS?","r":"O OBJETIVO É IDENTIFICAR QUAL EQUIPE ESTÁ FAZENDO A INTERVENÇÃO NO EQUIPAMENTO APENAS OLHANDO A COR DO CADEADO."},{"p":"5) QUAL É A FUNÇÃO DO DIE (DISPOSITIVO DE ISOLAMENTO DE ENERGIA)?","r":"É GARANTIR QUE AS FONTES DE ENERGIA EM UM EQUIPAMENTO OU MÁQUINA SEJAM ISOLADAS DE FORMA SEGURA DURANTE TRABALHOS DE MANUTENÇÃO, REPARO, INSPEÇÃO, ETC."}],"PROCEDIMENTO DE BLOQUEIO, IDENTIFICAÇÃO E TESTE (LOTOTO)- MÓD I_REGIONAL SP":[{"p":"1)  O QUE SIGNIFICA LOCK-OUT, TAG-OUT E TEST-OUT?","r":"SIGNIFICA BLOQUEAR, SINALIZAR E TESTAR O BLOQUEIO."},{"p":"2)  CONFORME TREINAMENTO O QUE É  FEITO NO LOCK-OUT NO PROCEDIMENTO LOTO?","r":"LOCK-OUT ENVOLVE O DESLIGAMENTO FÍSICO DE UMA FONTE DE ENERGIA PERIGOSA E A APLICAÇÃO DE DISPOSITIVOS DE BLOQUEIO, COMO CADEADOS, PARA EVITAR SUA REENERGIZAÇÃO ACIDENTAL."},{"p":"3) QUAIS NR’S SÃO CITADAS NO TREINAMENTO, PARA O BLOQUEIO E ETIQUETAGEM DE ENERGIAS PERIGOSAS?","r":"SÃO CITADAS AS NR'S 12 E 10."},{"p":"4) QUEM DEVE SER TREINADO NO PROCEDIMENTO LOTOTO?","r":"TODOS OS FUNCIONÁRIOS ENVOLVIDOS EM TRABALHOS DE MANUTENÇÃO."},{"p":"5) CONFORME O TREINAMENTO, QUAIS SÃO OS TIPOS DE ENERGIAS PERIGOSAS QUE PODEM CAUSAR DANOS FÍSICOS?","r":"ENERGIA ELÉTRICA, ENERGIA MECÂNICA, ENERGIA HIDRÁULICA, ENERGIA PNEUMÁTICA, ENERGIA TÉRMICA, ENERGIA QUÍMICA."}],"ATITUDE POSITIVA":[{"p":"1) O que significa ter uma atitude positiva?","r":"Ser otimista em relação às situações e as interações no trabalho."},{"p":"2) O que uma perspectiva positiva pode te ensinar?","r":"A ser grato, pelas coisas boas em seu trabalho e na sua vida."},{"p":"3) O que significa ter um momento de autocuidado?","r":"Cuidar da sua saúde física e mental, praticar exercícios e ter um hobby para se divertir e descansar."},{"p":"4) Complete a frase de acordo com o treinamento: “Encontrar ou criar significado no seu trabalho te impede de ______”.","r":"Se questionar se está no lugar certo e naturalmente trazendo atitudes positivas no trabalho."},{"p":"5) Não podemos mudar a atitude das pessoas, mas podemos mudar:","r":"A nossa percepção sobre as situações."}],"PDL5_TRABALHO EM EQUIPE":[{"p":"1) Baseado no treinamento, trabalho em equipe é?","r":"É uma competência composta de diferentes habilidades que podem ser aprendidas e desenvolvidas."},{"p":"2) Baseado no treinamento, para trabalhar em equipe de forma efetiva é preciso:","r":"Identificar, gerenciar e resolver conflitos."},{"p":"3) De acordo com o treinamento podemos dizer que:","r":"A comunicação clara e eficiente é essencial para trabalhar em equipe."},{"p":"4) Baseado no treinamento a proatividade está diretamente ligada a:","r":"Atitude."},{"p":"5) De acordo com o treinamento, o respeito mútuo é:","r":"Respeito mútuo é pilar primordial para um bom trabalho em equipe e pode ser estimulado na equipe trabalhando habilidades como empatia e boa convivência."}],"DST - DOENÇAS SEXUALMENTE TRANSMISSÍVEIS":[{"p":"1) O que são as IST's?","r":"São infecções transmitidas através do contato sexual seja vaginal, oral ou anal, com pessoa contaminada de forma desprotegida."},{"p":"2) Assinale a alternativa que corresponde as IST's mais frequentes.","r":"Clamídia, Gonorreia, Tricomoníase e Sífilis."},{"p":"3) Como podemos prevenir a IST's?","r":"Usar preservativos e visitar o médico regularmente ou quando apresentar algum sintoma que possa sugerir infecção."},{"p":"4) Quem devemos procurar para realizar o tratamento de IST's?","r":"Clínico Geral."}],"A IMPORTÂNCIA DO EXERCÍCIO FÍSICO NA QUALIDADE DE VIDA_SAÚDE":[{"p":"1) PARA CONTRIBUIR COM NOSSA SAÚDE, QUANTOS QUILÔMETROS DEVEMOS CAMINHAR POR SEMANA?","r":"ENTRE 15 KM A 24 KM."},{"p":"2)  O QUE É QUALIDADE DE VIDA?","r":"QUALIDADE DE VIDA É O BEM-ESTAR FÍSICO, MENTAL E SOCIAL."},{"p":"3)  PARA TERMOS UM SONO DE QUALIDADE DEVEMOS DORMIR QUANTAS HORAS?","r":"DE 7:00 A 8:00 HRS."},{"p":"4) ASSINALE A ALTERNATIVA CORRETA. PARA A CAMINHADA SER UTILIZADA COMO EXERCÍCIO, ELA DEVE SER:","r":"ACELERADA/RÁPIDA."},{"p":"5) QUAIS SÃO OS BENEFÍCIOS QUE A PRÁTICA DA MUSCULAÇÃO PODE TRAZER À NOSSA SAÚDE?","r":"CONTRIBUI COM O AUMENTO DOS MÚSCULOS, FORÇA E NO TRATAMENTO DE DOENÇAS."}],"FEBRE MACULOSA_O QUE É E COMO SE PREVENIR":[{"p":"1) O QUE É FEBRE MACULOSA?","r":"A FEBRE MACULOSA, TAMBÉM CONHECIDA COMO FEBRE DO CARRAPATO, É UMA DOENÇA INFECCIOSA CAUSADA PELA BACTÉRIA RICKETTSIA RICKETTSII."},{"p":"2) COMO A FEBRE MACULOSA É CONTRAÍDA?","r":"A TRANSMISSÃO DA DOENÇA OCORRE QUANDO UM CARRAPATO INFECTADO PICA UMA PESSOA E A BACTÉRIA RICKETTSIA RICKETTSII ENTRA NA CORRENTE SANGUÍNEA."},{"p":"3) EM QUANTO TEMPO OS SINTOMAS DA FEBRE MACULOSA PODEM APARECER?","r":"DE 2 A 14 DIAS APÓS A PICADA DO CARRAPATO INFECTADO."},{"p":"4) ASSINALE ABAIXO A ALTERNATIVA QUE CONTÉM OS SINTOMAS DA FEBRE MACULOSA:","r":"FEBRE ALTA, DOR DE CABEÇA INTENSA, DORES MUSCULARES E ARTICULARES, NÁUSEAS, VÔMITOS, DIARREIA E ERUPÇÃO CUTÂNEA CARACTERÍSTICA."},{"p":"5) QUAL A FORMA CORRETA DE REMOVER O CARRAPATO DA PELE?","r":"UTILIZANDO UMA PINÇA. NUNCA APERTE OU ESMAGUE O CARRAPATO."}],"A IMPORTÂNCIA DE DORMIR BEM":[{"p":"1) A falta de sono prejudica a produção de qual hormônio?","r":"Melatonina."},{"p":"2) O treinamento cita que a falta de sono pode ocasionar diversos problemas de saúde. Qual foi um dos problemas mencionados?","r":"Problemas no coração."},{"p":"3) Quem dorme mal tem mais chances do quê?","r":"Mais chances de perder o foco e ficar de mau humor."},{"p":"4) Quais hábitos você pode desenvolver e que pode te ajudar a dormir melhor?","r":"Preparar o ambiente antes de dormir, relaxar antes de dormir, cuidar da alimentação e evitar vícios."},{"p":"5) ASSINALE a alternativa correta sobre a importância de dormir bem.","r":"Dormir bem é importante para sua saúde, trabalho e relacionamentos e se ainda tiver problemas para dormir, procure um médico especializado, você pode estar sofrendo de algum distúrbio do sono."}],"JUNHO LARANJA":[{"p":"1) Qual o objetivo da campanha?","r":"Difundir informações sobre a anemia e a leucemia, doenças causadas por alterações nas células sanguíneas."},{"p":"2) Os principais sintomas da anemia são:","r":"Cansaço, tontura, falta de apetite, palidez de pele e mucosas (pálpebras e gengivas). Em crianças, fique atento para a dificuldade no aprendizado e concentração, pode ser uma consequência de anemia"},{"p":"3) Assinale a alternativa que completa a frase. “A leucemia é um tipo de câncer que acontece no sangue, quando”:","r":"Alguns glóbulos brancos (responsáveis por combater infecções) são produzidos de forma descontrolada, perdendo sua função protetora e substituindo os glóbulos saudáveis."},{"p":"4) Qual tipo de avaliação é recomendada para estabelecer as causas e do tratamento adequado para a Leucemia?","r":"Avaliação médica."},{"p":"5) Em casos de pacientes anêmicos, a transfusão esta associada à:","r":"Urgências com hemoglobina total bem baixa no hemograma."}],"MAIO AMARELO":[{"p":"1) Qual o objetivo da Campanha Maio Amarelo?","r":"É alertar a sociedade quanto ao número preocupante de acidentes no trânsito e, assim, recomendar uma direção mais segura."},{"p":"2) O que simboliza a cor amarela da campanha?","r":"Atenção em sinalizações, semáforos, placas e faixas das vias em todo o mundo."},{"p":"3) Qual o propósito da campanha Maio Amarelo?","r":"Chamar a atenção da sociedade para o alto índice de mortes e de feridos no trânsito em todo o mundo."},{"p":"4) A campanha é voltada para qual público?","r":"Para condutores de carros, ciclistas, caminhoneiros, motocicletas e até pedestres"},{"p":"5) Como contribuir para um trânsito seguro?","r":"Todas as alternativas estão corretas."}]};
-const TEMAS = Object.keys(D).sort();
-const TAGS = ['Saúde','Segurança','Ética','EPI','Diversidade','Acidente','Sustentabilidade','LGPD','Canal','Assédio'];
-
-const tagsEl = document.getElementById('tags');
-TAGS.forEach(t => {
-  const el = document.createElement('div');
-  el.className = 'tag'; el.textContent = t;
-  el.onclick = () => { document.getElementById('searchInput').value = t; render(t); };
-  tagsEl.appendChild(el);
-});
-
-function esc(s) { return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
-function hi(s, q) {
-  if (!q) return esc(s);
-  return esc(s).replace(new RegExp('(' + q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&') + ')', 'gi'), '<mark>$1</mark>');
+// ── HELPERS ──
+function qNum(p){ var m=String(p).match(/^(\d+)\)/); return m?parseInt(m[1]):99; }
+function sortQs(qs){ return qs.slice().sort(function(a,b){return qNum(a.p)-qNum(b.p);}); }
+// letter of correct answer among options (A/B/C/D)
+function correctLetter(item){
+  if(!item.o||!item.o.length) return '?';
+  for(var i=0;i<item.o.length;i++){
+    if(item.o[i]===item.r) return String.fromCharCode(65+i); // A,B,C,D
+  }
+  return 'A'; // fallback
 }
 
-function render(query) {
-  const q = (query || '').trim();
-  const qlo = q.toLowerCase();
-  document.getElementById('clearBtn').className = q ? 'clear-btn show' : 'clear-btn';
+// ── STATE ──
+var ALL=[], filtered=[], activeIdx=-1, activeTag='', searchQ='', timer;
+var TAG_PRESET=['SEGURANÇA','SAÚDE','INFRA','LIDERANÇA','ALIMENTAÇÃO','ENGENHARIA','LGPD','CIPA','GPSVISTA','NOVELIS'];
 
-  const filtered = q
-    ? TEMAS.filter(t => t.toLowerCase().includes(qlo) ||
-        D[t].some(x => x.p.toLowerCase().includes(qlo) || x.r.toLowerCase().includes(qlo)))
-    : TEMAS;
-
-  document.getElementById('info').innerHTML = filtered.length
-    ? `Mostrando <span>${filtered.length}</span> de ${TEMAS.length} treinamentos`
-    : '';
-
-  const list = document.getElementById('list');
-  if (!filtered.length) {
-    list.innerHTML = '<div class="empty"><div class="empty-ico">🔍</div><h3>Nenhum resultado encontrado</h3><p>Tente outra palavra-chave</p></div>';
+// ── BOOT ──
+(function(){
+  if(!window.DATA||!window.DATA.length){
+    document.getElementById('listEl').innerHTML='<div class="empty"><div class="empty-ico">&#9888;</div><h3>Execute generate_data.ps1 primeiro</h3><p>O arquivo data.js precisa ser gerado.</p></div>';
     return;
   }
+  ALL=window.DATA;
+  document.getElementById('totalChip').textContent=ALL.length+' treinamentos';
+  buildTags();
+  applyFilters();
+  document.getElementById('searchInput').addEventListener('input',function(e){
+    clearTimeout(timer);
+    timer=setTimeout(function(){doSearch(e.target.value);},200);
+  });
+})();
 
-  list.innerHTML = filtered.map((tema, i) => {
-    const pergs = D[tema];
-    return `<div class="card" onclick="toggle(this)">
-      <div class="card-header">
-        <div class="card-idx">${String(i+1).padStart(2,'0')}</div>
-        <div class="card-name">${hi(tema, q)}</div>
-        <div class="card-badge">${pergs.length} pergunta${pergs.length > 1 ? 's' : ''}</div>
-        <div class="card-arrow">▾</div>
-      </div>
-      <div class="card-body">
-        <hr class="card-divider">
-        <div class="questions">
-          ${pergs.map(x => `
-            <div class="q">
-              <div class="q-text">${hi(x.p, q)}</div>
-              <div class="q-ans"><span class="q-check">✓</span><span class="q-ans-text">${hi(x.r, q)}</span></div>
-            </div>`).join('')}
-        </div>
-      </div>
-    </div>`;
-  }).join('');
+// ── TAGS ──
+function buildTags(){
+  var el=document.getElementById('tagsEl'), h='';
+  TAG_PRESET.forEach(function(t){
+    h+='<div class="tag" onclick="toggleTag(this,\''+t+'\')">'+t+'</div>';
+  });
+  el.innerHTML=h;
+}
+function toggleTag(el,tag){
+  if(activeTag===tag){activeTag='';el.classList.remove('active');}
+  else{activeTag=tag;document.querySelectorAll('.tag').forEach(function(t){t.classList.remove('active');});el.classList.add('active');}
+  closeActive();applyFilters();
 }
 
-function toggle(card) {
-  const wasOpen = card.classList.contains('open');
-  document.querySelectorAll('.card.open').forEach(c => c.classList.remove('open'));
-  if (!wasOpen) card.classList.add('open');
+// ── SEARCH ──
+function doSearch(v){
+  searchQ=v.trim();
+  document.getElementById('clrBtn').className=searchQ?'clr on':'clr';
+  closeActive();applyFilters();
+}
+function clearSearch(){document.getElementById('searchInput').value='';doSearch('');}
+
+// ── FILTER ──
+function applyFilters(){
+  var q=searchQ.toLowerCase();
+  filtered=ALL.filter(function(t){
+    var ok=!activeTag||(t.tag&&t.tag.toUpperCase().indexOf(activeTag)!==-1)||t.nome.toUpperCase().indexOf(activeTag)!==-1;
+    if(!ok)return false;
+    if(!q)return true;
+    if(t.nome.toLowerCase().indexOf(q)!==-1)return true;
+    for(var i=0;i<t.qs.length;i++){if(t.qs[i].p.toLowerCase().indexOf(q)!==-1||t.qs[i].r.toLowerCase().indexOf(q)!==-1)return true;}
+    return false;
+  });
+  render();
 }
 
-function clearSearch() {
-  document.getElementById('searchInput').value = '';
-  render('');
-  document.getElementById('searchInput').focus();
+// ── RENDER LIST ──
+function esc(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+function hi(s,q){
+  if(!q)return esc(s);
+  var re=new RegExp('('+q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','gi');
+  return esc(s).replace(re,'<mark>$1</mark>');
 }
 
-let timer;
-document.getElementById('searchInput').addEventListener('input', e => {
-  clearTimeout(timer);
-  timer = setTimeout(() => render(e.target.value), 150);
-});
+function render(){
+  var n=filtered.length,q=searchQ.toLowerCase();
+  document.getElementById('infoCount').innerHTML='<b>'+n+'</b> de '+ALL.length;
+  document.getElementById('infoLabel').textContent=activeTag?'#'+activeTag:(searchQ?'"'+searchQ+'"':'');
+  var el=document.getElementById('listEl');
+  if(!n){el.innerHTML='<div class="empty"><div class="empty-ico">&#128269;</div><h3>Nenhum resultado</h3><p>Tente outra palavra-chave</p></div>';return;}
+  var h='';
+  for(var i=0;i<n;i++){
+    var t=filtered[i],num=String(i+1).padStart(2,'0'),tagShort=t.tag?t.tag.substring(0,14):'',qCount=t.qs?t.qs.length:0;
+    h+='<div class="card" id="c'+i+'" onclick="toggle('+i+',event)">';
+    h+='<div class="card-head">';
+    h+='<div class="card-seq">'+num+'</div>';
+    h+='<div class="card-info"><div class="card-name">'+hi(t.nome,q)+'</div>';
+    h+='<div class="card-meta">'+(tagShort?tagShort:'')+'</div></div>';
+    h+='<span class="card-arr">&#9660;</span></div>';
+    h+='<div class="card-body"><div class="qs-wrap" id="qs'+i+'">&#8230;</div></div></div>';
+  }
+  el.innerHTML=h;
+}
 
-render('');
+// ── QUESTIONS (lazy) ──
+function loadQs(idx){
+  var el=document.getElementById('qs'+idx);
+  if(!el||el.dataset.loaded)return;
+  var t=filtered[idx],q=searchQ.toLowerCase();
+  var sorted=sortQs(t.qs||[]);
+  var h='';
+  sorted.forEach(function(item,i){
+    var letter=correctLetter(item);
+    var cleanQ=item.p.replace(/^\d+\)\s*/,''); // remove leading "1) "
+    h+='<div class="q-item">';
+    h+='<div class="q-header"><div class="q-num">'+(i+1)+'</div><div class="q-text">'+hi(cleanQ,q)+'</div></div>';
+    h+='<div class="answer-box">';
+    h+='<div class="ans-icon">&#10003;</div>';
+    h+='<div class="ans-text">'+hi(item.r,q)+'</div>';
+    h+='</div></div>';
+  });
+  el.innerHTML=h||'<p style="color:var(--muted);font-size:12px">Sem perguntas.</p>';
+  el.dataset.loaded='1';
+}
+
+// ── TOGGLE ──
+function toggle(idx,e){
+  if(e&&e.target&&(e.target.classList.contains('ans-text')||e.target.classList.contains('answer-box')))return;
+  var card=document.getElementById('c'+idx);
+  if(!card)return;
+  var open=card.classList.contains('open');
+  if(activeIdx>=0&&activeIdx!==idx){var p=document.getElementById('c'+activeIdx);if(p)p.classList.remove('open');}
+  if(open){card.classList.remove('open');activeIdx=-1;}
+  else{card.classList.add('open');activeIdx=idx;loadQs(idx);setTimeout(function(){card.scrollIntoView({behavior:'smooth',block:'start'});},80);}
+  updateNav();
+}
+
+// ── NAV ──
+function updateNav(){
+  var bar=document.getElementById('navBar');
+  if(activeIdx<0){bar.className='nav-bar';return;}
+  bar.className='nav-bar show';
+  document.getElementById('prevBtn').disabled=(activeIdx===0);
+  document.getElementById('nextBtn').disabled=(activeIdx===filtered.length-1);
+}
+function navigate(dir){
+  var nx=activeIdx+dir;
+  if(nx<0||nx>=filtered.length)return;
+  var cur=document.getElementById('c'+activeIdx);if(cur)cur.classList.remove('open');
+  activeIdx=nx;
+  var nc=document.getElementById('c'+nx);if(!nc)return;
+  nc.classList.add('open');loadQs(nx);updateNav();
+  setTimeout(function(){nc.scrollIntoView({behavior:'smooth',block:'start'});},60);
+}
+function closeActive(){
+  if(activeIdx>=0){var c=document.getElementById('c'+activeIdx);if(c)c.classList.remove('open');}
+  activeIdx=-1;updateNav();
+}
 </script>
 </body>
 </html>
